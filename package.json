@@ -9,7 +9,8 @@
     "pl:help": "patternlab --help",
     "pl:install": "patternlab install --config ./patternlab-config.json",
     "pl:serve": "patternlab serve --config ./patternlab-config.json",
-    "pl:version": "patternlab --version"
+    "pl:version": "patternlab --version",
+    "compileSass": "sass ./source/css/style.dist.infoportal.scss ./public/css/style.dist.infoportal.css --style=compressed --embed-sources"
   },
   "repository": {
     "type": "git",
@@ -28,5 +29,10 @@
     "@pattern-lab/engine-handlebars": "^5.14.0",
     "@pattern-lab/starterkit-handlebars-vanilla": "^1.4.0",
     "@pattern-lab/uikit-workshop": "^5.14.1"
+  },
+  "devDependencies": {
+    "bootstrap": "^4.6.0",
+    "bootstrap-datepicker": "^1.9.0",
+    "sass": "^1.32.8"
   }
 }
