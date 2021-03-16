@@ -10,7 +10,7 @@
     "pl:install": "patternlab install --config ./patternlab-config.json",
     "pl:serve": "patternlab serve --config ./patternlab-config.json",
     "pl:version": "patternlab --version",
-    "compileSass": "sass ./source/css/style.dist.infoportal.scss ./public/css/style.dist.infoportal.css --style=compressed --embed-sources"
+    "compileSass": "sass ./source/css/style.prototype.altinn.scss ./public/css/style.prototype.altinn.css --style=expanded --embed-sources"
   },
   "repository": {
     "type": "git",
