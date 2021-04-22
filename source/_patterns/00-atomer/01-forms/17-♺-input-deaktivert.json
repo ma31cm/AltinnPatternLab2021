@@ -13,6 +13,6 @@
 
   "form-label-hasIcon": {
     "icon-prefix": "ai",
-    "icon-class": "ai-closedmessage"
+    "iconClass": "ai-closedmessage"
   }
 }

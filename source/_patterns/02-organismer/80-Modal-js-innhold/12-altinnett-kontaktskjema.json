@@ -116,13 +116,13 @@
     "input-type": "text",
     "has-feedback": {
       "icon-prefix": "ai",
-      "icon-class": "ai-plus",
-      "icon-extra-class": "form-control-feedback"
+      "iconClass": "ai-plus",
+      "iconExtraClass": "form-control-feedback"
     }
   },
   "submit": {
     "button-text": "Send",
-    "button-class": "a-btn",
+    "buttonClass": "a-btn",
     "button-id": "a-js-contactForm-submit",
     "button-type": "button",
     "onclick": false,
@@ -151,14 +151,14 @@
     "modal-navbar-override": {
       "button-list": [
         {
-          "button-class": "a-modal-close",
+          "buttonClass": "a-modal-close",
           "aria-label": "Lukk",
           "icon-prefix": "ai",
-          "icon-class": "ai-exit",
-          "icon-extra-class": "a-modal-close-icon",
+          "iconClass": "ai-exit",
+          "iconExtraClass": "a-modal-close-icon",
           "stacked-background": {
             "icon-prefix": "ai",
-            "icon-class": "ai-plain-circle-big"
+            "iconClass": "ai-plain-circle-big"
           },
           "is-modal-close": {
             "data-target": "#modal"

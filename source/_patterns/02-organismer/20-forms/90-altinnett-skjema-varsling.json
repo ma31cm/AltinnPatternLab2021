@@ -37,7 +37,7 @@
     "date-input-label": "Gyldig fra:",
     "atomer-ikon": false,
     "icon-prefix": "ai",
-    "icon-class": "ai-date"
+    "iconClass": "ai-date"
   },
   "toDate": {
     "stackedLabel": true,
@@ -45,7 +45,7 @@
     "date-input-label": "Gyldig til:",
     "atomer-ikon": false,
     "icon-prefix": "ai",
-    "icon-class": "ai-date"
+    "iconClass": "ai-date"
   },
   "sendingMethod": {
     "checkFirst": true,
@@ -55,7 +55,7 @@
       "date-input-label": "Dato for varsling:",
       "atomer-ikon": false,
       "icon-prefix": "ai",
-      "icon-class": "ai-date"
+      "iconClass": "ai-date"
     },
     "alertTime": {
       "print-form-tag": false,
@@ -81,6 +81,6 @@
   },
   "submitAlertButton": {
     "button-text": "Opprett varsel",
-    "button-class": "a-btn"
+    "buttonClass": "a-btn"
   }
 }

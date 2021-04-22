@@ -91,7 +91,7 @@
   },
   "submit": {
     "button-text": "Neste",
-    "button-class": "a-btn d-block my-0",
+    "buttonClass": "a-btn d-block my-0",
     "button-id": "a-js-contactForm-submit",
     "button-type": "button",
     "onclick": false,

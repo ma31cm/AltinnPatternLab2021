@@ -2,33 +2,33 @@
   "variation-class": "a-iconText-background a-iconText-large",
   "hasIcon": {
     "icon-prefix": "ai",
-    "icon-class": "ai-corp"
+    "iconClass": "ai-corp"
   },
   "popover-various-content": false,
   "modal-navbar-override": {
     "button-list": [
       {
-        "button-class": "a-modal-back",
+        "buttonClass": "a-modal-back",
         "aria-label": "Tilbake",
         "icon-prefix": "ai",
-        "icon-class": "ai-back",
-        "icon-extra-class": "",
+        "iconClass": "ai-back",
+        "iconExtraClass": "",
         "stacked-background": {
           "icon-prefix": "ai",
-          "icon-class": "ai-plain-circle-big"
+          "iconClass": "ai-plain-circle-big"
         },
         "onclick": "location.href='link.sider-portal-profil-roller-rettigheter'",
         "enable-popover": false
       },
       {
-        "button-class": "a-modal-close",
+        "buttonClass": "a-modal-close",
         "aria-label": "Lukk",
         "icon-prefix": "ai",
-        "icon-class": "ai-exit",
-        "icon-extra-class": "a-modal-close-icon",
+        "iconClass": "ai-exit",
+        "iconExtraClass": "a-modal-close-icon",
         "stacked-background": {
           "icon-prefix": "ai",
-          "icon-class": "ai-plain-circle-big"
+          "iconClass": "ai-plain-circle-big"
         },
         "onclick": "location.href='link.sider-portal-profil-roller-rettigheter'",
         "enable-popover": false
@@ -40,12 +40,12 @@
       "has-links": true,
       "link-done": [
         {
-          "link-class": "a-btn a-btn-success mr-2",
+          "linkClass": "a-btn a-btn-success mr-2",
           "link-text": "Ferdig",
           "link-url": "link.sider-portal-andre-med-rettigheter-delegering-ok"
         },
         {
-          "link-class": "a-btn-link a-link",
+          "linkClass": "a-btn-link a-link",
           "display-as-link": true,
           "link-text": "Avbryt",
           "link-url": "link.sider-portal-andre-med-rettigheter-roller-oversikt"
@@ -54,12 +54,12 @@
       "has-critical-role-container": true,
       "link-done-critical-role": [
         {
-          "link-class": "a-btn a-btn-danger mr-2",
+          "linkClass": "a-btn a-btn-danger mr-2",
           "link-text": "Jeg forstår. Fullfør delegering",
           "link-url": "link.sider-portal-andre-med-rettigheter-delegering-ok"
         },
         {
-          "link-class": "a-btn-link a-link",
+          "linkClass": "a-btn-link a-link",
           "display-as-link": true,
           "link-text": "Avbryt",
           "link-url": "link.sider-portal-andre-med-rettigheter-roller-oversikt"
@@ -116,20 +116,20 @@
             "popover-link-icon": [
               {
                 "icon-prefix": "ai",
-                "icon-class": "ai-help-popicon",
+                "iconClass": "ai-help-popicon",
                 "popovericon-container": {
                   "popovericon-container-class": "a-js-popoverIconInitial",
                   "icon-prefix": "",
-                  "icon-class": ""
+                  "iconClass": ""
                 }
               },
               {
                 "icon-prefix": "ai",
-                "icon-class": "ai-circle-exit",
+                "iconClass": "ai-circle-exit",
                 "popovericon-container": {
                   "popovericon-container-class": "a-js-popoverIconExpanded",
                   "icon-prefix": "",
-                  "icon-class": ""
+                  "iconClass": ""
                 }
               }
             ]
@@ -215,20 +215,20 @@
             "popover-link-icon": [
               {
                 "icon-prefix": "ai",
-                "icon-class": "ai-help-popicon",
+                "iconClass": "ai-help-popicon",
                 "popovericon-container": {
                   "popovericon-container-class": "a-js-popoverIconInitial",
                   "icon-prefix": "",
-                  "icon-class": ""
+                  "iconClass": ""
                 }
               },
               {
                 "icon-prefix": "ai",
-                "icon-class": "ai-circle-exit",
+                "iconClass": "ai-circle-exit",
                 "popovericon-container": {
                   "popovericon-container-class": "a-js-popoverIconExpanded",
                   "icon-prefix": "",
-                  "icon-class": ""
+                  "iconClass": ""
                 }
               }
             ]
@@ -238,8 +238,8 @@
       "person-rolle": {
         "person-role-role": "Styremedlem",
         "person-role-name": "Jan Derek Sørensen",
-        "icon-class": "ai-private",
-        "icon-extra-class": ""
+        "iconClass": "ai-private",
+        "iconExtraClass": ""
       },
       "showButton": false,
       "search-title": "Gi nye rettigheter:",
@@ -250,12 +250,12 @@
       "form-label-hasIcon": {
         "isInactive": true,
         "icon-prefix": "ai",
-        "icon-class": "ai-document"
+        "iconClass": "ai-document"
       },
       "form-input-hasButton": {
         "button-icon": {
           "icon-prefix": "ai",
-          "icon-class": "ai-search"
+          "iconClass": "ai-search"
         },
         "button-text": [
           {
@@ -465,20 +465,20 @@
                         "popover-link-icon": [
                           {
                             "icon-prefix": "ai",
-                            "icon-class": "ai-help-popicon",
+                            "iconClass": "ai-help-popicon",
                             "popovericon-container": {
                               "popovericon-container-class": "a-js-popoverIconInitial",
                               "icon-prefix": "",
-                              "icon-class": ""
+                              "iconClass": ""
                             }
                           },
                           {
                             "icon-prefix": "ai",
-                            "icon-class": "ai-circle-exit",
+                            "iconClass": "ai-circle-exit",
                             "popovericon-container": {
                               "popovericon-container-class": "a-js-popoverIconExpanded",
                               "icon-prefix": "",
-                              "icon-class": ""
+                              "iconClass": ""
                             }
                           }
                         ]
@@ -501,8 +501,8 @@
                     {
                       "column-icon": {
                         "icon-prefix": "ai",
-                        "icon-class": "ai-circle-plus",
-                        "icon-extra-class": "a-blueText a-hiddenWhenSelected"
+                        "iconClass": "ai-circle-plus",
+                        "iconExtraClass": "a-blueText a-hiddenWhenSelected"
                       }
                     },
                     {
@@ -525,8 +525,8 @@
                     {
                       "column-icon": {
                         "icon-prefix": "ai",
-                        "icon-class": "ai-undo",
-                        "icon-extra-class": "a-danger a-visibleWhenSelected"
+                        "iconClass": "ai-undo",
+                        "iconExtraClass": "a-danger a-visibleWhenSelected"
                       }
                     },
                     {
@@ -696,20 +696,20 @@
                         "popover-link-icon": [
                           {
                             "icon-prefix": "ai",
-                            "icon-class": "ai-help-popicon",
+                            "iconClass": "ai-help-popicon",
                             "popovericon-container": {
                               "popovericon-container-class": "a-js-popoverIconInitial",
                               "icon-prefix": "",
-                              "icon-class": ""
+                              "iconClass": ""
                             }
                           },
                           {
                             "icon-prefix": "ai",
-                            "icon-class": "ai-circle-exit",
+                            "iconClass": "ai-circle-exit",
                             "popovericon-container": {
                               "popovericon-container-class": "a-js-popoverIconExpanded",
                               "icon-prefix": "",
-                              "icon-class": ""
+                              "iconClass": ""
                             }
                           }
                         ]
@@ -729,8 +729,8 @@
                     {
                       "column-icon": {
                         "icon-prefix": "ai",
-                        "icon-class": "ai-circle-plus",
-                        "icon-extra-class": "a-blueText a-hiddenWhenSelected"
+                        "iconClass": "ai-circle-plus",
+                        "iconExtraClass": "a-blueText a-hiddenWhenSelected"
                       }
                     },
                     {
@@ -752,8 +752,8 @@
                     {
                       "column-icon": {
                         "icon-prefix": "ai",
-                        "icon-class": "ai-undo",
-                        "icon-extra-class": "a-danger a-visibleWhenSelected"
+                        "iconClass": "ai-undo",
+                        "iconExtraClass": "a-danger a-visibleWhenSelected"
                       }
                     },
                     {
@@ -920,20 +920,20 @@
                         "popover-link-icon": [
                           {
                             "icon-prefix": "ai",
-                            "icon-class": "ai-help-popicon",
+                            "iconClass": "ai-help-popicon",
                             "popovericon-container": {
                               "popovericon-container-class": "a-js-popoverIconInitial",
                               "icon-prefix": "",
-                              "icon-class": ""
+                              "iconClass": ""
                             }
                           },
                           {
                             "icon-prefix": "ai",
-                            "icon-class": "ai-circle-exit",
+                            "iconClass": "ai-circle-exit",
                             "popovericon-container": {
                               "popovericon-container-class": "a-js-popoverIconExpanded",
                               "icon-prefix": "",
-                              "icon-class": ""
+                              "iconClass": ""
                             }
                           }
                         ]
@@ -956,8 +956,8 @@
                     {
                       "column-icon": {
                         "icon-prefix": "ai",
-                        "icon-class": "ai-circle-plus",
-                        "icon-extra-class": "a-blueText a-hiddenWhenSelected"
+                        "iconClass": "ai-circle-plus",
+                        "iconExtraClass": "a-blueText a-hiddenWhenSelected"
                       }
                     },
                     {
@@ -980,8 +980,8 @@
                     {
                       "column-icon": {
                         "icon-prefix": "ai",
-                        "icon-class": "ai-undo",
-                        "icon-extra-class": "a-danger a-visibleWhenSelected"
+                        "iconClass": "ai-undo",
+                        "iconExtraClass": "a-danger a-visibleWhenSelected"
                       }
                     },
                     {
@@ -1031,20 +1031,20 @@
                         "popover-link-icon": [
                           {
                             "icon-prefix": "ai",
-                            "icon-class": "ai-help-popicon",
+                            "iconClass": "ai-help-popicon",
                             "popovericon-container": {
                               "popovericon-container-class": "a-js-popoverIconInitial",
                               "icon-prefix": "",
-                              "icon-class": ""
+                              "iconClass": ""
                             }
                           },
                           {
                             "icon-prefix": "ai",
-                            "icon-class": "ai-circle-exit",
+                            "iconClass": "ai-circle-exit",
                             "popovericon-container": {
                               "popovericon-container-class": "a-js-popoverIconExpanded",
                               "icon-prefix": "",
-                              "icon-class": ""
+                              "iconClass": ""
                             }
                           }
                         ]
@@ -1067,8 +1067,8 @@
                     {
                       "column-icon": {
                         "icon-prefix": "ai",
-                        "icon-class": "ai-circle-plus",
-                        "icon-extra-class": "a-blueText a-hiddenWhenSelected"
+                        "iconClass": "ai-circle-plus",
+                        "iconExtraClass": "a-blueText a-hiddenWhenSelected"
                       }
                     },
                     {
@@ -1091,8 +1091,8 @@
                     {
                       "column-icon": {
                         "icon-prefix": "ai",
-                        "icon-class": "ai-undo",
-                        "icon-extra-class": "a-danger a-visibleWhenSelected"
+                        "iconClass": "ai-undo",
+                        "iconExtraClass": "a-danger a-visibleWhenSelected"
                       }
                     },
                     {
@@ -1172,20 +1172,20 @@
                         "popover-link-icon": [
                           {
                             "icon-prefix": "ai",
-                            "icon-class": "ai-help-popicon",
+                            "iconClass": "ai-help-popicon",
                             "popovericon-container": {
                               "popovericon-container-class": "a-js-popoverIconInitial",
                               "icon-prefix": "",
-                              "icon-class": ""
+                              "iconClass": ""
                             }
                           },
                           {
                             "icon-prefix": "ai",
-                            "icon-class": "ai-circle-exit",
+                            "iconClass": "ai-circle-exit",
                             "popovericon-container": {
                               "popovericon-container-class": "a-js-popoverIconExpanded",
                               "icon-prefix": "",
-                              "icon-class": ""
+                              "iconClass": ""
                             }
                           }
                         ]
@@ -1205,8 +1205,8 @@
                     {
                       "column-icon": {
                         "icon-prefix": "ai",
-                        "icon-class": "ai-circle-plus",
-                        "icon-extra-class": "a-blueText a-hiddenWhenSelected"
+                        "iconClass": "ai-circle-plus",
+                        "iconExtraClass": "a-blueText a-hiddenWhenSelected"
                       }
                     },
                     {
@@ -1228,8 +1228,8 @@
                     {
                       "column-icon": {
                         "icon-prefix": "ai",
-                        "icon-class": "ai-undo",
-                        "icon-extra-class": "a-danger a-visibleWhenSelected"
+                        "iconClass": "ai-undo",
+                        "iconExtraClass": "a-danger a-visibleWhenSelected"
                       }
                     },
                     {
@@ -1237,8 +1237,8 @@
                         "linkIcon-url": "link.sider-portal-andre-med-rettigheter-egendefinert-rolle-rediger",
                         "linkIcon-text": "Rediger",
                         "icon-prefix": "ai ai-sm",
-                        "icon-class": "ai-edit",
-                        "link-icon-class": "a-btn-blue-noUnderline pr-0 a-hiddenWhenSelected",
+                        "iconClass": "ai-edit",
+                        "link-iconClass": "a-btn-blue-noUnderline pr-0 a-hiddenWhenSelected",
                         "text-class": "d-none d-lg-inline a-fontSizeXS pr-1"
                       }
                     },
@@ -1406,20 +1406,20 @@
                         "popover-link-icon": [
                           {
                             "icon-prefix": "ai",
-                            "icon-class": "ai-help-popicon",
+                            "iconClass": "ai-help-popicon",
                             "popovericon-container": {
                               "popovericon-container-class": "a-js-popoverIconInitial",
                               "icon-prefix": "",
-                              "icon-class": ""
+                              "iconClass": ""
                             }
                           },
                           {
                             "icon-prefix": "ai",
-                            "icon-class": "ai-circle-exit",
+                            "iconClass": "ai-circle-exit",
                             "popovericon-container": {
                               "popovericon-container-class": "a-js-popoverIconExpanded",
                               "icon-prefix": "",
-                              "icon-class": ""
+                              "iconClass": ""
                             }
                           }
                         ]
@@ -1439,8 +1439,8 @@
                     {
                       "column-icon": {
                         "icon-prefix": "ai",
-                        "icon-class": "ai-circle-plus",
-                        "icon-extra-class": "a-blueText a-hiddenWhenSelected"
+                        "iconClass": "ai-circle-plus",
+                        "iconExtraClass": "a-blueText a-hiddenWhenSelected"
                       }
                     },
                     {
@@ -1462,8 +1462,8 @@
                     {
                       "column-icon": {
                         "icon-prefix": "ai",
-                        "icon-class": "ai-undo",
-                        "icon-extra-class": "a-danger a-visibleWhenSelected"
+                        "iconClass": "ai-undo",
+                        "iconExtraClass": "a-danger a-visibleWhenSelected"
                       }
                     },
                     {
@@ -1471,8 +1471,8 @@
                         "linkIcon-url": "link.sider-portal-andre-med-rettigheter-egendefinert-rolle-rediger",
                         "linkIcon-text": "Rediger",
                         "icon-prefix": "ai ai-sm",
-                        "icon-class": "ai-edit",
-                        "link-icon-class": "a-btn-blue-noUnderline pr-0 a-hiddenWhenSelected",
+                        "iconClass": "ai-edit",
+                        "link-iconClass": "a-btn-blue-noUnderline pr-0 a-hiddenWhenSelected",
                         "text-class": "d-none d-lg-inline a-fontSizeXS pr-1"
                       }
                     },
@@ -1640,20 +1640,20 @@
                         "popover-link-icon": [
                           {
                             "icon-prefix": "ai",
-                            "icon-class": "ai-help-popicon",
+                            "iconClass": "ai-help-popicon",
                             "popovericon-container": {
                               "popovericon-container-class": "a-js-popoverIconInitial",
                               "icon-prefix": "",
-                              "icon-class": ""
+                              "iconClass": ""
                             }
                           },
                           {
                             "icon-prefix": "ai",
-                            "icon-class": "ai-circle-exit",
+                            "iconClass": "ai-circle-exit",
                             "popovericon-container": {
                               "popovericon-container-class": "a-js-popoverIconExpanded",
                               "icon-prefix": "",
-                              "icon-class": ""
+                              "iconClass": ""
                             }
                           }
                         ]

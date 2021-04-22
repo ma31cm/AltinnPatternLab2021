@@ -45,7 +45,7 @@
             {
               "column-icon": {
                 "icon-prefix": "ai",
-                "icon-class": "ai-arrowrightup"
+                "iconClass": "ai-arrowrightup"
               }
             }
           ]
@@ -78,7 +78,7 @@
             {
               "column-icon": {
                 "icon-prefix": "ai",
-                "icon-class": "ai-arrowrightup"
+                "iconClass": "ai-arrowrightup"
               }
             }
           ]

@@ -159,7 +159,7 @@
 	},
 	"callToAction" : {
     "link-text": "Søk om støtte hos CLIMIT",
-    "link-class": "a-linkFeatured",
+    "linkClass": "a-linkFeatured",
 		"link-url" : "http://climit.no"
 	}
 }

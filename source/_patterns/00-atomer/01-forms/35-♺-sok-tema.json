@@ -7,12 +7,12 @@
   "isHidden": true,
   "form-label-hasIcon": {
     "icon-prefix": "ai",
-    "icon-class": "ai-document"
+    "iconClass": "ai-document"
   },
   "form-input-hasButton": {
     "button-icon": {
       "icon-prefix": "ai",
-      "icon-class": "ai-search"
+      "iconClass": "ai-search"
     },
     "button-text": [
       {

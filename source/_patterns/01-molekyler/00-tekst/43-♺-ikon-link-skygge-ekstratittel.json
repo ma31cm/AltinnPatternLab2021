@@ -3,8 +3,8 @@
   "variation-class": "a-iconText-shadow",
   "hasIcon": {
     "icon-prefix": "ai",
-    "icon-class": "ai-phone",
-    "icon-extra-class": "a-icon",
+    "iconClass": "ai-phone",
+    "iconExtraClass": "a-icon",
     "icon-text": ""
   },
   "hasTextSmall": {

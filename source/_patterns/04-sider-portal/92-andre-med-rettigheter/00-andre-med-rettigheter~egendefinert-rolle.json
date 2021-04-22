@@ -2,32 +2,32 @@
   "variation-class": "a-iconText-background a-iconText-large",
   "hasIcon": {
     "icon-prefix": "ai",
-    "icon-class": "ai-corp"
+    "iconClass": "ai-corp"
   },
   "modal-navbar-override": {
     "button-list": [
       {
-        "button-class": "a-modal-back",
+        "buttonClass": "a-modal-back",
         "aria-label": "Tilbake",
         "icon-prefix": "ai",
-        "icon-class": "ai-back",
-        "icon-extra-class": "",
+        "iconClass": "ai-back",
+        "iconExtraClass": "",
         "stacked-background": {
           "icon-prefix": "ai",
-          "icon-class": "ai-plain-circle-big"
+          "iconClass": "ai-plain-circle-big"
         },
         "onclick": "location.href='link.sider-portal-andre-med-rettigheter-roller-gi'",
         "enable-popover": false
       },
       {
-        "button-class": "a-modal-close",
+        "buttonClass": "a-modal-close",
         "aria-label": "Lukk",
         "icon-prefix": "ai",
-        "icon-class": "ai-exit",
-        "icon-extra-class": "a-modal-close-icon",
+        "iconClass": "ai-exit",
+        "iconExtraClass": "a-modal-close-icon",
         "stacked-background": {
           "icon-prefix": "ai",
-          "icon-class": "ai-plain-circle-big"
+          "iconClass": "ai-plain-circle-big"
         },
         "onclick": "location.href='link.sider-portal-profil-roller-rettigheter'",
         "enable-popover": false
@@ -65,12 +65,12 @@
           "isInput-group": "input-group",
           "form-label-hasIcon": {
             "icon-prefix": "ai",
-            "icon-class": "ai-document"
+            "iconClass": "ai-document"
           },
           "form-input-hasButton": {
             "button-icon": {
               "icon-prefix": "ai",
-              "icon-class": "ai-search"
+              "iconClass": "ai-search"
             },
             "button-text": [
               {
@@ -139,24 +139,24 @@
                         "popover-link-icon": [
                           {
                             "icon-prefix": "ai",
-                            "icon-class": "ai-help-popicon",
-                            "icon-extra-class": "",
+                            "iconClass": "ai-help-popicon",
+                            "iconExtraClass": "",
                             "stacked-background": {
                               "stacked-container-class": "a-js-popoverIconInitial ai-sm",
                               "icon-prefix": "ai",
-                              "icon-class": "ai-help-popicon",
-                              "icon-extra-class": ""
+                              "iconClass": "ai-help-popicon",
+                              "iconExtraClass": ""
                             }
                           },
                           {
                             "icon-prefix": "ai",
-                            "icon-class": "ai-circle-exit",
-                            "icon-extra-class": "a-accessability-button",
+                            "iconClass": "ai-circle-exit",
+                            "iconExtraClass": "a-accessability-button",
                             "stacked-background": {
                               "stacked-container-class": "a-js-popoverIconExpanded ai-sm",
                               "icon-prefix": "ai",
-                              "icon-class": "ai-circle-exit",
-                              "icon-extra-class": ""
+                              "iconClass": "ai-circle-exit",
+                              "iconExtraClass": ""
                             }
                           }
                         ],
@@ -168,7 +168,7 @@
                               "list-item-name-class": "pl-1",
                               "listItemDescription": "",
                               "icon-prefix": "ai",
-                              "icon-class": "ai-read ai-sm ai-nw"
+                              "iconClass": "ai-read ai-sm ai-nw"
                             },
                             {
                               "disable-link": true,
@@ -176,7 +176,7 @@
                               "list-item-name-class": "pl-1",
                               "listItemDescription": "",
                               "icon-prefix": "ai",
-                              "icon-class": "ai-write ai-sm ai-nw"
+                              "iconClass": "ai-write ai-sm ai-nw"
                             },
                             {
                               "disable-link": true,
@@ -184,23 +184,23 @@
                               "list-item-name-class": "pl-1",
                               "listItemDescription": "",
                               "icon-prefix": "ai",
-                              "icon-class": "ai-sign ai-sm ai-nw"
+                              "iconClass": "ai-sign ai-sm ai-nw"
                             },
                             {
                               "disable-link": true,
                               "list-item-name": "Deaktivert",
                               "listItemDescription": "Blir ikke delegert",
                               "icon-prefix": "ai",
-                              "icon-class": "ai-sign ai-sm ai-nw",
-                              "icon-extra-class": "a-iconStrikeThrough a-disabledIcon"
+                              "iconClass": "ai-sign ai-sm ai-nw",
+                              "iconExtraClass": "a-iconStrikeThrough a-disabledIcon"
                             },
                             {
                               "disable-link": true,
                               "list-item-name": "Kan ikke delegeres",
                               "listItemDescription": "",
                               "icon-prefix": "ai",
-                              "icon-class": "ai-sign ai-sm ai-nw",
-                              "icon-extra-class": "a-iconStrikeThrough a-disabledIcon a-redIcon"
+                              "iconClass": "ai-sign ai-sm ai-nw",
+                              "iconExtraClass": "a-iconStrikeThrough a-disabledIcon a-redIcon"
                             }
                           ]
                         }
@@ -237,13 +237,13 @@
                       "column-button": {
                         "button-text": false,
                         "title": "Les",
-                        "button-class": "a-btn-link a-accessability-button a-hiddenWhenDeleted a-hiddenWhenDisabled",
+                        "buttonClass": "a-btn-link a-accessability-button a-hiddenWhenDeleted a-hiddenWhenDisabled",
                         "link-url": false,
                         "button-shadow-label": false,
                         "button-icon": {
                           "icon-prefix": "ai",
-                          "icon-class": "ai-read",
-                          "icon-extra-class": ""
+                          "iconClass": "ai-read",
+                          "iconExtraClass": ""
                         }
                       }
                     },
@@ -251,13 +251,13 @@
                       "column-button": {
                         "button-text": false,
                         "title": "Skriv",
-                        "button-class": "a-btn-link a-accessability-button a-js-toggleRights a-hiddenWhenDeleted a-hiddenWhenDisabled",
+                        "buttonClass": "a-btn-link a-accessability-button a-js-toggleRights a-hiddenWhenDeleted a-hiddenWhenDisabled",
                         "link-url": false,
                         "button-shadow-label": false,
                         "button-icon": {
                           "icon-prefix": "ai",
-                          "icon-class": "ai-write",
-                          "icon-extra-class": "a-clickable"
+                          "iconClass": "ai-write",
+                          "iconExtraClass": "a-clickable"
                         }
                       }
                     },
@@ -265,13 +265,13 @@
                       "column-button": {
                         "button-text": false,
                         "title": "Signer",
-                        "button-class": "a-btn-link a-accessability-button a-js-toggleRights a-hiddenWhenDeleted a-hiddenWhenDisabled",
+                        "buttonClass": "a-btn-link a-accessability-button a-js-toggleRights a-hiddenWhenDeleted a-hiddenWhenDisabled",
                         "link-url": false,
                         "button-shadow-label": false,
                         "button-icon": {
                           "icon-prefix": "ai",
-                          "icon-class": "ai-sign",
-                          "icon-extra-class": "a-clickable a-iconStrikeThrough a-disabledIcon"
+                          "iconClass": "ai-sign",
+                          "iconExtraClass": "a-clickable a-iconStrikeThrough a-disabledIcon"
                         }
                       }
                     },
@@ -298,13 +298,13 @@
                         "button-text": false,
                         "title": "Slett rolle",
                         "aria-label": "Slett rolle",
-                        "button-class": "a-btn-link a-accessability-button a-js-toggleRightsDelete a-hiddenWhenDeleted a-hiddenWhenDisabled a-displayInlineBlock",
+                        "buttonClass": "a-btn-link a-accessability-button a-js-toggleRightsDelete a-hiddenWhenDeleted a-hiddenWhenDisabled a-displayInlineBlock",
                         "link-url": false,
                         "button-shadow-label": false,
                         "button-icon": {
                           "icon-prefix": "ai",
-                          "icon-class": "ai-circle-minus",
-                          "icon-extra-class": "a-danger"
+                          "iconClass": "ai-circle-minus",
+                          "iconExtraClass": "a-danger"
                         }
                       }
                     },
@@ -313,23 +313,23 @@
                         "button-text": false,
                         "title": "Angre slett rolle",
                         "aria-label": "Angre slett rolle",
-                        "button-class": "a-btn-link a-accessability-button a-js-toggleRightsDelete a-visibleWhenDeleted  a-displayInlineBlock",
+                        "buttonClass": "a-btn-link a-accessability-button a-js-toggleRightsDelete a-visibleWhenDeleted  a-displayInlineBlock",
                         "tab-index": "-1",
                         "link-url": false,
                         "button-shadow-label": false,
                         "button-icon": {
                           "icon-prefix": "ai",
-                          "icon-class": "ai-undo",
-                          "icon-extra-class": "a-danger"
+                          "iconClass": "ai-undo",
+                          "iconExtraClass": "a-danger"
                         }
                       }
                     },
                     {
                       "column-icon": {
                         "icon-prefix": "ai",
-                        "icon-class": "ai-fw",
+                        "iconClass": "ai-fw",
                         "tab-index": "-1",
-                        "icon-extra-class": "a-visibleWhenDisabled  a-displayInlineBlock"
+                        "iconExtraClass": "a-visibleWhenDisabled  a-displayInlineBlock"
                       }
                     }
                   ]
@@ -362,14 +362,14 @@
         "local-role-buttons": {
           "local-role-cancel-btn": {
             "button-text": "Avbryt",
-            "button-class": "a-btn-link",
+            "buttonClass": "a-btn-link",
             "display-as-link": true,
             "onclick": "location.href='link.sider-portal-andre-med-rettigheter-roller-gi'",
             "button-type": false
           },
           "local-role-save-btn": {
             "button-text": "Lagre",
-            "button-class": "a-btn a-btn-success mr-2",
+            "buttonClass": "a-btn a-btn-success mr-2",
             "onclick": "location.href='link.sider-portal-andre-med-rettigheter-roller-gi'",
             "button-icon": false,
             "button-type": false

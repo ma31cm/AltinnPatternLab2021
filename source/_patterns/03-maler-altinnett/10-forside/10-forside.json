@@ -13,7 +13,7 @@
     "case-title": "Karasjok kommune har spart 2 600 456 på å bruke Altinn hittil i år.",
     "case-paragraph": "Lær hvordan og se hvor mye du kan spare som tjenesteeier.",
     "link-buttonLarge": {
-      "link-class": "a-btn a-btn-negative",
+      "linkClass": "a-btn a-btn-negative",
       "link-text": "Lær mer"
     },
     "paragraphClass": "a-fontSizeXL"
@@ -47,10 +47,10 @@
     "learnMoreLink": {
       "link-text": "Lær mer om veien videre",
       "link-url": "link.sider-altinnett-forside",
-      "link-class": "a-linkFeatured",
+      "linkClass": "a-linkFeatured",
       "link-icon": {
         "icon-prefix": "ai ai-sm ai-nw ai-nw-right",
-        "icon-class": "ai-arrowright"
+        "iconClass": "ai-arrowright"
       }
     }
   },
@@ -78,10 +78,10 @@
     ],
     "article-list-link": {
       "link-text": "Vis hele kalenderoversikten",
-      "link-class": "a-linkFeatured",
+      "linkClass": "a-linkFeatured",
       "link-icon": {
         "icon-prefix": "ai ai-sm ai-nw ai-nw-right",
-        "icon-class": "ai-arrowright"
+        "iconClass": "ai-arrowright"
       }
     }
   },
@@ -108,7 +108,7 @@
       "section-title": "De beste ideene finner man som oftest i fellesskap.",
       "front-main-button": {
         "link-buttonLarge": {
-          "link-class": "a-btn a-btn-border",
+          "linkClass": "a-btn a-btn-border",
           "link-text": "Lær mer"
         }
       },
@@ -131,7 +131,7 @@
       "form-input-hasButton": {
         "button-icon": {
           "icon-prefix": "ai",
-          "icon-class": "ai-search"
+          "iconClass": "ai-search"
         },
         "button-text": [
           {

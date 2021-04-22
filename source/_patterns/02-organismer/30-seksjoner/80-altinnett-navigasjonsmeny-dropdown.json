@@ -11,7 +11,7 @@
     "form-input-hasButton": {
       "button-icon": {
         "icon-prefix": "ai",
-        "icon-class": "ai-search"
+        "iconClass": "ai-search"
       },
       "button-text": [
         {
@@ -24,23 +24,23 @@
   },
   "name": "JAN PETTERSEN",
   "tjenesteutvikling": {
-    "icon-class": "ai-forward",
-    "icon-extra-class": "a-textBlue",
+    "iconClass": "ai-forward",
+    "iconExtraClass": "a-textBlue",
     "extra-classes": "a-fontBold"
   },
   "oversikten": {
-    "icon-class": "ai-date",
-    "icon-extra-class": "a-textBlue",
+    "iconClass": "ai-date",
+    "iconExtraClass": "a-textBlue",
     "extra-classes": "a-fontBold"
   },
   "driftsmeldinger": {
-    "icon-class": "ai-deadline",
-    "icon-extra-class": "a-textBlue",
+    "iconClass": "ai-deadline",
+    "iconExtraClass": "a-textBlue",
     "extra-classes": "a-fontBold"
   },
   "dokumentasjon": {
-    "icon-class": "ai-document",
-    "icon-extra-class": "a-textBlue",
+    "iconClass": "ai-document",
+    "iconExtraClass": "a-textBlue",
     "extra-classes": "a-fontBold"
   },
   "produkter": {
@@ -48,7 +48,7 @@
   },
   "login-button": {
     "button-text": "Logg inn",
-    "button-class": "a-btn btn-block",
+    "buttonClass": "a-btn btn-block",
     "button-disabled": false,
     "button-type": "button",
     "onclick": {

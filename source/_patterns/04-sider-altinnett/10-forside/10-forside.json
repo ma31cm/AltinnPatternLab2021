@@ -81,7 +81,7 @@
                   {
                     "column-icon": {
                       "icon-prefix": "ai",
-                      "icon-class": "ai-server"
+                      "iconClass": "ai-server"
                     }
                   }
                 ]
@@ -128,7 +128,7 @@
                 "column-items": [
                   {
                     "column-link": {
-                      "link-class": "a-btn-blue-noUnderline text-right a-fontBold a-fullWidthLink collapsed a-visibleWhenInitial a-hiddenWhenExpanded an-collapse-button pr-0 pr-md-5",
+                      "linkClass": "a-btn-blue-noUnderline text-right a-fontBold a-fullWidthLink collapsed a-visibleWhenInitial a-hiddenWhenExpanded an-collapse-button pr-0 pr-md-5",
                       "link-url": "#",
                       "link-text": "<span class='hidden-sm-down'>Utvid</span>",
                       "data-target": "existingCollapse10",
@@ -138,7 +138,7 @@
                   },
                   {
                     "column-link": {
-                      "link-class": "a-btn-blue-noUnderline text-right a-fontBold a-fullWidthLink a-visibleWhenExpanded an-collapse-button pr-0 pr-md-5",
+                      "linkClass": "a-btn-blue-noUnderline text-right a-fontBold a-fullWidthLink a-visibleWhenExpanded an-collapse-button pr-0 pr-md-5",
                       "link-url": "#",
                       "link-text": "<span class='hidden-sm-down'>Lukk</span>",
                       "data-target": "existingCollapse10",
@@ -182,7 +182,7 @@
                   {
                     "column-icon": {
                       "icon-prefix": "ai",
-                      "icon-class": "ai-server"
+                      "iconClass": "ai-server"
                     }
                   }
                 ]
@@ -229,7 +229,7 @@
                 "column-items": [
                   {
                     "column-link": {
-                      "link-class": "a-btn-blue-noUnderline text-right a-fontBold a-fullWidthLink collapsed a-visibleWhenInitial a-hiddenWhenExpanded an-collapse-button pr-0 pr-md-5",
+                      "linkClass": "a-btn-blue-noUnderline text-right a-fontBold a-fullWidthLink collapsed a-visibleWhenInitial a-hiddenWhenExpanded an-collapse-button pr-0 pr-md-5",
                       "link-url": "#",
                       "link-text": "<span class='hidden-sm-down'>Utvid</span>",
                       "data-target": "existingCollapse11",
@@ -239,7 +239,7 @@
                   },
                   {
                     "column-link": {
-                      "link-class": "a-btn-blue-noUnderline text-right a-fontBold a-fullWidthLink a-visibleWhenExpanded an-collapse-button pr-0 pr-md-5",
+                      "linkClass": "a-btn-blue-noUnderline text-right a-fontBold a-fullWidthLink a-visibleWhenExpanded an-collapse-button pr-0 pr-md-5",
                       "link-url": "#",
                       "link-text": "<span class='hidden-sm-down'>Lukk</span>",
                       "data-target": "existingCollapse11",
@@ -283,7 +283,7 @@
                   {
                     "column-icon": {
                       "icon-prefix": "ai",
-                      "icon-class": "ai-server"
+                      "iconClass": "ai-server"
                     }
                   }
                 ]
@@ -330,7 +330,7 @@
                 "column-items": [
                   {
                     "column-link": {
-                      "link-class": "a-btn-blue-noUnderline text-right a-fontBold a-fullWidthLink collapsed a-visibleWhenInitial a-hiddenWhenExpanded an-collapse-button pr-0 pr-md-5",
+                      "linkClass": "a-btn-blue-noUnderline text-right a-fontBold a-fullWidthLink collapsed a-visibleWhenInitial a-hiddenWhenExpanded an-collapse-button pr-0 pr-md-5",
                       "link-url": "#",
                       "link-text": "<span class='hidden-sm-down'>Utvid</span>",
                       "data-target": "existingCollapse12",
@@ -340,7 +340,7 @@
                   },
                   {
                     "column-link": {
-                      "link-class": "a-btn-blue-noUnderline text-right a-fontBold a-fullWidthLink a-visibleWhenExpanded an-collapse-button pr-0 pr-md-5",
+                      "linkClass": "a-btn-blue-noUnderline text-right a-fontBold a-fullWidthLink a-visibleWhenExpanded an-collapse-button pr-0 pr-md-5",
                       "link-url": "#",
                       "link-text": "<span class='hidden-sm-down'>Lukk</span>",
                       "data-target": "existingCollapse12",
@@ -376,7 +376,7 @@
     },
     "subscribeLink": {
       "link-text": "Abonner på varslinger",
-      "link-class": "a-btn",
+      "linkClass": "a-btn",
       "link-url": "javascript:void(0)",
       "sr-text": false,
       "data-toggle": "altinn-modal",
@@ -400,14 +400,14 @@
       "modal-navbar-override": {
         "button-list": [
           {
-            "button-class": "a-modal-close",
+            "buttonClass": "a-modal-close",
             "aria-label": "Lukk",
             "icon-prefix": "ai",
-            "icon-class": "ai-exit",
-            "icon-extra-class": "a-modal-close-icon",
+            "iconClass": "ai-exit",
+            "iconExtraClass": "a-modal-close-icon",
             "stacked-background": {
               "icon-prefix": "ai",
-              "icon-class": "ai-plain-circle-big"
+              "iconClass": "ai-plain-circle-big"
             },
             "is-modal-close": {
               "data-target": "#modal"

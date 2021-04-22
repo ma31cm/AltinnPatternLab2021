@@ -4,9 +4,9 @@
     "shortcuts": false,
     "heading-icon": {
       "icon-prefix": "reg",
-      "icon-class": "reg-openmessage",
+      "iconClass": "reg-openmessage",
       "icon-size": "reg-md-lg",
-      "icon-extra-class": "reg-nw",
+      "iconExtraClass": "reg-nw",
       "aria-hidden": true,
       "icon-sr-only-text": "Melding lest"
     }

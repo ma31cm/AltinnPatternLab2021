@@ -6,7 +6,7 @@
   "preTitleClass": "a-fontSizeXL mb-0",
   "pageTitleClass": "a-fontSizeXXXL a-fontBold a-blueDarkerText",
   "link-buttonLarge": {
-    "link-class": "a-btn-wide a-btn-border",
+    "linkClass": "a-btn-wide a-btn-border",
     "link-text": "Meld deg på"
   },
   "linkExternal": {
@@ -33,7 +33,7 @@
       "dateClass": "a-date--large"
     },
     "calendarLink": {
-      "icon-class": "ai ai-date ai-nw ai-nw-pr",
+      "iconClass": "ai ai-date ai-nw ai-nw-pr",
       "linkText": "Legg til i kalender"
     }
   }

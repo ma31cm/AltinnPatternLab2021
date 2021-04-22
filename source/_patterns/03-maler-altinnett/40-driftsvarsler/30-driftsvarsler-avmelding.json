@@ -60,7 +60,7 @@
 
     "submit-unsubscribe": {
       "button-text": "Bekreft avmelding",
-      "button-class": "a-btn",
+      "buttonClass": "a-btn",
       "button-id": "alert-unsubscribe-submit",
       "button-type": "button",
       "onclick": "location.href='link.sider-altinnett-driftsvarsler-bekreftelse';"
@@ -129,7 +129,7 @@
 
     "submit-edit": {
       "button-text": "Oppdater mitt abonnement",
-      "button-class": "a-btn",
+      "buttonClass": "a-btn",
       "button-id": "alert-edit-submit",
       "button-type": "button",
       "onclick": "location.href='link.sider-altinnett-driftsvarsler-bekreftelse-oppdatert';"

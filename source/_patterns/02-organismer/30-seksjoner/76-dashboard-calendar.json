@@ -4,11 +4,11 @@
   },
   "dashboard-addEvent": {
     "icon-prefix": "ai",
-    "icon-class": "ai-plus",
-    "icon-extra-class": "a-blue mr-1",
-    "button-class": "a-btn a-btn-action a-fullWidthBtn a-btnBigger",
+    "iconClass": "ai-plus",
+    "iconExtraClass": "a-blue mr-1",
+    "buttonClass": "a-btn a-btn-action a-fullWidthBtn a-btnBigger",
     "textstyling-button": "a-fontSizeXS",
-    "action-button-text": "Ny hendelse"
+    "actionButtonText": "Ny hendelse"
   },
   "dashboard-calendarEvents": [
     {
@@ -47,10 +47,10 @@
   ],
   "dashboard-viewMoreEvents": {
     "link-text": "Se hele kalenderen",
-    "link-class": "a-linkFeatured",
+    "linkClass": "a-linkFeatured",
     "link-icon": {
       "icon-prefix": "ai ai-sm ai-nw ai-nw-right",
-      "icon-class": "ai-arrowright"
+      "iconClass": "ai-arrowright"
     }
   }
 }

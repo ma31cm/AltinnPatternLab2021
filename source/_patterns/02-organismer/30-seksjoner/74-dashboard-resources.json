@@ -22,8 +22,8 @@
               {
                 "column-icon": {
                   "icon-prefix": "reg",
-                  "icon-class": "reg-rightup",
-                  "icon-extra-class": ""
+                  "iconClass": "reg-rightup",
+                  "iconExtraClass": ""
                 }
               }
             ]
@@ -70,8 +70,8 @@
               {
                 "column-icon": {
                   "icon-prefix": "reg",
-                  "icon-class": "reg-rightup",
-                  "icon-extra-class": ""
+                  "iconClass": "reg-rightup",
+                  "iconExtraClass": ""
                 }
               }
             ]
@@ -118,8 +118,8 @@
               {
                 "column-icon": {
                   "icon-prefix": "reg",
-                  "icon-class": "reg-rightup",
-                  "icon-extra-class": ""
+                  "iconClass": "reg-rightup",
+                  "iconExtraClass": ""
                 }
               }
             ]
@@ -166,8 +166,8 @@
               {
                 "column-icon": {
                   "icon-prefix": "reg",
-                  "icon-class": "reg-rightup",
-                  "icon-extra-class": ""
+                  "iconClass": "reg-rightup",
+                  "iconExtraClass": ""
                 }
               }
             ]
@@ -214,8 +214,8 @@
               {
                 "column-icon": {
                   "icon-prefix": "reg",
-                  "icon-class": "reg-rightup",
-                  "icon-extra-class": ""
+                  "iconClass": "reg-rightup",
+                  "iconExtraClass": ""
                 }
               }
             ]
@@ -262,8 +262,8 @@
               {
                 "column-icon": {
                   "icon-prefix": "reg",
-                  "icon-class": "reg-rightup",
-                  "icon-extra-class": ""
+                  "iconClass": "reg-rightup",
+                  "iconExtraClass": ""
                 }
               }
             ]
@@ -310,8 +310,8 @@
               {
                 "column-icon": {
                   "icon-prefix": "reg",
-                  "icon-class": "reg-rightup",
-                  "icon-extra-class": ""
+                  "iconClass": "reg-rightup",
+                  "iconExtraClass": ""
                 }
               }
             ]
@@ -358,8 +358,8 @@
               {
                 "column-icon": {
                   "icon-prefix": "reg",
-                  "icon-class": "reg-rightup",
-                  "icon-extra-class": ""
+                  "iconClass": "reg-rightup",
+                  "iconExtraClass": ""
                 }
               }
             ]

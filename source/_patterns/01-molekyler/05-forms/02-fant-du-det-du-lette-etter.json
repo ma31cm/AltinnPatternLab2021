@@ -18,12 +18,12 @@
         "radiobutton-indicator": true
 			}
 		],
-		"paragraph-content": "Takk for din tilbakemelding.",
+		"paragraphContent": "Takk for din tilbakemelding.",
 		"textarea-placeholder": "Gi oss gjerne en tilbakemelding på hva vi kan forbedre..",
     "textarea-label": "Hva savnet du?",
 
     "button-text": "Send",
-    "button-class": "a-btn",
+    "buttonClass": "a-btn",
     "button-disabled": false,
     "button-type": "button",
     "onclick": false,

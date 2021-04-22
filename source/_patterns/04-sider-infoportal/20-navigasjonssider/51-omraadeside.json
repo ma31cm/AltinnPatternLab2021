@@ -34,7 +34,7 @@
 	},
 
 	"p1": {
-		"paragraph-content": " Du sender a-meldingen fra et lønnssystem. Opplysningspliktige med få ansatte og uten lønnssystem kan i stedet bruke et skjema i Altinn."
+		"paragraphContent": " Du sender a-meldingen fra et lønnssystem. Opplysningspliktige med få ansatte og uten lønnssystem kan i stedet bruke et skjema i Altinn."
 	},
 
 	"hit-form-1": [
@@ -43,8 +43,8 @@
 			"iconOnTop": "a-iconText-icon--start",
 		  "hasIcon": {
 		    "icon-prefix": "ai",
-		    "icon-class": "ai-write",
-		    "icon-extra-class": "a-icon",
+		    "iconClass": "ai-write",
+		    "iconExtraClass": "a-icon",
 		    "icon-text": ""
 		  },
 		  "link-text": "A-melding – registrere direkte i Altinn",
@@ -59,8 +59,8 @@
 			"iconOnTop": "a-iconText-icon--start",
 		  "hasIcon": {
 		    "icon-prefix": "ai",
-		    "icon-class": "ai-write",
-		    "icon-extra-class": "a-icon",
+		    "iconClass": "ai-write",
+		    "iconExtraClass": "a-icon",
 		    "icon-text": ""
 		  },
 		  "link-text": "A-melding - sende fra system",
@@ -78,8 +78,8 @@
 			"iconOnTop": "a-iconText-icon--start",
 		  "hasIcon": {
 		    "icon-prefix": "ai",
-		    "icon-class": "ai-write",
-		    "icon-extra-class": "a-icon",
+		    "iconClass": "ai-write",
+		    "iconExtraClass": "a-icon",
 		    "icon-text": ""
 		  },
 		  "link-text": "A-melding – melding om lønnet arbeid i hjemmet",
@@ -93,8 +93,8 @@
 			"variation-class": "a-iconText-shadow a-iconText-background a-iconText-background--white",
 		  "hasIcon": {
 		    "icon-prefix": "ai",
-		    "icon-class": "ai-write",
-		    "icon-extra-class": "a-icon",
+		    "iconClass": "ai-write",
+		    "iconExtraClass": "a-icon",
 		    "icon-text": ""
 		  },
 		  "link-text": "A-melding - for veldedige og almennyttige organisasjoner",
@@ -148,7 +148,7 @@
 		"link-text": "skatteetaten.no/a-ordningen",
 		"help-end": "eller ta kontakt med Skatteopplysningen på telefon 800 80 000, <i>tastevalg 4-3-2</i>.",
 		"link-icon": false,
-		"link-class": "",
+		"linkClass": "",
 		"link-url": "link.sider-infoportal-hjelpesenter"
 	}
 }

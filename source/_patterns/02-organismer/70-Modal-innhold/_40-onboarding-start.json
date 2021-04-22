@@ -10,12 +10,12 @@
       "buttons": [
         {
           "button-text": "Knapp!",
-          "button-class": "a-btn a-btn-success",
+          "buttonClass": "a-btn a-btn-success",
           "onclick": false
         },
         {
           "button-text": "Hopp over introen",
-          "button-class": "a-btn-link a-textWhite",
+          "buttonClass": "a-btn-link a-textWhite",
           "display-as-link": true,
           "data-dismiss": "data-dismiss=\"modal\"",
           "onclick": false

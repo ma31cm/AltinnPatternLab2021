@@ -100,7 +100,7 @@
   "type-class": "rest",
   "submit-deaktivert": {
     "button-text": "Neste",
-    "button-class": "a-btn d-block my-0",
+    "buttonClass": "a-btn d-block my-0",
     "button-id": "a-js-contactForm-submit",
     "button-type": "button",
     "button-disabled": "disabled",
@@ -115,7 +115,7 @@
   },
   "submit-tjenesteeier": {
     "button-text": "Neste",
-    "button-class": "a-btn d-block my-0",
+    "buttonClass": "a-btn d-block my-0",
     "button-id": "a-js-contactForm-submit",
     "button-type": "button",
     "onclick": false,
@@ -129,7 +129,7 @@
   },
   "submit-sluttbruker": {
     "button-text": "Neste",
-    "button-class": "a-btn d-block my-0",
+    "buttonClass": "a-btn d-block my-0",
     "button-id": "a-js-contactForm-submit",
     "button-type": "button",
     "onclick": false,

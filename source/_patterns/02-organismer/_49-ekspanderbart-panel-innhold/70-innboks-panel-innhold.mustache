@@ -22,7 +22,7 @@
   <div class="row{{# extra-class }} {{ extra-class }}{{/ extra-class }}">
     <div class="col">
       {{# text-paragraph }}
-        <p class="my-0{{# text-paragraph-class }} {{ text-paragraph-class }}{{/ text-paragraph-class }}">{{{ message-text }}}</p>
+        <p class="my-0{{# text-paragraphClass }} {{ text-paragraphClass }}{{/ text-paragraphClass }}">{{{ message-text }}}</p>
       {{/ text-paragraph }}
       {{# text-link }}
         {{> atomer-link }}
@@ -82,9 +82,9 @@
       {{/ action-button }}
     </div>
     <div class="{{ button-icons-wrapper-class }} mt-3">
-      {{# action-button-icon }}
+      {{# actionButtonIcon }}
         {{> atomer-knapp-ikon-tekst }}
-      {{/ action-button-icon }}
+      {{/ actionButtonIcon }}
     </div>
   </div>
 {{/ actions-row }}

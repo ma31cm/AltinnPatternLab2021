@@ -15,19 +15,19 @@
     "isInput-group": "input-group",
     "form-label-hasIcon": {
       "icon-prefix": "ai",
-      "icon-class": "ai-others",
-      "icon-extra-class": ""
+      "iconClass": "ai-others",
+      "iconExtraClass": ""
     },
     "form-input-hasButton": false
   },
 
   "add-actor-btn": {
-    "button-class": "a-btn a-btn-action a-fullWidthBtn a-fontSizeXS",
-    "action-button-text": "Legg til ny person",
+    "buttonClass": "a-btn a-btn-action a-fullWidthBtn a-fontSizeXS",
+    "actionButtonText": "Legg til ny person",
     "onclick": "location.href='#'",
     "icon-prefix": "ai",
-    "icon-class": "ai-plus",
-    "icon-extra-class": ""
+    "iconClass": "ai-plus",
+    "iconExtraClass": ""
   },
 
   "actor-list": {
@@ -47,8 +47,8 @@
               {
                 "column-icon": {
                   "icon-prefix": "ai",
-                  "icon-class": "ai-others",
-                  "icon-extra-class": ""
+                  "iconClass": "ai-others",
+                  "iconExtraClass": ""
                 }
               }
             ]
@@ -85,7 +85,7 @@
             "column-items": [
               {
                 "column-link": {
-                  "link-class": "a-btn-blue-noUnderline text-right a-fontBold a-fullWidthLink collapsed pr-1 pr-md-5",
+                  "linkClass": "a-btn-blue-noUnderline text-right a-fontBold a-fullWidthLink collapsed pr-1 pr-md-5",
                   "link-url": "#",
                   "link-text": "<span class='d-none d-sm-block'>Videresend</span>"
                 }
@@ -106,8 +106,8 @@
               {
                 "column-icon": {
                   "icon-prefix": "ai",
-                  "icon-class": "ai-others",
-                  "icon-extra-class": ""
+                  "iconClass": "ai-others",
+                  "iconExtraClass": ""
                 }
               }
             ]
@@ -144,7 +144,7 @@
             "column-items": [
               {
                 "column-link": {
-                  "link-class": "a-btn-blue-noUnderline text-right a-fontBold a-fullWidthLink collapsed pr-1 pr-md-5",
+                  "linkClass": "a-btn-blue-noUnderline text-right a-fontBold a-fullWidthLink collapsed pr-1 pr-md-5",
                   "link-url": "#",
                   "link-text": "<span class='d-none d-sm-block'>Videresend</span>"
                 }
@@ -165,8 +165,8 @@
               {
                 "column-icon": {
                   "icon-prefix": "ai",
-                  "icon-class": "ai-others",
-                  "icon-extra-class": ""
+                  "iconClass": "ai-others",
+                  "iconExtraClass": ""
                 }
               }
             ]
@@ -203,7 +203,7 @@
             "column-items": [
               {
                 "column-link": {
-                  "link-class": "a-btn-blue-noUnderline text-right a-fontBold a-fullWidthLink collapsed pr-1 pr-md-5",
+                  "linkClass": "a-btn-blue-noUnderline text-right a-fontBold a-fullWidthLink collapsed pr-1 pr-md-5",
                   "link-url": "#",
                   "link-text": "<span class='d-none d-sm-block'>Videresend</span>"
                 }
@@ -224,8 +224,8 @@
               {
                 "column-icon": {
                   "icon-prefix": "ai",
-                  "icon-class": "ai-others",
-                  "icon-extra-class": ""
+                  "iconClass": "ai-others",
+                  "iconExtraClass": ""
                 }
               }
             ]
@@ -262,7 +262,7 @@
             "column-items": [
               {
                 "column-link": {
-                  "link-class": "a-btn-blue-noUnderline text-right a-fontBold a-fullWidthLink collapsed pr-1 pr-md-5",
+                  "linkClass": "a-btn-blue-noUnderline text-right a-fontBold a-fullWidthLink collapsed pr-1 pr-md-5",
                   "link-url": "#",
                   "link-text": "<span class='d-none d-sm-block'>Videresend</span>"
                 }
@@ -283,8 +283,8 @@
               {
                 "column-icon": {
                   "icon-prefix": "ai",
-                  "icon-class": "ai-others",
-                  "icon-extra-class": ""
+                  "iconClass": "ai-others",
+                  "iconExtraClass": ""
                 }
               }
             ]
@@ -321,7 +321,7 @@
             "column-items": [
               {
                 "column-link": {
-                  "link-class": "a-btn-blue-noUnderline text-right a-fontBold a-fullWidthLink collapsed pr-1 pr-md-5",
+                  "linkClass": "a-btn-blue-noUnderline text-right a-fontBold a-fullWidthLink collapsed pr-1 pr-md-5",
                   "link-url": "#",
                   "link-text": "<span class='d-none d-sm-block'>Videresend</span>"
                 }
@@ -342,8 +342,8 @@
               {
                 "column-icon": {
                   "icon-prefix": "ai",
-                  "icon-class": "ai-others",
-                  "icon-extra-class": ""
+                  "iconClass": "ai-others",
+                  "iconExtraClass": ""
                 }
               }
             ]
@@ -380,7 +380,7 @@
             "column-items": [
               {
                 "column-link": {
-                  "link-class": "a-btn-blue-noUnderline text-right a-fontBold a-fullWidthLink collapsed pr-1 pr-md-5",
+                  "linkClass": "a-btn-blue-noUnderline text-right a-fontBold a-fullWidthLink collapsed pr-1 pr-md-5",
                   "link-url": "#",
                   "link-text": "<span class='d-none d-sm-block'>Videresend</span>"
                 }
@@ -401,8 +401,8 @@
               {
                 "column-icon": {
                   "icon-prefix": "ai",
-                  "icon-class": "ai-others",
-                  "icon-extra-class": ""
+                  "iconClass": "ai-others",
+                  "iconExtraClass": ""
                 }
               }
             ]
@@ -439,7 +439,7 @@
             "column-items": [
               {
                 "column-link": {
-                  "link-class": "a-btn-blue-noUnderline text-right a-fontBold a-fullWidthLink collapsed pr-1 pr-md-5",
+                  "linkClass": "a-btn-blue-noUnderline text-right a-fontBold a-fullWidthLink collapsed pr-1 pr-md-5",
                   "link-url": "#",
                   "link-text": "<span class='d-none d-sm-block'>Videresend</span>"
                 }
@@ -460,8 +460,8 @@
               {
                 "column-icon": {
                   "icon-prefix": "ai",
-                  "icon-class": "ai-others",
-                  "icon-extra-class": ""
+                  "iconClass": "ai-others",
+                  "iconExtraClass": ""
                 }
               }
             ]
@@ -498,7 +498,7 @@
             "column-items": [
               {
                 "column-link": {
-                  "link-class": "a-btn-blue-noUnderline text-right a-fontBold a-fullWidthLink collapsed pr-1 pr-md-5",
+                  "linkClass": "a-btn-blue-noUnderline text-right a-fontBold a-fullWidthLink collapsed pr-1 pr-md-5",
                   "link-url": "#",
                   "link-text": "<span class='d-none d-sm-block'>Videresend</span>"
                 }
@@ -519,8 +519,8 @@
               {
                 "column-icon": {
                   "icon-prefix": "ai",
-                  "icon-class": "ai-others",
-                  "icon-extra-class": ""
+                  "iconClass": "ai-others",
+                  "iconExtraClass": ""
                 }
               }
             ]
@@ -557,7 +557,7 @@
             "column-items": [
               {
                 "column-link": {
-                  "link-class": "a-btn-blue-noUnderline text-right a-fontBold a-fullWidthLink collapsed pr-1 pr-md-5",
+                  "linkClass": "a-btn-blue-noUnderline text-right a-fontBold a-fullWidthLink collapsed pr-1 pr-md-5",
                   "link-url": "#",
                   "link-text": "<span class='d-none d-sm-block'>Videresend</span>"
                 }
@@ -578,8 +578,8 @@
               {
                 "column-icon": {
                   "icon-prefix": "ai",
-                  "icon-class": "ai-others",
-                  "icon-extra-class": ""
+                  "iconClass": "ai-others",
+                  "iconExtraClass": ""
                 }
               }
             ]
@@ -616,7 +616,7 @@
             "column-items": [
               {
                 "column-link": {
-                  "link-class": "a-btn-blue-noUnderline text-right a-fontBold a-fullWidthLink collapsed pr-1 pr-md-5",
+                  "linkClass": "a-btn-blue-noUnderline text-right a-fontBold a-fullWidthLink collapsed pr-1 pr-md-5",
                   "link-url": "#",
                   "link-text": "<span class='d-none d-sm-block'>Videresend</span>"
                 }
@@ -637,7 +637,7 @@
               {
                 "column-icon": {
                   "icon-prefix": "ai",
-                  "icon-class": "ai-plus"
+                  "iconClass": "ai-plus"
                 }
               }
             ]
@@ -648,8 +648,8 @@
               {
                 "column-icon": {
                   "icon-prefix": "ai",
-                  "icon-class": "ai-plus",
-                  "icon-extra-class": "d-md-none"
+                  "iconClass": "ai-plus",
+                  "iconExtraClass": "d-md-none"
                 }
               },
               {

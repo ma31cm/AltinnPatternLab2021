@@ -2,8 +2,8 @@
 {
   "hasIcon": {
     "icon-prefix": "ai",
-    "icon-class": "ai-aordningen",
-    "icon-extra-class": "a-icon",
+    "iconClass": "ai-aordningen",
+    "iconExtraClass": "a-icon",
     "icon-text": ""
   },
   "hasTextSmall": {

@@ -3,12 +3,12 @@
   "url-logo": "",
   "headerlogo": "../../images/a-logo-white.svg",
   "logo-class": "a-modal-top-logo",
-  "button-class": "a-btn a-btn-icon a-btn-shadow",
+  "buttonClass": "a-btn a-btn-icon a-btn-shadow",
   "button-colorClass": "",
   "dropdown-class": "a-dropdown-languages",
   "icon-prefix": "ai",
-  "icon-class": "ai-private",
-  "icon-extra-class": "",
+  "iconClass": "ai-private",
+  "iconExtraClass": "",
   "hide-header": true,
   "header-mobilesearch": {
     "text-input-id": "dropdown-input-search",
@@ -20,7 +20,7 @@
     "form-input-hasButton": {
       "button-icon": {
         "icon-prefix": "ai",
-        "icon-class": "ai-search"
+        "iconClass": "ai-search"
       },
       "button-text": [
         {
@@ -35,7 +35,7 @@
   "ekstra-menypunkt-1": "Ekstra menypunkt 1",
   "tel-icon": {
     "icon-prefix": "ai ai-nw ai-nw-pr",
-    "icon-class": "ai-phone"
+    "iconClass": "ai-phone"
   },
   "dropdown-personswitch": {
     "personswitch-current": {
@@ -43,8 +43,8 @@
       "myself-personal-number": "Patentstyret",
       "user-icon": {
         "icon-prefix": "ai",
-        "icon-class": "ai-private ai-lg",
-        "icon-extra-class": ""
+        "iconClass": "ai-private ai-lg",
+        "iconExtraClass": ""
       },
       "button-dot": false,
       "personrole-link": {

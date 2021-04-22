@@ -1,5 +1,5 @@
 {
-  "dropdown-link-class": "a-borderBottom",
+  "dropdown-linkClass": "a-borderBottom",
   "dropdown-top-item": {
     "dropdown-top-item-content": "Lagrede søk",
     "overflow-extraclass": "pt-1 pb-1"
@@ -8,9 +8,9 @@
     {
       "dropdown-icon": {
         "icon-prefix": "ai",
-        "icon-class": "ai-letter-r",
+        "iconClass": "ai-letter-r",
         "icon-size": "",
-        "icon-extra-class": "a-blue"
+        "iconExtraClass": "a-blue"
       },
       "dropdown-item-content": "Lagre søk",
       "dropdown-item-content-class": "a-fontBold"
@@ -18,9 +18,9 @@
     {
       "dropdown-icon": {
         "icon-prefix": "ai",
-        "icon-class": "ai-letter-r",
+        "iconClass": "ai-letter-r",
         "icon-size": "",
-        "icon-extra-class": "a-blue"
+        "iconExtraClass": "a-blue"
       },
       "dropdown-item-content": "Annet lagret søk",
       "dropdown-item-content-class": "a-fontBold"
@@ -28,9 +28,9 @@
     {
       "dropdown-icon": {
         "icon-prefix": "ai",
-        "icon-class": "ai-settings",
+        "iconClass": "ai-settings",
         "icon-size": "",
-        "icon-extra-class": "a-blue"
+        "iconExtraClass": "a-blue"
       },
       "dropdown-item-content": "tilpass",
       "dropdown-item-content-class": "a-fontBold"

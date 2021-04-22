@@ -10,18 +10,18 @@
     "variation": "search-header",
     "linkFeatured": {
       "link-text": "Tilbake til aktørvalg",
-      "link-class": "a-linkFeatured a-textBlue a-textBlue-hover ml-1",
+      "linkClass": "a-linkFeatured a-textBlue a-textBlue-hover ml-1",
       "link-url": "link.sider-aktorvalg~forste-gang",
       "link-icon-left": {
         "icon-prefix": "ai ",
-        "icon-class": "ai-back",
-        "icon-extra-class": "ai-sm ai-nw"
+        "iconClass": "ai-back",
+        "iconExtraClass": "ai-sm ai-nw"
       }
     },
     "login-icon": {
       "icon-prefix": "ai",
-      "icon-class": "ai-corp-circle-big",
-      "icon-extra-class": "a-personSwitcher-icon a-js-onboardingTarget-1",
+      "iconClass": "ai-corp-circle-big",
+      "iconExtraClass": "a-personSwitcher-icon a-js-onboardingTarget-1",
       "icon-sr-only-text": false
     }
   },
@@ -34,7 +34,7 @@
     "edit-link": {
       "link-text": "Rediger lagrede søk",
       "link-url": "javascript:;",
-      "link-class": "no-decoration text-right a-fontBold a-js-toggleEdit"
+      "linkClass": "no-decoration text-right a-fontBold a-js-toggleEdit"
     },
     "custom-title": {
       "text-items": [
@@ -80,13 +80,13 @@
                   "column-button": {
                     "button-text": "Slett søket",
                     "button-textClass": "d-none d-lg-inline a-fontSizeXS",
-                    "button-class": "a-btn a-btn-icon js-edit invisible",
+                    "buttonClass": "a-btn a-btn-icon js-edit invisible",
                     "link-url": false,
                     "button-shadow-label": false,
                     "button-icon": {
                       "icon-prefix": "ai",
-                      "icon-class": "ai-circle-exit",
-                      "icon-extra-class": "a-danger"
+                      "iconClass": "ai-circle-exit",
+                      "iconExtraClass": "a-danger"
                     }
                   }
                 }
@@ -122,13 +122,13 @@
                   "column-button": {
                     "button-text": "Slett søket",
                     "button-textClass": "d-none d-lg-inline a-fontSizeXS",
-                    "button-class": "a-btn a-btn-icon js-edit invisible",
+                    "buttonClass": "a-btn a-btn-icon js-edit invisible",
                     "link-url": false,
                     "button-shadow-label": false,
                     "button-icon": {
                       "icon-prefix": "ai",
-                      "icon-class": "ai-circle-exit",
-                      "icon-extra-class": "a-danger"
+                      "iconClass": "ai-circle-exit",
+                      "iconExtraClass": "a-danger"
                     }
                   }
                 }

@@ -35,7 +35,7 @@
         {
           "button-icon": {
             "icon-prefix": "ai",
-            "icon-class": "ai-search"
+            "iconClass": "ai-search"
           },
           "button-text": [
             {
@@ -50,9 +50,9 @@
     "limit-hits-filter-overview": {
       "limit-hits-filter-text": "Begrens treffene: ",
       "icon-prefix": "ai",
-      "icon-class": "ai-circle-plus",
+      "iconClass": "ai-circle-plus",
       "icon-size": "",
-      "icon-extra-class": "ai-nw a-blue",
+      "iconExtraClass": "ai-nw a-blue",
       "icon-text": "",
       "icon-id": false,
       "sr-only": false,
@@ -87,13 +87,13 @@
       ],
       "filter-close-button": {
         "button-text": "Lukk",
-        "button-class": "d-inline a-btn a-btn-icon text-right mb-0 py-0 a-js-searchFilterToggle",
+        "buttonClass": "d-inline a-btn a-btn-icon text-right mb-0 py-0 a-js-searchFilterToggle",
         "link-url": false,
         "button-shadow-label": false,
         "button-textClass": "a-fontBold",
         "button-icon": {
           "icon-prefix": "reg",
-          "icon-class": "reg-circle-exit"
+          "iconClass": "reg-circle-exit"
         }
       }
     },
@@ -331,16 +331,16 @@
           "firstDateField": {
             "date-input-label": "Fra:",
             "icon-prefix": "ai",
-            "icon-class": "ai-date",
-            "icon-extra-class": "",
+            "iconClass": "ai-date",
+            "iconExtraClass": "",
             "form-control-class": "a-hasButton",
             "inputId": "dateField1"
           },
           "secondDateField": {
             "date-input-label": "Til:",
             "icon-prefix": "ai",
-            "icon-class": "ai-date",
-            "icon-extra-class": "",
+            "iconClass": "ai-date",
+            "iconExtraClass": "",
             "form-control-class": "a-hasButton",
             "inputId": "dateField2"
           }
@@ -630,7 +630,7 @@
     },
     "filter-submit": {
       "button-text": "Vis filtrert resultat",
-      "button-class": "a-btn py-1 px-3",
+      "buttonClass": "a-btn py-1 px-3",
       "button-disabled": false,
       "button-type": "button",
       "onclick": false,

@@ -19,11 +19,11 @@
 
     "form-label-hasIcon": {
       "icon-prefix": "ai",
-      "icon-class": "ai-closedmessage"
+      "iconClass": "ai-closedmessage"
     },
 
     "button-text": "Send",
-    "button-class": "a-btn disabled",
+    "buttonClass": "a-btn disabled",
     "button-disabled": "disabled",
     "button-type": "button",
     "onclick": false,

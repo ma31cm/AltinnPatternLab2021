@@ -3,9 +3,9 @@
   "variation-class": "a-iconText-background",
   "hasIcon": {
     "icon-prefix": "ai",
-    "icon-class": "ai-aordningen",
+    "iconClass": "ai-aordningen",
     "icon-size": "ai-lg",
-    "icon-extra-class": "",
+    "iconExtraClass": "",
     "icon-text": ""
   },
   "hasTextSmall": {

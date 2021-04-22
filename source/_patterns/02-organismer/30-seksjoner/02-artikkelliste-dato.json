@@ -24,10 +24,10 @@
 
   "article-list-link": {
     "link-text": "Lenke som tar deg til hele artikkellisten",
-    "link-class": "a-linkFeatured",
+    "linkClass": "a-linkFeatured",
     "link-icon": {
       "icon-prefix": "ai ai-sm ai-nw ai-nw-right",
-      "icon-class": "ai-arrowright"
+      "iconClass": "ai-arrowright"
     }
   }
 }

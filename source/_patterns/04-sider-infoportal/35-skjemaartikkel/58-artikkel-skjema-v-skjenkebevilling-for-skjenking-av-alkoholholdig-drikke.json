@@ -52,8 +52,8 @@
 		},
 		"modal-loader": true,
 		"modal-empty": {
-			"paragraph-class": "a-js-noResults",
-			"paragraph-content": "Ingen treff. Prøv å søke med andre stikkord."
+			"paragraphClass": "a-js-noResults",
+			"paragraphContent": "Ingen treff. Prøv å søke med andre stikkord."
 		},
 
 		"resultList": {

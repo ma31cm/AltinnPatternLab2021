@@ -24,8 +24,8 @@
 		"main-card-content": {
 			"hasIcon": {
 	      "icon-prefix": "ai",
-	      "icon-class": "ai-write",
-	      "icon-extra-class": "a-icon"
+	      "iconClass": "ai-write",
+	      "iconExtraClass": "a-icon"
 	    },
 			"hasTextSmall": {
 				"byline-tekst": "Fra",
@@ -44,7 +44,7 @@
 			"hasButton": {
 				"button-text": "Start utfylling",
 				"onclick": "location.href='link.sider-portal-aktorvalg-forste-gang'",
-				"button-class": "a-btn"
+				"buttonClass": "a-btn"
 			}
 		}
 	},

@@ -1,6 +1,6 @@
 {
-  "button-class": "a-btn a-btn-action a-fullWidthBtn",
+  "buttonClass": "a-btn a-btn-action a-fullWidthBtn",
   "icon-prefix": "ai",
-  "icon-class": "ai-plus",
-  "icon-extra-class": ""
+  "iconClass": "ai-plus",
+  "iconExtraClass": ""
 }

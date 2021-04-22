@@ -1,7 +1,7 @@
 {
   "icon-prefix": "ai",
-  "icon-class": "ai-plus",
-  "icon-extra-class": "",
-  "button-class": "a-btn a-btn-action",
-  "action-button-text": "En knapp for å legge til"
+  "iconClass": "ai-plus",
+  "iconExtraClass": "",
+  "buttonClass": "a-btn a-btn-action",
+  "actionButtonText": "En knapp for å legge til"
 }

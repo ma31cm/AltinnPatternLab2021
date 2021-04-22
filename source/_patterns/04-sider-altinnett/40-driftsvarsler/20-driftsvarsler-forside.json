@@ -20,7 +20,7 @@
     "data-target": "modal-subscribe"
   },
   "lead-text-content": "Vi oppdaterer deg på nye releaser og driftsmessige hendelser som kan være relevante for deg i tjenesteutviklingen.",
-  "paragraph-content": "Vi tilbyr også driftsvarsler på <a href=\"#\">RSS</a>, slik at du kan få dem integrert i Slack eller andre system. ",
+  "paragraphContent": "Vi tilbyr også driftsvarsler på <a href=\"#\">RSS</a>, slik at du kan få dem integrert i Slack eller andre system. ",
   "dashboard-subscribe-modal": {
     "modal-id": "modal-subscribe",
     "modal-isSingel" : true,
@@ -37,14 +37,14 @@
     "modal-navbar-override": {
       "button-list": [
         {
-          "button-class": "a-modal-back",
+          "buttonClass": "a-modal-back",
           "aria-label":  "Tilbake",
           "icon-prefix": "ai",
-          "icon-class": "ai-back",
-          "icon-extra-class": "",
+          "iconClass": "ai-back",
+          "iconExtraClass": "",
           "stacked-background": {
             "icon-prefix": "ai",
-            "icon-class": "ai-plain-circle-big"
+            "iconClass": "ai-plain-circle-big"
           },
           "is-modal-back": {
             "data-target": "#modal-addAlert"
@@ -52,15 +52,15 @@
           "enable-popover": false
         },
         {
-          "button-class": "a-modal-close",
+          "buttonClass": "a-modal-close",
           "aria-label": "Lukk",
           "icon-prefix": "ai",
-          "icon-class": "ai-exit",
-          "icon-extra-class": "a-modal-close-icon",
+          "iconClass": "ai-exit",
+          "iconExtraClass": "a-modal-close-icon",
           "enable-popover": false,
           "stacked-background": {
             "icon-prefix": "ai",
-            "icon-class": "ai-plain-circle-big"
+            "iconClass": "ai-plain-circle-big"
           },
           "is-modal-close": {
             "data-target": "#modal-addAlert"
@@ -205,11 +205,11 @@
     }
   ],
   "list-article-loadmore": {
-    "action-button-text": "Last flere",
-    "button-class": "a-btn a-btn-action a-fullWidthBtn a-btn-loadMore",
+    "actionButtonText": "Last flere",
+    "buttonClass": "a-btn a-btn-action a-fullWidthBtn a-btn-loadMore",
     "icon-prefix": "ai",
-    "icon-class": "ai-plus",
-    "icon-extra-class": ""
+    "iconClass": "ai-plus",
+    "iconExtraClass": ""
   }
   
 }

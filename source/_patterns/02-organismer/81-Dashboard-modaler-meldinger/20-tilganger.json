@@ -47,7 +47,7 @@
     "type-class": "rest",
     "submit": {
       "button-text": "Neste",
-      "button-class": "a-btn d-block my-0",
+      "buttonClass": "a-btn d-block my-0",
       "button-id": "a-js-contactForm-submit",
       "button-type": "button",
       "onclick": false,
@@ -64,7 +64,7 @@
     "type-class": "soap",
     "submit": {
       "button-text": "Neste",
-      "button-class": "a-btn d-block my-0",
+      "buttonClass": "a-btn d-block my-0",
       "button-id": "a-js-contactForm-submit",
       "button-type": "button",
       "onclick": false,
@@ -81,7 +81,7 @@
     "type-class": "tul",
     "submit": {
       "button-text": "Neste",
-      "button-class": "a-btn d-block my-0",
+      "buttonClass": "a-btn d-block my-0",
       "button-id": "a-js-contactForm-submit",
       "button-type": "button",
       "onclick": false,
@@ -98,7 +98,7 @@
     "type-class": "fire",
     "submit": {
       "button-text": "Neste",
-      "button-class": "a-btn d-block my-0",
+      "buttonClass": "a-btn d-block my-0",
       "button-id": "a-js-contactForm-submit",
       "button-type": "button",
       "onclick": false,

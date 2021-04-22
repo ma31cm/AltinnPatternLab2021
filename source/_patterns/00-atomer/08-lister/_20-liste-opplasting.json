@@ -7,7 +7,7 @@
       "list-item-aria-label": "Fjern fil:",
       "icon-onclick": "console.log('Dummy fjern opplastet fil');",
       "icon-prefix": "ai",
-      "icon-class": "ai-circle-exit"
+      "iconClass": "ai-circle-exit"
     }
   ]
 }

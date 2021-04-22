@@ -84,11 +84,11 @@
   },
 
   "jumbo-link": {
-    "link-class": "a-linkFeatured",
+    "linkClass": "a-linkFeatured",
     "link-text": "Starte bedrift temaside",
     "link-icon": {
       "icon-prefix": "ai ai-sm ai-nw ai-nw-right",
-      "icon-class": "ai-arrowright"
+      "iconClass": "ai-arrowright"
     },
     "link-url": ""
   }

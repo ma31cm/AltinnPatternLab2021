@@ -2,8 +2,8 @@
   "variation-class": "a-iconText-background a-iconText-large",
   "hasIcon": {
     "icon-prefix": "reg",
-    "icon-class": "reg-forward",
-    "icon-extra-class": "a-icon"    
+    "iconClass": "reg-forward",
+    "iconExtraClass": "a-icon"
   },
   "delegation-sub-header-text": false,
   "delegation-sub-header-text-secondary": false,
@@ -13,27 +13,27 @@
   "modal-navbar-override": {
     "button-list": [
       {
-        "button-class": "a-modal-back",
+        "buttonClass": "a-modal-back",
         "aria-label": "Tilbake",
         "icon-prefix": "ai",
-        "icon-class": "ai-back",
-        "icon-extra-class": "",
+        "iconClass": "ai-back",
+        "iconExtraClass": "",
         "stacked-background": {
           "icon-prefix": "ai",
-          "icon-class": "ai-plain-circle-big"
+          "iconClass": "ai-plain-circle-big"
         },
         "onclick": "location.href='link.sider-portal-andre-med-rettigheter-tildel-roller'",
         "enable-popover": false
       },
       {
-        "button-class": "a-modal-close",
+        "buttonClass": "a-modal-close",
         "aria-label": "Lukk",
         "icon-prefix": "ai",
-        "icon-class": "ai-exit",
-        "icon-extra-class": "a-modal-close-icon",
+        "iconClass": "ai-exit",
+        "iconExtraClass": "a-modal-close-icon",
         "stacked-background": {
           "icon-prefix": "ai",
-          "icon-class": "ai-plain-circle-big"
+          "iconClass": "ai-plain-circle-big"
         },
         "onclick": "location.href='link.sider-portal-innboks'",
         "enable-popover": false
@@ -53,7 +53,7 @@
     "delegation-horizontal-line": false,
     "delegation-submit": {
       "button-text": "Del og gi fullmakt",
-      "button-class": "a-btn",
+      "buttonClass": "a-btn",
       "button-type": "submit",
       "onclick": "location.href='';"
       
@@ -62,14 +62,14 @@
       "delegation-has-text": false,
       "checkbuttons": [
         {
-          "icon-extra-class": "",
+          "iconExtraClass": "",
           "checkbuttons-title": " Kun lese",
           "checkbuttons-id": "checkbutton-lese",
           "checkbuttons-class": "",
           "isChecked": true,
           "hasIcon": {
             "icon-prefix": "ai",
-            "icon-class": "ai-read"
+            "iconClass": "ai-read"
           },
           "stacked-background": false,
           "enable-popover":  true,
@@ -81,19 +81,19 @@
           "popover-buttons": [
             {
               "button-text": "Ok",
-              "button-class": "a-btn a-btn-danger"
+              "buttonClass": "a-btn a-btn-danger"
             }
           ]
         },
         {
-          "icon-extra-class": "",
+          "iconExtraClass": "",
           "checkbuttons-title": " Fylle ut",
           "checkbuttons-id": "checkbutton-utfylling",
           "checkbuttons-class": "",
           "isChecked": true,
           "hasIcon": {
             "icon-prefix": "ai",
-            "icon-class": "ai-write"
+            "iconClass": "ai-write"
           },
           "stacked-background": false,
           "enable-popover":  true,
@@ -105,12 +105,12 @@
           "popover-buttons": [
             {
               "button-text": "Ok",
-              "button-class": "a-btn a-btn-danger"
+              "buttonClass": "a-btn a-btn-danger"
             }
           ]
         },
         {
-          "icon-extra-class": "",
+          "iconExtraClass": "",
           "checkbuttons-title": " Signere",
           "checkbuttons-id": "checkbutton-sign",
           "checkbuttons-class": "",
@@ -118,7 +118,7 @@
           "isChecked": true,
           "hasIcon": {
             "icon-prefix": "ai",
-            "icon-class": "ai-sign"
+            "iconClass": "ai-sign"
           },
           "stacked-background": false,
           "enable-popover":  true,
@@ -130,7 +130,7 @@
           "popover-buttons": [
             {
               "button-text": "Ok",
-              "button-class": "a-btn a-btn-danger"
+              "buttonClass": "a-btn a-btn-danger"
             }
           ]
         }

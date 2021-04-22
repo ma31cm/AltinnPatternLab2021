@@ -12,7 +12,7 @@
       "prevMsgID": "previous3",
       "linkIcon-text": "Sendt",
       "icon-prefix": "reg",
-      "icon-class": "reg-send",
+      "iconClass": "reg-send",
       "sender-name": "Patentstyret, Knut Johannesen",
       "date": "sendt: 12.09.2019",
       "attachments": false,
@@ -23,7 +23,7 @@
         "message-text-block": {
           "extra-class": "",
           "text-paragraph": {
-            "text-paragraph-class": "d-inline",
+            "text-paragraphClass": "d-inline",
             "message-text": "Det virker fortsatt ikke, men jeg får en annen type feilmelding nå, se vedlegg."
           },
           "text-link": false

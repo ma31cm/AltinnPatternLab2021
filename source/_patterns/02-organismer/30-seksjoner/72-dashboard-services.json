@@ -20,11 +20,11 @@
   },
   "dashboard-addService": {
     "icon-prefix": "ai",
-    "icon-class": "ai-plus",
-    "icon-extra-class": "a-blue mr-1",
-    "button-class": "a-btn a-btn-action a-fullWidthBtn a-btnBigger",
+    "iconClass": "ai-plus",
+    "iconExtraClass": "a-blue mr-1",
+    "buttonClass": "a-btn a-btn-action a-fullWidthBtn a-btnBigger",
     "textstyling-button": "a-fontSizeXS",
-    "action-button-text": "Bestill ny produksjonssetting",
+    "actionButtonText": "Bestill ny produksjonssetting",
     "data-toggle": "altinn-modal",
     "data-action": "load",
     "data-url": {
@@ -49,8 +49,8 @@
       "login-represent": "for Patentstyret",
       "login-icon": {
         "icon-prefix": "ai",
-        "icon-class": "ai-private-circle-big",
-        "icon-extra-class": "a-personSwitcher-icon"
+        "iconClass": "ai-private-circle-big",
+        "iconExtraClass": "a-personSwitcher-icon"
       }
     },
     "icon": "group_add",
@@ -58,16 +58,16 @@
     "modal-navbar-override": {
       "button-list": [
         {
-          "button-class": "a-modal-back",
+          "buttonClass": "a-modal-back",
           "aria-label":  "Tilbake",
           "icon-prefix": "ai",
-          "icon-class": "ai-back",
-          "icon-extra-class": "",
+          "iconClass": "ai-back",
+          "iconExtraClass": "",
           "enable-popover": false,
           "display-as-link": false,
           "stacked-background": {
             "icon-prefix": "ai",
-            "icon-class": "ai-plain-circle-big"
+            "iconClass": "ai-plain-circle-big"
           },
           "is-modal-back": {
             "data-target": "#modal-addservice"
@@ -75,16 +75,16 @@
           "onclick": "goBack()"
         },
         {
-          "button-class": "a-modal-close",
+          "buttonClass": "a-modal-close",
           "aria-label":  "Lukk",
           "icon-prefix": "ai",
-          "icon-class": "ai-exit",
-          "icon-extra-class": "a-modal-close-icon",
+          "iconClass": "ai-exit",
+          "iconExtraClass": "a-modal-close-icon",
           "enable-popover": false,
           "display-as-link": false,
           "stacked-background": {
             "icon-prefix": "ai",
-            "icon-class": "ai-plain-circle-big"
+            "iconClass": "ai-plain-circle-big"
           },
           "is-modal-close": {
             "data-target": "#modal-addservice"
@@ -125,7 +125,7 @@
         "message-text-block": {
           "extra-class": false,
           "text-paragraph": {
-            "text-paragraph-class": "d-inline",
+            "text-paragraphClass": "d-inline",
             "message-text": "Produksjonsdato 23.11.2017<br>Tjenestetype: Innsendingstjeneste<br>Se tjenesten på <a href=\"https://altinn.no/skjemaoversikt/patentstyret/korrespondanse-til-patentstyret/\">altinn.no</a>"
           },
           "text-link": false
@@ -142,16 +142,16 @@
             "button-icons-wrapper-class": "col-lg-auto col-12",
             "button-wrapper-class": "col",
             "action-button": false,
-            "action-button-icon": [
+            "actionButtonIcon": [
               {
                 "button-text": "Rediger tjenesten",
-                "button-class": "a-btn-link a-btn-md-block",
+                "buttonClass": "a-btn-link a-btn-md-block",
                 "button-colorClass": "",
                 "link-url": "",
                 "button-shadow-label": false,
                 "button-icon": {
                   "icon-prefix": "reg",
-                  "icon-class": "reg-edit ai-sm"
+                  "iconClass": "reg-edit ai-sm"
                 },
                 "data-toggle": "altinn-modal",
                 "data-action": "load",
@@ -185,16 +185,16 @@
                     "button-icons-wrapper-class": "col-lg-auto col-12",
                     "button-wrapper-class": "col",
                     "action-button": false,
-                    "action-button-icon": [
+                    "actionButtonIcon": [
                       {
                         "button-text": "Rediger utgaven",
-                        "button-class": "a-btn-link a-btn-md-block",
+                        "buttonClass": "a-btn-link a-btn-md-block",
                         "button-colorClass": "",
                         "link-url": "",
                         "button-shadow-label": false,
                         "button-icon": {
                           "icon-prefix": "reg",
-                          "icon-class": "reg-edit ai-sm"
+                          "iconClass": "reg-edit ai-sm"
                         },
                         "data-toggle": "altinn-modal",
                         "data-action": "load",
@@ -397,16 +397,16 @@
                     "button-icons-wrapper-class": "col-lg-auto col-12",
                     "button-wrapper-class": "col",
                     "action-button": false,
-                    "action-button-icon": [
+                    "actionButtonIcon": [
                       {
                         "button-text": "Rediger utgaven",
-                        "button-class": "a-btn-link a-btn-md-block",
+                        "buttonClass": "a-btn-link a-btn-md-block",
                         "button-colorClass": "",
                         "link-url": "",
                         "button-shadow-label": false,
                         "button-icon": {
                           "icon-prefix": "reg",
-                          "icon-class": "reg-edit ai-sm"
+                          "iconClass": "reg-edit ai-sm"
                         },
                         "data-toggle": "altinn-modal",
                         "data-action": "load",
@@ -511,7 +511,7 @@
         "message-text-block": {
           "extra-class": false,
           "text-paragraph": {
-            "text-paragraph-class": "d-inline",
+            "text-paragraphClass": "d-inline",
             "message-text": "Produksjonsdato 23.11.2017<br>Tjenestetype: Innsendingstjeneste<br>Se tjenesten på <a href=\"https://altinn.no/skjemaoversikt/patentstyret/korrespondanse-til-patentstyret/\">altinn.no</a>"
           },
           "text-link": false
@@ -527,16 +527,16 @@
             "button-icons-wrapper-class": "col-lg-auto col-12",
             "button-wrapper-class": "col",
             "action-button": false,
-            "action-button-icon": [
+            "actionButtonIcon": [
               {
                 "button-text": "Rediger tjenesten",
-                "button-class": "a-btn-link a-btn-md-block",
+                "buttonClass": "a-btn-link a-btn-md-block",
                 "button-colorClass": "",
                 "link-url": "",
                 "button-shadow-label": false,
                 "button-icon": {
                   "icon-prefix": "reg",
-                  "icon-class": "reg-edit ai-sm"
+                  "iconClass": "reg-edit ai-sm"
                 }
               }
             ]
@@ -564,16 +564,16 @@
                     "button-icons-wrapper-class": "col-lg-auto col-12",
                     "button-wrapper-class": "col",
                     "action-button": false,
-                    "action-button-icon": [
+                    "actionButtonIcon": [
                       {
                         "button-text": "Rediger utgaven",
-                        "button-class": "a-btn-link a-btn-md-block",
+                        "buttonClass": "a-btn-link a-btn-md-block",
                         "button-colorClass": "",
                         "link-url": "",
                         "button-shadow-label": false,
                         "button-icon": {
                           "icon-prefix": "reg",
-                          "icon-class": "reg-edit ai-sm"
+                          "iconClass": "reg-edit ai-sm"
                         },
                         "data-toggle": "altinn-modal",
                         "data-action": "load",
@@ -654,16 +654,16 @@
   },
   "dashboard-viewMoreServices": {
     "link-text": "Se alle tjenester",
-    "link-class": "a-linkFeatured",
+    "linkClass": "a-linkFeatured",
     "link-url": "",
     "link-icon": {
       "icon-prefix": "ai ai-sm ai-nw ai-nw-right",
-      "icon-class": "ai-arrowright"
+      "iconClass": "ai-arrowright"
     }
   },
   "dashboard-switch-content-tul": {
     "section-sub-title": "Ny løsning for tjenesteutvikling på vei!",
-    "paragraph-content": "Neste generasjons tjenester kan fra 2020 lages i Altinn Studio.",
+    "paragraphContent": "Neste generasjons tjenester kan fra 2020 lages i Altinn Studio.",
     "link-text": "Se muligheter med Altinn Studio",
     "link-url": "https://www.altinndigital.no/altinn-studio/"
   }

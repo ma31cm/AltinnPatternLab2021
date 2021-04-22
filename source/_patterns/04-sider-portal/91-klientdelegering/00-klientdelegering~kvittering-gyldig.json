@@ -2,7 +2,7 @@
   "variation-class": "a-iconText-background a-iconText-large",
   "hasIcon": {
     "icon-prefix": "ai",
-    "icon-class": "ai-client"
+    "iconClass": "ai-client"
   },
   "show-receipt-content": true,
   "bodyClass": "a-modal-background-success",
@@ -19,7 +19,7 @@
     {
       "link-text": "Ferdig",
       "link-url": "link.sider-portal-profil-roller-rettigheter",
-      "link-class": "a-btn a-btn-success",
+      "linkClass": "a-btn a-btn-success",
       "link-icon": false
     }
   ]

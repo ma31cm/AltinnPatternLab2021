@@ -12,7 +12,7 @@
       "form-input-button-action": "Utfør søk",
       "button-icon": {
         "icon-prefix": "ai",
-        "icon-class": "ai-search"
+        "iconClass": "ai-search"
       },
       "button-text": [
         {
@@ -407,7 +407,7 @@
   },
   "first-linkTitle": {
     "link-text": "Tittel på artikkel",
-    "link-class": "a-link-title",
+    "linkClass": "a-link-title",
     "category-element-description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
   }
 }

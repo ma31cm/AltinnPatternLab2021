@@ -7,7 +7,7 @@
       "buttons": [
         {
           "button-text": "Be om tilgang",
-          "button-class": "a-btn a-btn-success mr-1",
+          "buttonClass": "a-btn a-btn-success mr-1",
           "button-disabled": false,
           "onclick": "location.href='link.sider-portal-tilgangsforesporsel-be-om-tilgang-kvittering'",
           "button-icon": false,
@@ -15,7 +15,7 @@
         },
         {
           "button-text": "Avbryt",
-          "button-class": "a-btn-link",
+          "buttonClass": "a-btn-link",
           "button-disabled": false,
           "onclick": "location.href='link.sider-portal-profil-roller-rettigheter'",
           "button-icon": false,
@@ -27,23 +27,23 @@
   "icontext": "Be om tilgang",
   "hasIcon": {
     "icon-prefix": "reg",
-    "icon-class": "reg-forward",
-    "icon-extra-class": "a-icon"    
+    "iconClass": "reg-forward",
+    "iconExtraClass": "a-icon"
   },
   "modal-navbar-override": {
     "button-list": [
       {
-        "button-class": "a-modal-back a-hiddenRow"
+        "buttonClass": "a-modal-back a-hiddenRow"
       },
       {
-        "button-class": "a-modal-close",
+        "buttonClass": "a-modal-close",
         "aria-label": "Lukk",
         "icon-prefix": "ai",
-        "icon-class": "ai-exit",
-        "icon-extra-class": "a-modal-close-icon",
+        "iconClass": "ai-exit",
+        "iconExtraClass": "a-modal-close-icon",
         "stacked-background": {
           "icon-prefix": "ai",
-          "icon-class": "ai-plain-circle-big"
+          "iconClass": "ai-plain-circle-big"
         },
         "onclick": "location.href='link.sider-portal-profil-roller-rettigheter'",
         "is-modal-close": {

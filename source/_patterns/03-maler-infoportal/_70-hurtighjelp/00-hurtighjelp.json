@@ -5,7 +5,7 @@
   "stickyHelp-category": "test",
   "stickyHelp-back": {
     "icon-prefix": "ai",
-    "icon-class": "ai-back ai-sm",
+    "iconClass": "ai-back ai-sm",
     "icon-id": "back",
     "icon-sr-only-text": "Tilbake"
   },
@@ -24,7 +24,7 @@
     "form-input-hasButton": {
       "button-icon": {
         "icon-prefix": "ai",
-        "icon-class": "ai-search"
+        "iconClass": "ai-search"
       },
       "button-text": [
         {

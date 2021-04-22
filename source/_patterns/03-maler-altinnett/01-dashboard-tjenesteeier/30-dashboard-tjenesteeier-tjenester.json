@@ -28,7 +28,7 @@
       {
         "button-icon": {
           "icon-prefix": "ai",
-          "icon-class": "ai-search"
+          "iconClass": "ai-search"
         },
         "button-text": [
           {
@@ -48,12 +48,12 @@
 
   "dashboard-messages" : false,
   "load-more-btn": {
-    "button-class": "a-btn a-btn-action a-fullWidthBtn pl-1",
-    "action-button-text": "Last flere",
+    "buttonClass": "a-btn a-btn-action a-fullWidthBtn pl-1",
+    "actionButtonText": "Last flere",
     "onclick": "location.href='#'",
     "icon-prefix": "ai",
-    "icon-class": "ai-plus",
-    "icon-extra-class": ""
+    "iconClass": "ai-plus",
+    "iconExtraClass": ""
   }
 
 }

@@ -101,8 +101,8 @@
         "isRequired": false,
         "form-control-class": "",
         "icon-prefix": "ai",
-        "icon-class": "ai-date",
-        "icon-extra-class": ""
+        "iconClass": "ai-date",
+        "iconExtraClass": ""
       }
     },
     "dato-publisering": {
@@ -115,13 +115,13 @@
         "isRequired": false,
         "form-control-class": "",
         "icon-prefix": "ai",
-        "icon-class": "ai-date",
-        "icon-extra-class": ""
+        "iconClass": "ai-date",
+        "iconExtraClass": ""
       }
     },
     "registrer": {
       "button-text": "Lagre",
-      "button-class": "a-btn mt-3",
+      "buttonClass": "a-btn mt-3",
       "button-id": "a-js-contactForm-submit",
       "button-type": "button",
       "onclick": false,

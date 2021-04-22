@@ -2,32 +2,32 @@
   "variation-class": "a-iconText-background a-iconText-large",
   "hasIcon": {
     "icon-prefix": "ai",
-    "icon-class": "ai-corp"
+    "iconClass": "ai-corp"
   },
   "modal-navbar-override": {
     "button-list": [
       {
-        "button-class": "a-modal-back",
+        "buttonClass": "a-modal-back",
         "aria-label": "Tilbake",
         "icon-prefix": "ai",
-        "icon-class": "ai-back",
-        "icon-extra-class": "",
+        "iconClass": "ai-back",
+        "iconExtraClass": "",
         "stacked-background": {
           "icon-prefix": "ai",
-          "icon-class": "ai-plain-circle-big"
+          "iconClass": "ai-plain-circle-big"
         },
         "onclick": "location.href='link.sider-portal-profil-roller-rettigheter'",
         "enable-popover": false
       },
       {
-        "button-class": "a-modal-close",
+        "buttonClass": "a-modal-close",
         "aria-label": "Lukk",
         "icon-prefix": "ai",
-        "icon-class": "ai-exit",
-        "icon-extra-class": "a-modal-close-icon",
+        "iconClass": "ai-exit",
+        "iconExtraClass": "a-modal-close-icon",
         "stacked-background": {
           "icon-prefix": "ai",
-          "icon-class": "ai-plain-circle-big"
+          "iconClass": "ai-plain-circle-big"
         },
         "onclick": "location.href='link.sider-portal-profil-roller-rettigheter'",
         "enable-popover": false
@@ -107,22 +107,22 @@
                   "popover-link-icon": [
                     {
                       "icon-prefix": "ai",
-                      "icon-class": "ai-help-popicon",
+                      "iconClass": "ai-help-popicon",
                       "popovericon-container": {
                         "popovericon-container-class": "a-js-popoverIconInitial",
                         "icon-prefix": "",
-                        "icon-class": "",
-                        "icon-extra-class": ""
+                        "iconClass": "",
+                        "iconExtraClass": ""
                       }
                     },
                     {
                       "icon-prefix": "ai",
-                      "icon-class": "ai-circle-exit",
+                      "iconClass": "ai-circle-exit",
                       "popovericon-container": {
                         "popovericon-container-class": "a-js-popoverIconExpanded",
                         "icon-prefix": "",
-                        "icon-class": "",
-                        "icon-extra-class": ""
+                        "iconClass": "",
+                        "iconExtraClass": ""
                       }
                     }
                   ]

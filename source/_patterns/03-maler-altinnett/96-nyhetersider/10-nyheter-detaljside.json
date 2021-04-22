@@ -21,7 +21,7 @@
   },
   "listContent": {
      "section-title": "Endringer som kommer:",
-     "paragraph-content": "Endringene for kontaktinformasjon gjøres for å sikre at Altinn skal være godt egnet for tjenesteeiere som benytter tjenester til virksomheter som krever varsling. Her gjøres det endringer både på brukersiden med et forenklet, moderne design, og mot tjenesteeierne for å sikre kontroll på at varsel sendes ut til de riktige varslingsadressene.",
+     "paragraphContent": "Endringene for kontaktinformasjon gjøres for å sikre at Altinn skal være godt egnet for tjenesteeiere som benytter tjenester til virksomheter som krever varsling. Her gjøres det endringer både på brukersiden med et forenklet, moderne design, og mot tjenesteeierne for å sikre kontroll på at varsel sendes ut til de riktige varslingsadressene.",
       "bulletListItems": [
         {
           "listItemDescription": "Det er utviklet en ny tjenestetype som vil kunne brukes i tilfeller der det er behov for utveksling av store datafiler mellom ulike aktører."
@@ -52,7 +52,7 @@
       "form-input-hasButton": {
         "button-icon": {
           "icon-prefix": "ai",
-          "icon-class": "ai-search"
+          "iconClass": "ai-search"
         },
         "button-text": [
           {

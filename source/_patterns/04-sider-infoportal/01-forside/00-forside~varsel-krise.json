@@ -7,7 +7,7 @@
   "login-name": "Logg inn",
   "login-icon": {
     "icon-prefix": "ai",
-    "icon-class": "ai-keyhole-circle"
+    "iconClass": "ai-keyhole-circle"
   },
   "personlogin-isDropdown": false,
   "onclick": "location.href='link.sider-portal-aktorvalg-forste-gang-enkel'",
@@ -21,7 +21,7 @@
       "link-buttonLarge": {
         "link-text": "Logg inn",
         "link-url": "/patterns/04-sider-infoportal-01-forside-02-forside-innlogget/04-sider-infoportal-01-forside-02-forside-innlogget.html",
-        "link-class": "a-btn a-btn-border a-notActive"
+        "linkClass": "a-btn a-btn-border a-notActive"
       }
     },
     "front-main-button-text-right": "og finn dine oppgaver",
@@ -47,7 +47,7 @@
       "form-input-button-action": "Utfør søk",
       "button-icon": {
         "icon-prefix": "ai",
-        "icon-class": "ai-search"
+        "iconClass": "ai-search"
       },
       "button-text": [
         {

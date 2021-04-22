@@ -19,7 +19,7 @@
       "form-input-button-action": "Utfør søk",
       "button-icon": {
         "icon-prefix": "ai",
-        "icon-class": "ai-search"
+        "iconClass": "ai-search"
       },
       "button-text": [
         {
@@ -45,7 +45,7 @@
     "main-card-description": "Du skal fylle ut når du flytter. Du kan melde flytting for alle i din husstand. Folkeregisteret skal ha meldingen elektronisk eller på papir senest åtte dager etter flytting.",
     "button-text": "Start utfylling",
     "onclick": "location.href='link.sider-portal-aktorvalg-forste-gang'",
-    "button-class": "a-btn a-btn-success"
+    "buttonClass": "a-btn a-btn-success"
   },
   "header-2": "Om dette skjemaet",
   "accordion-small-id": "accordion-small",
@@ -62,7 +62,7 @@
     "help-prefix": "Se",
     "link-text": "Skatteetatens informasjon om skjemaet",
     "link-icon": false,
-    "link-class": "",
+    "linkClass": "",
     "help-end": "eller ta kontakt med Skatteetaten på 800 80 000"
   }
 }

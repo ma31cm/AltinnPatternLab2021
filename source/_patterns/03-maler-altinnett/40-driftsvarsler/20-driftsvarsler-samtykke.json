@@ -21,12 +21,12 @@
   },
 
   "description": {
-    "paragraph-content": "Jeg gir mitt samtykke til at Altinn kan sende automatiske driftsvarlser/nyheter til min e-postadresse, og samtykker til at min e-postadresse blir lagret til dette formålet."
+    "paragraphContent": "Jeg gir mitt samtykke til at Altinn kan sende automatiske driftsvarlser/nyheter til min e-postadresse, og samtykker til at min e-postadresse blir lagret til dette formålet."
   },
 
   "submit-samtykke": {
     "button-text": "Jeg samtykker",
-    "button-class": "a-btn",
+    "buttonClass": "a-btn",
     "button-id": "samtykke",
     "button-type": "button",
     "onclick": "location.href='link.sider-altinnett-driftsvarsler-bekreftelse-samtykke';"

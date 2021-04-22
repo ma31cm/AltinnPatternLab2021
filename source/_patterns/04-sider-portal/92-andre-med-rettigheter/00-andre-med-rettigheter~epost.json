@@ -2,32 +2,32 @@
   "variation-class": "a-iconText-background a-iconText-large",
   "hasIcon": {
     "icon-prefix": "ai",
-    "icon-class": "ai-corp"
+    "iconClass": "ai-corp"
   },
   "modal-navbar-override": {
     "button-list": [
       {
-        "button-class": "a-modal-back",
+        "buttonClass": "a-modal-back",
         "aria-label": "Tilbake",
         "icon-prefix": "ai",
-        "icon-class": "ai-back",
-        "icon-extra-class": "",
+        "iconClass": "ai-back",
+        "iconExtraClass": "",
         "stacked-background": {
           "icon-prefix": "ai",
-          "icon-class": "ai-plain-circle-big"
+          "iconClass": "ai-plain-circle-big"
         },
         "onclick": "location.href='link.sider-portal-andre-med-rettigheter-tildel-roller'",
         "enable-popover": false
       },
       {
-        "button-class": "a-modal-close",
+        "buttonClass": "a-modal-close",
         "aria-label": "Lukk",
         "icon-prefix": "ai",
-        "icon-class": "ai-exit",
-        "icon-extra-class": "a-modal-close-icon",
+        "iconClass": "ai-exit",
+        "iconExtraClass": "a-modal-close-icon",
         "stacked-background": {
           "icon-prefix": "ai",
-          "icon-class": "ai-plain-circle-big"
+          "iconClass": "ai-plain-circle-big"
         },
         "onclick": "location.href='link.sider-portal-profil-roller-rettigheter'",
         "enable-popover": false
@@ -65,15 +65,15 @@
         },
         "form-label-hasIcon": {
           "icon-prefix": "ai",
-          "icon-class": "ai-closedmessage",
+          "iconClass": "ai-closedmessage",
           "icon-size": "",
-          "icon-extra-class": ""
+          "iconExtraClass": ""
         },
         "form-input-hasButton": false
       },
       "delegation-email-submit": {
         "button-text": "Fullfør",
-        "button-class": "a-btn a-btn-success",
+        "buttonClass": "a-btn a-btn-success",
         "button-type": "submit",
         "onclick": "location.href='link.sider-portal-andre-med-rettigheter-delegering-ok';"
       }

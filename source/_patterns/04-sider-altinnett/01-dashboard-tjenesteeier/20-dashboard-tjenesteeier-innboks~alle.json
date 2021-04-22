@@ -1,12 +1,12 @@
 { 
   "empty-inbox": false,
   "load-more-btn": {
-    "button-class": "a-btn a-btn-action a-fullWidthBtn pl-1",
-    "action-button-text": "Last flere",
+    "buttonClass": "a-btn a-btn-action a-fullWidthBtn pl-1",
+    "actionButtonText": "Last flere",
     "onclick": "location.href='#'",
     "icon-prefix": "ai",
-    "icon-class": "ai-plus",
-    "icon-extra-class": ""
+    "iconClass": "ai-plus",
+    "iconExtraClass": ""
   },
   "dashboard-messages" : {
     "accordion-large-id": false,
@@ -33,16 +33,16 @@
           },
           "heading-icon": {
             "icon-prefix": "reg",
-            "icon-class": "reg-closedmessage",
+            "iconClass": "reg-closedmessage",
             "icon-size": "ai-md-lg",
-            "icon-extra-class": "ai-nw",
+            "iconExtraClass": "ai-nw",
             "aria-hidden": true,
             "icon-sr-only-text": "Melding ulest",
             "heading-secondary-icon": {
               "icon-prefix": "reg",
-              "icon-class": "reg-openmessage",
+              "iconClass": "reg-openmessage",
               "icon-size": "ai-md-lg",
-              "icon-extra-class": "ai-nw a-msgIconSecondary",
+              "iconExtraClass": "ai-nw a-msgIconSecondary",
               "aria-hidden": true,
               "icon-sr-only-text": "Melding lest",
               "sr-aria-hidden": true
@@ -59,7 +59,7 @@
           "message-text-block": {
             "extra-class": "",
             "text-paragraph": {
-              "text-paragraph-class": "d-inline",
+              "text-paragraphClass": "d-inline",
               "message-text": "Det var en feil med skjemaet. De riktige feltene skal være lagt inn nå. Dersom det fungerer greit hos deg, kan du sette denne saken til løst. "            },
             "text-link": false
           },
@@ -70,19 +70,19 @@
                 "list-item-name": "Skjermbilde-som-ingen-vet-hvem-har-sendt.jpg",
                 "listItemDescription": "(last ned)",
                 "icon-prefix": "reg",
-                "icon-class": "reg-attachment ai-md ai-nw pr-1"
+                "iconClass": "reg-attachment ai-md ai-nw pr-1"
               },
               {
                 "list-item-name": "Når-ble-denne-filen-lagt-ved-tro.pdf",
                 "listItemDescription": "(last ned)",
                 "icon-prefix": "reg",
-                "icon-class": "reg-attachment ai-md ai-nw pr-1"
+                "iconClass": "reg-attachment ai-md ai-nw pr-1"
               },
               {
                 "list-item-name": "skjermdumpavenfeil.jpg",
                 "listItemDescription": "(last ned)",
                 "icon-prefix": "reg",
-                "icon-class": "reg-attachment ai-md ai-nw pr-1"
+                "iconClass": "reg-attachment ai-md ai-nw pr-1"
               }
             ],
             "download-all": false
@@ -93,16 +93,16 @@
             "button-icons-wrapper-class": "col-lg-auto col-12",
             "button-wrapper-class": "col",
             "action-button": false,
-            "action-button-icon": [
+            "actionButtonIcon": [
               {
                 "button-text": "Svar",
-                "button-class": "a-btn-link a-btn-md-block pl-lg-2",
+                "buttonClass": "a-btn-link a-btn-md-block pl-lg-2",
                 "button-colorClass": "",
                 "link-url": "",
                 "button-shadow-label": false,
                 "button-icon": {
                   "icon-prefix": "reg",
-                  "icon-class": "reg-send pr-1"
+                  "iconClass": "reg-send pr-1"
                 },
                 "data-toggle": "altinn-modal",
                 "data-action": "load",
@@ -128,7 +128,7 @@
                 "prevMsgID": "previous3",
                 "linkIcon-text": "Sendt",
                 "icon-prefix": "reg",
-                "icon-class": "reg-send",
+                "iconClass": "reg-send",
                 "sender-name": "Patentstyret, Knut Johannesen",
                 "date": "sendt: 12.09.2019",
                 "messageBodyPrev": {
@@ -137,7 +137,7 @@
                   "message-text-block": {
                     "extra-class": "",
                     "text-paragraph": {
-                      "text-paragraph-class": "d-inline",
+                      "text-paragraphClass": "d-inline",
                       "message-text": "Det virker fortsatt ikke, men jeg får en annen type feilmelding nå, se vedlegg."
                     },
                     "text-link": false
@@ -153,7 +153,7 @@
                 "prevMsgID": "previous1",
                 "linkIcon-text": "Mottat",
                 "icon-prefix": "reg",
-                "icon-class": "reg-openmessage",
+                "iconClass": "reg-openmessage",
                 "sender-name": "Altinn, Torkel Buarøy",
                 "date": "mottatt: 11.09.2019",
                 "messageBodyPrev": {
@@ -162,7 +162,7 @@
                   "message-text-block": {
                     "extra-class": "",
                     "text-paragraph": {
-                      "text-paragraph-class": "d-inline",
+                      "text-paragraphClass": "d-inline",
                       "message-text": "Hei,  <br><br> Kan du prøve å sende inn en ny forsendelse på skjema nå og forsøke å signere? <br><br> Mvh. Torkel Buarøy"
                     },
                     "text-link": false
@@ -177,7 +177,7 @@
                 "prevMsgID": "previous2",
                 "linkIcon-text": "Sendt",
                 "icon-prefix": "reg",
-                "icon-class": "reg-send",
+                "iconClass": "reg-send",
                 "sender-name": "Patentstyret, Knut Johannesen",
                 "date": "sendt: 10.09.2019",
                 "messageBodyPrev": {
@@ -186,7 +186,7 @@
                   "message-text-block": {
                     "extra-class": "",
                     "text-paragraph": {
-                      "text-paragraph-class": "d-inline",
+                      "text-paragraphClass": "d-inline",
                       "message-text": "Hei,<br><br>Når jeg klikker send inn får jeg en feilmelding, se vedlagt skjermbilde. Er det noe jeg må gjøre i innsendingssteget for at meldingen skal gå igjennom?<br><br>Knut Johannesen / NAV Økonomitenester"
                     },
                     "text-link": false
@@ -223,9 +223,9 @@
           },
           "heading-icon": {
             "icon-prefix": "reg",
-            "icon-class": "reg-waiting",
+            "iconClass": "reg-waiting",
             "icon-size": "ai-md-lg",
-            "icon-extra-class": "ai-nw",
+            "iconExtraClass": "ai-nw",
             "aria-hidden": true,
             "icon-sr-only-text": "Melding sendt"
           },
@@ -243,7 +243,7 @@
           "message-text-block": {
             "extra-class": "",
             "text-paragraph": {
-              "text-paragraph-class": "d-inline",
+              "text-paragraphClass": "d-inline",
               "message-text": "Hei,<br><br>Kan dere forklare hvorfor ikke korrekt adresse tas med i skjema han fyller ut? Se vedlagt skjermbilde."
             },
             "text-link": false
@@ -254,16 +254,16 @@
             "button-icons-wrapper-class": "col-lg-auto col-12",
             "button-wrapper-class": "col",
             "action-button": false,
-            "action-button-icon": [
+            "actionButtonIcon": [
               {
                 "button-text": "Svar",
-                "button-class": "a-btn-link a-btn-md-block pl-lg-2",
+                "buttonClass": "a-btn-link a-btn-md-block pl-lg-2",
                 "button-colorClass": "",
                 "link-url": "",
                 "button-shadow-label": false,
                 "button-icon": {
                   "icon-prefix": "reg",
-                  "icon-class": "reg-send pr-1"
+                  "iconClass": "reg-send pr-1"
                 }
               }
             ]
@@ -293,9 +293,9 @@
           },
           "heading-icon": {
             "icon-prefix": "reg",
-            "icon-class": "reg-check",
+            "iconClass": "reg-check",
             "icon-size": "ai-md-lg",
-            "icon-extra-class": "ai-nw",
+            "iconExtraClass": "ai-nw",
             "aria-hidden": true,
             "icon-sr-only-text": "Saken er løst"
           },
@@ -313,7 +313,7 @@
           "message-text-block": {
             "extra-class": "",
             "text-paragraph": {
-              "text-paragraph-class": "d-inline",
+              "text-paragraphClass": "d-inline",
               "message-text": "Hei,<br><br>Kari Jensen har nå fått tilgang til TUL, samt Visual Studio og Team Foundation Server. Innloggingsdetaljer er sendt til hennes e-postadresse. <br><br>Saken er satt til løst. Den vil gjennopprettes dersom du svarer på denne meldingen."
             },
             "text-link": false
@@ -324,16 +324,16 @@
             "button-icons-wrapper-class": "col-lg-auto col-12",
             "button-wrapper-class": "col",
             "action-button": false,
-            "action-button-icon": [
+            "actionButtonIcon": [
               {
                 "button-text": "Svar",
-                "button-class": "a-btn-link a-btn-md-block pl-lg-2",
+                "buttonClass": "a-btn-link a-btn-md-block pl-lg-2",
                 "button-colorClass": "",
                 "link-url": "",
                 "button-shadow-label": false,
                 "button-icon": {
                   "icon-prefix": "reg",
-                  "icon-class": "reg-send pr-1"
+                  "iconClass": "reg-send pr-1"
                 },
                 "data-toggle": "altinn-modal",
                 "data-action": "load",
@@ -361,7 +361,7 @@
               "prevMsgID": "previous1bb",
               "linkIcon-text": "Sendt",
               "icon-prefix": "reg",
-              "icon-class": "reg-send",
+              "iconClass": "reg-send",
               "sender-name": "Patentstyret, Knut Johannesen",
               "date": "sendt: 12.09.2019",
               "messageBodyPrev": {
@@ -370,7 +370,7 @@
                 "message-text-block": {
                   "extra-class": "",
                   "text-paragraph": {
-                    "text-paragraph-class": "d-inline",
+                    "text-paragraphClass": "d-inline",
                     "message-text": "Ønsker tilgang til: TUL<br><br> Trenger også tilgang til Visual Studio og Team Foundation Server. <br><br>Navn på den som skal ha tilgang: Kari Jensen<br>Mobilnummer: 999 99 999<br>E-postadresse: karijensen@patentstyret.no"
                   },
                   "text-link": false
@@ -406,9 +406,9 @@
           },
           "heading-icon": {
             "icon-prefix": "reg",
-            "icon-class": "reg-check",
+            "iconClass": "reg-check",
             "icon-size": "ai-md-lg",
-            "icon-extra-class": "ai-nw",
+            "iconExtraClass": "ai-nw",
             "aria-hidden": true,
             "icon-sr-only-text": "Løst"
           },
@@ -426,7 +426,7 @@
           "message-text-block": {
             "extra-class": "",
             "text-paragraph": {
-              "text-paragraph-class": "d-inline",
+              "text-paragraphClass": "d-inline",
               "message-text": "Hei,<br><br>Da skal du ha fått den hjelpen du trenger...... <br><br> Saken er satt til løst. Den vil gjennopprettes dersom du svarer på denne meldingen."
             },
             "text-link": false
@@ -437,16 +437,16 @@
             "button-icons-wrapper-class": "col-lg-auto col-12",
             "button-wrapper-class": "col",
             "action-button": false,
-            "action-button-icon": [
+            "actionButtonIcon": [
               {
                 "button-text": "Svar",
-                "button-class": "a-btn-link a-btn-md-block",
+                "buttonClass": "a-btn-link a-btn-md-block",
                 "button-colorClass": "",
                 "link-url": "",
                 "button-shadow-label": false,
                 "button-icon": {
                   "icon-prefix": "reg",
-                  "icon-class": "reg-send pr-1"
+                  "iconClass": "reg-send pr-1"
                 }
               }
             ]
@@ -467,7 +467,7 @@
               "prevMsgID": "previous1cc",
               "linkIcon-text": "Sendt",
               "icon-prefix": "reg",
-              "icon-class": "reg-send",
+              "iconClass": "reg-send",
               "sender-name": "Patentstyret, Knut Johannesen",
               "date": "sendt: 12.09.2019",
               "messageBodyPrev": {
@@ -476,7 +476,7 @@
                 "message-text-block": {
                   "extra-class": "",
                   "text-paragraph": {
-                    "text-paragraph-class": "d-inline",
+                    "text-paragraphClass": "d-inline",
                     "message-text": "Hei,<br><br>Jeg trenger hjelp til ...... "
                   },
                   "text-link": false
@@ -512,9 +512,9 @@
           },
           "heading-icon": {
             "icon-prefix": "reg",
-            "icon-class": "reg-check",
+            "iconClass": "reg-check",
             "icon-size": "ai-md-lg",
-            "icon-extra-class": "ai-nw",
+            "iconExtraClass": "ai-nw",
             "aria-hidden": true,
             "icon-sr-only-text": "Løst"
           },
@@ -532,7 +532,7 @@
           "message-text-block": {
             "extra-class": "",
             "text-paragraph": {
-              "text-paragraph-class": "d-inline",
+              "text-paragraphClass": "d-inline",
               "message-text": "Hei,<br><br>Da skal du ha fått den hjelpen du trenger...... <br><br> Saken er satt til løst. Den vil gjennopprettes dersom du svarer på denne meldingen."
             },
             "text-link": false
@@ -543,16 +543,16 @@
             "button-icons-wrapper-class": "col-lg-auto col-12",
             "button-wrapper-class": "col",
             "action-button": false,
-            "action-button-icon": [
+            "actionButtonIcon": [
               {
                 "button-text": "Svar",
-                "button-class": "a-btn-link a-btn-md-block",
+                "buttonClass": "a-btn-link a-btn-md-block",
                 "button-colorClass": "",
                 "link-url": "",
                 "button-shadow-label": false,
                 "button-icon": {
                   "icon-prefix": "reg",
-                  "icon-class": "reg-send pr-1"
+                  "iconClass": "reg-send pr-1"
                 }
               }
             ]
@@ -573,7 +573,7 @@
               "prevMsgID": "previous1dd",
               "linkIcon-text": "Sendt",
               "icon-prefix": "reg",
-              "icon-class": "reg-send",
+              "iconClass": "reg-send",
               "sender-name": "Patentstyret, Knut Johannesen",
               "date": "sendt: 12.09.2019",
               "messageBodyPrev": {
@@ -582,7 +582,7 @@
                 "message-text-block": {
                   "extra-class": "",
                   "text-paragraph": {
-                    "text-paragraph-class": "d-inline",
+                    "text-paragraphClass": "d-inline",
                     "message-text": "Hei,<br><br>Jeg trenger hjelp til ...... "
                   },
                   "text-link": false
@@ -618,9 +618,9 @@
           },
           "heading-icon": {
             "icon-prefix": "reg",
-            "icon-class": "reg-check",
+            "iconClass": "reg-check",
             "icon-size": "ai-md-lg",
-            "icon-extra-class": "ai-nw",
+            "iconExtraClass": "ai-nw",
             "aria-hidden": true,
             "icon-sr-only-text": "Løst"
           },
@@ -638,7 +638,7 @@
           "message-text-block": {
             "extra-class": "",
             "text-paragraph": {
-              "text-paragraph-class": "d-inline",
+              "text-paragraphClass": "d-inline",
               "message-text": "Hei,<br><br>Da skal du ha fått den hjelpen du trenger...... <br><br> Saken er satt til løst. Den vil gjennopprettes dersom du svarer på denne meldingen."
             },
             "text-link": false
@@ -649,16 +649,16 @@
             "button-icons-wrapper-class": "col-lg-auto col-12",
             "button-wrapper-class": "col",
             "action-button": false,
-            "action-button-icon": [
+            "actionButtonIcon": [
               {
                 "button-text": "Svar",
-                "button-class": "a-btn-link a-btn-md-block",
+                "buttonClass": "a-btn-link a-btn-md-block",
                 "button-colorClass": "",
                 "link-url": "",
                 "button-shadow-label": false,
                 "button-icon": {
                   "icon-prefix": "reg",
-                  "icon-class": "reg-send pr-1"
+                  "iconClass": "reg-send pr-1"
                 }
               }
             ]
@@ -679,7 +679,7 @@
               "prevMsgID": "previous1ee",
               "linkIcon-text": "Sendt",
               "icon-prefix": "reg",
-              "icon-class": "reg-send",
+              "iconClass": "reg-send",
               "sender-name": "Patentstyret, Knut Johannesen",
               "date": "sendt: 12.09.2019",
               "messageBodyPrev": {
@@ -688,7 +688,7 @@
                 "message-text-block": {
                   "extra-class": "",
                   "text-paragraph": {
-                    "text-paragraph-class": "d-inline",
+                    "text-paragraphClass": "d-inline",
                     "message-text": "Hei,<br><br>Jeg trenger hjelp til ...... "
                   },
                   "text-link": false
@@ -699,7 +699,7 @@
                       "list-item-name": "Skjermbilde.png",
                       "listItemDescription": "(last ned)",
                       "icon-prefix": "reg",
-                      "icon-class": "reg-attachment-pdf ai-md ai-nw pr-1"
+                      "iconClass": "reg-attachment-pdf ai-md ai-nw pr-1"
                     }
                   ]
                 },
@@ -733,9 +733,9 @@
           },
           "heading-icon": {
             "icon-prefix": "reg",
-            "icon-class": "reg-check",
+            "iconClass": "reg-check",
             "icon-size": "ai-md-lg",
-            "icon-extra-class": "ai-nw",
+            "iconExtraClass": "ai-nw",
             "aria-hidden": true,
             "icon-sr-only-text": "Løst"
           },
@@ -753,7 +753,7 @@
           "message-text-block": {
             "extra-class": "",
             "text-paragraph": {
-              "text-paragraph-class": "d-inline",
+              "text-paragraphClass": "d-inline",
               "message-text": "Hei,<br><br>Da skal du ha fått den hjelpen du trenger...... <br><br> Saken er satt til løst. Den vil gjennopprettes dersom du svarer på denne meldingen."
             },
             "text-link": false
@@ -764,16 +764,16 @@
             "button-icons-wrapper-class": "col-lg-auto col-12",
             "button-wrapper-class": "col",
             "action-button": false,
-            "action-button-icon": [
+            "actionButtonIcon": [
               {
                 "button-text": "Svar",
-                "button-class": "a-btn-link a-btn-md-block",
+                "buttonClass": "a-btn-link a-btn-md-block",
                 "button-colorClass": "",
                 "link-url": "",
                 "button-shadow-label": false,
                 "button-icon": {
                   "icon-prefix": "reg",
-                  "icon-class": "reg-send pr-1"
+                  "iconClass": "reg-send pr-1"
                 }
               }
             ]
@@ -794,7 +794,7 @@
               "prevMsgID": "previous1ff",
               "linkIcon-text": "Sendt",
               "icon-prefix": "reg",
-              "icon-class": "reg-send",
+              "iconClass": "reg-send",
               "sender-name": "Patentstyret, Knut Johannesen",
               "date": "sendt: 12.09.2019",
               "messageBodyPrev": {
@@ -803,7 +803,7 @@
                 "message-text-block": {
                   "extra-class": "",
                   "text-paragraph": {
-                    "text-paragraph-class": "d-inline",
+                    "text-paragraphClass": "d-inline",
                     "message-text": "Hei,<br><br>Jeg trenger hjelp til ...... "
                   },
                   "text-link": false
@@ -839,9 +839,9 @@
           },
           "heading-icon": {
             "icon-prefix": "reg",
-            "icon-class": "reg-check",
+            "iconClass": "reg-check",
             "icon-size": "ai-md-lg",
-            "icon-extra-class": "ai-nw",
+            "iconExtraClass": "ai-nw",
             "aria-hidden": true,
             "icon-sr-only-text": "Løst"
           },
@@ -859,7 +859,7 @@
           "message-text-block": {
             "extra-class": "",
             "text-paragraph": {
-              "text-paragraph-class": "d-inline",
+              "text-paragraphClass": "d-inline",
               "message-text": "Hei,<br><br>Da skal du ha fått den hjelpen du trenger...... <br><br> Saken er satt til løst. Den vil gjennopprettes dersom du svarer på denne meldingen."
             },
             "text-link": false
@@ -870,7 +870,7 @@
             "button-icons-wrapper-class": "col-lg-auto col-12",
             "button-wrapper-class": "col",
             "action-button": false,
-            "action-button-icon": false
+            "actionButtonIcon": false
           },
           "attachments": false
         },
@@ -888,7 +888,7 @@
               "prevMsgID": "previous1gg",
               "linkIcon-text": "Sendt",
               "icon-prefix": "reg",
-              "icon-class": "reg-send",
+              "iconClass": "reg-send",
               "sender-name": "Patentstyret, Knut Johannesen",
               "date": "sendt: 12.09.2019",
               "messageBodyPrev": {
@@ -897,7 +897,7 @@
                 "message-text-block": {
                   "extra-class": "",
                   "text-paragraph": {
-                    "text-paragraph-class": "d-inline",
+                    "text-paragraphClass": "d-inline",
                     "message-text": "Hei,<br><br>Jeg trenger hjelp til ...... "
                   },
                   "text-link": false
@@ -908,7 +908,7 @@
                       "list-item-name": "Skjermbilde.png",
                       "listItemDescription": "(last ned)",
                       "icon-prefix": "reg",
-                      "icon-class": "reg-attachment-pdf ai-md ai-nw pr-1"
+                      "iconClass": "reg-attachment-pdf ai-md ai-nw pr-1"
                     }
                   ]
                 },

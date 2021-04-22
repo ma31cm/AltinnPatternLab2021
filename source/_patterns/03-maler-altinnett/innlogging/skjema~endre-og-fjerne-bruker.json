@@ -79,7 +79,7 @@
   },
   "delete-btn": {
     "button-text": "Fjern bruker",
-    "button-class": "a-btn a-btn-icon a-btn-link p-0 ml-lg-auto",
+    "buttonClass": "a-btn a-btn-icon a-btn-link p-0 ml-lg-auto",
     "button-colorClass": "",
     "button-textClass": "border-0 p-0 a-fontSizeS",
     "link-url": "",
@@ -91,8 +91,8 @@
     "button-shadow-label": false,
     "button-icon": {
       "icon-prefix": "ai",
-      "icon-class": "ai-circle-exit",
-      "icon-extra-class": "a-danger ai-left"
+      "iconClass": "ai-circle-exit",
+      "iconExtraClass": "a-danger ai-left"
     }
   }
 }

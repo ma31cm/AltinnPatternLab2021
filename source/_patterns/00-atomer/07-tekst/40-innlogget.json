@@ -6,8 +6,8 @@
   "variation": "",
   "login-icon": {
     "icon-prefix": "ai",
-    "icon-class": "ai-private-circle-big",
-    "icon-extra-class": "a-personSwitcher-icon a-js-onboardingTarget-1",
+    "iconClass": "ai-private-circle-big",
+    "iconExtraClass": "a-personSwitcher-icon a-js-onboardingTarget-1",
     "icon-sr-only-text" : "Min profil"
   }
 }

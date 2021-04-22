@@ -12,7 +12,7 @@
       "form-input-button-action": "Utfør søk",
       "button-icon": {
         "icon-prefix": "ai",
-        "icon-class": "ai-search"
+        "iconClass": "ai-search"
       },
       "button-text": [
         {
@@ -31,8 +31,8 @@
   },
   "modal-loader": true,
   "modal-empty": {
-    "paragraph-class": "a-js-noResults",
-    "paragraph-content": "Ingen treff. Prøv et annet filter."
+    "paragraphClass": "a-js-noResults",
+    "paragraphContent": "Ingen treff. Prøv et annet filter."
   },
   "filter-formaal": {
     "card-content": false,
@@ -83,7 +83,7 @@
       "heading-end": "</h2>",
       "linkTitle": {
         "link-text": "%NAME%",
-        "link-class": "a-link-title",
+        "linkClass": "a-link-title",
         "link-url": "link.sider-infoportal-artikkel-v-stotteordning"
       },
       "category-element-description": "%DESC%"

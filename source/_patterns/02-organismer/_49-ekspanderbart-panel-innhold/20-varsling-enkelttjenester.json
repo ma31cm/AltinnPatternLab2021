@@ -13,16 +13,16 @@
     "isLarge": false,
     "form-label-hasIcon": {
       "icon-prefix": "ai",
-      "icon-class": "ai-document",
-      "icon-extra-class": "",
+      "iconClass": "ai-document",
+      "iconExtraClass": "",
       "icon-text": ""
     },
     "form-input-hasButton": {
       "form-input-button-action": "Utfør søk",
       "button-icon": {
         "icon-prefix": "ai",
-        "icon-class": "ai-search",
-        "icon-extra-class": ""
+        "iconClass": "ai-search",
+        "iconExtraClass": ""
       },
       "button-text": [
         {
@@ -39,7 +39,7 @@
   },
   "save-btn": {
     "button-text": "Lagre",
-    "button-class": "a-btn a-btn-success mr-1",
+    "buttonClass": "a-btn a-btn-success mr-1",
     "onclick": false,
     "button-icon": false
   },
@@ -79,8 +79,8 @@
               {
                 "column-icon": {
                   "icon-prefix": "ai",
-                  "icon-class": "ai-circle-exit",
-                  "icon-extra-class": "a-danger"
+                  "iconClass": "ai-circle-exit",
+                  "iconExtraClass": "a-danger"
                 }
               }
             ]
@@ -114,8 +114,8 @@
               {
                 "column-icon": {
                   "icon-prefix": "ai",
-                  "icon-class": "ai-circle-exit",
-                  "icon-extra-class": "a-danger"
+                  "iconClass": "ai-circle-exit",
+                  "iconExtraClass": "a-danger"
                 }
               }
             ]
@@ -149,8 +149,8 @@
               {
                 "column-icon": {
                   "icon-prefix": "ai",
-                  "icon-class": "ai-circle-exit",
-                  "icon-extra-class": "a-danger"
+                  "iconClass": "ai-circle-exit",
+                  "iconExtraClass": "a-danger"
                 }
               }
             ]

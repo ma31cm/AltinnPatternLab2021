@@ -10,8 +10,8 @@
         "variation-class": "a-iconText-shadow a-iconText-large a-collapseBtn collapsed",
         "hasIcon": {
         "icon-prefix": "reg",
-        "icon-class": "reg-lock",
-          "icon-extra-class": "a-icon"
+        "iconClass": "reg-lock",
+          "iconExtraClass": "a-icon"
         },
         "hasTextSmall": {
           "textSmall": "Liten tekst"
@@ -28,8 +28,8 @@
         "variation-class": "a-iconText-shadow a-iconText-large a-collapseBtn collapsed",
         "hasIcon": {
           "icon-prefix": "reg",
-          "icon-class": "reg-other",
-          "icon-extra-class": "a-icon"
+          "iconClass": "reg-other",
+          "iconExtraClass": "a-icon"
         },
         "hasTextSmall": false,
         "icontext": "Bare stor tekst"
@@ -44,8 +44,8 @@
         "variation-class": "a-iconText-shadow a-iconText-large a-collapseBtn collapsed",
         "hasIcon": {
           "icon-prefix": "reg",
-          "icon-class": "reg-document",
-          "icon-extra-class": "a-icon"
+          "iconClass": "reg-document",
+          "iconExtraClass": "a-icon"
         },
         "hasTextSmall": false,
         "isHeader": {

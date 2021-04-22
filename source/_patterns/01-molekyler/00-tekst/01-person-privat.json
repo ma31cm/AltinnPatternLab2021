@@ -4,7 +4,7 @@
   "myself-personal-number": "Personnr. 123456 12345",
   "user-icon": {
     "icon-prefix": "ai",
-    "icon-class": "ai-private",
-    "icon-extra-class": "ai-lg"
+    "iconClass": "ai-private",
+    "iconExtraClass": "ai-lg"
   }
 }

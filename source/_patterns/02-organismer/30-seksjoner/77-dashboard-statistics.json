@@ -21,10 +21,10 @@
   ],
   "dashboard-viewMoreStatistics": {
     "link-text": "Vis all statistikk",
-    "link-class": "a-linkFeatured",
+    "linkClass": "a-linkFeatured",
     "link-icon": {
       "icon-prefix": "ai ai-sm ai-nw ai-nw-right",
-      "icon-class": "ai-arrowright"
+      "iconClass": "ai-arrowright"
     }
   }
 }

@@ -14,7 +14,7 @@
     "pageTitleClass": "a-fontSizeXXXL a-fontBold a-blueDarkerText",
     "link-buttonLarge": {
       "link-text": "Meld deg på",
-      "link-class": "a-btn-wide a-btn-border"
+      "linkClass": "a-btn-wide a-btn-border"
     },
     "linkExternal": {
       "link-text": "Oslo Kongressenter, Youngsgate 21, Oslo",
@@ -28,8 +28,8 @@
     ]
   },
   "ingress": {
-    "paragraph-content": "Altinndagen er et årlig arrangement for digitaliseringsaktører i offentlig forvaltning og konsulent-/leverandørbransjen på IKT-området.",
-    "paragraph-class": "a-fontSizeS mb-0"
+    "paragraphContent": "Altinndagen er et årlig arrangement for digitaliseringsaktører i offentlig forvaltning og konsulent-/leverandørbransjen på IKT-området.",
+    "paragraphClass": "a-fontSizeS mb-0"
   },
   "listContent": [
     {
@@ -93,7 +93,7 @@
       "form-input-hasButton": {
         "button-icon": {
           "icon-prefix": "ai",
-          "icon-class": "ai-search"
+          "iconClass": "ai-search"
         },
         "button-text": [
           {

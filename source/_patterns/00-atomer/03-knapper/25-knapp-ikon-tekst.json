@@ -1,11 +1,11 @@
 {
   "button-text": "En knapp med ikon",
-  "button-class": "a-btn a-btn-icon",
+  "buttonClass": "a-btn a-btn-icon",
   "button-colorClass": "",
   "link-url": "",
   "button-shadow-label": false,
   "button-icon": {
     "icon-prefix": "ai",
-    "icon-class": "ai-deadline"
+    "iconClass": "ai-deadline"
   }
 }

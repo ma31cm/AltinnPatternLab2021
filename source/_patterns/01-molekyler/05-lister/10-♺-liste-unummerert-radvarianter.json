@@ -56,8 +56,8 @@
             {
               "column-icon": {
                 "icon-prefix": "ai",
-                "icon-class": "ai-private",
-                "icon-extra-class": ""
+                "iconClass": "ai-private",
+                "iconExtraClass": ""
               },
               "column-text": {
                 "text": ""
@@ -94,7 +94,7 @@
           "column-items": [
             {
               "column-link": {
-                "link-class": "a-btn-blue-noUnderline text-right a-fontBold a-fullWidthLink collapsed a-hiddenWhenExpanded pr-0 pr-md-5",
+                "linkClass": "a-btn-blue-noUnderline text-right a-fontBold a-fullWidthLink collapsed a-hiddenWhenExpanded pr-0 pr-md-5",
                 "link-url": "#",
                 "link-text": "<span class='d-none d-sm-block'>Gi rettigheter</span>",
                 "data-target": "collapseIdSample"
@@ -130,7 +130,7 @@
             "column-switches-with-text": {
               "ferdigsegment-done": {
                 "button-text": "Ferdig",
-                "button-class": "a-btn a-btn-success collapsed",
+                "buttonClass": "a-btn a-btn-success collapsed",
                 "data-toggle": "collapse",
                 "data-target": "#collapseIdSample",
                 "aria-expanded": false,
@@ -139,7 +139,7 @@
               },
               "ferdigsegment-cancel": {
                 "button-text": "Avbryt",
-                "button-class": "a-btn-link collapsed",
+                "buttonClass": "a-btn-link collapsed",
                 "margin-right-multiplier": 3,
                 "data-toggle": "collapse",
                 "data-target": "#collapseIdSample",
@@ -164,8 +164,8 @@
             {
               "column-icon": {
                 "icon-prefix": "ai",
-                "icon-class": "ai-private",
-                "icon-extra-class": ""
+                "iconClass": "ai-private",
+                "iconExtraClass": ""
               },
               "column-text": {
                 "text": ""
@@ -202,7 +202,7 @@
           "column-items": [
             {
               "column-link": {
-                "link-class": "a-btn-blue-noUnderline text-right a-fullWidthLink a-fontBold a-hiddenWhenSelected pr-0 pr-md-5",
+                "linkClass": "a-btn-blue-noUnderline text-right a-fullWidthLink a-fontBold a-hiddenWhenSelected pr-0 pr-md-5",
                 "link-url": "#collapseIdSample2",
                 "link-text": "<span class='d-none d-sm-block'>Gi rettigheter</span>",
                 "data-target": "#collapseIdSample2",
@@ -233,7 +233,7 @@
             "column-switches-with-text": {
               "ferdigsegment-done": {
                 "button-text": "Ferdig",
-                "button-class": "a-btn a-btn-success",
+                "buttonClass": "a-btn a-btn-success",
                 "data-toggle": "collapse",
                 "data-target": "#collapseIdSample2",
                 "aria-expanded": false,
@@ -241,7 +241,7 @@
               },
               "ferdigsegment-cancel": {
                 "button-text": "Avbryt",
-                "button-class": "a-btn-link",
+                "buttonClass": "a-btn-link",
                 "display-as-link": true,
                 "margin-right-multiplier": 3,
                 "data-toggle": "collapse",
@@ -267,8 +267,8 @@
             {
               "column-icon": {
                 "icon-prefix": "ai",
-                "icon-class": "ai-private",
-                "icon-extra-class": ""
+                "iconClass": "ai-private",
+                "iconExtraClass": ""
               }
             }
           ]
@@ -302,7 +302,7 @@
           "column-items": [
             {
               "column-link": {
-                "link-class": "a-btn-blue-noUnderline text-right a-fullWidthLink a-hiddenWhenSelected pr-0 pr-md-5",
+                "linkClass": "a-btn-blue-noUnderline text-right a-fullWidthLink a-hiddenWhenSelected pr-0 pr-md-5",
                 "link-url": "#collapseIdSample3",
                 "link-text": "<b class='d-none d-sm-block'>Gi rettigheter</b>",
                 "data-target": "#collapseIdSample3",
@@ -333,7 +333,7 @@
             "column-switches-with-text": {
               "ferdigsegment-done": {
                 "button-text": "Ferdig",
-                "button-class": "a-btn a-btn-success",
+                "buttonClass": "a-btn a-btn-success",
                 "data-toggle": "collapse",
                 "data-target": "#collapseIdSample3",
                 "aria-expanded": false,
@@ -341,7 +341,7 @@
               },
               "ferdigsegment-cancel": {
                 "button-text": "Avbryt",
-                "button-class": "a-btn-link",
+                "buttonClass": "a-btn-link",
                 "display-as-link": true,
                 "margin-right-multiplier": 3,
                 "data-toggle": "collapse",
@@ -463,7 +463,7 @@
             {
               "column-icon": {
                 "icon-prefix": "ai",
-                "icon-class": "ai-deadline"
+                "iconClass": "ai-deadline"
               }
             }
           ]
@@ -565,20 +565,20 @@
                 "popover-link-icon": [
                   {
                     "icon-prefix": "ai",
-                    "icon-class": "ai-help-popicon",
+                    "iconClass": "ai-help-popicon",
                     "stacked-background": {
                       "stacked-container-class": "a-js-popoverIconInitial",
                       "icon-prefix": "ai",
-                      "icon-class": "ai-plain-circle"
+                      "iconClass": "ai-plain-circle"
                     }
                   },
                   {
                     "icon-prefix": "ai",
-                    "icon-class": "ai-circle-exit",
+                    "iconClass": "ai-circle-exit",
                     "stacked-background": {
                       "stacked-container-class": "a-js-popoverIconExpanded",
                       "icon-prefix": "ai",
-                      "icon-class": "ai-plain-circle"
+                      "iconClass": "ai-plain-circle"
                     }
                   }
                 ]
@@ -598,7 +598,7 @@
             {
               "column-icon": {
                 "icon-prefix": "ai",
-                "icon-class": "ai-plus"
+                "iconClass": "ai-plus"
               }
             }
           ]
@@ -609,8 +609,8 @@
             {
               "column-icon": {
                 "icon-prefix": "ai",
-                "icon-class": "ai-plus",
-                "icon-extra-class": "d-md-none"
+                "iconClass": "ai-plus",
+                "iconExtraClass": "d-md-none"
               }
             },
             {
@@ -632,7 +632,7 @@
             {
               "column-icon": {
                 "icon-prefix": "ai",
-                "icon-class": "ai-plus"
+                "iconClass": "ai-plus"
               }
             }
           ]
@@ -643,8 +643,8 @@
             {
               "column-icon": {
                 "icon-prefix": "ai",
-                "icon-class": "ai-plus",
-                "icon-extra-class": "d-md-none mx-1"
+                "iconClass": "ai-plus",
+                "iconExtraClass": "d-md-none mx-1"
               }
             },
             {
@@ -666,8 +666,8 @@
             {
               "column-icon": {
                 "icon-prefix": "ai",
-                "icon-class": "ai-circle-plus",
-                "icon-extra-class": "a-blueText"
+                "iconClass": "ai-circle-plus",
+                "iconExtraClass": "a-blueText"
               }
             },
             {
@@ -691,24 +691,24 @@
                 "popover-link-icon": [
                   {
                     "icon-prefix": "ai",
-                    "icon-class": "ai-help-popicon",
-                    "icon-extra-class": "",
+                    "iconClass": "ai-help-popicon",
+                    "iconExtraClass": "",
                     "stacked-background": {
                       "stacked-container-class": "a-js-popoverIconInitial",
                       "icon-prefix": "ai",
-                      "icon-class": "ai-plain-circle",
-                      "icon-extra-class": ""
+                      "iconClass": "ai-plain-circle",
+                      "iconExtraClass": ""
                     }
                   },
                   {
                     "icon-prefix": "ai",
-                    "icon-class": "ai-circle-exit",
-                    "icon-extra-class": "",
+                    "iconClass": "ai-circle-exit",
+                    "iconExtraClass": "",
                     "stacked-background": {
                       "stacked-container-class": "a-js-popoverIconExpanded",
                       "icon-prefix": "ai",
-                      "icon-class": "ai-plain-circle",
-                      "icon-extra-class": ""
+                      "iconClass": "ai-plain-circle",
+                      "iconExtraClass": ""
                     }
                   }
                 ]
@@ -727,8 +727,8 @@
             {
               "column-icon": {
                 "icon-prefix": "ai",
-                "icon-class": "ai-circle-plus",
-                "icon-extra-class": "a-blueText a-hiddenWhenSelected"
+                "iconClass": "ai-circle-plus",
+                "iconExtraClass": "a-blueText a-hiddenWhenSelected"
               }
             },
             {
@@ -746,8 +746,8 @@
                 "linkIcon-url": "#",
                 "linkIcon-text": "Rediger",
                 "icon-prefix": "ai ai-sm",
-                "icon-class": "ai-edit",
-                "link-icon-class": "a-btn-blue-noUnderline pr-0",
+                "iconClass": "ai-edit",
+                "link-iconClass": "a-btn-blue-noUnderline pr-0",
                 "text-class": "d-none d-lg-inline a-fontSizeXS pr-1"
               }
             },
@@ -762,24 +762,24 @@
                 "popover-link-icon": [
                   {
                     "icon-prefix": "ai",
-                    "icon-class": "ai-help-popicon",
-                    "icon-extra-class": "",
+                    "iconClass": "ai-help-popicon",
+                    "iconExtraClass": "",
                     "stacked-background": {
                       "stacked-container-class": "a-js-popoverIconInitial",
                       "icon-prefix": "ai",
-                      "icon-class": "ai-plain-circle",
-                      "icon-extra-class": ""
+                      "iconClass": "ai-plain-circle",
+                      "iconExtraClass": ""
                     }
                   },
                   {
                     "icon-prefix": "ai",
-                    "icon-class": "ai-circle-exit",
-                    "icon-extra-class": "",
+                    "iconClass": "ai-circle-exit",
+                    "iconExtraClass": "",
                     "stacked-background": {
                       "stacked-container-class": "a-js-popoverIconExpanded",
                       "icon-prefix": "ai",
-                      "icon-class": "ai-plain-circle",
-                      "icon-extra-class": ""
+                      "iconClass": "ai-plain-circle",
+                      "iconExtraClass": ""
                     }
                   }
                 ]
@@ -787,7 +787,7 @@
             },
             {
               "column-link": {
-                "link-class": "no-decoration a-visibleWhenSelected",
+                "linkClass": "no-decoration a-visibleWhenSelected",
                 "link-url": "#",
                 "link-text": "Angre"
               }
@@ -795,8 +795,8 @@
             {
               "column-icon": {
                 "icon-prefix": "ai",
-                "icon-class": "ai-undo",
-                "icon-extra-class": "a-visibleWhenSelected"
+                "iconClass": "ai-undo",
+                "iconExtraClass": "a-visibleWhenSelected"
               }
             }
           ]
@@ -812,8 +812,8 @@
             {
               "column-icon": {
                 "icon-prefix": "ai",
-                "icon-class": "ai-circle-plus",
-                "icon-extra-class": "a-blueText a-hiddenWhenSelected"
+                "iconClass": "ai-circle-plus",
+                "iconExtraClass": "a-blueText a-hiddenWhenSelected"
               }
             },
             {
@@ -831,8 +831,8 @@
                 "linkIcon-url": "#",
                 "linkIcon-text": "Rediger",
                 "icon-prefix": "ai ai-sm",
-                "icon-class": "ai-edit",
-                "link-icon-class": "a-btn-blue-noUnderline a-hiddenWhenSelected pr-0",
+                "iconClass": "ai-edit",
+                "link-iconClass": "a-btn-blue-noUnderline a-hiddenWhenSelected pr-0",
                 "text-class": "d-none d-lg-inline a-fontSizeXS pr-1"
               }
             },
@@ -847,24 +847,24 @@
                 "popover-link-icon": [
                   {
                     "icon-prefix": "ai",
-                    "icon-class": "ai-help-popicon",
-                    "icon-extra-class": "",
+                    "iconClass": "ai-help-popicon",
+                    "iconExtraClass": "",
                     "stacked-background": {
                       "stacked-container-class": "a-js-popoverIconInitial",
                       "icon-prefix": "ai",
-                      "icon-class": "ai-plain-circle",
-                      "icon-extra-class": ""
+                      "iconClass": "ai-plain-circle",
+                      "iconExtraClass": ""
                     }
                   },
                   {
                     "icon-prefix": "ai",
-                    "icon-class": "ai-circle-exit",
-                    "icon-extra-class": "",
+                    "iconClass": "ai-circle-exit",
+                    "iconExtraClass": "",
                     "stacked-background": {
                       "stacked-container-class": "a-js-popoverIconExpanded",
                       "icon-prefix": "ai",
-                      "icon-class": "ai-plain-circle",
-                      "icon-extra-class": ""
+                      "iconClass": "ai-plain-circle",
+                      "iconExtraClass": ""
                     }
                   }
                 ]
@@ -879,8 +879,8 @@
             {
               "column-icon": {
                 "icon-prefix": "ai",
-                "icon-class": "ai-undo",
-                "icon-extra-class": "a-visibleWhenSelected a-danger"
+                "iconClass": "ai-undo",
+                "iconExtraClass": "a-visibleWhenSelected a-danger"
               }
             }
           ]
@@ -917,8 +917,8 @@
             {
               "column-icon": {
                 "icon-prefix": "ai",
-                "icon-class": "ai-circle-exit",
-                "icon-extra-class": "a-danger a-hiddenWhenSelected a-hiddenWhenDeleted"
+                "iconClass": "ai-circle-exit",
+                "iconExtraClass": "a-danger a-hiddenWhenSelected a-hiddenWhenDeleted"
               }
             },
             {
@@ -930,8 +930,8 @@
             {
               "column-icon": {
                 "icon-prefix": "ai",
-                "icon-class": "ai-undo",
-                "icon-extra-class": "a-danger a-visibleWhenSelected a-hiddenWhenDeleted"
+                "iconClass": "ai-undo",
+                "iconExtraClass": "a-danger a-visibleWhenSelected a-hiddenWhenDeleted"
               }
             },
             {
@@ -943,8 +943,8 @@
             {
               "column-icon": {
                 "icon-prefix": "ai",
-                "icon-class": "ai-fw",
-                "icon-extra-class": "a-danger a-visibleWhenDeleted"
+                "iconClass": "ai-fw",
+                "iconExtraClass": "a-danger a-visibleWhenDeleted"
               }
             }
           ]
@@ -982,8 +982,8 @@
             {
               "column-icon": {
                 "icon-prefix": "ai",
-                "icon-class": "ai-circle-exit",
-                "icon-extra-class": "a-danger a-hiddenWhenSelected a-hiddenWhenDeleted"
+                "iconClass": "ai-circle-exit",
+                "iconExtraClass": "a-danger a-hiddenWhenSelected a-hiddenWhenDeleted"
               }
             },
             {
@@ -995,8 +995,8 @@
             {
               "column-icon": {
                 "icon-prefix": "ai",
-                "icon-class": "ai-undo",
-                "icon-extra-class": "a-danger a-visibleWhenSelected a-hiddenWhenDeleted"
+                "iconClass": "ai-undo",
+                "iconExtraClass": "a-danger a-visibleWhenSelected a-hiddenWhenDeleted"
               }
             },
             {
@@ -1008,8 +1008,8 @@
             {
               "column-icon": {
                 "icon-prefix": "ai",
-                "icon-class": "ai-fw",
-                "icon-extra-class": "a-danger a-visibleWhenDeleted"
+                "iconClass": "ai-fw",
+                "iconExtraClass": "a-danger a-visibleWhenDeleted"
               }
             }
           ]
@@ -1042,13 +1042,13 @@
               "column-button": {
                 "button-text": false,
                 "title": "Les",
-                "button-class": "a-btn-link a-hiddenWhenDeleted a-hiddenWhenDisabled",
+                "buttonClass": "a-btn-link a-hiddenWhenDeleted a-hiddenWhenDisabled",
                 "link-url": false,
                 "button-shadow-label": false,
                 "button-icon": {
                   "icon-prefix": "ai",
-                  "icon-class": "ai-read",
-                  "icon-extra-class": ""
+                  "iconClass": "ai-read",
+                  "iconExtraClass": ""
                 }
               }
             },
@@ -1056,13 +1056,13 @@
               "column-button": {
                 "button-text": false,
                 "title": "Skriv",
-                "button-class": "a-btn-link a-js-toggleRights a-hiddenWhenDeleted a-hiddenWhenDisabled",
+                "buttonClass": "a-btn-link a-js-toggleRights a-hiddenWhenDeleted a-hiddenWhenDisabled",
                 "link-url": false,
                 "button-shadow-label": false,
                 "button-icon": {
                   "icon-prefix": "ai",
-                  "icon-class": "ai-write",
-                  "icon-extra-class": "a-clickable"
+                  "iconClass": "ai-write",
+                  "iconExtraClass": "a-clickable"
                 }
               }
             },
@@ -1070,13 +1070,13 @@
               "column-button": {
                 "button-text": false,
                 "title": "Signer",
-                "button-class": "a-btn-link a-js-toggleRights a-hiddenWhenDeleted a-hiddenWhenDisabled",
+                "buttonClass": "a-btn-link a-js-toggleRights a-hiddenWhenDeleted a-hiddenWhenDisabled",
                 "link-url": false,
                 "button-shadow-label": false,
                 "button-icon": {
                   "icon-prefix": "ai",
-                  "icon-class": "ai-sign",
-                  "icon-extra-class": "s-clickable"
+                  "iconClass": "ai-sign",
+                  "iconExtraClass": "s-clickable"
                 }
               }
             },
@@ -1103,13 +1103,13 @@
                 "button-text": false,
                 "title": "Slett rolle",
                 "aria-label": "Slett rolle",
-                "button-class": "a-btn-link a-js-toggleRightsDelete a-hiddenWhenDeleted a-hiddenWhenDisabled a-displayInlineBlock",
+                "buttonClass": "a-btn-link a-js-toggleRightsDelete a-hiddenWhenDeleted a-hiddenWhenDisabled a-displayInlineBlock",
                 "link-url": false,
                 "button-shadow-label": false,
                 "button-icon": {
                   "icon-prefix": "ai",
-                  "icon-class": "ai-circle-minus",
-                  "icon-extra-class": "a-danger"
+                  "iconClass": "ai-circle-minus",
+                  "iconExtraClass": "a-danger"
                 }
               }
             },
@@ -1118,23 +1118,23 @@
                 "button-text": false,
                 "title": "Angre slett rolle",
                 "aria-label": "Angre slett rolle",
-                "button-class": "a-btn-link a-js-toggleRightsDelete a-visibleWhenDeleted  a-displayInlineBlock",
+                "buttonClass": "a-btn-link a-js-toggleRightsDelete a-visibleWhenDeleted  a-displayInlineBlock",
                 "tab-index": "-1",
                 "link-url": false,
                 "button-shadow-label": false,
                 "button-icon": {
                   "icon-prefix": "ai",
-                  "icon-class": "ai-undo",
-                  "icon-extra-class": "a-danger"
+                  "iconClass": "ai-undo",
+                  "iconExtraClass": "a-danger"
                 }
               }
             },
             {
               "column-icon": {
                 "icon-prefix": "ai",
-                "icon-class": "ai-fw",
+                "iconClass": "ai-fw",
                 "tab-index": "-1",
-                "icon-extra-class": "a-visibleWhenDisabled  a-displayInlineBlock"
+                "iconExtraClass": "a-visibleWhenDisabled  a-displayInlineBlock"
               }
             }
           ]
@@ -1167,14 +1167,14 @@
               "column-button": {
                 "button-text": false,
                 "title": "Les",
-                "button-class": "a-btn-link a-hiddenWhenDeleted a-hiddenWhenDisabled",
+                "buttonClass": "a-btn-link a-hiddenWhenDeleted a-hiddenWhenDisabled",
                 "link-url": false,
                 "tab-index": "-1",
                 "button-shadow-label": false,
                 "button-icon": {
                   "icon-prefix": "ai",
-                  "icon-class": "ai-read",
-                  "icon-extra-class": ""
+                  "iconClass": "ai-read",
+                  "iconExtraClass": ""
                 }
               }
             },
@@ -1182,14 +1182,14 @@
               "column-button": {
                 "button-text": false,
                 "title": "Skriv",
-                "button-class": "a-btn-link a-js-toggleRights a-hiddenWhenDeleted a-hiddenWhenDisabled",
+                "buttonClass": "a-btn-link a-js-toggleRights a-hiddenWhenDeleted a-hiddenWhenDisabled",
                 "link-url": false,
                 "tab-index": "-1",
                 "button-shadow-label": false,
                 "button-icon": {
                   "icon-prefix": "ai",
-                  "icon-class": "ai-write",
-                  "icon-extra-class": "a-clickable"
+                  "iconClass": "ai-write",
+                  "iconExtraClass": "a-clickable"
                 }
               }
             },
@@ -1197,14 +1197,14 @@
               "column-button": {
                 "button-text": false,
                 "title": "Signer",
-                "button-class": "a-btn-link a-js-toggleRights a-hiddenWhenDeleted a-hiddenWhenDisabled",
+                "buttonClass": "a-btn-link a-js-toggleRights a-hiddenWhenDeleted a-hiddenWhenDisabled",
                 "link-url": false,
                 "tab-index": "-1",
                 "button-shadow-label": false,
                 "button-icon": {
                   "icon-prefix": "ai",
-                  "icon-class": "ai-sign",
-                  "icon-extra-class": "a-clickable"
+                  "iconClass": "ai-sign",
+                  "iconExtraClass": "a-clickable"
                 }
               }
             },
@@ -1231,14 +1231,14 @@
                 "button-text": false,
                 "title": "Slett rolle",
                 "aria-label": "Slett rolle",
-                "button-class": "a-btn-link a-js-toggleRightsDelete a-hiddenWhenDeleted a-hiddenWhenDisabled a-displayInlineBlock",
+                "buttonClass": "a-btn-link a-js-toggleRightsDelete a-hiddenWhenDeleted a-hiddenWhenDisabled a-displayInlineBlock",
                 "link-url": false,
                 "tab-index": "-1",
                 "button-shadow-label": false,
                 "button-icon": {
                   "icon-prefix": "ai",
-                  "icon-class": "ai-circle-minus",
-                  "icon-extra-class": "a-danger"
+                  "iconClass": "ai-circle-minus",
+                  "iconExtraClass": "a-danger"
                 }
               }
             },
@@ -1247,23 +1247,23 @@
                 "button-text": false,
                 "title": "Angre slett rolle",
                 "aria-label": "Angre slett rolle",
-                "button-class": "a-btn-link a-js-toggleRightsDelete a-visibleWhenDeleted a-displayInlineBlock",
+                "buttonClass": "a-btn-link a-js-toggleRightsDelete a-visibleWhenDeleted a-displayInlineBlock",
                 "tab-index": "-1",
                 "link-url": false,
                 "button-shadow-label": false,
                 "button-icon": {
                   "icon-prefix": "ai",
-                  "icon-class": "ai-undo",
-                  "icon-extra-class": "a-danger"
+                  "iconClass": "ai-undo",
+                  "iconExtraClass": "a-danger"
                 }
               }
             },
             {
               "column-icon": {
                 "icon-prefix": "ai",
-                "icon-class": "ai-fw",
+                "iconClass": "ai-fw",
                 "tab-index": "-1",
-                "icon-extra-class": "a-visibleWhenDisabled  a-displayInlineBlock"
+                "iconExtraClass": "a-visibleWhenDisabled  a-displayInlineBlock"
               }
             }
           ]
@@ -1296,13 +1296,13 @@
               "column-button": {
                 "button-text": false,
                 "title": "Les",
-                "button-class": "a-btn-link a-hiddenWhenDeleted a-hiddenWhenDisabled",
+                "buttonClass": "a-btn-link a-hiddenWhenDeleted a-hiddenWhenDisabled",
                 "link-url": false,
                 "button-shadow-label": false,
                 "button-icon": {
                   "icon-prefix": "ai",
-                  "icon-class": "ai-read",
-                  "icon-extra-class": ""
+                  "iconClass": "ai-read",
+                  "iconExtraClass": ""
                 }
               }
             },
@@ -1310,13 +1310,13 @@
               "column-button": {
                 "button-text": false,
                 "title": "Skriv",
-                "button-class": "a-btn-link a-js-toggleRights a-hiddenWhenDeleted a-hiddenWhenDisabled",
+                "buttonClass": "a-btn-link a-js-toggleRights a-hiddenWhenDeleted a-hiddenWhenDisabled",
                 "link-url": false,
                 "button-shadow-label": false,
                 "button-icon": {
                   "icon-prefix": "ai",
-                  "icon-class": "ai-write",
-                  "icon-extra-class": "a-clickable"
+                  "iconClass": "ai-write",
+                  "iconExtraClass": "a-clickable"
                 }
               }
             },
@@ -1324,13 +1324,13 @@
               "column-button": {
                 "button-text": false,
                 "title": "Signer",
-                "button-class": "a-btn-link a-js-toggleRights a-hiddenWhenDeleted a-hiddenWhenDisabled",
+                "buttonClass": "a-btn-link a-js-toggleRights a-hiddenWhenDeleted a-hiddenWhenDisabled",
                 "link-url": false,
                 "button-shadow-label": false,
                 "button-icon": {
                   "icon-prefix": "ai",
-                  "icon-class": "ai-sign",
-                  "icon-extra-class": "a-clickable"
+                  "iconClass": "ai-sign",
+                  "iconExtraClass": "a-clickable"
                 }
               }
             },
@@ -1357,13 +1357,13 @@
                 "button-text": false,
                 "title": "Slett rolle",
                 "aria-label": "Slett rolle",
-                "button-class": "a-btn-link a-js-toggleRightsDelete a-hiddenWhenDeleted a-hiddenWhenDisabled a-displayInlineBlock",
+                "buttonClass": "a-btn-link a-js-toggleRightsDelete a-hiddenWhenDeleted a-hiddenWhenDisabled a-displayInlineBlock",
                 "link-url": false,
                 "button-shadow-label": false,
                 "button-icon": {
                   "icon-prefix": "ai",
-                  "icon-class": "ai-circle-minus",
-                  "icon-extra-class": "a-danger"
+                  "iconClass": "ai-circle-minus",
+                  "iconExtraClass": "a-danger"
                 }
               }
             },
@@ -1372,23 +1372,23 @@
                 "button-text": false,
                 "title": "Angre slett rolle",
                 "aria-label": "Angre slett rolle",
-                "button-class": "a-btn-link a-js-toggleRightsDelete a-visibleWhenDeleted a-displayInlineBlock",
+                "buttonClass": "a-btn-link a-js-toggleRightsDelete a-visibleWhenDeleted a-displayInlineBlock",
                 "tab-index": "-1",
                 "link-url": false,
                 "button-shadow-label": false,
                 "button-icon": {
                   "icon-prefix": "ai",
-                  "icon-class": "ai-undo",
-                  "icon-extra-class": "a-danger"
+                  "iconClass": "ai-undo",
+                  "iconExtraClass": "a-danger"
                 }
               }
             },
             {
               "column-icon": {
                 "icon-prefix": "ai",
-                "icon-class": "ai-fw",
+                "iconClass": "ai-fw",
                 "tab-index": "-1",
-                "icon-extra-class": "a-visibleWhenDisabled  a-displayInlineBlock"
+                "iconExtraClass": "a-visibleWhenDisabled  a-displayInlineBlock"
               }
             }
           ]
@@ -1421,11 +1421,11 @@
               "column-link": {
                 "link-icon-left": {
                   "icon-prefix": "ai",
-                  "icon-class": "ai-edit",
-                  "icon-extra-class": "a-hiddenWhenExpanded ai-left a-blueText"
+                  "iconClass": "ai-edit",
+                  "iconExtraClass": "a-hiddenWhenExpanded ai-left a-blueText"
                 },
                 "link-icon": false,
-                "link-class": "collapsed a-hiddenWhenExpanded a-noUnderline a-pr-half",
+                "linkClass": "collapsed a-hiddenWhenExpanded a-noUnderline a-pr-half",
                 "link-url": "#",
                 "link-text": "<span>Rediger</span>",
                 "data-target": "collapseIdSampleSertificate"
@@ -1433,7 +1433,7 @@
             },
             {
               "column-link": {
-                "link-class": "a-visibleWhenExpanded",
+                "linkClass": "a-visibleWhenExpanded",
                 "link-url": "#",
                 "link-text": "<span>Avbryt</span>",
                 "data-target": "collapseIdSampleSertificate"
@@ -1448,13 +1448,13 @@
             {
               "column-button": {
                 "button-text": "Slett",
-                "button-class": "a-btn a-btn-icon",
+                "buttonClass": "a-btn a-btn-icon",
                 "link-url": false,
                 "button-shadow-label": false,
                 "button-icon": {
                   "icon-prefix": "ai",
-                  "icon-class": "ai-circle-exit",
-                  "icon-extra-class": "a-danger a-blueText ai-left"
+                  "iconClass": "ai-circle-exit",
+                  "iconExtraClass": "a-danger a-blueText ai-left"
                 }
               }
             }
@@ -1467,13 +1467,13 @@
             {
               "column-button": {
                 "button-text": "Endre",
-                "button-class": "a-btn a-btn-icon",
+                "buttonClass": "a-btn a-btn-icon",
                 "link-url": false,
                 "button-shadow-label": false,
                 "button-icon": {
                   "icon-prefix": "ai",
-                  "icon-class": "ai-edit",
-                  "icon-extra-class": "a-blueText ai-left"
+                  "iconClass": "ai-edit",
+                  "iconExtraClass": "a-blueText ai-left"
                 }
               }
             }
@@ -1492,11 +1492,11 @@
               "column-link": {
                 "link-icon-left": {
                     "icon-prefix": "ai",
-                    "icon-class": "ai-edit",
-                    "icon-extra-class": "a-hiddenWhenExpanded a-blueText"
+                    "iconClass": "ai-edit",
+                    "iconExtraClass": "a-hiddenWhenExpanded a-blueText"
                 },
                 "link-icon": false,
-                "link-class": "collapsed a-fullWidthLink a-hiddenWhenExpanded a-noUnderline a-pr-half",
+                "linkClass": "collapsed a-fullWidthLink a-hiddenWhenExpanded a-noUnderline a-pr-half",
                 "link-url": "#",
                 "link-text": "<span>Rediger</span>",
                 "data-target": "collapseIdSampleSertificate"
@@ -1504,7 +1504,7 @@
             },
             {
               "column-link": {
-                "link-class": "a-fullWidthLink a-fullWidthLink--underline a-visibleWhenExpanded a-pr-half",
+                "linkClass": "a-fullWidthLink a-fullWidthLink--underline a-visibleWhenExpanded a-pr-half",
                 "link-url": "#",
                 "link-text": "<span>Avbryt</span>",
                 "data-target": "collapseIdSampleSertificate"

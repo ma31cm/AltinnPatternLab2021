@@ -10,74 +10,74 @@
       "variation": "search-header",
       "linkFeatured": {
         "link-text": "Tilbake til innboks",
-        "link-class": "a-linkFeatured a-textBlue a-textBlue-hover ml-1",
+        "linkClass": "a-linkFeatured a-textBlue a-textBlue-hover ml-1",
         "link-url": "link.sider-portal-innboks",
         "link-icon-left": {
           "icon-prefix": "ai ",
-          "icon-class": "ai-back",
-          "icon-extra-class": "ai-sm ai-nw"
+          "iconClass": "ai-back",
+          "iconExtraClass": "ai-sm ai-nw"
         }
       },
       "login-icon": {
         "icon-prefix": "ai",
-        "icon-class": "ai-corp-circle-big",
-        "icon-extra-class": "a-personSwitcher-icon a-js-onboardingTarget-1",
+        "iconClass": "ai-corp-circle-big",
+        "iconExtraClass": "a-personSwitcher-icon a-js-onboardingTarget-1",
         "icon-sr-only-text": "Min profil"
       }
     },
     "sidebar": {
       "new-form": {
         "icon-prefix": "ai",
-        "icon-class": "ai-plus",
-        "icon-extra-class": "a-blue",
-        "button-class": "a-btn a-btn-action a-fullWidthBtn a-btnBigger",
+        "iconClass": "ai-plus",
+        "iconExtraClass": "a-blue",
+        "buttonClass": "a-btn a-btn-action a-fullWidthBtn a-btnBigger",
         "textstyling-button": "a-fontSizeXS",
-        "action-button-text": "nytt skjema"
+        "actionButtonText": "nytt skjema"
       },
       "vis-toppoppgaver": {
         "topTaskButtons": [
           {
-            "button-class": "a-btn a-btn-icon a-btn-transparentWhite",
+            "buttonClass": "a-btn a-btn-icon a-btn-transparentWhite",
             "button-colorClass": "",
             "link-url": "link.sider-portal-innboks",
             "button-text": "innboks",
             "responsive-br": true,
             "button-icon": {
               "icon-prefix": "ai",
-              "icon-class": "ai-closedmessage",
-              "icon-extra-class": "a-btn-icon-symbol"
+              "iconClass": "ai-closedmessage",
+              "iconExtraClass": "a-btn-icon-symbol"
             },
             "button-shadow-label": false
           },
           {
-            "button-class": "a-btn a-btn-icon a-btn-transparentWhite",
+            "buttonClass": "a-btn a-btn-icon a-btn-transparentWhite",
             "button-colorClass": "",
             "link-url": "link.sider-portal-innboks-arkiv",
             "button-text": "arkiv",
             "responsive-br": true,
             "button-icon": {
               "icon-prefix": "ai",
-              "icon-class": "ai-archive",
-              "icon-extra-class": "a-btn-icon-symbol"
+              "iconClass": "ai-archive",
+              "iconExtraClass": "a-btn-icon-symbol"
             },
             "button-shadow-label": false
           },
           {
-            "button-class": "a-btn a-active a-btn-icon a-btn-transparentWhite",
+            "buttonClass": "a-btn a-active a-btn-icon a-btn-transparentWhite",
             "button-colorClass": "",
             "link-url": "link.sider-portal-innboks-slettede-meldinger",
             "button-text": "slettede",
             "responsive-br": true,
             "button-icon": {
               "icon-prefix": "ai",
-              "icon-class": "ai-trash",
-              "icon-extra-class": "a-btn-icon-symbol"
+              "iconClass": "ai-trash",
+              "iconExtraClass": "a-btn-icon-symbol"
             },
             "button-shadow-label": false
           },
           {
             "dropdown-overflow": {
-              "dropdown-link-class": "a-borderBottom",
+              "dropdown-linkClass": "a-borderBottom",
               "dropdown-top-item": {
                 "dropdown-top-item-content": "Lagrede søk",
                 "overflow-extraclass": "pt-1 pb-1"
@@ -102,9 +102,9 @@
                 {
                   "dropdown-icon": {
                     "icon-prefix": "ai",
-                    "icon-class": "ai-settings",
+                    "iconClass": "ai-settings",
                     "icon-size": "",
-                    "icon-extra-class": "a-blue"
+                    "iconExtraClass": "a-blue"
                   },
                   "dropdown-item-content": "tilpass",
                   "dropdown-item-content-class": "a-fontBold"
@@ -112,29 +112,29 @@
               ]
             },
             "wrapper-class": "d-lg-none",
-            "button-class": "a-btn a-btn-icon a-btn-transparentWhite",
+            "buttonClass": "a-btn a-btn-icon a-btn-transparentWhite",
             "button-colorClass": "",
             "link-url": false,
             "button-text": "mer",
             "responsive-br": true,
             "button-icon": {
               "icon-prefix": "ai",
-              "icon-class": "ai-more",
-              "icon-extra-class": "a-btn-icon-symbol"
+              "iconClass": "ai-more",
+              "iconExtraClass": "a-btn-icon-symbol"
             },
             "button-shadow-label": false
           },
           {
             "wrapper-class": "d-lg-none",
-            "button-class": "a-btn a-btn-icon a-btn-transparentWhite",
+            "buttonClass": "a-btn a-btn-icon a-btn-transparentWhite",
             "button-colorClass": "",
             "link-url": "link.sider-portal-innboks-mva-og-skatt",
             "button-text": "nytt",
             "responsive-br": true,
             "button-icon": {
               "icon-prefix": "ai",
-              "icon-class": "ai-plus",
-              "icon-extra-class": "a-btn-icon-symbol a-button-icon-symbol--secondary"
+              "iconClass": "ai-plus",
+              "iconExtraClass": "a-btn-icon-symbol a-button-icon-symbol--secondary"
             },
             "button-shadow-label": false
           }
@@ -143,7 +143,7 @@
       "vis-lagrede-sok": {
         "topTaskButtons": [
           {
-            "button-class": "a-btn a-btn-icon a-btn-transparentWhite",
+            "buttonClass": "a-btn a-btn-icon a-btn-transparentWhite",
             "button-colorClass": "",
             "link-url": "link.sider-portal-innboks-mva-og-skatt-nyoppstartet",
             "button-icon": false,
@@ -156,7 +156,7 @@
             "button-shadow-label": false
           },
           {
-            "button-class": "a-btn a-btn-icon a-btn-transparentWhite",
+            "buttonClass": "a-btn a-btn-icon a-btn-transparentWhite",
             "button-colorClass": "",
             "link-url": "link.sider-portal-innboks-frister-nyoppstartet",
             "button-icon": false,
@@ -169,15 +169,15 @@
             "button-shadow-label": false
           },
           {
-            "button-class": "a-btn a-btn-icon a-btn-transparentWhite",
+            "buttonClass": "a-btn a-btn-icon a-btn-transparentWhite",
             "button-colorClass": "",
             "link-url": "link.sider-portal-innboks-rediger-lagrede-sok",
             "button-text": "tilpass",
             "responsive-br": true,
             "button-icon": {
               "icon-prefix": "ai",
-              "icon-class": "ai-settings",
-              "icon-extra-class": "a-btn-icon-symbol"
+              "iconClass": "ai-settings",
+              "iconExtraClass": "a-btn-icon-symbol"
             },
             "button-shadow-label": false
           }

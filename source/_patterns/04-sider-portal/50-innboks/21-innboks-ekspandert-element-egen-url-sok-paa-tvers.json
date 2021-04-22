@@ -12,18 +12,18 @@
       "variation": "search-header",
       "linkFeatured": {
         "link-text": "Tilbake til søk",
-        "link-class": "a-linkFeatured a-textBlue a-textBlue-hover ml-1",
+        "linkClass": "a-linkFeatured a-textBlue a-textBlue-hover ml-1",
         "link-url": "link.sider-portal-innboks-soketreff-tvers",
         "link-icon-left": {
           "icon-prefix": "ai ",
-          "icon-class": "ai-back",
-          "icon-extra-class": "ai-sm ai-nw"
+          "iconClass": "ai-back",
+          "iconExtraClass": "ai-sm ai-nw"
         }
       },
       "login-icon": {
         "icon-prefix": "ai",
-        "icon-class": "ai-corp-circle-big",
-        "icon-extra-class": "a-personSwitcher-icon a-js-onboardingTarget-1",
+        "iconClass": "ai-corp-circle-big",
+        "iconExtraClass": "a-personSwitcher-icon a-js-onboardingTarget-1",
         "icon-sr-only-text": "Min profil"
       }
     }
@@ -43,9 +43,9 @@
       "extra-class-headingContent": "a-msgForwarded",
       "heading-icon": {
         "icon-prefix": "reg",
-        "icon-class": "reg-openmessage",
+        "iconClass": "reg-openmessage",
         "icon-size": "ai-md-lg",
-        "icon-extra-class": "ai-nw",
+        "iconExtraClass": "ai-nw",
         "aria-hidden": true,
         "icon-sr-only-text": "Melding lest"
       },
@@ -99,7 +99,7 @@
         },
         {
           "text-paragraph": {
-            "text-paragraph-class": "d-inline",
+            "text-paragraphClass": "d-inline",
             "message-text": "Søknad om endring gjøres via"
           },
           "text-link": {
@@ -114,7 +114,7 @@
         "button-wrapper-class": "col",
         "action-button": {
           "button-text": "Bekreftet mottatt",
-          "button-class": "a-btn disabled",
+          "buttonClass": "a-btn disabled",
           "button-disabled": "disabled",
           "button-type": "button",
           "onclick": false,
@@ -123,49 +123,49 @@
           "data-target": false,
           "data-toggle": false
         },
-        "action-button-icon": [
+        "actionButtonIcon": [
           {
             "button-text": "Arkiver",
-            "button-class": "a-btn-link a-btn-md-block mr-2",
+            "buttonClass": "a-btn-link a-btn-md-block mr-2",
             "button-colorClass": "",
             "link-url": "",
             "button-shadow-label": false,
             "button-icon": {
               "icon-prefix": "reg",
-              "icon-class": "reg-archive pr-1"
+              "iconClass": "reg-archive pr-1"
             }
           },
           {
             "button-text": "Slett",
-            "button-class": "a-btn-link a-btn-md-block mr-2",
+            "buttonClass": "a-btn-link a-btn-md-block mr-2",
             "button-colorClass": "",
             "link-url": "",
             "button-shadow-label": false,
             "button-icon": {
               "icon-prefix": "reg",
-              "icon-class": "reg-trash pr-1"
+              "iconClass": "reg-trash pr-1"
             }
           },
           {
             "button-text": "Videresend i Altinn",
-            "button-class": "a-btn-link a-btn-md-block mr-2",
+            "buttonClass": "a-btn-link a-btn-md-block mr-2",
             "button-colorClass": "",
             "link-url": "link.sider-portal-videresend-i-altinn",
             "button-shadow-label": false,
             "button-icon": {
               "icon-prefix": "reg",
-              "icon-class": "reg-forward pr-1"
+              "iconClass": "reg-forward pr-1"
             }
           },
           {
             "button-text": "Videresend på e-post",
-            "button-class": "a-btn-link a-btn-md-block",
+            "buttonClass": "a-btn-link a-btn-md-block",
             "button-colorClass": "",
             "link-url": "link.sider-portal-videresend-pa-epost",
             "button-shadow-label": false,
             "button-icon": {
               "icon-prefix": "reg",
-              "icon-class": "reg-forward-msg ai-nw pr-1"
+              "iconClass": "reg-forward-msg ai-nw pr-1"
             }
           }
         ]
@@ -176,7 +176,7 @@
             "list-item-name": "Forskuddsskatt.pdf",
             "listItemDescription": "(last ned)",
             "icon-prefix": "reg",
-            "icon-class": "reg-attachment-pdf ai-md ai-nw pr-1"
+            "iconClass": "reg-attachment-pdf ai-md ai-nw pr-1"
           }
         ]
       },

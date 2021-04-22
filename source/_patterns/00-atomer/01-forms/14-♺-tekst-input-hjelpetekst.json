@@ -7,7 +7,7 @@
   "extra-help": {
     "extra-helpText": "Denne teksten er en hjelpetekst",
     "icon-prefix": "ai",
-    "icon-class": "ai-info",
-    "icon-extra-class": "a-validatorInfo-icon"
+    "iconClass": "ai-info",
+    "iconExtraClass": "a-validatorInfo-icon"
   }
 }

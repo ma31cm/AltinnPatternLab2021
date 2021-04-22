@@ -2,20 +2,20 @@
   "icon-items": [
     {
       "icon-prefix": "ai",
-      "icon-class": "ai-deadline",
+      "iconClass": "ai-deadline",
       "icon-size": "ai-sm",
-      "icon-extra-class": ""
+      "iconExtraClass": ""
     },
     {
       "icon-prefix": "ai",
-      "icon-class": "ai-deadline",
-      "icon-extra-class": ""
+      "iconClass": "ai-deadline",
+      "iconExtraClass": ""
     },
     {
       "icon-prefix": "ai",
-      "icon-class": "ai-deadline",
+      "iconClass": "ai-deadline",
       "icon-size": "ai-lg",
-      "icon-extra-class": ""
+      "iconExtraClass": ""
     }
   ]
 }

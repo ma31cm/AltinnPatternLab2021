@@ -20,11 +20,11 @@
   },
   "dashboard-addMessage": {
     "icon-prefix": "ai",
-    "icon-class": "ai-plus",
-    "icon-extra-class": "a-blue mr-1",
-    "button-class": "a-btn a-btn-action a-fullWidthBtn a-btnBigger",
+    "iconClass": "ai-plus",
+    "iconExtraClass": "a-blue mr-1",
+    "buttonClass": "a-btn a-btn-action a-fullWidthBtn a-btnBigger",
     "textstyling-button": "a-fontSizeXS",
-    "action-button-text": "Ny melding",
+    "actionButtonText": "Ny melding",
     "data-toggle": "altinn-modal",
     "data-action": "load",
     "data-url": {
@@ -49,8 +49,8 @@
       "login-represent": "for Patentstyret",
       "login-icon": {
         "icon-prefix": "ai",
-        "icon-class": "ai-private-circle-big",
-        "icon-extra-class": "a-personSwitcher-icon"
+        "iconClass": "ai-private-circle-big",
+        "iconExtraClass": "a-personSwitcher-icon"
       }
     },
     "icon": "group_add",
@@ -58,14 +58,14 @@
     "modal-navbar-override": {
       "button-list": [
         {
-          "button-class": "a-modal-back",
+          "buttonClass": "a-modal-back",
           "aria-label":  "Tilbake",
           "icon-prefix": "ai",
-          "icon-class": "ai-back",
-          "icon-extra-class": "",
+          "iconClass": "ai-back",
+          "iconExtraClass": "",
           "stacked-background": {
             "icon-prefix": "ai",
-            "icon-class": "ai-plain-circle-big"
+            "iconClass": "ai-plain-circle-big"
           },
           "is-modal-back": {
             "data-target": "#modal-message"
@@ -73,15 +73,15 @@
           "enable-popover": false
         },
         {
-          "button-class": "a-modal-close",
+          "buttonClass": "a-modal-close",
           "aria-label": "Lukk",
           "icon-prefix": "ai",
-          "icon-class": "ai-exit",
-          "icon-extra-class": "a-modal-close-icon",
+          "iconClass": "ai-exit",
+          "iconExtraClass": "a-modal-close-icon",
           "enable-popover": false,
           "stacked-background": {
             "icon-prefix": "ai",
-            "icon-class": "ai-plain-circle-big"
+            "iconClass": "ai-plain-circle-big"
           },
           "is-modal-close": {
             "data-target": "#modal-message"
@@ -116,16 +116,16 @@
           },
           "heading-icon": {
             "icon-prefix": "reg",
-            "icon-class": "reg-closedmessage",
+            "iconClass": "reg-closedmessage",
             "icon-size": "ai-md-lg",
-            "icon-extra-class": "ai-nw",
+            "iconExtraClass": "ai-nw",
             "aria-hidden": true,
             "icon-sr-only-text": "Melding ulest",
             "heading-secondary-icon": {
               "icon-prefix": "reg",
-              "icon-class": "reg-openmessage",
+              "iconClass": "reg-openmessage",
               "icon-size": "ai-md-lg",
-              "icon-extra-class": "ai-nw a-msgIconSecondary",
+              "iconExtraClass": "ai-nw a-msgIconSecondary",
               "aria-hidden": true,
               "icon-sr-only-text": "Melding lest",
               "sr-aria-hidden": true
@@ -145,7 +145,7 @@
           "message-text-block": {
             "extra-class": "",
             "text-paragraph": {
-              "text-paragraph-class": "d-inline",
+              "text-paragraphClass": "d-inline",
               "message-text": "Det var en feil med skjemaet. De riktige feltene skal være lagt inn nå. Dersom det fungerer greit hos deg, kan du sette denne saken til løst. "            },
             "text-link": false
           },
@@ -156,16 +156,16 @@
             "button-icons-wrapper-class": "col-lg-auto col-12",
             "button-wrapper-class": "col",
             "action-button": false,
-            "action-button-icon": [
+            "actionButtonIcon": [
               {
                 "button-text": "Svar",
-                "button-class": "a-btn-link a-btn-md-block pl-lg-2",
+                "buttonClass": "a-btn-link a-btn-md-block pl-lg-2",
                 "button-colorClass": "",
                 "link-url": "",
                 "button-shadow-label": false,
                 "button-icon": {
                   "icon-prefix": "reg",
-                  "icon-class": "reg-send pr-1"
+                  "iconClass": "reg-send pr-1"
                 },
                 "data-toggle": "altinn-modal",
                 "data-action": "load",
@@ -192,7 +192,7 @@
                 "prevMsgID": "previous3",
                 "linkIcon-text": "Sendt",
                 "icon-prefix": "reg",
-                "icon-class": "reg-send",
+                "iconClass": "reg-send",
                 "sender-name": "Patentstyret, Knut Johannesen",
                 "date": "sendt: 12.09.2019",
                 "messageBodyPrev": {
@@ -202,7 +202,7 @@
                   "message-text-block": {
                     "extra-class": "",
                     "text-paragraph": {
-                      "text-paragraph-class": "d-inline",
+                      "text-paragraphClass": "d-inline",
                       "message-text": "Det virker fortsatt ikke, men jeg får en annen type feilmelding nå, se vedlegg."
                     },
                     "text-link": false,
@@ -218,7 +218,7 @@
                 "prevMsgID": "previous1",
                 "linkIcon-text": "Mottat",
                 "icon-prefix": "reg",
-                "icon-class": "reg-openmessage",
+                "iconClass": "reg-openmessage",
                 "sender-name": "Altinn, Torkel Buarøy",
                 "date": "mottatt: 11.09.2019",
                 "messageBodyPrev": {
@@ -227,7 +227,7 @@
                   "message-text-block": {
                     "extra-class": "",
                     "text-paragraph": {
-                      "text-paragraph-class": "d-inline",
+                      "text-paragraphClass": "d-inline",
                       "message-text": "Hei,  <br><br> Kan du prøve å sende inn en ny forsendelse på skjema nå og forsøke å signere? <br><br> Mvh. Torkel Buarøy"
                     },
                     "text-link": false
@@ -242,7 +242,7 @@
                 "prevMsgID": "previous2",
                 "linkIcon-text": "Sendt",
                 "icon-prefix": "reg",
-                "icon-class": "reg-send",
+                "iconClass": "reg-send",
                 "sender-name": "Patentstyret, Knut Johannesen",
                 "date": "sendt: 10.09.2019",
                 "messageBodyPrev": {
@@ -251,7 +251,7 @@
                   "message-text-block": {
                     "extra-class": "",
                     "text-paragraph": {
-                      "text-paragraph-class": "d-inline",
+                      "text-paragraphClass": "d-inline",
                       "message-text": "Hei,<br><br>Når jeg klikker send inn får jeg en feilmelding, se vedlagt skjermbilde. Er det noe jeg må gjøre i innsendingssteget for at meldingen skal gå igjennom?<br><br>Knut Johannesen / NAV Økonomitenester"
                     },
                     "text-link": false
@@ -262,7 +262,7 @@
                         "list-item-name": "Skjermbilde.jpg",
                         "listItemDescription": "(last ned)",
                         "icon-prefix": "reg",
-                        "icon-class": "reg-attachment ai-md ai-nw pr-1"
+                        "iconClass": "reg-attachment ai-md ai-nw pr-1"
                       }
                     ],
                     "download-all": false
@@ -298,9 +298,9 @@
           },
           "heading-icon": {
             "icon-prefix": "reg",
-            "icon-class": "reg-waiting",
+            "iconClass": "reg-waiting",
             "icon-size": "ai-md-lg",
-            "icon-extra-class": "ai-nw",
+            "iconExtraClass": "ai-nw",
             "aria-hidden": true,
             "icon-sr-only-text": "Melding sendt"
           },
@@ -318,7 +318,7 @@
           "message-text-block": {
             "extra-class": "",
             "text-paragraph": {
-              "text-paragraph-class": "d-inline",
+              "text-paragraphClass": "d-inline",
               "message-text": "Hei,<br><br>Kan dere forklare hvorfor ikke korrekt adresse tas med i skjema han fyller ut? Se vedlagt skjermbilde."
             },
             "text-link": false
@@ -329,16 +329,16 @@
             "button-icons-wrapper-class": "col-lg-auto col-12",
             "button-wrapper-class": "col",
             "action-button": false,
-            "action-button-icon": [
+            "actionButtonIcon": [
               {
                 "button-text": "Svar",
-                "button-class": "a-btn-link a-btn-md-block pl-lg-2",
+                "buttonClass": "a-btn-link a-btn-md-block pl-lg-2",
                 "button-colorClass": "",
                 "link-url": "",
                 "button-shadow-label": false,
                 "button-icon": {
                   "icon-prefix": "reg",
-                  "icon-class": "reg-send pr-1"
+                  "iconClass": "reg-send pr-1"
                 },
                 "data-toggle": "altinn-modal",
                 "data-action": "load",
@@ -355,7 +355,7 @@
                 "list-item-name": "Skjermbilde.png",
                 "listItemDescription": "(last ned)",
                 "icon-prefix": "reg",
-                "icon-class": "reg-attachment-pdf ai-md ai-nw pr-1"
+                "iconClass": "reg-attachment-pdf ai-md ai-nw pr-1"
               }
             ]
           }
@@ -383,9 +383,9 @@
           },
           "heading-icon": {
             "icon-prefix": "reg",
-            "icon-class": "reg-check",
+            "iconClass": "reg-check",
             "icon-size": "ai-md-lg",
-            "icon-extra-class": "ai-nw",
+            "iconExtraClass": "ai-nw",
             "aria-hidden": true,
             "icon-sr-only-text": "Saken er løst"
           },
@@ -403,7 +403,7 @@
           "message-text-block": {
             "extra-class": "",
             "text-paragraph": {
-              "text-paragraph-class": "d-inline",
+              "text-paragraphClass": "d-inline",
               "message-text": "Hei,<br><br>Kari Jensen har nå fått tilgang til TUL, samt Visual Studio og Team Foundation Server. Innloggingsdetaljer er sendt til hennes e-postadresse. <br><br>Saken er satt til løst. Den vil gjennopprettes dersom du svarer på denne meldingen."
             },
             "text-link": false
@@ -414,16 +414,16 @@
             "button-icons-wrapper-class": "col-lg-auto col-12",
             "button-wrapper-class": "col",
             "action-button": false,
-            "action-button-icon": [
+            "actionButtonIcon": [
               {
                 "button-text": "Svar",
-                "button-class": "a-btn-link a-btn-md-block pl-lg-2",
+                "buttonClass": "a-btn-link a-btn-md-block pl-lg-2",
                 "button-colorClass": "",
                 "link-url": "",
                 "button-shadow-label": false,
                 "button-icon": {
                   "icon-prefix": "reg",
-                  "icon-class": "reg-send pr-1"
+                  "iconClass": "reg-send pr-1"
                 },
                 "data-toggle": "altinn-modal",
                 "data-action": "load",
@@ -451,7 +451,7 @@
               "prevMsgID": "previous1bb",
               "linkIcon-text": "Sendt",
               "icon-prefix": "reg",
-              "icon-class": "reg-send",
+              "iconClass": "reg-send",
               "sender-name": "Patentstyret, Knut Johannesen",
               "date": "sendt: 12.09.2019",
               "messageBodyPrev": {
@@ -460,7 +460,7 @@
                 "message-text-block": {
                   "extra-class": "",
                   "text-paragraph": {
-                    "text-paragraph-class": "d-inline",
+                    "text-paragraphClass": "d-inline",
                     "message-text": "Ønsker tilgang til: TUL<br><br> Trenger også tilgang til Visual Studio og Team Foundation Server. <br><br>Navn på den som skal ha tilgang: Kari Jensen<br>Mobilnummer: 999 99 999<br>E-postadresse: karijensen@patentstyret.no"
                   },
                   "text-link": false
@@ -478,11 +478,11 @@
   },
   "dashboard-viewMoreMessages": {
     "link-text": "Vis alle meldinger",
-    "link-class": "a-linkFeatured",
+    "linkClass": "a-linkFeatured",
     "link-url": "",
     "link-icon": {
       "icon-prefix": "ai ai-sm ai-nw ai-nw-right",
-      "icon-class": "ai-arrowright"
+      "iconClass": "ai-arrowright"
     }
   }
 }

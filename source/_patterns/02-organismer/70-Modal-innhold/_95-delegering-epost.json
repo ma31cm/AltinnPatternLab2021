@@ -22,19 +22,19 @@
     "isLarge": false,
     "has-feedback": {
       "icon-prefix": "ai",
-      "icon-class": "ai-plus",
-      "icon-extra-class": "form-control-feedback"
+      "iconClass": "ai-plus",
+      "iconExtraClass": "form-control-feedback"
     },
     "form-label-hasIcon": {
       "icon-prefix": "ai",
-      "icon-class": "ai-closedmessage",
+      "iconClass": "ai-closedmessage",
       "icon-size": "",
-      "icon-extra-class": ""
+      "iconExtraClass": ""
     }
   },
   "delegation-email-submit": {
     "button-text": "Fullfør",
-    "button-class": "a-btn a-btn-success",
+    "buttonClass": "a-btn a-btn-success",
     "button-type": "submit"
   }
 }

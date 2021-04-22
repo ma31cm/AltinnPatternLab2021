@@ -28,13 +28,13 @@
             "column-items": [
               {
                 "column-button": {
-                  "button-class": "a-btn a-btn-icon a-btn-overlay-right",
+                  "buttonClass": "a-btn a-btn-icon a-btn-overlay-right",
                   "button-dot": false,
                   "link-url": false,
                   "button-text": "",
                   "button-icon": {
                     "icon-prefix": "ai",
-                    "icon-class": "ai-favourite",
+                    "iconClass": "ai-favourite",
                     "icon-size": "ai-xs"
                   },
                   "column-icon": false
@@ -70,13 +70,13 @@
             "column-items": [
               {
                 "column-button": {
-                  "button-class": "a-btn a-btn-icon a-btn-overlay-right",
+                  "buttonClass": "a-btn a-btn-icon a-btn-overlay-right",
                   "button-dot": false,
                   "link-url": false,
                   "button-text": "",
                   "button-icon": {
                     "icon-prefix": "ai",
-                    "icon-class": "ai-favourite",
+                    "iconClass": "ai-favourite",
                     "icon-size": "ai-xs"
                   },
                   "column-icon": false

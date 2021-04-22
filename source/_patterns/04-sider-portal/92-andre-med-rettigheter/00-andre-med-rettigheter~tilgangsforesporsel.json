@@ -3,33 +3,33 @@
   "icontext": "Rettighetsforespørsel",
   "hasIcon": {
     "icon-prefix": "reg",
-    "icon-class": "reg-forward",
-    "icon-extra-class": "a-icon"    
+    "iconClass": "reg-forward",
+    "iconExtraClass": "a-icon"
   },
   "modal-navbar-override": {
     "button-list": [
       {
-        "button-class": "a-modal-back",
+        "buttonClass": "a-modal-back",
         "aria-label": "Tilbake",
         "icon-prefix": "ai",
-        "icon-class": "ai-back",
-        "icon-extra-class": "",
+        "iconClass": "ai-back",
+        "iconExtraClass": "",
         "stacked-background": {
           "icon-prefix": "ai",
-          "icon-class": "ai-plain-circle-big"
+          "iconClass": "ai-plain-circle-big"
         },
         "onclick": "location.href='link.sider-portal-profil-roller-rettigheter'",
         "enable-popover": false
       },
       {
-        "button-class": "a-modal-close",
+        "buttonClass": "a-modal-close",
         "aria-label": "Lukk",
         "icon-prefix": "ai",
-        "icon-class": "ai-exit",
-        "icon-extra-class": "a-modal-close-icon",
+        "iconClass": "ai-exit",
+        "iconExtraClass": "a-modal-close-icon",
         "stacked-background": {
           "icon-prefix": "ai",
-          "icon-class": "ai-plain-circle-big"
+          "iconClass": "ai-plain-circle-big"
         },
         "onclick": "location.href='link.sider-portal-profil-roller-rettigheter'",
         "enable-popover": false
@@ -42,7 +42,7 @@
       "person-rolle": {
         "person-role-role": false,
         "person-role-name": "Pernille Hall",
-        "icon-class": "ai-private"
+        "iconClass": "ai-private"
       },
       "showButton": false,
       "search-header": false,
@@ -81,7 +81,7 @@
                   "isDisabled": true,
                   "hasIcon": {
                     "icon-prefix": "ai",
-                    "icon-class": "ai-read"
+                    "iconClass": "ai-read"
                   },
                   "stacked-background": false,
                   "enable-popover":  false,
@@ -96,7 +96,7 @@
                   "isDisabled": true,
                   "hasIcon": {
                     "icon-prefix": "ai",
-                    "icon-class": "ai-write"
+                    "iconClass": "ai-write"
                   },
                   "stacked-background": false,
                   "enable-popover":  false
@@ -110,7 +110,7 @@
                   "isDisabled": true,
                   "hasIcon": {
                     "icon-prefix": "ai",
-                    "icon-class": "ai-sign"
+                    "iconClass": "ai-sign"
                   },
                   "stacked-background": false,
                   "enable-popover":  false,
@@ -127,10 +127,10 @@
                 {
                   "aria-label":  false,
                   "button-text": "Godta forespørsel",
-                  "button-class": "a-btn a-btn-success mr-1",
+                  "buttonClass": "a-btn a-btn-success mr-1",
                   "onclick": "location.href='link.sider-portal-tilgangsforesporsel-gitt-tilgang-kvittering'",
                   "icon-prefix": false,
-                  "icon-class": false,
+                  "iconClass": false,
                   "display-as-link": true,
                   "enable-popover": false
                 },
@@ -138,9 +138,9 @@
                   "aria-label":  false,
                   "display-as-link": true,
                   "button-text": "Avslå forespørsel",
-                  "button-class": "a-btn-link a-linkDanger a-js-popover-forceFocus",
+                  "buttonClass": "a-btn-link a-linkDanger a-js-popover-forceFocus",
                   "icon-prefix": false,
-                  "icon-class": false,
+                  "iconClass": false,
                   "enable-popover": true,
                   "popover-placement": "bottom",
                   "popover-content-id": "sampleIdPopoverButtoinLink",
@@ -149,12 +149,12 @@
                   "popover-buttons": [
                     {
                       "button-text": "Ok",
-                      "button-class": "a-btn a-btn-danger",
+                      "buttonClass": "a-btn a-btn-danger",
                       "onclick": "location.href='link.sider-portal-profil-roller-rettigheter'"
                     },
                     {
                       "button-text": "Avbryt",
-                      "button-class": "a-btn-link a-linkDanger",
+                      "buttonClass": "a-btn-link a-linkDanger",
                       "display-as-link": true,
                       "onclick": "$('button[aria-describedby=' + $(this).parent().parent().attr('id') + ']').click();"
                     }
@@ -363,20 +363,20 @@
                         "popover-link-icon": [
                           {
                             "icon-prefix": "ai",
-                            "icon-class": "ai-help-popicon",
+                            "iconClass": "ai-help-popicon",
                             "popovericon-container": {
                               "popovericon-container-class": "a-js-popoverIconInitial",
                               "icon-prefix": "",
-                              "icon-class": ""
+                              "iconClass": ""
                             }
                           },
                           {
                             "icon-prefix": "ai",
-                            "icon-class": "ai-circle-exit",
+                            "iconClass": "ai-circle-exit",
                             "popovericon-container": {
                               "popovericon-container-class": "a-js-popoverIconExpanded",
                               "icon-prefix": "",
-                              "icon-class": ""
+                              "iconClass": ""
                             }
                           }
                         ]
@@ -570,20 +570,20 @@
                         "popover-link-icon": [
                           {
                             "icon-prefix": "ai",
-                            "icon-class": "ai-help-popicon",
+                            "iconClass": "ai-help-popicon",
                             "popovericon-container": {
                               "popovericon-container-class": "a-js-popoverIconInitial",
                               "icon-prefix": "",
-                              "icon-class": ""
+                              "iconClass": ""
                             }
                           },
                           {
                             "icon-prefix": "ai",
-                            "icon-class": "ai-circle-exit",
+                            "iconClass": "ai-circle-exit",
                             "popovericon-container": {
                               "popovericon-container-class": "a-js-popoverIconExpanded",
                               "icon-prefix": "",
-                              "icon-class": ""
+                              "iconClass": ""
                             }
                           }
                         ]
@@ -629,8 +629,8 @@
                     {
                       "column-icon": {
                         "icon-prefix": "ai",
-                        "icon-class": "ai-read",
-                        "icon-extra-class": "a-dimmed",
+                        "iconClass": "ai-read",
+                        "iconExtraClass": "a-dimmed",
                         "icon-title": "Les",
                         "icon-size": "ai-sm"
                       }
@@ -638,8 +638,8 @@
                     {
                       "column-icon": {
                         "icon-prefix": "ai",
-                        "icon-class": "ai-write",
-                        "icon-extra-class": "a-dimmed",
+                        "iconClass": "ai-write",
+                        "iconExtraClass": "a-dimmed",
                         "icon-title": "Skriv",
                         "icon-size": "ai-sm"
                       }
@@ -647,8 +647,8 @@
                     {
                       "column-icon": {
                         "icon-prefix": "ai",
-                        "icon-class": "ai-sign",
-                        "icon-extra-class": "a-dimmed",
+                        "iconClass": "ai-sign",
+                        "iconExtraClass": "a-dimmed",
                         "icon-title": "Signer",
                         "icon-size": "ai-sm"
                       }
@@ -693,8 +693,8 @@
                     {
                       "column-icon": {
                         "icon-prefix": "ai",
-                        "icon-class": "ai-read",
-                        "icon-extra-class": "a-dimmed",
+                        "iconClass": "ai-read",
+                        "iconExtraClass": "a-dimmed",
                         "icon-title": "Les",
                         "icon-size": "ai-sm"
                       }
@@ -702,8 +702,8 @@
                     {
                       "column-icon": {
                         "icon-prefix": "ai",
-                        "icon-class": "ai-write",
-                        "icon-extra-class": "a-dimmed",
+                        "iconClass": "ai-write",
+                        "iconExtraClass": "a-dimmed",
                         "icon-title": "Skriv",
                         "icon-size": "ai-sm"
                       }
@@ -711,8 +711,8 @@
                     {
                       "column-icon": {
                         "icon-prefix": "ai",
-                        "icon-class": "ai-sign",
-                        "icon-extra-class": "a-dimmed",
+                        "iconClass": "ai-sign",
+                        "iconExtraClass": "a-dimmed",
                         "icon-title": "Signer",
                         "icon-size": "ai-sm"
                       }

@@ -1,7 +1,7 @@
 {
   "form-label-hasIcon": {
     "icon-prefix": "ai",
-    "icon-class": "ai-private"
+    "iconClass": "ai-private"
   },
   "form-input-hasButton": false,
   "top-label": "Finn klient",
@@ -17,7 +17,7 @@
   "modal-title": "Gi og fjerne rettigheter",
   "cancel-link": {
     "button-text": "Avbryt",
-    "button-class": "a-btn-link a-linkDanger float-right",
+    "buttonClass": "a-btn-link a-linkDanger float-right",
     "display-as-link": true
   },
   "segment-fixed": "segment-fixed",
@@ -28,11 +28,11 @@
   "full-height-table": true,
   "ferdigsegment-done": {
     "button-text": "Ferdig",
-    "button-class": "a-btn a-btn-success"
+    "buttonClass": "a-btn a-btn-success"
   },
   "ferdigsegment-cancel": {
     "button-text": "Avbryt",
-    "button-class": "a-btn-link",
+    "buttonClass": "a-btn-link",
     "display-as-link": true
   },
   "remove-rights-title": {
@@ -52,8 +52,8 @@
             {
               "sortable-row-icon": {
                 "icon-prefix": "ai",
-                "icon-class": "ai-client",
-                "icon-extra-class": ""
+                "iconClass": "ai-client",
+                "iconExtraClass": ""
               }
             },
             {
@@ -73,8 +73,8 @@
             {
               "sortable-row-icon": {
                 "icon-prefix": "ai",
-                "icon-class": "ai-client",
-                "icon-extra-class": ""
+                "iconClass": "ai-client",
+                "iconExtraClass": ""
               }
             },
             {
@@ -94,8 +94,8 @@
             {
               "sortable-row-icon": {
                 "icon-prefix": "ai",
-                "icon-class": "ai-client",
-                "icon-extra-class": ""
+                "iconClass": "ai-client",
+                "iconExtraClass": ""
               }
             },
             {
@@ -115,8 +115,8 @@
             {
               "sortable-row-icon": {
                 "icon-prefix": "ai",
-                "icon-class": "ai-client",
-                "icon-extra-class": ""
+                "iconClass": "ai-client",
+                "iconExtraClass": ""
               }
             },
             {

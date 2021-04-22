@@ -9,8 +9,8 @@
     "variation-class": "a-iconText-shadow a-iconText-large a-collapseBtn collapsed",
     "hasIcon": {
       "icon-prefix": "reg",
-      "icon-class": "reg-document",
-      "icon-extra-class": "a-icon"
+      "iconClass": "reg-document",
+      "iconExtraClass": "a-icon"
     },
     "hasTextSmall": false,
     "icontext": "Skjema og tjenester du har rettighet til"
@@ -21,14 +21,14 @@
     "person-role-name": "Kari Nordmann",
     "user-icon": {
       "icon-prefix": "ai",
-      "icon-class": "ai-private ai-lg",
-      "icon-extra-class": ""
+      "iconClass": "ai-private ai-lg",
+      "iconExtraClass": ""
     }
   },
   "showButton": {
     "button-text": "Fjern en eller flere rettigheter",
     "onclick": "location.href=''",
-    "button-class": "a-btn-link a-linkDanger float-left float-md-right",
+    "buttonClass": "a-btn-link a-linkDanger float-left float-md-right",
     "display-as-link": true,
     "button-type": false
   },
@@ -233,20 +233,20 @@
                       "popover-link-icon": [
                         {
                           "icon-prefix": "ai",
-                          "icon-class": "ai-help-popicon",
+                          "iconClass": "ai-help-popicon",
                           "popovericon-container": {
                             "popovericon-container-class": "a-js-popoverIconInitial",
                             "icon-prefix": "",
-                            "icon-class": ""
+                            "iconClass": ""
                           }
                         },
                         {
                           "icon-prefix": "ai",
-                          "icon-class": "ai-circle-exit",
+                          "iconClass": "ai-circle-exit",
                           "popovericon-container": {
                             "popovericon-container-class": "a-js-popoverIconExpanded",
                             "icon-prefix": "",
-                            "icon-class": ""
+                            "iconClass": ""
                           }
                         }
                       ]
@@ -439,20 +439,20 @@
                       "popover-link-icon": [
                         {
                           "icon-prefix": "ai",
-                          "icon-class": "ai-help-popicon",
+                          "iconClass": "ai-help-popicon",
                           "popovericon-container": {
                             "popovericon-container-class": "a-js-popoverIconInitial",
                             "icon-prefix": "",
-                            "icon-class": ""
+                            "iconClass": ""
                           }
                         },
                         {
                           "icon-prefix": "ai",
-                          "icon-class": "ai-circle-exit",
+                          "iconClass": "ai-circle-exit",
                           "popovericon-container": {
                             "popovericon-container-class": "a-js-popoverIconExpanded",
                             "icon-prefix": "",
-                            "icon-class": ""
+                            "iconClass": ""
                           }
                         }
                       ]
@@ -501,8 +501,8 @@
                   {
                     "column-icon": {
                       "icon-prefix": "ai",
-                      "icon-class": "ai-read",
-                      "icon-extra-class": "a-dimmed",
+                      "iconClass": "ai-read",
+                      "iconExtraClass": "a-dimmed",
                       "icon-title": "Les",
                       "icon-size": "ai-sm"
                     }
@@ -510,8 +510,8 @@
                   {
                     "column-icon": {
                       "icon-prefix": "ai",
-                      "icon-class": "ai-write",
-                      "icon-extra-class": "a-dimmed",
+                      "iconClass": "ai-write",
+                      "iconExtraClass": "a-dimmed",
                       "icon-title": "Skriv",
                       "icon-size": "ai-sm"
                     }
@@ -519,8 +519,8 @@
                   {
                     "column-icon": {
                       "icon-prefix": "ai",
-                      "icon-class": "ai-sign",
-                      "icon-extra-class": "a-dimmed",
+                      "iconClass": "ai-sign",
+                      "iconExtraClass": "a-dimmed",
                       "icon-title": "Signer",
                       "icon-size": "ai-sm"
                     }
@@ -568,8 +568,8 @@
                   {
                     "column-icon": {
                       "icon-prefix": "ai",
-                      "icon-class": "ai-read",
-                      "icon-extra-class": "a-dimmed",
+                      "iconClass": "ai-read",
+                      "iconExtraClass": "a-dimmed",
                       "icon-title": "Les",
                       "icon-size": "ai-sm"
                     }
@@ -577,8 +577,8 @@
                   {
                     "column-icon": {
                       "icon-prefix": "ai",
-                      "icon-class": "ai-write",
-                      "icon-extra-class": "a-dimmed",
+                      "iconClass": "ai-write",
+                      "iconExtraClass": "a-dimmed",
                       "icon-title": "Skriv",
                       "icon-size": "ai-sm"
                     }
@@ -586,8 +586,8 @@
                   {
                     "column-icon": {
                       "icon-prefix": "ai",
-                      "icon-class": "ai-sign",
-                      "icon-extra-class": "a-dimmed",
+                      "iconClass": "ai-sign",
+                      "iconExtraClass": "a-dimmed",
                       "icon-title": "Signer",
                       "icon-size": "ai-sm"
                     }

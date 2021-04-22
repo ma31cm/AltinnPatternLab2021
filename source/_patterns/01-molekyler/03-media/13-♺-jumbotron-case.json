@@ -17,7 +17,7 @@
     "section-title": "Karasjok kommune har spart <span class='a-textBlue' style='white-space:nowrap;'>2 600 456</span> på å bruke Altinn hittil i år.",
     "front-main-button": {
       "link-buttonLarge": {
-        "link-class": "a-btn a-btn-border",
+        "linkClass": "a-btn a-btn-border",
         "link-text": "Lær mer"
       }
     },

@@ -3,7 +3,7 @@
 
   "login-info-save-btn": {
     "button-text": "En knapp som antyder suksess",
-    "button-class": "a-btn a-btn-success",
+    "buttonClass": "a-btn a-btn-success",
     "onclick": false,
     "button-icon": false,
     "button-type": false
@@ -11,7 +11,7 @@
 
   "login-info-password-link": {
     "button-text": "Lorem ipsum",
-    "button-class": "a-btn-link",
+    "buttonClass": "a-btn-link",
     "display-as-link": true,
     "onclick": "$(this).closest('.a-js-password-link').hide().next().show().find('input').first().focus();",
     "button-type": false
@@ -85,7 +85,7 @@
     },
     "form-label-hasIcon": {
       "icon-prefix": "ai",
-      "icon-class": "ai-closedmessage"
+      "iconClass": "ai-closedmessage"
     }
   }
 }

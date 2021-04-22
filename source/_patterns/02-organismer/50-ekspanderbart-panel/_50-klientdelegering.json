@@ -8,8 +8,8 @@
     "variation-class": "a-iconText-shadow a-iconText-large a-collapseBtn collapsed",
     "hasIcon": {
       "icon-prefix": "reg",
-      "icon-class": "reg-client",
-      "icon-extra-class": "a-icon"
+      "iconClass": "reg-client",
+      "iconExtraClass": "a-icon"
     },
     "hasTextSmall": false,
     "icontext": "Klientdelegering"
@@ -29,23 +29,23 @@
   ],
   "klientdelegering-file-desktop": {
     "button-text": "Klientdelegering på fil",
-    "button-class": "a-btn-link",
+    "buttonClass": "a-btn-link",
     "display-as-link": true,
     "onclick": "location.href='';"
   },
   "klientdelegering-file-mobile": {
     "button-text": "Klientdelegering på fil",
-    "button-class": "a-btn-link",
+    "buttonClass": "a-btn-link",
     "display-as-link": true,
     "onclick": "location.href='';"
   },
   "klientdelegering-add": {
-    "button-class": "a-btn a-btn-action a-fullWidthBtn",
-    "action-button-text": "Legg til ny ansatt",
+    "buttonClass": "a-btn a-btn-action a-fullWidthBtn",
+    "actionButtonText": "Legg til ny ansatt",
     "onclick": "location.href='",
     "icon-prefix": "ai",
-    "icon-class": "ai-plus",
-    "icon-extra-class": ""
+    "iconClass": "ai-plus",
+    "iconExtraClass": ""
   },
   "sok-etter-klient": {
     "display": true,
@@ -61,8 +61,8 @@
     "isInput-group": "input-group",
     "form-label-hasIcon": {
       "icon-prefix": "ai",
-      "icon-class": "ai-client",
-      "icon-extra-class": "",
+      "iconClass": "ai-client",
+      "iconExtraClass": "",
       "icon-text": ""
     },
     "form-input-hasButton": false
@@ -81,8 +81,8 @@
     "isInput-group": "input-group",
     "form-label-hasIcon": {
       "icon-prefix": "ai",
-      "icon-class": "ai-private",
-      "icon-extra-class": ""
+      "iconClass": "ai-private",
+      "iconExtraClass": ""
     },
     "form-input-hasButton": false
   }

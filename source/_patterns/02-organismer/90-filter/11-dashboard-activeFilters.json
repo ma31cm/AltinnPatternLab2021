@@ -2,11 +2,11 @@
   "filtersNotSelected": false,
   "filtersSelected": true,
   "addButton": {
-    "button-class": "a-btn a-filter-add-button a-btn-icon-inline a-js-searchFilterToggle mb-1",
+    "buttonClass": "a-btn a-filter-add-button a-btn-icon-inline a-js-searchFilterToggle mb-1",
     "aria-label": "Begrens treffene",
     "icon-prefix": "ai",
-    "icon-class": "ai-circle-plus",
-    "icon-extra-class": "a-blue",
+    "iconClass": "ai-circle-plus",
+    "iconExtraClass": "a-blue",
     "onclick": false,
     "enable-popover": false,
     "stacked-background": false,
@@ -24,8 +24,8 @@
       "extra-classes": "a-bgGreyMedium mr-1 mb-1",
       "deletable": {
         "icon-prefix": "reg",
-        "icon-class": "reg-exit",
-        "icon-extra-class": "reg-sm",
+        "iconClass": "reg-exit",
+        "iconExtraClass": "reg-sm",
         "stacked-background": false,
         "display-as-link": false
       }
@@ -35,8 +35,8 @@
       "extra-classes": "a-bgGreyMedium mr-1 mb-1",
       "deletable": {
         "icon-prefix": "reg",
-        "icon-class": "reg-exit",
-        "icon-extra-class": "reg-sm",
+        "iconClass": "reg-exit",
+        "iconExtraClass": "reg-sm",
         "stacked-background": false,
         "display-as-link": false
       }
@@ -46,8 +46,8 @@
       "extra-classes": "a-bgGreyMedium mr-1 mb-1",
       "deletable": {
         "icon-prefix": "reg",
-        "icon-class": "reg-exit",
-        "icon-extra-class": "reg-sm",
+        "iconClass": "reg-exit",
+        "iconExtraClass": "reg-sm",
         "stacked-background": false,
         "display-as-link": false
       }
@@ -57,8 +57,8 @@
       "extra-classes": "a-bgGreyMedium mr-1 mb-1",
       "deletable": {
         "icon-prefix": "reg",
-        "icon-class": "reg-exit",
-        "icon-extra-class": "reg-sm",
+        "iconClass": "reg-exit",
+        "iconExtraClass": "reg-sm",
         "stacked-background": false,
         "display-as-link": false
       }

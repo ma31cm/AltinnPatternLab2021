@@ -5,19 +5,19 @@
   "person-role-name-meta": false,
   "logout": {
     "link-url": "",
-    "link-class": "a-btn",
+    "linkClass": "a-btn",
     "link-text": "Logg ut"
   },
   "linklist": {
     "linklist-item": [
       {
         "link-url": "",
-        "link-class": "",
+        "linkClass": "",
         "link-text": "Gå til mitt dashboard"
       },
       {
         "link-url": "#",
-        "link-class": "",
+        "linkClass": "",
         "link-text": "Innstillinger"
       }
     ]

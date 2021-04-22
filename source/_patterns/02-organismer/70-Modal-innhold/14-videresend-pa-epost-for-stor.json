@@ -6,7 +6,7 @@
   },
   "submitBtn": {
     "button-text": "Del og gi tilgang",
-    "button-class": "a-btn mr-1",
+    "buttonClass": "a-btn mr-1",
     "button-disabled": false,
     "button-type": "button",
     "onclick": "location.href='';",
@@ -15,7 +15,7 @@
   },
   "closeBtn": {
     "button-text": "Nei, takk",
-    "button-class": "a-btn-link",
+    "buttonClass": "a-btn-link",
     "onclick": "location.href='';",
     "button-icon": false,
     "display-as-link": true

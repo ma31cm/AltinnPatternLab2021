@@ -18,12 +18,12 @@
       "linklist-item": [
         {
           "link-url": "link.sider-altinnett-forside-innlogget",
-          "link-class": "",
+          "linkClass": "",
           "link-text": "Gå til altinndigital.no"
         },
         {
           "link-url": "#",
-          "link-class": "",
+          "linkClass": "",
           "link-text": "Innstillinger"
         }
       ]
@@ -34,7 +34,7 @@
     "person-role-name-meta": false,
     "logout": {
       "link-url": "link.maler-altinnett-forside",
-      "link-class": "a-btn",
+      "linkClass": "a-btn",
       "link-text": "Logg ut"
     }
   },
@@ -65,13 +65,13 @@
           "alert-edit-button": {
             "classes": "mb-1 mr-1",
             "button-text": "Rediger",
-            "button-class": "a-btn-link a-btn-md-block",
+            "buttonClass": "a-btn-link a-btn-md-block",
             "button-colorClass": "",
             "link-url": "",
             "button-shadow-label": false,
             "button-icon": {
               "icon-prefix": "reg",
-              "icon-class": "reg-edit ai-sm"
+              "iconClass": "reg-edit ai-sm"
             },
             "data-toggle": "altinn-modal",
             "data-action": "load",
@@ -101,7 +101,7 @@
                 {
                   "column-icon": {
                     "icon-prefix": "ai",
-                    "icon-class": "ai-circle-plus a-blueText"
+                    "iconClass": "ai-circle-plus a-blueText"
                   }
                 }
               ]
@@ -112,8 +112,8 @@
                 {
                   "column-icon": {
                     "icon-prefix": "ai",
-                    "icon-class": "ai-plus",
-                    "icon-extra-class": "d-md-none mx-1"
+                    "iconClass": "ai-plus",
+                    "iconExtraClass": "d-md-none mx-1"
                   }
                 },
                 {
@@ -137,8 +137,8 @@
                 {
                   "column-icon": {
                     "icon-prefix": "reg",
-                    "icon-class": "reg-corp",
-                    "icon-extra-class": ""
+                    "iconClass": "reg-corp",
+                    "iconExtraClass": ""
                   }
                 }
               ]
@@ -168,8 +168,8 @@
                 {
                   "column-icon": {
                     "icon-prefix": "reg",
-                    "icon-class": "reg-corp",
-                    "icon-extra-class": ""
+                    "iconClass": "reg-corp",
+                    "iconExtraClass": ""
                   }
                 }
               ]
@@ -199,8 +199,8 @@
                 {
                   "column-icon": {
                     "icon-prefix": "reg",
-                    "icon-class": "reg-corp",
-                    "icon-extra-class": ""
+                    "iconClass": "reg-corp",
+                    "iconExtraClass": ""
                   }
                 }
               ]
@@ -230,8 +230,8 @@
                 {
                   "column-icon": {
                     "icon-prefix": "reg",
-                    "icon-class": "reg-corp",
-                    "icon-extra-class": ""
+                    "iconClass": "reg-corp",
+                    "iconExtraClass": ""
                   }
                 }
               ]
@@ -261,8 +261,8 @@
                 {
                   "column-icon": {
                     "icon-prefix": "reg",
-                    "icon-class": "reg-corp",
-                    "icon-extra-class": ""
+                    "iconClass": "reg-corp",
+                    "iconExtraClass": ""
                   }
                 }
               ]
@@ -285,10 +285,10 @@
     },
     "dashboard-viewOrganization": {
       "link-text": "Se alle tjenesteeiere",
-      "link-class": "a-linkFeatured",
+      "linkClass": "a-linkFeatured",
       "link-icon": {
         "icon-prefix": "ai ai-sm ai-nw ai-nw-right",
-        "icon-class": "ai-arrowright"
+        "iconClass": "ai-arrowright"
       }
     }
   }

@@ -14,14 +14,14 @@
     {{# rows }}
       <li {{# onclick }} onclick="{{{ onclick }}}" {{/ onclick }} class="{{ additional-classes }}" {{# id }}id="{{ id }}"{{/ id }} {{# tabable }} tabindex="0"{{/ tabable }}{{# target-table }} data-target-table="{{ target-table }}"{{/ target-table }}{{# source-table }} data-source-table="{{ source-table }}"{{/ source-table }}{{# list-item-role }} role="{{ list-item-role }}" {{/ list-item-role }}>
           {{# isRowLink }}
-            <a href="{{{ rowLink }}}" class="a-list-rowLink{{# rowLink-class }} {{ rowLink-class }}{{/ rowLink-class }}"
+            <a href="{{{ rowLink }}}" class="a-list-rowLink{{# rowlinkClass }} {{ rowlinkClass }}{{/ rowlinkClass }}"
             {{# data-toggle }} data-toggle="{{data-toggle}}" {{/ data-toggle }}
             {{# data-action }} data-action="{{data-action}}" {{/ data-action }}
             {{# data-url }} data-url="{{{data-url}}}" {{/ data-url }}
             {{# data-target }} data-target="{{{data-target}}}" {{/ data-target }}>
           {{/ isRowLink }}
           {{# expandedLink }}
-          <a href="{{{ target-Link }}}" class="{{# expandedLink-class }} {{ expandedLink-class }}{{/ expandedLink-class }}"
+          <a href="{{{ target-Link }}}" class="{{# expandedlinkClass }} {{ expandedlinkClass }}{{/ expandedlinkClass }}"
           {{# data-toggle }} data-toggle="{{data-toggle}}" {{/ data-toggle }}>
           {{/ expandedLink }}
         {{^ is-checkbox }}
@@ -68,14 +68,14 @@
             {{# nested-rows }}
               <li {{# onclick }} onclick="{{{ onclick }}}" {{/ onclick }} class="{{ additional-classes }}" {{# id }}id="{{ id }}"{{/ id }} {{# tabable }} tabindex="0"{{/ tabable }}{{# target-table }} data-target-table="{{ target-table }}"{{/ target-table }}{{# source-table }} data-source-table="{{ source-table }}"{{/ source-table }}{{# list-item-role }} role="{{ list-item-role }}" {{/ list-item-role }}>
                 {{# isRowLink }}
-                  <a href="{{{ rowLink }}}" class="a-list-rowLink{{# rowLink-class }} {{ rowLink-class }}{{/ rowLink-class }}"
+                  <a href="{{{ rowLink }}}" class="a-list-rowLink{{# rowlinkClass }} {{ rowlinkClass }}{{/ rowlinkClass }}"
                     {{# data-toggle }} data-toggle="{{data-toggle}}" {{/ data-toggle }}
                     {{# data-action }} data-action="{{data-action}}" {{/ data-action }}
                     {{# data-url }} data-url="{{{data-url}}}" {{/ data-url }}
                     {{# data-target }} data-target="{{{data-target}}}" {{/ data-target }}>
                 {{/ isRowLink }}
                 {{# modalLink }}
-                  <a href="{{{ target-Link }}}" class="{{# modalLink-class }} {{ modalLink-class }}{{/ modalLink-class }}"
+                  <a href="{{{ target-Link }}}" class="{{# modallinkClass }} {{ modallinkClass }}{{/ modallinkClass }}"
                   {{# data-toggle }} data-toggle="{{data-toggle}}" {{/ data-toggle }}>
                 {{/ modalLink }}
                 {{^ is-checkbox }}

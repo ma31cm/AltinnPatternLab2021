@@ -24,7 +24,7 @@
 
   "button-submit": {
     "button-text": "Sjekk navnet",
-		"button-class": "a-btn",
+		"buttonClass": "a-btn",
     "button-type": "submit",
     "onclick": false
   },

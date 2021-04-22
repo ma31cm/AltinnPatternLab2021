@@ -7,8 +7,8 @@
     "isRequired": false,
     "form-control-class": "",
     "icon-prefix": "ai",
-    "icon-class": "ai-date",
-    "icon-extra-class": ""
+    "iconClass": "ai-date",
+    "iconExtraClass": ""
   },
   "radio": {
     "radio-legend": {

@@ -13,7 +13,7 @@
       "form-input-button-action": "Utfør søk",
       "button-icon": {
         "icon-prefix": "ai",
-        "icon-class": "ai-search"
+        "iconClass": "ai-search"
       },
       "button-text": [
         {
@@ -40,7 +40,7 @@
           "tab-icon" : false,
           "tab-icon-secondary": {
             "icon-prefix": "ai",
-            "icon-class": "ai-lock-open ai-sm"
+            "iconClass": "ai-lock-open ai-sm"
           }
         }
       ],
@@ -72,8 +72,8 @@
       "iconOnTop": "a-iconText-icon--start",
       "hasIcon": {
         "icon-prefix": "ai",
-        "icon-class": "ai-write",
-        "icon-extra-class": "a-icon",
+        "iconClass": "ai-write",
+        "iconExtraClass": "a-icon",
         "icon-text": ""
       },
       "hasTextSmall": {
@@ -93,8 +93,8 @@
       "iconOnTop": "a-iconText-icon--start",
       "hasIcon": {
         "icon-prefix": "ai",
-        "icon-class": "ai-write",
-        "icon-extra-class": "a-icon",
+        "iconClass": "ai-write",
+        "iconExtraClass": "a-icon",
         "icon-text": ""
       },
       "hasTextSmall": {
@@ -111,8 +111,8 @@
       "iconOnTop": "a-iconText-icon--start",
       "hasIcon": {
         "icon-prefix": "ai",
-        "icon-class": "ai-write",
-        "icon-extra-class": "a-icon",
+        "iconClass": "ai-write",
+        "iconExtraClass": "a-icon",
         "icon-text": ""
       },
       "hasTextSmall": {
@@ -238,8 +238,8 @@
       "iconOnTop": "a-iconText-icon--start",
       "hasIcon": {
         "icon-prefix": "ai",
-        "icon-class": "ai-write",
-        "icon-extra-class": "a-icon",
+        "iconClass": "ai-write",
+        "iconExtraClass": "a-icon",
         "icon-text": ""
       },
       "hasTextSmall": {
@@ -257,8 +257,8 @@
       "iconOnTop": "a-iconText-icon--start",
       "hasIcon": {
         "icon-prefix": "ai",
-        "icon-class": "ai-write",
-        "icon-extra-class": "a-icon",
+        "iconClass": "ai-write",
+        "iconExtraClass": "a-icon",
         "icon-text": ""
       },
       "hasTextSmall": {
@@ -275,8 +275,8 @@
       "iconOnTop": "a-iconText-icon--start",
       "hasIcon": {
         "icon-prefix": "ai",
-        "icon-class": "ai-write",
-        "icon-extra-class": "a-icon",
+        "iconClass": "ai-write",
+        "iconExtraClass": "a-icon",
         "icon-text": ""
       },
       "hasTextSmall": {
@@ -293,8 +293,8 @@
       "iconOnTop": "a-iconText-icon--start",
       "hasIcon": {
         "icon-prefix": "ai",
-        "icon-class": "ai-write",
-        "icon-extra-class": "a-icon",
+        "iconClass": "ai-write",
+        "iconExtraClass": "a-icon",
         "icon-text": ""
       },
       "hasTextSmall": {
@@ -309,12 +309,12 @@
     }
   ],
   "suggestionList-link": {
-    "link-class": "a-linkFeatured",
+    "linkClass": "a-linkFeatured",
     "link-text": "Se alle treff i Starte og drive bedrift",
     "link-url": "link.sider-infoportal-sok-forside",
     "link-icon": {
       "icon-prefix": "ai ai-sm ai-nw ai-nw-right",
-      "icon-class": "ai-arrowright"
+      "iconClass": "ai-arrowright"
     }
   }
 }

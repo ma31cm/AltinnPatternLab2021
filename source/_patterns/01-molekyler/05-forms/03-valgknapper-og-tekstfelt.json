@@ -115,16 +115,16 @@
   "firstDateField": {
     "date-input-label": "Fra:",
     "icon-prefix": "ai",
-    "icon-class": "ai-date",
-    "icon-extra-class": "",
+    "iconClass": "ai-date",
+    "iconExtraClass": "",
     "form-control-class": "",
     "inputId": "dateField1"
   },
   "secondDateField": {
     "date-input-label": "Til:",
     "icon-prefix": "ai",
-    "icon-class": "ai-date",
-    "icon-extra-class": "",
+    "iconClass": "ai-date",
+    "iconExtraClass": "",
     "form-control-class": "",
     "inputId": "dateField2"
   }

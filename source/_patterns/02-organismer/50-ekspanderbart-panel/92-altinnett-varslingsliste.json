@@ -7,18 +7,18 @@
     "variation-class": "a-iconText-shadow a-iconText-large a-collapseBtn collapsed",
     "hasIcon": {
       "icon-prefix": "reg",
-      "icon-class": "reg-server",
-      "icon-extra-class": "a-icon"
+      "iconClass": "reg-server",
+      "iconExtraClass": "a-icon"
     },
     "hasTextSmall": false,
     "icontext": "Varslinger"
   },
   "addAlertLink": {
-    "button-class": "a-btn a-btn-action a-fullWidthBtn",
-    "action-button-text": "Legg til nytt varsel",
+    "buttonClass": "a-btn a-btn-action a-fullWidthBtn",
+    "actionButtonText": "Legg til nytt varsel",
     "icon-prefix": "ai",
-    "icon-class": "ai-plus",
-    "icon-extra-class": "",
+    "iconClass": "ai-plus",
+    "iconExtraClass": "",
     "sr-text": false,
     "data-toggle": "altinn-modal",
     "data-action": "load",
@@ -42,14 +42,14 @@
     "modal-navbar-override": {
       "button-list": [
         {
-          "button-class": "a-modal-close",
+          "buttonClass": "a-modal-close",
           "aria-label": "Lukk",
           "icon-prefix": "ai",
-          "icon-class": "ai-exit",
-          "icon-extra-class": "a-modal-close-icon",
+          "iconClass": "ai-exit",
+          "iconExtraClass": "a-modal-close-icon",
           "stacked-background": {
             "icon-prefix": "ai",
-            "icon-class": "ai-plain-circle-big"
+            "iconClass": "ai-plain-circle-big"
           },
           "is-modal-close": {
             "data-target": "#add-alert-modal"
@@ -74,14 +74,14 @@
     "modal-navbar-override": {
       "button-list": [
         {
-          "button-class": "a-modal-close",
+          "buttonClass": "a-modal-close",
           "aria-label": "Lukk",
           "icon-prefix": "ai",
-          "icon-class": "ai-exit",
-          "icon-extra-class": "a-modal-close-icon",
+          "iconClass": "ai-exit",
+          "iconExtraClass": "a-modal-close-icon",
           "stacked-background": {
             "icon-prefix": "ai",
-            "icon-class": "ai-plain-circle-big"
+            "iconClass": "ai-plain-circle-big"
           },
           "is-modal-close": {
             "data-target": "#edit-alert-modal"
@@ -174,7 +174,7 @@
                 {
                   "column-icon": {
                     "icon-prefix": "ai",
-                    "icon-class": "ai-server"
+                    "iconClass": "ai-server"
                   }
                 }
               ]
@@ -221,7 +221,7 @@
               "column-items": [
                 {
                   "column-link": {
-                    "link-class": "a-btn-blue-noUnderline text-right a-fontBold a-fullWidthLink collapsed a-visibleWhenInitial a-hiddenWhenExpanded pr-0 pr-md-5",
+                    "linkClass": "a-btn-blue-noUnderline text-right a-fontBold a-fullWidthLink collapsed a-visibleWhenInitial a-hiddenWhenExpanded pr-0 pr-md-5",
                     "link-url": "#",
                     "link-text": "<span class='d-none d-sm-block'>Utvid</span>",
                     "data-target": "existingCollapse1",
@@ -231,7 +231,7 @@
                 },
                 {
                   "column-link": {
-                    "link-class": "a-btn-blue-noUnderline text-right a-fontBold a-fullWidthLink a-visibleWhenExpanded pr-0 pr-md-5",
+                    "linkClass": "a-btn-blue-noUnderline text-right a-fontBold a-fullWidthLink a-visibleWhenExpanded pr-0 pr-md-5",
                     "link-url": "#",
                     "link-text": "<span class='d-none d-sm-block'>Lukk</span>",
                     "data-target": "existingCollapse1",
@@ -255,19 +255,19 @@
                     "button-group-items": [
                       {
                         "button-text": "Slett",
-                        "button-class": "a-btn a-btn-icon",
+                        "buttonClass": "a-btn a-btn-icon",
                         "button-colorClass": "",
                         "link-url": "",
                         "button-shadow-label": false,
                         "button-icon": {
                           "icon-prefix": "ai",
-                          "icon-class": "ai-circle-exit",
-                          "icon-extra-class": "a-danger ai-left"
+                          "iconClass": "ai-circle-exit",
+                          "iconExtraClass": "a-danger ai-left"
                         }
                       },
                       {
                         "button-text": "Endre",
-                        "button-class": "a-btn a-btn-icon",
+                        "buttonClass": "a-btn a-btn-icon",
                         "button-colorClass": "",
                         "link-url": "",
                         "data-toggle": "altinn-modal",
@@ -279,20 +279,20 @@
                         "button-shadow-label": false,
                         "button-icon": {
                           "icon-prefix": "ai",
-                          "icon-class": "ai-edit",
-                          "icon-extra-class": "ai-left"
+                          "iconClass": "ai-edit",
+                          "iconExtraClass": "ai-left"
                         }
                       },
                       {
                         "button-text": "Kontakt oss om dette varselet",
-                        "button-class": "a-btn a-btn-icon",
+                        "buttonClass": "a-btn a-btn-icon",
                         "button-colorClass": "",
                         "link-url": "",
                         "button-shadow-label": false,
                         "button-icon": {
                           "icon-prefix": "ai",
-                          "icon-class": "ai-send",
-                          "icon-extra-class": "ai-left"
+                          "iconClass": "ai-send",
+                          "iconExtraClass": "ai-left"
                         }
                       }
                     ]
@@ -315,7 +315,7 @@
                 {
                   "column-icon": {
                     "icon-prefix": "ai",
-                    "icon-class": "ai-server"
+                    "iconClass": "ai-server"
                   }
                 }
               ]
@@ -362,7 +362,7 @@
               "column-items": [
                 {
                   "column-link": {
-                    "link-class": "a-btn-blue-noUnderline text-right a-fontBold a-fullWidthLink collapsed a-visibleWhenInitial a-hiddenWhenExpanded pr-0 pr-md-5",
+                    "linkClass": "a-btn-blue-noUnderline text-right a-fontBold a-fullWidthLink collapsed a-visibleWhenInitial a-hiddenWhenExpanded pr-0 pr-md-5",
                     "link-url": "#",
                     "link-text": "<span class='d-none d-sm-block'>Utvid</span>",
                     "data-target": "existingCollapse2",
@@ -372,7 +372,7 @@
                 },
                 {
                   "column-link": {
-                    "link-class": "a-btn-blue-noUnderline text-right a-fontBold a-fullWidthLink a-visibleWhenExpanded pr-0 pr-md-5",
+                    "linkClass": "a-btn-blue-noUnderline text-right a-fontBold a-fullWidthLink a-visibleWhenExpanded pr-0 pr-md-5",
                     "link-url": "#",
                     "link-text": "<span class='d-none d-sm-block'>Lukk</span>",
                     "data-target": "existingCollapse2",
@@ -396,19 +396,19 @@
                     "button-group-items": [
                       {
                         "button-text": "Slett",
-                        "button-class": "a-btn a-btn-icon",
+                        "buttonClass": "a-btn a-btn-icon",
                         "button-colorClass": "",
                         "link-url": "",
                         "button-shadow-label": false,
                         "button-icon": {
                           "icon-prefix": "ai",
-                          "icon-class": "ai-circle-exit",
-                          "icon-extra-class": "a-danger ai-left"
+                          "iconClass": "ai-circle-exit",
+                          "iconExtraClass": "a-danger ai-left"
                         }
                       },
                       {
                         "button-text": "Endre",
-                        "button-class": "a-btn a-btn-icon",
+                        "buttonClass": "a-btn a-btn-icon",
                         "button-colorClass": "",
                         "link-url": "",
                         "data-toggle": "altinn-modal",
@@ -420,20 +420,20 @@
                         "button-shadow-label": false,
                         "button-icon": {
                           "icon-prefix": "ai",
-                          "icon-class": "ai-edit",
-                          "icon-extra-class": "ai-left"
+                          "iconClass": "ai-edit",
+                          "iconExtraClass": "ai-left"
                         }
                       },
                       {
                         "button-text": "Kontakt oss om dette varselet",
-                        "button-class": "a-btn a-btn-icon",
+                        "buttonClass": "a-btn a-btn-icon",
                         "button-colorClass": "",
                         "link-url": "",
                         "button-shadow-label": false,
                         "button-icon": {
                           "icon-prefix": "ai",
-                          "icon-class": "ai-send",
-                          "icon-extra-class": "ai-left"
+                          "iconClass": "ai-send",
+                          "iconExtraClass": "ai-left"
                         }
                       }
                     ]
@@ -456,7 +456,7 @@
                 {
                   "column-icon": {
                     "icon-prefix": "ai",
-                    "icon-class": "ai-server"
+                    "iconClass": "ai-server"
                   }
                 }
               ]
@@ -503,7 +503,7 @@
               "column-items": [
                 {
                   "column-link": {
-                    "link-class": "a-btn-blue-noUnderline text-right a-fontBold a-fullWidthLink collapsed a-visibleWhenInitial a-hiddenWhenExpanded pr-0 pr-md-5",
+                    "linkClass": "a-btn-blue-noUnderline text-right a-fontBold a-fullWidthLink collapsed a-visibleWhenInitial a-hiddenWhenExpanded pr-0 pr-md-5",
                     "link-url": "#",
                     "link-text": "<span class='d-none d-sm-block'>Utvid</span>",
                     "data-target": "existingCollapse3",
@@ -513,7 +513,7 @@
                 },
                 {
                   "column-link": {
-                    "link-class": "a-btn-blue-noUnderline text-right a-fontBold a-fullWidthLink a-visibleWhenExpanded pr-0 pr-md-5",
+                    "linkClass": "a-btn-blue-noUnderline text-right a-fontBold a-fullWidthLink a-visibleWhenExpanded pr-0 pr-md-5",
                     "link-url": "#",
                     "link-text": "<span class='d-none d-sm-block'>Lukk</span>",
                     "data-target": "existingCollapse3",
@@ -537,19 +537,19 @@
                     "button-group-items": [
                       {
                         "button-text": "Slett",
-                        "button-class": "a-btn a-btn-icon",
+                        "buttonClass": "a-btn a-btn-icon",
                         "button-colorClass": "",
                         "link-url": "",
                         "button-shadow-label": false,
                         "button-icon": {
                           "icon-prefix": "ai",
-                          "icon-class": "ai-circle-exit",
-                          "icon-extra-class": "a-danger ai-left"
+                          "iconClass": "ai-circle-exit",
+                          "iconExtraClass": "a-danger ai-left"
                         }
                       },
                       {
                         "button-text": "Endre",
-                        "button-class": "a-btn a-btn-icon",
+                        "buttonClass": "a-btn a-btn-icon",
                         "button-colorClass": "",
                         "link-url": "",
                         "data-toggle": "altinn-modal",
@@ -561,20 +561,20 @@
                         "button-shadow-label": false,
                         "button-icon": {
                           "icon-prefix": "ai",
-                          "icon-class": "ai-edit",
-                          "icon-extra-class": "ai-left"
+                          "iconClass": "ai-edit",
+                          "iconExtraClass": "ai-left"
                         }
                       },
                       {
                         "button-text": "Kontakt oss om dette varselet",
-                        "button-class": "a-btn a-btn-icon",
+                        "buttonClass": "a-btn a-btn-icon",
                         "button-colorClass": "",
                         "link-url": "",
                         "button-shadow-label": false,
                         "button-icon": {
                           "icon-prefix": "ai",
-                          "icon-class": "ai-send",
-                          "icon-extra-class": "ai-left"
+                          "iconClass": "ai-send",
+                          "iconExtraClass": "ai-left"
                         }
                       }
                     ]
@@ -669,7 +669,7 @@
                 {
                   "column-icon": {
                     "icon-prefix": "ai",
-                    "icon-class": "ai-server"
+                    "iconClass": "ai-server"
                   }
                 }
               ]
@@ -716,7 +716,7 @@
               "column-items": [
                 {
                   "column-link": {
-                    "link-class": "a-btn-blue-noUnderline text-right a-fontBold a-fullWidthLink collapsed a-visibleWhenInitial a-hiddenWhenExpanded pr-0 pr-md-5",
+                    "linkClass": "a-btn-blue-noUnderline text-right a-fontBold a-fullWidthLink collapsed a-visibleWhenInitial a-hiddenWhenExpanded pr-0 pr-md-5",
                     "link-url": "#",
                     "link-text": "<span class='d-none d-sm-block'>Utvid</span>",
                     "data-target": "existingCollapse10",
@@ -726,7 +726,7 @@
                 },
                 {
                   "column-link": {
-                    "link-class": "a-btn-blue-noUnderline text-right a-fontBold a-fullWidthLink a-visibleWhenExpanded pr-0 pr-md-5",
+                    "linkClass": "a-btn-blue-noUnderline text-right a-fontBold a-fullWidthLink a-visibleWhenExpanded pr-0 pr-md-5",
                     "link-url": "#",
                     "link-text": "<span class='d-none d-sm-block'>Lukk</span>",
                     "data-target": "existingCollapse10",
@@ -750,19 +750,19 @@
                     "button-group-items": [
                       {
                         "button-text": "Slett",
-                        "button-class": "a-btn a-btn-icon",
+                        "buttonClass": "a-btn a-btn-icon",
                         "button-colorClass": "",
                         "link-url": "",
                         "button-shadow-label": false,
                         "button-icon": {
                           "icon-prefix": "ai",
-                          "icon-class": "ai-circle-exit",
-                          "icon-extra-class": "a-danger ai-left"
+                          "iconClass": "ai-circle-exit",
+                          "iconExtraClass": "a-danger ai-left"
                         }
                       },
                       {
                         "button-text": "Endre",
-                        "button-class": "a-btn a-btn-icon",
+                        "buttonClass": "a-btn a-btn-icon",
                         "button-colorClass": "",
                         "link-url": "",
                         "data-toggle": "altinn-modal",
@@ -774,20 +774,20 @@
                         "button-shadow-label": false,
                         "button-icon": {
                           "icon-prefix": "ai",
-                          "icon-class": "ai-edit",
-                          "icon-extra-class": "ai-left"
+                          "iconClass": "ai-edit",
+                          "iconExtraClass": "ai-left"
                         }
                       },
                       {
                         "button-text": "Kontakt oss om dette varselet",
-                        "button-class": "a-btn a-btn-icon",
+                        "buttonClass": "a-btn a-btn-icon",
                         "button-colorClass": "",
                         "link-url": "",
                         "button-shadow-label": false,
                         "button-icon": {
                           "icon-prefix": "ai",
-                          "icon-class": "ai-send",
-                          "icon-extra-class": "ai-left"
+                          "iconClass": "ai-send",
+                          "iconExtraClass": "ai-left"
                         }
                       }
                     ]
@@ -810,7 +810,7 @@
                 {
                   "column-icon": {
                     "icon-prefix": "ai",
-                    "icon-class": "ai-server"
+                    "iconClass": "ai-server"
                   }
                 }
               ]
@@ -857,7 +857,7 @@
               "column-items": [
                 {
                   "column-link": {
-                    "link-class": "a-btn-blue-noUnderline text-right a-fontBold a-fullWidthLink collapsed a-visibleWhenInitial a-hiddenWhenExpanded pr-0 pr-md-5",
+                    "linkClass": "a-btn-blue-noUnderline text-right a-fontBold a-fullWidthLink collapsed a-visibleWhenInitial a-hiddenWhenExpanded pr-0 pr-md-5",
                     "link-url": "#",
                     "link-text": "<span class='d-none d-sm-block'>Utvid</span>",
                     "data-target": "existingCollapse11",
@@ -867,7 +867,7 @@
                 },
                 {
                   "column-link": {
-                    "link-class": "a-btn-blue-noUnderline text-right a-fontBold a-fullWidthLink a-visibleWhenExpanded pr-0 pr-md-5",
+                    "linkClass": "a-btn-blue-noUnderline text-right a-fontBold a-fullWidthLink a-visibleWhenExpanded pr-0 pr-md-5",
                     "link-url": "#",
                     "link-text": "<span class='d-none d-sm-block'>Lukk</span>",
                     "data-target": "existingCollapse11",
@@ -891,19 +891,19 @@
                     "button-group-items": [
                       {
                         "button-text": "Slett",
-                        "button-class": "a-btn a-btn-icon",
+                        "buttonClass": "a-btn a-btn-icon",
                         "button-colorClass": "",
                         "link-url": "",
                         "button-shadow-label": false,
                         "button-icon": {
                           "icon-prefix": "ai",
-                          "icon-class": "ai-circle-exit",
-                          "icon-extra-class": "a-danger ai-left"
+                          "iconClass": "ai-circle-exit",
+                          "iconExtraClass": "a-danger ai-left"
                         }
                       },
                       {
                         "button-text": "Endre",
-                        "button-class": "a-btn a-btn-icon",
+                        "buttonClass": "a-btn a-btn-icon",
                         "button-colorClass": "",
                         "link-url": "",
                         "data-toggle": "altinn-modal",
@@ -915,20 +915,20 @@
                         "button-shadow-label": false,
                         "button-icon": {
                           "icon-prefix": "ai",
-                          "icon-class": "ai-edit",
-                          "icon-extra-class": "ai-left"
+                          "iconClass": "ai-edit",
+                          "iconExtraClass": "ai-left"
                         }
                       },
                       {
                         "button-text": "Kontakt oss om dette varselet",
-                        "button-class": "a-btn a-btn-icon",
+                        "buttonClass": "a-btn a-btn-icon",
                         "button-colorClass": "",
                         "link-url": "",
                         "button-shadow-label": false,
                         "button-icon": {
                           "icon-prefix": "ai",
-                          "icon-class": "ai-send",
-                          "icon-extra-class": "ai-left"
+                          "iconClass": "ai-send",
+                          "iconExtraClass": "ai-left"
                         }
                       }
                     ]
@@ -951,7 +951,7 @@
                 {
                   "column-icon": {
                     "icon-prefix": "ai",
-                    "icon-class": "ai-server"
+                    "iconClass": "ai-server"
                   }
                 }
               ]
@@ -998,7 +998,7 @@
               "column-items": [
                 {
                   "column-link": {
-                    "link-class": "a-btn-blue-noUnderline text-right a-fontBold a-fullWidthLink collapsed a-visibleWhenInitial a-hiddenWhenExpanded pr-0 pr-md-5",
+                    "linkClass": "a-btn-blue-noUnderline text-right a-fontBold a-fullWidthLink collapsed a-visibleWhenInitial a-hiddenWhenExpanded pr-0 pr-md-5",
                     "link-url": "#",
                     "link-text": "<span class='d-none d-sm-block'>Utvid</span>",
                     "data-target": "existingCollapse12",
@@ -1008,7 +1008,7 @@
                 },
                 {
                   "column-link": {
-                    "link-class": "a-btn-blue-noUnderline text-right a-fontBold a-fullWidthLink a-visibleWhenExpanded pr-0 pr-md-5",
+                    "linkClass": "a-btn-blue-noUnderline text-right a-fontBold a-fullWidthLink a-visibleWhenExpanded pr-0 pr-md-5",
                     "link-url": "#",
                     "link-text": "<span class='d-none d-sm-block'>Lukk</span>",
                     "data-target": "existingCollapse12",
@@ -1032,19 +1032,19 @@
                     "button-group-items": [
                       {
                         "button-text": "Slett",
-                        "button-class": "a-btn a-btn-icon",
+                        "buttonClass": "a-btn a-btn-icon",
                         "button-colorClass": "",
                         "link-url": "",
                         "button-shadow-label": false,
                         "button-icon": {
                           "icon-prefix": "ai",
-                          "icon-class": "ai-circle-exit",
-                          "icon-extra-class": "a-danger ai-left"
+                          "iconClass": "ai-circle-exit",
+                          "iconExtraClass": "a-danger ai-left"
                         }
                       },
                       {
                         "button-text": "Endre",
-                        "button-class": "a-btn a-btn-icon",
+                        "buttonClass": "a-btn a-btn-icon",
                         "button-colorClass": "",
                         "link-url": "",
                         "data-toggle": "altinn-modal",
@@ -1056,20 +1056,20 @@
                         "button-shadow-label": false,
                         "button-icon": {
                           "icon-prefix": "ai",
-                          "icon-class": "ai-edit",
-                          "icon-extra-class": "ai-left"
+                          "iconClass": "ai-edit",
+                          "iconExtraClass": "ai-left"
                         }
                       },
                       {
                         "button-text": "Kontakt oss om dette varselet",
-                        "button-class": "a-btn a-btn-icon",
+                        "buttonClass": "a-btn a-btn-icon",
                         "button-colorClass": "",
                         "link-url": "",
                         "button-shadow-label": false,
                         "button-icon": {
                           "icon-prefix": "ai",
-                          "icon-class": "ai-send",
-                          "icon-extra-class": "ai-left"
+                          "iconClass": "ai-send",
+                          "iconExtraClass": "ai-left"
                         }
                       }
                     ]

@@ -6,8 +6,8 @@
     "variation-class": "a-iconText-shadow a-iconText-large a-collapseBtn collapsed",
     "hasIcon": {
       "icon-prefix": "ai",
-      "icon-class": "ai-others",
-      "icon-extra-class": "a-icon a-icon-circle"
+      "iconClass": "ai-others",
+      "iconExtraClass": "a-icon a-icon-circle"
     },
     "hasTextSmall": false,
     "icontext": "Felles kontaktinformasjon"
@@ -34,7 +34,7 @@
     "isLarge": false,
     "form-label-hasIcon": {
       "icon-prefix": "ai",
-      "icon-class": "ai-phone"
+      "iconClass": "ai-phone"
     }
   },
   "shared-contactinfo-second-input": {
@@ -49,7 +49,7 @@
     "isLarge": false,
     "form-label-hasIcon": {
       "icon-prefix": "ai",
-      "icon-class": "ai-closedmessage"
+      "iconClass": "ai-closedmessage"
     }
   },
   "add-contactinfo": [
@@ -66,7 +66,7 @@
         "isLarge": false,
         "form-label-hasIcon": {
           "icon-prefix": "ai",
-          "icon-class": "ai-phone"
+          "iconClass": "ai-phone"
         }
       },
       "add-shared-contactinfo-second-input": {
@@ -81,26 +81,26 @@
         "isLarge": false,
         "form-label-hasIcon": {
           "icon-prefix": "ai",
-          "icon-class": "ai-closedmessage"
+          "iconClass": "ai-closedmessage"
         }
       },
       "delete-shared-contactinfo-icon": {
         "button-type": "button",
         "button-text": "",
-        "button-class": "a-btn a-btn-icon-transparent pt-3",
+        "buttonClass": "a-btn a-btn-icon-transparent pt-3",
         "button-colorClass": "",
         "link-url": "",
         "button-shadow-label": false,
         "button-icon": {
           "icon-prefix": "ai",
-          "icon-class": "ai-circle-exit",
-          "icon-extra-class": "ai-left a-danger"
+          "iconClass": "ai-circle-exit",
+          "iconExtraClass": "ai-left a-danger"
         }
       },
       "delete-shared-contactinfo-link": {
         "button-type": "button",
         "button-text": "Lorem",
-        "button-class": "a-btn-link a-linkDanger",
+        "buttonClass": "a-btn-link a-linkDanger",
         "display-as-link": true
       }
     },
@@ -117,7 +117,7 @@
         "isLarge": false,
         "form-label-hasIcon": {
           "icon-prefix": "ai",
-          "icon-class": "ai-phone"
+          "iconClass": "ai-phone"
         }
       },
       "add-shared-contactinfo-second-input": {
@@ -132,41 +132,41 @@
         "isLarge": false,
         "form-label-hasIcon": {
           "icon-prefix": "ai",
-          "icon-class": "ai-closedmessage"
+          "iconClass": "ai-closedmessage"
         }
       },
       "delete-shared-contactinfo-icon": {
         "button-type": "button",
         "button-text": "",
-        "button-class": "a-btn a-btn-icon-transparent",
+        "buttonClass": "a-btn a-btn-icon-transparent",
         "button-colorClass": "",
         "link-url": "",
         "button-shadow-label": false,
         "button-icon": {
           "icon-prefix": "ai",
-          "icon-class": "ai-circle-exit",
-          "icon-extra-class": "ai-left a-danger"
+          "iconClass": "ai-circle-exit",
+          "iconExtraClass": "ai-left a-danger"
         }
       },
       "delete-shared-contactinfo-link": {
         "button-type": "button",
         "button-text": "Lorem",
-        "button-class": "a-btn-link a-linkDanger",
+        "buttonClass": "a-btn-link a-linkDanger",
         "display-as-link": true
       }
     }
   ],
   "add-contactinfo-row-button": {
     "button-type": "button",
-    "button-class": "a-btn a-btn-action",
-    "action-button-text": "Legg til",
+    "buttonClass": "a-btn a-btn-action",
+    "actionButtonText": "Legg til",
     "icon-prefix": "ai",
-    "icon-class": "ai-plus",
-    "icon-extra-class": ""
+    "iconClass": "ai-plus",
+    "iconExtraClass": ""
   },
   "add-contactinfo-done-button": {
     "button-type": "button",
     "button-text": "Ferdig",
-    "button-class": "a-btn a-btn-success"
+    "buttonClass": "a-btn a-btn-success"
   }
 }

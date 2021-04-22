@@ -32,11 +32,11 @@
                   "column-link": {
                     "link-icon-left": {
                       "icon-prefix": "ai",
-                      "icon-class": "ai-edit",
-                      "icon-extra-class": "a-hiddenWhenExpanded ai-left a-blueText"
+                      "iconClass": "ai-edit",
+                      "iconExtraClass": "a-hiddenWhenExpanded ai-left a-blueText"
                     },
                     "link-icon": false,
-                    "link-class": "collapsed a-hiddenWhenExpanded a-noUnderline a-pr-half a-js-certificateEdit",
+                    "linkClass": "collapsed a-hiddenWhenExpanded a-noUnderline a-pr-half a-js-certificateEdit",
                     "link-url": "#",
                     "link-text": "<span>Rediger</span>",
                     "data-target": "collapseIdSampleSertificate"
@@ -44,7 +44,7 @@
                 },
                 {
                   "column-link": {
-                    "link-class": "a-visibleWhenExpanded",
+                    "linkClass": "a-visibleWhenExpanded",
                     "link-url": "#",
                     "link-text": "<span>Avbryt</span>",
                     "data-target": "collapseIdSampleSertificate"
@@ -59,13 +59,13 @@
                 {
                   "column-button": {
                     "button-text": "Slett",
-                    "button-class": "a-btn a-btn-icon",
+                    "buttonClass": "a-btn a-btn-icon",
                     "link-url": false,
                     "button-shadow-label": false,
                     "button-icon": {
                       "icon-prefix": "ai",
-                      "icon-class": "ai-circle-exit",
-                      "icon-extra-class": "a-danger a-blueText ai-left"
+                      "iconClass": "ai-circle-exit",
+                      "iconExtraClass": "a-danger a-blueText ai-left"
                     }
                   }
                 }
@@ -78,13 +78,13 @@
                 {
                   "column-button": {
                     "button-text": "Endre",
-                    "button-class": "a-btn a-btn-icon",
+                    "buttonClass": "a-btn a-btn-icon",
                     "link-url": false,
                     "button-shadow-label": false,
                     "button-icon": {
                       "icon-prefix": "ai",
-                      "icon-class": "ai-edit",
-                      "icon-extra-class": "a-blueText ai-left"
+                      "iconClass": "ai-edit",
+                      "iconExtraClass": "a-blueText ai-left"
                     }
                   }
                 }
@@ -103,11 +103,11 @@
                   "column-link": {
                     "link-icon-left": {
                       "icon-prefix": "ai",
-                      "icon-class": "ai-edit",
-                      "icon-extra-class": "a-hiddenWhenExpanded a-blueText"
+                      "iconClass": "ai-edit",
+                      "iconExtraClass": "a-hiddenWhenExpanded a-blueText"
                     },
                     "link-icon": false,
-                    "link-class": "collapsed a-fullWidthLink a-hiddenWhenExpanded a-noUnderline a-pr-half a-js-certificateEdit",
+                    "linkClass": "collapsed a-fullWidthLink a-hiddenWhenExpanded a-noUnderline a-pr-half a-js-certificateEdit",
                     "link-url": "#",
                     "link-text": "<span>Rediger</span>",
                     "data-target": "collapseIdSampleSertificate"
@@ -115,7 +115,7 @@
                 },
                 {
                   "column-link": {
-                    "link-class": "a-fullWidthLink a-fullWidthLink--underline a-visibleWhenExpanded a-pr-half",
+                    "linkClass": "a-fullWidthLink a-fullWidthLink--underline a-visibleWhenExpanded a-pr-half",
                     "link-url": "#",
                     "link-text": "<span>Avbryt</span>",
                     "data-target": "collapseIdSampleSertificate"
@@ -176,7 +176,7 @@
     },
     "next-btn": {
       "button-text": "Lagre",
-      "button-class": "a-btn a-btn-success mr-1 a-js-certificateSave",
+      "buttonClass": "a-btn a-btn-success mr-1 a-js-certificateSave",
       "onclick": false,
       "button-icon": false
     },

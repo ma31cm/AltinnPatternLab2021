@@ -2,8 +2,8 @@
   "variation-class": "a-iconText-background a-iconText-large",
   "hasIcon": {
     "icon-prefix": "reg",
-    "icon-class": "reg-forward",
-    "icon-extra-class": "a-icon"
+    "iconClass": "reg-forward",
+    "iconExtraClass": "a-icon"
   },
   "hasTextSmall": false,
   "icontext": "Del tilgang: Skattemelding for merverdiavgift - alminnelig næring (RF-0002)",
@@ -25,18 +25,18 @@
       "isInput-group": "input-group",
       "form-label-hasIcon": {
         "icon-prefix": "ai",
-        "icon-class": "ai-others",
-        "icon-extra-class": ""
+        "iconClass": "ai-others",
+        "iconExtraClass": ""
       },
       "form-input-hasButton": false
     },
     "add-actor-btn": {
-      "button-class": "a-btn a-btn-action a-fullWidthBtn a-fontSizeXS",
-      "action-button-text": "Legg til ny person",
+      "buttonClass": "a-btn a-btn-action a-fullWidthBtn a-fontSizeXS",
+      "actionButtonText": "Legg til ny person",
       "onclick": "location.href='link.sider-portal-videresend-i-altinn-legg-til-mottager'",
       "icon-prefix": "ai",
-      "icon-class": "ai-plus",
-      "icon-extra-class": ""
+      "iconClass": "ai-plus",
+      "iconExtraClass": ""
     },
 
     "actor-list": {
@@ -49,7 +49,7 @@
           "additional-classes": "a-clickable",
           "isRowLink": {
             "rowLink": "link.sider-portal-videresend-i-altinn-tildel-enkeltrettigheter",
-            "rowLink-class": "a-list-rowLink-large a-fontSizeXS"
+            "rowlinkClass": "a-list-rowLink-large a-fontSizeXS"
            },
           "columns": [
             {
@@ -59,8 +59,8 @@
                 {
                   "column-icon": {
                     "icon-prefix": "ai",
-                    "icon-class": "ai-others",
-                    "icon-extra-class": ""
+                    "iconClass": "ai-others",
+                    "iconExtraClass": ""
                   }
                 }
               ]
@@ -100,7 +100,7 @@
                 {
                   "column-button": {
                     "button-text": "Videresend",
-                    "button-class": "a-btn-link a-nounderline hidden-xs-down",
+                    "buttonClass": "a-btn-link a-nounderline hidden-xs-down",
                     "display-as-link": true,
                     "tab-index": "-1"
                   }
@@ -114,7 +114,7 @@
           "additional-classes": "a-clickable",
           "isRowLink": {
             "rowLink": "link.sider-portal-videresend-i-altinn-tildel-enkeltrettigheter",
-            "rowLink-class": "a-list-rowLink-large a-fontSizeXS"
+            "rowlinkClass": "a-list-rowLink-large a-fontSizeXS"
            },
           "onclick": false,
           "columns": [
@@ -125,8 +125,8 @@
                 {
                   "column-icon": {
                     "icon-prefix": "ai",
-                    "icon-class": "ai-others",
-                    "icon-extra-class": ""
+                    "iconClass": "ai-others",
+                    "iconExtraClass": ""
                   }
                 }
               ]
@@ -164,7 +164,7 @@
                 {
                   "column-button": {
                     "button-text": "Videresend",
-                    "button-class": "a-btn-link a-nounderline hidden-xs-down",
+                    "buttonClass": "a-btn-link a-nounderline hidden-xs-down",
                     "display-as-link": true,
                     "tab-index": "-1"
                   }
@@ -178,7 +178,7 @@
           "additional-classes": "a-clickable",
           "isRowLink": {
             "rowLink": "link.sider-portal-videresend-i-altinn-tildel-enkeltrettigheter",
-            "rowLink-class": "a-list-rowLink-large a-fontSizeXS"
+            "rowlinkClass": "a-list-rowLink-large a-fontSizeXS"
            },
           "onclick": false,
           "columns": [
@@ -189,8 +189,8 @@
                 {
                   "column-icon": {
                     "icon-prefix": "ai",
-                    "icon-class": "ai-others",
-                    "icon-extra-class": ""
+                    "iconClass": "ai-others",
+                    "iconExtraClass": ""
                   }
                 }
               ]
@@ -228,7 +228,7 @@
                 {
                   "column-button": {
                     "button-text": "Videresend",
-                    "button-class": "a-btn-link a-nounderline hidden-xs-down",
+                    "buttonClass": "a-btn-link a-nounderline hidden-xs-down",
                     "display-as-link": true,
                     "tab-index": "-1"
                   }
@@ -242,7 +242,7 @@
           "additional-classes": "a-clickable",
           "isRowLink": {
             "rowLink": "link.sider-portal-videresend-i-altinn-tildel-enkeltrettigheter",
-            "rowLink-class": "a-list-rowLink-large a-fontSizeXS"
+            "rowlinkClass": "a-list-rowLink-large a-fontSizeXS"
            },
           "onclick": false,
           "columns": [
@@ -253,8 +253,8 @@
                 {
                   "column-icon": {
                     "icon-prefix": "ai",
-                    "icon-class": "ai-others",
-                    "icon-extra-class": ""
+                    "iconClass": "ai-others",
+                    "iconExtraClass": ""
                   }
                 }
               ]
@@ -292,7 +292,7 @@
                 {
                   "column-button": {
                     "button-text": "Videresend",
-                    "button-class": "a-btn-link a-nounderline hidden-xs-down",
+                    "buttonClass": "a-btn-link a-nounderline hidden-xs-down",
                     "display-as-link": true,
                     "tab-index": "-1"
                   }
@@ -306,7 +306,7 @@
           "additional-classes": "a-clickable",
           "isRowLink": {
             "rowLink": "link.sider-portal-videresend-i-altinn-tildel-enkeltrettigheter",
-            "rowLink-class": "a-list-rowLink-large a-fontSizeXS"
+            "rowlinkClass": "a-list-rowLink-large a-fontSizeXS"
            },
           "onclick": false,
           "columns": [
@@ -317,8 +317,8 @@
                 {
                   "column-icon": {
                     "icon-prefix": "ai",
-                    "icon-class": "ai-others",
-                    "icon-extra-class": ""
+                    "iconClass": "ai-others",
+                    "iconExtraClass": ""
                   }
                 }
               ]
@@ -356,7 +356,7 @@
                 {
                   "column-button": {
                     "button-text": "Videresend",
-                    "button-class": "a-btn-link a-nounderline hidden-xs-down",
+                    "buttonClass": "a-btn-link a-nounderline hidden-xs-down",
                     "display-as-link": true,
                     "tab-index": "-1"
                   }
@@ -370,7 +370,7 @@
           "additional-classes": "a-clickable",
           "isRowLink": {
             "rowLink": "link.sider-portal-videresend-i-altinn-tildel-enkeltrettigheter",
-            "rowLink-class": "a-list-rowLink-large a-fontSizeXS"
+            "rowlinkClass": "a-list-rowLink-large a-fontSizeXS"
            },
           "onclick": false,
           "columns": [
@@ -381,8 +381,8 @@
                 {
                   "column-icon": {
                     "icon-prefix": "ai",
-                    "icon-class": "ai-others",
-                    "icon-extra-class": ""
+                    "iconClass": "ai-others",
+                    "iconExtraClass": ""
                   }
                 }
               ]
@@ -420,7 +420,7 @@
                 {
                   "column-button": {
                     "button-text": "Videresend",
-                    "button-class": "a-btn-link a-nounderline hidden-xs-down",
+                    "buttonClass": "a-btn-link a-nounderline hidden-xs-down",
                     "display-as-link": true,
                     "tab-index": "-1"
                   }
@@ -434,7 +434,7 @@
           "additional-classes": "a-clickable",
           "isRowLink": {
             "rowLink": "link.sider-portal-videresend-i-altinn-tildel-enkeltrettigheter",
-            "rowLink-class": "a-list-rowLink-large a-fontSizeXS"
+            "rowlinkClass": "a-list-rowLink-large a-fontSizeXS"
            },
           "onclick": false,
           "columns": [
@@ -445,8 +445,8 @@
                 {
                   "column-icon": {
                     "icon-prefix": "ai",
-                    "icon-class": "ai-others",
-                    "icon-extra-class": ""
+                    "iconClass": "ai-others",
+                    "iconExtraClass": ""
                   }
                 }
               ]
@@ -484,7 +484,7 @@
                 {
                   "column-button": {
                     "button-text": "Videresend",
-                    "button-class": "a-btn-link a-nounderline hidden-xs-down",
+                    "buttonClass": "a-btn-link a-nounderline hidden-xs-down",
                     "display-as-link": true,
                     "tab-index": "-1"
                   }
@@ -498,7 +498,7 @@
           "additional-classes": "a-clickable",
           "isRowLink": {
             "rowLink": "link.sider-portal-videresend-i-altinn-tildel-enkeltrettigheter",
-            "rowLink-class": "a-list-rowLink-large a-fontSizeXS"
+            "rowlinkClass": "a-list-rowLink-large a-fontSizeXS"
            },
           "onclick": false,
           "columns": [
@@ -509,8 +509,8 @@
                 {
                   "column-icon": {
                     "icon-prefix": "ai",
-                    "icon-class": "ai-others",
-                    "icon-extra-class": ""
+                    "iconClass": "ai-others",
+                    "iconExtraClass": ""
                   }
                 }
               ]
@@ -548,7 +548,7 @@
                 {
                   "column-button": {
                     "button-text": "Videresend",
-                    "button-class": "a-btn-link a-nounderline hidden-xs-down",
+                    "buttonClass": "a-btn-link a-nounderline hidden-xs-down",
                     "display-as-link": true,
                     "tab-index": "-1"
                   }
@@ -562,7 +562,7 @@
           "additional-classes": "a-clickable",
           "isRowLink": {
             "rowLink": "link.sider-portal-videresend-i-altinn-tildel-enkeltrettigheter",
-            "rowLink-class": "a-list-rowLink-large a-fontSizeXS"
+            "rowlinkClass": "a-list-rowLink-large a-fontSizeXS"
            },
           "onclick": false,
           "columns": [
@@ -573,8 +573,8 @@
                 {
                   "column-icon": {
                     "icon-prefix": "ai",
-                    "icon-class": "ai-others",
-                    "icon-extra-class": ""
+                    "iconClass": "ai-others",
+                    "iconExtraClass": ""
                   }
                 }
               ]
@@ -612,7 +612,7 @@
                 {
                   "column-button": {
                     "button-text": "Videresend",
-                    "button-class": "a-btn-link a-nounderline hidden-xs-down",
+                    "buttonClass": "a-btn-link a-nounderline hidden-xs-down",
                     "display-as-link": true,
                     "tab-index": "-1"
                   }
@@ -626,7 +626,7 @@
           "additional-classes": "a-clickable",
           "isRowLink": {
             "rowLink": "link.sider-portal-videresend-i-altinn-tildel-enkeltrettigheter",
-            "rowLink-class": "a-list-rowLink-large a-fontSizeXS"
+            "rowlinkClass": "a-list-rowLink-large a-fontSizeXS"
            },
           "onclick": false,
           "columns": [
@@ -637,8 +637,8 @@
                 {
                   "column-icon": {
                     "icon-prefix": "ai",
-                    "icon-class": "ai-others",
-                    "icon-extra-class": ""
+                    "iconClass": "ai-others",
+                    "iconExtraClass": ""
                   }
                 }
               ]
@@ -676,7 +676,7 @@
                 {
                   "column-button": {
                     "button-text": "Videresend",
-                    "button-class": "a-btn-link a-nounderline hidden-xs-down",
+                    "buttonClass": "a-btn-link a-nounderline hidden-xs-down",
                     "display-as-link": true,
                     "tab-index": "-1"
                   }
@@ -697,7 +697,7 @@
                 {
                   "column-icon": {
                     "icon-prefix": "ai",
-                    "icon-class": "ai-plus"
+                    "iconClass": "ai-plus"
                   }
                 }
               ]
@@ -708,8 +708,8 @@
                 {
                   "column-icon": {
                     "icon-prefix": "ai",
-                    "icon-class": "ai-plus",
-                    "icon-extra-class": "d-md-none"
+                    "iconClass": "ai-plus",
+                    "iconExtraClass": "d-md-none"
                   }
                 },
                 {
@@ -751,27 +751,27 @@
   "modal-navbar-override": {
     "button-list": [
       {
-        "button-class": "a-modal-back",
+        "buttonClass": "a-modal-back",
         "aria-label": "Tilbake",
         "icon-prefix": "ai",
-        "icon-class": "ai-back",
-        "icon-extra-class": "",
+        "iconClass": "ai-back",
+        "iconExtraClass": "",
         "stacked-background": {
           "icon-prefix": "ai",
-          "icon-class": "ai-plain-circle-big"
+          "iconClass": "ai-plain-circle-big"
         },
         "onclick": "location.href='link.sider-portal-innboks'",
         "enable-popover": false
       },
       {
-        "button-class": "a-modal-close",
+        "buttonClass": "a-modal-close",
         "aria-label": "Lukk",
         "icon-prefix": "ai",
-        "icon-class": "ai-exit",
-        "icon-extra-class": "a-modal-close-icon",
+        "iconClass": "ai-exit",
+        "iconExtraClass": "a-modal-close-icon",
         "stacked-background": {
           "icon-prefix": "ai",
-          "icon-class": "ai-plain-circle-big"
+          "iconClass": "ai-plain-circle-big"
         },
         "onclick": false,
         "enable-popover": false

@@ -13,7 +13,7 @@
         "form-input-button-action": "Utfør søk",
         "button-icon": {
           "icon-prefix": "ai",
-          "icon-class": "ai-search"
+          "iconClass": "ai-search"
         },
         "button-text": [
           {
@@ -58,7 +58,7 @@
             "link-group-items": [
               {
                 "link-text": "Hjelp meg gjennom prosessen",
-                "link-class": "a-btn a-btn-success mt-1"
+                "linkClass": "a-btn a-btn-success mt-1"
               },
               {
                 "link-text": "Trinn for trinn uten å logge inn",
@@ -110,14 +110,14 @@
         "telText": "Telefonnummer til Altinn brukerstøtte",
         "tel-icon": {
           "icon-prefix": "ai ai-nw ai-nw-pr",
-          "icon-class": "ai-phone"
+          "iconClass": "ai-phone"
         }
       },
       "mail": {
         "mail-adress": "support@altinn.no",
         "mail-text": "Skriv til oss",
         "icon-prefix": "ai ai-nw ai-nw-pr",
-        "icon-class": "ai-send"
+        "iconClass": "ai-send"
       },
       "linkIcon": false
     }

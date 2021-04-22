@@ -14,7 +14,7 @@
       "form-input-button-action": "Utfør søk",
       "button-icon": {
         "icon-prefix": "ai",
-        "icon-class": "ai-search"
+        "iconClass": "ai-search"
       },
       "button-text": [
         {
@@ -102,11 +102,11 @@
   "front-main-button": false,
   "front-main-button-text-right": "",
   "jumbo-link": {
-    "link-class": "a-linkFeatured",
+    "linkClass": "a-linkFeatured",
     "link-text": "Gå til temasiden",
     "link-icon": {
       "icon-prefix": "ai ai-sm ai-nw ai-nw-right",
-      "icon-class": "ai-arrowright"
+      "iconClass": "ai-arrowright"
     },
     "link-url": ""
   },
@@ -187,12 +187,12 @@
           ]
         },
         "collapse-panel-link": {
-          "link-class": "a-linkFeatured",
+          "linkClass": "a-linkFeatured",
           "link-text": "Gå til temasiden",
           "link-url": "link.sider-infoportal-temaside-v-arbeidsforhold",
           "link-icon": {
             "icon-prefix": "ai ai-sm ai-nw ai-nw-right",
-            "icon-class": "ai-arrowright"
+            "iconClass": "ai-arrowright"
           }
         },
         "collapse-panel-img": true
@@ -264,12 +264,12 @@
           ]
         },
         "collapse-panel-link": {
-          "link-class": "a-linkFeatured",
+          "linkClass": "a-linkFeatured",
           "link-text": "Gå til temasiden",
           "link-url": "link.sider-infoportal-temaside-v-arbeidsforhold",
           "link-icon": {
             "icon-prefix": "ai ai-sm ai-nw ai-nw-right",
-            "icon-class": "ai-arrowright"
+            "iconClass": "ai-arrowright"
           }
         },
         "collapse-panel-img": true
@@ -341,12 +341,12 @@
           ]
         },
         "collapse-panel-link": {
-          "link-class": "a-linkFeatured",
+          "linkClass": "a-linkFeatured",
           "link-text": "Gå til temasiden",
           "link-url": "link.sider-infoportal-temaside-v-arbeidsforhold",
           "link-icon": {
             "icon-prefix": "ai ai-sm ai-nw ai-nw-right",
-            "icon-class": "ai-arrowright"
+            "iconClass": "ai-arrowright"
           }
         },
         "collapse-panel-img": true
@@ -357,8 +357,8 @@
     "variation-class": "a-iconText-shadow a-iconText-background a-iconText-background--white",
     "hasIcon": {
       "icon-prefix": "ai",
-      "icon-class": "ai-server",
-      "icon-extra-class": "a-icon a-icon-circle"
+      "iconClass": "ai-server",
+      "iconExtraClass": "a-icon a-icon-circle"
     },
     "hasTextSmall": false,
     "link-text": "Lenk til et skjema eller noe annet",

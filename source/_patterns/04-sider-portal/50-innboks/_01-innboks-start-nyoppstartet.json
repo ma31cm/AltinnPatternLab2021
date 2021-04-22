@@ -3,7 +3,7 @@
   "login-name": "JAN PETTERSEN",
   "login-icon": {
     "icon-prefix": "ai",
-    "icon-class": "ai-corp"
+    "iconClass": "ai-corp"
   },
   "login-represent": "for Pettersen Foto",
   "myself-name": "Pettersen Foto",
@@ -19,7 +19,7 @@
       "form-input-button-action": "Utfør søk",
       "button-icon": {
         "icon-prefix": "ai",
-        "icon-class": "ai-search"
+        "iconClass": "ai-search"
       },
       "button-text": [
         {
@@ -31,13 +31,13 @@
   },
   "page-title": "I dag",
   "buttonTab-first": {
-    "button-class": "a-btn a-btn-icon a-btn-transparentWhite a-js-onboardingTarget-3"
+    "buttonClass": "a-btn a-btn-icon a-btn-transparentWhite a-js-onboardingTarget-3"
   },
   "buttonTab-second": {
-    "button-class": "a-btn a-btn-icon a-btn-transparentWhite a-js-onboardingTarget-4"
+    "buttonClass": "a-btn a-btn-icon a-btn-transparentWhite a-js-onboardingTarget-4"
   },
   "buttonTab-third": {
-    "button-class": "a-btn a-btn-icon a-btn-transparentWhite a-js-onboardingTarget-5"
+    "buttonClass": "a-btn a-btn-icon a-btn-transparentWhite a-js-onboardingTarget-5"
   },
   "messages": {
     "accordion-large-id": "accordion",
@@ -52,8 +52,8 @@
           "variation-class": "a-iconText-shadow a-collapseBtn collapsed",
           "hasIcon": {
             "icon-prefix": "ai",
-            "icon-class": "ai-openmessage",
-            "icon-extra-class": "a-icon a-icon-circle a-bgBlue"
+            "iconClass": "ai-openmessage",
+            "iconExtraClass": "a-icon a-icon-circle a-bgBlue"
           },
           "hasTextSmall": {
             "textSmall": "Altinn"
@@ -72,8 +72,8 @@
           "variation-class": "a-iconText-shadow a-collapseBtn collapsed",
           "hasIcon": {
             "icon-prefix": "ai",
-            "icon-class": "ai-closedmessage",
-            "icon-extra-class": "a-icon a-icon-circle a-bgBlue"
+            "iconClass": "ai-closedmessage",
+            "iconExtraClass": "a-icon a-icon-circle a-bgBlue"
           },
           "hasTextSmall": {
             "textSmall": "Altinn"
@@ -98,12 +98,12 @@
         "buttons": [
           {
             "button-text": "Ok!",
-            "button-class": "a-btn",
+            "buttonClass": "a-btn",
             "onclick": false
           },
           {
             "button-text": "Hopp over introen",
-            "button-class": "a-btn-link a-textWhite",
+            "buttonClass": "a-btn-link a-textWhite",
             "display-as-link": true,
             "data-dismiss": "data-dismiss=\"modal\"",
             "onclick": false
@@ -116,7 +116,7 @@
         "buttons": [
           {
             "button-text": "Den er grei!",
-            "button-class": "a-btn",
+            "buttonClass": "a-btn",
             "onclick": false
           }
         ]
@@ -127,7 +127,7 @@
         "buttons": [
           {
             "button-text": "Ok!",
-            "button-class": "a-btn",
+            "buttonClass": "a-btn",
             "onclick": false
           }
         ]
@@ -138,7 +138,7 @@
         "buttons": [
           {
             "button-text": "Skjønner!",
-            "button-class": "a-btn",
+            "buttonClass": "a-btn",
             "onclick": false
           }
         ]
@@ -149,7 +149,7 @@
         "buttons": [
           {
             "button-text": "Ok!",
-            "button-class": "a-btn",
+            "buttonClass": "a-btn",
             "onclick": false
           }
         ]
@@ -160,7 +160,7 @@
         "buttons": [
           {
             "button-text": "Skjønner",
-            "button-class": "a-btn",
+            "buttonClass": "a-btn",
             "onclick": false
           }
         ]
@@ -171,12 +171,12 @@
         "buttons": [
           {
             "button-text": "Jeg er klar!",
-            "button-class": "a-btn a-btn-success",
+            "buttonClass": "a-btn a-btn-success",
             "onclick": false
           },
           {
             "button-text": "Ta det en gang til",
-            "button-class": "a-btn-link a-textWhite",
+            "buttonClass": "a-btn-link a-textWhite",
             "display-as-link": true,
             "onclick": false
           }

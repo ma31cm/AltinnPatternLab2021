@@ -41,8 +41,8 @@
       "input-type": "text",
       "has-feedback": {
         "icon-prefix": "ai",
-        "icon-class": "ai-plus",
-        "icon-extra-class": "form-control-feedback"
+        "iconClass": "ai-plus",
+        "iconExtraClass": "form-control-feedback"
       }
     },
 
@@ -191,8 +191,8 @@
               "isRequired": true,
               "form-control-class": "",
               "icon-prefix": "ai",
-              "icon-class": "ai-date",
-              "icon-extra-class": ""
+              "iconClass": "ai-date",
+              "iconExtraClass": ""
             }
           }
         }
@@ -210,8 +210,8 @@
         "isRequired": false,
         "form-control-class": "",
         "icon-prefix": "ai",
-        "icon-class": "ai-date",
-        "icon-extra-class": ""
+        "iconClass": "ai-date",
+        "iconExtraClass": ""
       }
     },
 
@@ -222,7 +222,7 @@
 
     "save" : {
       "button-text": "Lagre",
-      "button-class": "a-btn mt-3",
+      "buttonClass": "a-btn mt-3",
       "button-id": "a-js-contactForm-submit",
       "button-type": "button",
       "onclick": false,

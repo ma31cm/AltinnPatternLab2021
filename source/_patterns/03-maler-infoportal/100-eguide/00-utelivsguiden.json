@@ -13,7 +13,7 @@
   "login-or-switchuser": "Logg inn",
   "login-name": "Logg inn",
   "login-icon": {
-    "icon-class": "ai-keyhole-circle"
+    "iconClass": "ai-keyhole-circle"
   },
   "url": "link.sider-infoportal-utelivsguiden",
   "guide": {
@@ -29,14 +29,14 @@
       "modal-navbar-override": {
         "button-list": [
           {
-            "button-class": "a-modal-back",
+            "buttonClass": "a-modal-back",
             "aria-label":  "Tilbake",
             "icon-prefix": "ai",
-            "icon-class": "ai-back",
-            "icon-extra-class": "",
+            "iconClass": "ai-back",
+            "iconExtraClass": "",
             "stacked-background": {
               "icon-prefix": "ai",
-              "icon-class": "ai-plain-circle-big"
+              "iconClass": "ai-plain-circle-big"
             },
             "is-modal-back": {
               "data-target": "#modal"
@@ -50,26 +50,26 @@
             "popover-buttons": [
               {
                 "button-text": "Ok",
-                "button-class": "a-btn a-btn-danger a-js-modal-dirtyBackBtn",
+                "buttonClass": "a-btn a-btn-danger a-js-modal-dirtyBackBtn",
                 "page-url": false
               },
               {
                 "button-text": "Avbryt",
-                "button-class": "a-btn-link a-linkDanger a-js-modal-dirtyCancelBtn",
+                "buttonClass": "a-btn-link a-linkDanger a-js-modal-dirtyCancelBtn",
                 "display-as-link": true,
                 "page-url": false
               }
             ]
           },
           {
-            "button-class": "a-modal-close",
+            "buttonClass": "a-modal-close",
             "aria-label":  "Lukk",
             "icon-prefix": "ai",
-            "icon-class": "ai-exit",
-            "icon-extra-class": "a-modal-close-icon",
+            "iconClass": "ai-exit",
+            "iconExtraClass": "a-modal-close-icon",
             "stacked-background": {
               "icon-prefix": "ai",
-              "icon-class": "ai-plain-circle-big"
+              "iconClass": "ai-plain-circle-big"
             },
             "is-modal-close": {
               "data-target": "#modal"
@@ -83,12 +83,12 @@
             "popover-buttons": [
               {
                 "button-text": "Ok",
-                "button-class": "a-btn a-btn-danger a-js-modal-dirtyCloseBtn",
+                "buttonClass": "a-btn a-btn-danger a-js-modal-dirtyCloseBtn",
                 "page-url": false
               },
               {
                 "button-text": "Avbryt",
-                "button-class": "a-btn-link a-linkDanger a-js-modal-dirtyCancelBtn",
+                "buttonClass": "a-btn-link a-linkDanger a-js-modal-dirtyCancelBtn",
                 "display-as-link": true,
                 "page-url": false
               }

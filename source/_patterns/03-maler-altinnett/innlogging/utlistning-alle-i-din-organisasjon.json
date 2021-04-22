@@ -13,7 +13,7 @@
     "form-control-class": "",
     "form-label-hasIcon": {
       "icon-prefix": "ai",
-      "icon-class": "ai-others"
+      "iconClass": "ai-others"
     },
     "form-input-hasButton": false,
     "no-results-text": "Ingen treff, prøv et annet søkeord."
@@ -25,7 +25,7 @@
         "additional-classes": "",
         "isRowLink": true,
         "rowLink": "#",
-        "rowLink-class": " a-fontSizeXS py-1",
+        "rowlinkClass": " a-fontSizeXS py-1",
         "data-toggle": "altinn-modal",
         "data-action": "next",
         "data-url": "../../patterns/03-maler-altinnett-innlogging-skjema-endre-og-fjerne-bruker/03-maler-altinnett-innlogging-skjema-endre-og-fjerne-bruker.markup-only.html",
@@ -38,8 +38,8 @@
               {
                 "column-icon": {
                   "icon-prefix": "ai",
-                  "icon-class": "ai-private",
-                  "icon-extra-class": ""
+                  "iconClass": "ai-private",
+                  "iconExtraClass": ""
                 }
               }
             ]
@@ -66,7 +66,7 @@
         "additional-classes": "",
         "isRowLink": true,
         "rowLink": "#",
-        "rowLink-class": " a-fontSizeXS py-1",
+        "rowlinkClass": " a-fontSizeXS py-1",
         "data-toggle": "altinn-modal",
         "data-action": "next",
         "data-url": "../../patterns/03-maler-altinnett-innlogging-skjema-endre-og-fjerne-bruker/03-maler-altinnett-innlogging-skjema-endre-og-fjerne-bruker.markup-only.html",
@@ -79,8 +79,8 @@
               {
                 "column-icon": {
                   "icon-prefix": "ai",
-                  "icon-class": "ai-private",
-                  "icon-extra-class": ""
+                  "iconClass": "ai-private",
+                  "iconExtraClass": ""
                 }
               }
             ]
@@ -114,7 +114,7 @@
         "additional-classes": "",
         "isRowLink": true,
         "rowLink": "#",
-        "rowLink-class": " a-fontSizeXS py-1",
+        "rowlinkClass": " a-fontSizeXS py-1",
         "data-toggle": "altinn-modal",
         "data-action": "next",
         "data-url": "../../patterns/03-maler-altinnett-innlogging-skjema-endre-og-fjerne-bruker/03-maler-altinnett-innlogging-skjema-endre-og-fjerne-bruker.markup-only.html",
@@ -127,8 +127,8 @@
               {
                 "column-icon": {
                   "icon-prefix": "ai",
-                  "icon-class": "ai-private",
-                  "icon-extra-class": ""
+                  "iconClass": "ai-private",
+                  "iconExtraClass": ""
                 }
               }
             ]
@@ -151,7 +151,7 @@
         "additional-classes": "",
         "isRowLink": true,
         "rowLink": "#",
-        "rowLink-class": " a-fontSizeXS py-1",
+        "rowlinkClass": " a-fontSizeXS py-1",
         "data-toggle": "altinn-modal",
         "data-action": "next",
         "data-url": "../../patterns/03-maler-altinnett-innlogging-skjema-endre-og-fjerne-bruker/03-maler-altinnett-innlogging-skjema-endre-og-fjerne-bruker.markup-only.html",
@@ -164,8 +164,8 @@
               {
                 "column-icon": {
                   "icon-prefix": "ai",
-                  "icon-class": "ai-private",
-                  "icon-extra-class": ""
+                  "iconClass": "ai-private",
+                  "iconExtraClass": ""
                 }
               }
             ]
@@ -188,7 +188,7 @@
         "additional-classes": "",
         "isRowLink": true,
         "rowLink": "#",
-        "rowLink-class": " a-fontSizeXS py-1",
+        "rowlinkClass": " a-fontSizeXS py-1",
         "data-toggle": "altinn-modal",
         "data-action": "next",
         "data-url": "../../patterns/03-maler-altinnett-innlogging-skjema-endre-og-fjerne-bruker/03-maler-altinnett-innlogging-skjema-endre-og-fjerne-bruker.markup-only.html",
@@ -201,8 +201,8 @@
               {
                 "column-icon": {
                   "icon-prefix": "ai",
-                  "icon-class": "ai-private",
-                  "icon-extra-class": ""
+                  "iconClass": "ai-private",
+                  "iconExtraClass": ""
                 }
               }
             ]
@@ -225,7 +225,7 @@
         "additional-classes": "",
         "isRowLink": true,
         "rowLink": "#",
-        "rowLink-class": " a-fontSizeXS py-1",
+        "rowlinkClass": " a-fontSizeXS py-1",
         "data-toggle": "altinn-modal",
         "data-action": "next",
         "data-url": "../../patterns/03-maler-altinnett-innlogging-skjema-endre-og-fjerne-bruker/03-maler-altinnett-innlogging-skjema-endre-og-fjerne-bruker.markup-only.html",
@@ -238,8 +238,8 @@
               {
                 "column-icon": {
                   "icon-prefix": "ai",
-                  "icon-class": "ai-private",
-                  "icon-extra-class": ""
+                  "iconClass": "ai-private",
+                  "iconExtraClass": ""
                 }
               }
             ]
@@ -262,7 +262,7 @@
         "additional-classes": "",
         "isRowLink": true,
         "rowLink": "#",
-        "rowLink-class": " a-fontSizeXS py-1",
+        "rowlinkClass": " a-fontSizeXS py-1",
         "data-toggle": "altinn-modal",
         "data-action": "next",
         "data-url": "../../patterns/03-maler-altinnett-innlogging-skjema-endre-og-fjerne-bruker/03-maler-altinnett-innlogging-skjema-endre-og-fjerne-bruker.markup-only.html",
@@ -275,8 +275,8 @@
               {
                 "column-icon": {
                   "icon-prefix": "ai",
-                  "icon-class": "ai-private",
-                  "icon-extra-class": ""
+                  "iconClass": "ai-private",
+                  "iconExtraClass": ""
                 }
               }
             ]

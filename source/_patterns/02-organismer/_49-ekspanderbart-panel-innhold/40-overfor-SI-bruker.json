@@ -36,17 +36,17 @@
   },
   "si-user-success-btn": {
     "button-text": "Start overføring",
-    "button-class": "a-btn a-btn-success"
+    "buttonClass": "a-btn a-btn-success"
   },
   "si-user-transfers-received": {
     "si-user-name": "siusername",
     "si-user-confirm-transfer-btn": {
       "button-text": "Bekreft overføring",
-      "button-class": "a-btn a-btn-success"
+      "buttonClass": "a-btn a-btn-success"
     },
     "si-user-decline-transfer-btn": {
       "button-text": "Avvis overføring",
-      "button-class": "a-btn a-btn-danger"
+      "buttonClass": "a-btn a-btn-danger"
     }
   }
 }

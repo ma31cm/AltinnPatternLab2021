@@ -5,7 +5,7 @@
     {
       "link-text": "Grønn knapp",
       "link-url": "",
-      "link-class": "a-btn a-btn-success"
+      "linkClass": "a-btn a-btn-success"
     }
   ]
 }

@@ -16,11 +16,11 @@
 
   "dashboard-addAlert": {
     "icon-prefix": "ai",
-    "icon-class": "ai-plus",
-    "icon-extra-class": "a-blue mr-1",
-    "button-class": "a-btn a-btn-action a-fullWidthBtn a-btnBigger",
+    "iconClass": "ai-plus",
+    "iconExtraClass": "a-blue mr-1",
+    "buttonClass": "a-btn a-btn-action a-fullWidthBtn a-btnBigger",
     "textstyling-button": "a-fontSizeXS",
-    "action-button-text": "Nytt driftsvarsel",
+    "actionButtonText": "Nytt driftsvarsel",
     "data-toggle": "altinn-modal",
     "data-action": "load",
     "data-url": {
@@ -45,8 +45,8 @@
       "login-represent": "for Patentstyret",
       "login-icon": {
         "icon-prefix": "ai",
-        "icon-class": "ai-private-circle-big",
-        "icon-extra-class": "a-personSwitcher-icon"
+        "iconClass": "ai-private-circle-big",
+        "iconExtraClass": "a-personSwitcher-icon"
       }
     },
     "icon": "group_add",
@@ -54,14 +54,14 @@
     "modal-navbar-override": {
       "button-list": [
         {
-          "button-class": "a-modal-back",
+          "buttonClass": "a-modal-back",
           "aria-label":  "Tilbake",
           "icon-prefix": "ai",
-          "icon-class": "ai-back",
-          "icon-extra-class": "",
+          "iconClass": "ai-back",
+          "iconExtraClass": "",
           "stacked-background": {
             "icon-prefix": "ai",
-            "icon-class": "ai-plain-circle-big"
+            "iconClass": "ai-plain-circle-big"
           },
           "is-modal-back": {
             "data-target": "#modal-addAlert"
@@ -69,15 +69,15 @@
           "enable-popover": false
         },
         {
-          "button-class": "a-modal-close",
+          "buttonClass": "a-modal-close",
           "aria-label": "Lukk",
           "icon-prefix": "ai",
-          "icon-class": "ai-exit",
-          "icon-extra-class": "a-modal-close-icon",
+          "iconClass": "ai-exit",
+          "iconExtraClass": "a-modal-close-icon",
           "enable-popover": false,
           "stacked-background": {
             "icon-prefix": "ai",
-            "icon-class": "ai-plain-circle-big"
+            "iconClass": "ai-plain-circle-big"
           },
           "is-modal-close": {
             "data-target": "#modal-addAlert"
@@ -104,8 +104,8 @@
       "login-represent": "for Patentstyret",
       "login-icon": {
         "icon-prefix": "ai",
-        "icon-class": "ai-private-circle-big",
-        "icon-extra-class": "a-personSwitcher-icon"
+        "iconClass": "ai-private-circle-big",
+        "iconExtraClass": "a-personSwitcher-icon"
       }
     },
     "icon": "group_add",
@@ -113,14 +113,14 @@
     "modal-navbar-override": {
       "button-list": [
         {
-          "button-class": "a-modal-back",
+          "buttonClass": "a-modal-back",
           "aria-label":  "Tilbake",
           "icon-prefix": "ai",
-          "icon-class": "ai-back",
-          "icon-extra-class": "",
+          "iconClass": "ai-back",
+          "iconExtraClass": "",
           "stacked-background": {
             "icon-prefix": "ai",
-            "icon-class": "ai-plain-circle-big"
+            "iconClass": "ai-plain-circle-big"
           },
           "is-modal-back": {
             "data-target": "#modal-addAlert"
@@ -128,15 +128,15 @@
           "enable-popover": false
         },
         {
-          "button-class": "a-modal-close",
+          "buttonClass": "a-modal-close",
           "aria-label": "Lukk",
           "icon-prefix": "ai",
-          "icon-class": "ai-exit",
-          "icon-extra-class": "a-modal-close-icon",
+          "iconClass": "ai-exit",
+          "iconExtraClass": "a-modal-close-icon",
           "enable-popover": false,
           "stacked-background": {
             "icon-prefix": "ai",
-            "icon-class": "ai-plain-circle-big"
+            "iconClass": "ai-plain-circle-big"
           },
           "is-modal-close": {
             "data-target": "#modal-addAlert"
@@ -172,13 +172,13 @@
           "alert-edit-button": {
             "classes": "mb-1 mr-1",
             "button-text": "Rediger",
-            "button-class": "a-btn-link a-btn-md-block",
+            "buttonClass": "a-btn-link a-btn-md-block",
             "button-colorClass": "",
             "link-url": "",
             "button-shadow-label": false,
             "button-icon": {
               "icon-prefix": "reg",
-              "icon-class": "reg-edit ai-sm"
+              "iconClass": "reg-edit ai-sm"
             },
             "data-toggle": "altinn-modal",
             "data-action": "load",
@@ -193,11 +193,11 @@
   ],
   "dashboard-viewMoreAlerts": {
     "link-text": "Se alle driftsvarslinger",
-    "link-class": "a-linkFeatured",
+    "linkClass": "a-linkFeatured",
     "link-url": "",
     "link-icon": {
       "icon-prefix": "ai ai-sm ai-nw ai-nw-right",
-      "icon-class": "ai-arrowright"
+      "iconClass": "ai-arrowright"
     }
   }
 }

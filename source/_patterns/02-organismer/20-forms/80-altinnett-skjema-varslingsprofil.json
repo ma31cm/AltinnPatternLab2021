@@ -5,8 +5,8 @@
     "person-role-name-meta": false,
     "user-icon": {
       "icon-prefix": "ai",
-      "icon-class": "ai-private",
-      "icon-extra-class": "ai-lg"
+      "iconClass": "ai-private",
+      "iconExtraClass": "ai-lg"
     }
   },
   "sectionTitle1": {
@@ -24,8 +24,8 @@
     "isLarge": false,
     "has-feedback": {
       "icon-prefix": "ai",
-      "icon-class": "ai-plus",
-      "icon-extra-class": "form-control-feedback"
+      "iconClass": "ai-plus",
+      "iconExtraClass": "form-control-feedback"
     },
     "input-regex-validation": {
       "error-message": "Telefonnummer må bestå av 8 siffer",
@@ -33,7 +33,7 @@
     },
     "form-label-hasIcon": {
       "icon-prefix": "ai",
-      "icon-class": "ai-phone"
+      "iconClass": "ai-phone"
     }
   },
   "email": {
@@ -56,7 +56,7 @@
 
     "form-label-hasIcon": {
       "icon-prefix": "ai",
-      "icon-class": "ai-closedmessage"
+      "iconClass": "ai-closedmessage"
     }
   },
   "smsMessage": {
@@ -122,6 +122,6 @@
   },
   "submitProfileButton": {
     "button-text": "Meld meg på",
-    "button-class": "a-btn"
+    "buttonClass": "a-btn"
   }
 }

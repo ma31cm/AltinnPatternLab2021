@@ -3,8 +3,8 @@
   "isInput-group": "input-group",
   "form-label-hasIcon": {
     "icon-prefix": "ai",
-    "icon-class": "ai-client",
-    "icon-extra-class": ""
+    "iconClass": "ai-client",
+    "iconExtraClass": ""
   },
   "top-label": "Finn klient",
   "text-input-placeholder": "Hvilken klient ser du etter?",
@@ -20,7 +20,7 @@
   "modal-title": "Gi og fjerne rettigheter",
   "cancel-link": {
     "button-text": "Fjern rettigheter",
-    "button-class": "a-btn-link a-linkDanger float-right",
+    "buttonClass": "a-btn-link a-linkDanger float-right",
     "display-as-link": true
   },
   "existing-clients-title": {
@@ -65,8 +65,8 @@
           {
             "is-icon": {
               "icon-prefix": "ai",
-              "icon-class": "ai-private",
-              "icon-extra-class": ""
+              "iconClass": "ai-private",
+              "iconExtraClass": ""
             },
             "is-sortable-collapse-link": false
           },
@@ -98,14 +98,14 @@
             "segment-fixed": "",
             "ferdigsegment-done": {
               "button-text": "Ferdig",
-              "button-class": "a-btn a-btn-success a-js-confirmAddRightBtn",
+              "buttonClass": "a-btn a-btn-success a-js-confirmAddRightBtn",
               "data-toggle": "collapse",
               "data-target": "#eksempelID1",
               "aria-expanded": false
             },
             "ferdigsegment-cancel": {
               "button-text": "Avbryt",
-              "button-class": "a-btn-link",
+              "buttonClass": "a-btn-link",
               "display-as-link": true,
               "button-id": "cancel-deletion",
               "margin-right-multiplier": 3,
@@ -120,7 +120,7 @@
                 "checkbuttons-title": "Begrenset signeringsrett",
                 "hasIcon": {
                   "icon-prefix": "ai",
-                  "icon-class": "ai-sign"
+                  "iconClass": "ai-sign"
                 }
               },
               {
@@ -128,7 +128,7 @@
                 "checkbuttons-title": "Lønn og personalmedarbeider",
                 "hasIcon": {
                   "icon-prefix": "ai",
-                  "icon-class": "ai-sign"
+                  "iconClass": "ai-sign"
                 }
               },
               {
@@ -136,7 +136,7 @@
                 "checkbuttons-title": "Primærnæring og næringsmidler",
                 "hasIcon": {
                   "icon-prefix": "ai",
-                  "icon-class": "ai-sign"
+                  "iconClass": "ai-sign"
                 }
               },
               {
@@ -144,7 +144,7 @@
                 "checkbuttons-title": "Regnskapsfører med signeringsrett",
                 "hasIcon": {
                   "icon-prefix": "ai",
-                  "icon-class": "ai-sign"
+                  "iconClass": "ai-sign"
                 }
               },
               {
@@ -152,7 +152,7 @@
                 "checkbuttons-title": "Regnskapsfører lønn",
                 "hasIcon": {
                   "icon-prefix": "ai",
-                  "icon-class": "ai-sign"
+                  "iconClass": "ai-sign"
                 }
               },
               {
@@ -160,7 +160,7 @@
                 "checkbuttons-title": "Basisrolle",
                 "hasIcon": {
                   "icon-prefix": "ai",
-                  "icon-class": "ai-sign"
+                  "iconClass": "ai-sign"
                 }
               },
               {
@@ -168,7 +168,7 @@
                 "checkbuttons-title": "Regnskapsfører uten signeringsrett",
                 "hasIcon": {
                   "icon-prefix": "ai",
-                  "icon-class": "ai-sign"
+                  "iconClass": "ai-sign"
                 }
               },
               {
@@ -176,7 +176,7 @@
                 "checkbuttons-title": "Revisorattester - MVA kompensasjon",
                 "hasIcon": {
                   "icon-prefix": "ai",
-                  "icon-class": "ai-sign"
+                  "iconClass": "ai-sign"
                 }
               },
               {
@@ -184,7 +184,7 @@
                 "checkbuttons-title": "Utfyller/Innsender",
                 "hasIcon": {
                   "icon-prefix": "ai",
-                  "icon-class": "ai-sign"
+                  "iconClass": "ai-sign"
                 }
               },
               {
@@ -192,7 +192,7 @@
                 "checkbuttons-title": "Ansvarlig revisor",
                 "hasIcon": {
                   "icon-prefix": "ai",
-                  "icon-class": "ai-sign"
+                  "iconClass": "ai-sign"
                 }
               },
               {
@@ -200,7 +200,7 @@
                 "checkbuttons-title": "Revisormedarbeider",
                 "hasIcon": {
                   "icon-prefix": "ai",
-                  "icon-class": "ai-sign"
+                  "iconClass": "ai-sign"
                 }
               },
               {
@@ -208,7 +208,7 @@
                 "checkbuttons-title": "Revisorrettighet",
                 "hasIcon": {
                   "icon-prefix": "ai",
-                  "icon-class": "ai-sign"
+                  "iconClass": "ai-sign"
                 }
               },
               {
@@ -216,7 +216,7 @@
                 "checkbuttons-title": "Regnskapsmedarbeider",
                 "hasIcon": {
                   "icon-prefix": "ai",
-                  "icon-class": "ai-sign"
+                  "iconClass": "ai-sign"
                 }
               }
             ]
@@ -228,8 +228,8 @@
           {
             "is-icon": {
               "icon-prefix": "ai",
-              "icon-class": "ai-private",
-              "icon-extra-class": ""
+              "iconClass": "ai-private",
+              "iconExtraClass": ""
             },
             "is-sortable-collapse-link": false
           },
@@ -261,14 +261,14 @@
             "segment-fixed": "",
             "ferdigsegment-done": {
               "button-text": "Ferdig",
-              "button-class": "a-btn a-btn-success a-js-confirmAddRightBtn",
+              "buttonClass": "a-btn a-btn-success a-js-confirmAddRightBtn",
               "data-toggle": "collapse",
               "data-target": "#eksempelID2",
               "aria-expanded": false
             },
             "ferdigsegment-cancel": {
               "button-text": "Avbryt",
-              "button-class": "a-btn-link",
+              "buttonClass": "a-btn-link",
               "display-as-link": true,
               "margin-right-multiplier": 3,
               "data-toggle": "collapse",
@@ -282,7 +282,7 @@
                 "checkbuttons-title": "Begrenset signeringsrett",
                 "hasIcon": {
                   "icon-prefix": "ai",
-                  "icon-class": "ai-sign"
+                  "iconClass": "ai-sign"
                 }
               },
               {
@@ -290,7 +290,7 @@
                 "checkbuttons-title": "Lønn og personalmedarbeider",
                 "hasIcon": {
                   "icon-prefix": "ai",
-                  "icon-class": "ai-sign"
+                  "iconClass": "ai-sign"
                 }
               },
               {
@@ -298,7 +298,7 @@
                 "checkbuttons-title": "Primærnæring og næringsmidler",
                 "hasIcon": {
                   "icon-prefix": "ai",
-                  "icon-class": "ai-sign"
+                  "iconClass": "ai-sign"
                 }
               },
               {
@@ -306,7 +306,7 @@
                 "checkbuttons-title": "Regnskapsfører med signeringsrett",
                 "hasIcon": {
                   "icon-prefix": "ai",
-                  "icon-class": "ai-sign"
+                  "iconClass": "ai-sign"
                 }
               },
               {
@@ -314,7 +314,7 @@
                 "checkbuttons-title": "Regnskapsfører lønn",
                 "hasIcon": {
                   "icon-prefix": "ai",
-                  "icon-class": "ai-sign"
+                  "iconClass": "ai-sign"
                 }
               },
               {
@@ -322,7 +322,7 @@
                 "checkbuttons-title": "Basisrolle",
                 "hasIcon": {
                   "icon-prefix": "ai",
-                  "icon-class": "ai-sign"
+                  "iconClass": "ai-sign"
                 }
               },
               {
@@ -330,7 +330,7 @@
                 "checkbuttons-title": "Regnskapsfører uten signeringsrett",
                 "hasIcon": {
                   "icon-prefix": "ai",
-                  "icon-class": "ai-sign"
+                  "iconClass": "ai-sign"
                 }
               },
               {
@@ -338,7 +338,7 @@
                 "checkbuttons-title": "Revisorattester - MVA kompensasjon",
                 "hasIcon": {
                   "icon-prefix": "ai",
-                  "icon-class": "ai-sign"
+                  "iconClass": "ai-sign"
                 }
               },
               {
@@ -346,7 +346,7 @@
                 "checkbuttons-title": "Utfyller/Innsender",
                 "hasIcon": {
                   "icon-prefix": "ai",
-                  "icon-class": "ai-sign"
+                  "iconClass": "ai-sign"
                 }
               },
               {
@@ -354,7 +354,7 @@
                 "checkbuttons-title": "Ansvarlig revisor",
                 "hasIcon": {
                   "icon-prefix": "ai",
-                  "icon-class": "ai-sign"
+                  "iconClass": "ai-sign"
                 }
               },
               {
@@ -362,7 +362,7 @@
                 "checkbuttons-title": "Revisormedarbeider",
                 "hasIcon": {
                   "icon-prefix": "ai",
-                  "icon-class": "ai-sign"
+                  "iconClass": "ai-sign"
                 }
               },
               {
@@ -370,7 +370,7 @@
                 "checkbuttons-title": "Revisorrettighet",
                 "hasIcon": {
                   "icon-prefix": "ai",
-                  "icon-class": "ai-sign"
+                  "iconClass": "ai-sign"
                 }
               },
               {
@@ -378,7 +378,7 @@
                 "checkbuttons-title": "Regnskapsmedarbeider",
                 "hasIcon": {
                   "icon-prefix": "ai",
-                  "icon-class": "ai-sign"
+                  "iconClass": "ai-sign"
                 }
               }
             ]
@@ -390,8 +390,8 @@
           {
             "is-icon": {
               "icon-prefix": "ai",
-              "icon-class": "ai-private",
-              "icon-extra-class": ""
+              "iconClass": "ai-private",
+              "iconExtraClass": ""
             },
             "is-sortable-collapse-link": false
           },
@@ -423,14 +423,14 @@
             "segment-fixed": "",
             "ferdigsegment-done": {
               "button-text": "Ferdig",
-              "button-class": "a-btn a-btn-success a-js-confirmAddRightBtn",
+              "buttonClass": "a-btn a-btn-success a-js-confirmAddRightBtn",
               "data-toggle": "collapse",
               "data-target": "#eksempelID3",
               "aria-expanded": false
             },
             "ferdigsegment-cancel": {
               "button-text": "Avbryt",
-              "button-class": "a-btn-link",
+              "buttonClass": "a-btn-link",
               "display-as-link": true,
               "button-id": "cancel-deletion",
               "margin-right-multiplier": 3,
@@ -445,7 +445,7 @@
                 "checkbuttons-title": "Begrenset signeringsrett",
                 "hasIcon": {
                   "icon-prefix": "ai",
-                  "icon-class": "ai-sign"
+                  "iconClass": "ai-sign"
                 }
               },
               {
@@ -453,7 +453,7 @@
                 "checkbuttons-title": "Lønn og personalmedarbeider",
                 "hasIcon": {
                   "icon-prefix": "ai",
-                  "icon-class": "ai-sign"
+                  "iconClass": "ai-sign"
                 }
               },
               {
@@ -461,7 +461,7 @@
                 "checkbuttons-title": "Primærnæring og næringsmidler",
                 "hasIcon": {
                   "icon-prefix": "ai",
-                  "icon-class": "ai-sign"
+                  "iconClass": "ai-sign"
                 }
               },
               {
@@ -469,7 +469,7 @@
                 "checkbuttons-title": "Regnskapsfører med signeringsrett",
                 "hasIcon": {
                   "icon-prefix": "ai",
-                  "icon-class": "ai-sign"
+                  "iconClass": "ai-sign"
                 }
               },
               {
@@ -477,7 +477,7 @@
                 "checkbuttons-title": "Regnskapsfører lønn",
                 "hasIcon": {
                   "icon-prefix": "ai",
-                  "icon-class": "ai-sign"
+                  "iconClass": "ai-sign"
                 }
               },
               {
@@ -485,7 +485,7 @@
                 "checkbuttons-title": "Basisrolle",
                 "hasIcon": {
                   "icon-prefix": "ai",
-                  "icon-class": "ai-sign"
+                  "iconClass": "ai-sign"
                 }
               },
               {
@@ -493,7 +493,7 @@
                 "checkbuttons-title": "Regnskapsfører uten signeringsrett",
                 "hasIcon": {
                   "icon-prefix": "ai",
-                  "icon-class": "ai-sign"
+                  "iconClass": "ai-sign"
                 }
               },
               {
@@ -501,7 +501,7 @@
                 "checkbuttons-title": "Revisorattester - MVA kompensasjon",
                 "hasIcon": {
                   "icon-prefix": "ai",
-                  "icon-class": "ai-sign"
+                  "iconClass": "ai-sign"
                 }
               },
               {
@@ -509,7 +509,7 @@
                 "checkbuttons-title": "Utfyller/Innsender",
                 "hasIcon": {
                   "icon-prefix": "ai",
-                  "icon-class": "ai-sign"
+                  "iconClass": "ai-sign"
                 }
               },
               {
@@ -517,7 +517,7 @@
                 "checkbuttons-title": "Ansvarlig revisor",
                 "hasIcon": {
                   "icon-prefix": "ai",
-                  "icon-class": "ai-sign"
+                  "iconClass": "ai-sign"
                 }
               },
               {
@@ -525,7 +525,7 @@
                 "checkbuttons-title": "Revisormedarbeider",
                 "hasIcon": {
                   "icon-prefix": "ai",
-                  "icon-class": "ai-sign"
+                  "iconClass": "ai-sign"
                 }
               },
               {
@@ -533,7 +533,7 @@
                 "checkbuttons-title": "Revisorrettighet",
                 "hasIcon": {
                   "icon-prefix": "ai",
-                  "icon-class": "ai-sign"
+                  "iconClass": "ai-sign"
                 }
               },
               {
@@ -541,7 +541,7 @@
                 "checkbuttons-title": "Regnskapsmedarbeider",
                 "hasIcon": {
                   "icon-prefix": "ai",
-                  "icon-class": "ai-sign"
+                  "iconClass": "ai-sign"
                 }
               }
             ]
@@ -582,8 +582,8 @@
           {
             "is-icon": {
               "icon-prefix": "ai",
-              "icon-class": "ai-private",
-              "icon-extra-class": ""
+              "iconClass": "ai-private",
+              "iconExtraClass": ""
             },
             "is-sortable-collapse-link": false
           },
@@ -615,14 +615,14 @@
             "segment-fixed": "",
             "ferdigsegment-done": {
               "button-text": "Ferdig",
-              "button-class": "a-btn a-btn-success a-js-confirmAddRightBtn",
+              "buttonClass": "a-btn a-btn-success a-js-confirmAddRightBtn",
               "data-toggle": "collapse",
               "data-target": "#eksempelID4",
               "aria-expanded": false
             },
             "ferdigsegment-cancel": {
               "button-text": "Avbryt",
-              "button-class": "a-btn-link",
+              "buttonClass": "a-btn-link",
               "display-as-link": true,
               "button-id": "cancel-deletion",
               "margin-right-multiplier": 3,
@@ -637,7 +637,7 @@
                 "checkbuttons-title": "Begrenset signeringsrett",
                 "hasIcon": {
                   "icon-prefix": "ai",
-                  "icon-class": "ai-sign"
+                  "iconClass": "ai-sign"
                 }
               },
               {
@@ -645,7 +645,7 @@
                 "checkbuttons-title": "Lønn og personalmedarbeider",
                 "hasIcon": {
                   "icon-prefix": "ai",
-                  "icon-class": "ai-sign"
+                  "iconClass": "ai-sign"
                 }
               },
               {
@@ -653,7 +653,7 @@
                 "checkbuttons-title": "Primærnæring og næringsmidler",
                 "hasIcon": {
                   "icon-prefix": "ai",
-                  "icon-class": "ai-sign"
+                  "iconClass": "ai-sign"
                 }
               },
               {
@@ -661,7 +661,7 @@
                 "checkbuttons-title": "Regnskapsfører med signeringsrett",
                 "hasIcon": {
                   "icon-prefix": "ai",
-                  "icon-class": "ai-sign"
+                  "iconClass": "ai-sign"
                 }
               },
               {
@@ -669,7 +669,7 @@
                 "checkbuttons-title": "Regnskapsfører lønn",
                 "hasIcon": {
                   "icon-prefix": "ai",
-                  "icon-class": "ai-sign"
+                  "iconClass": "ai-sign"
                 }
               },
               {
@@ -677,7 +677,7 @@
                 "checkbuttons-title": "Basisrolle",
                 "hasIcon": {
                   "icon-prefix": "ai",
-                  "icon-class": "ai-sign"
+                  "iconClass": "ai-sign"
                 }
               },
               {
@@ -685,7 +685,7 @@
                 "checkbuttons-title": "Regnskapsfører uten signeringsrett",
                 "hasIcon": {
                   "icon-prefix": "ai",
-                  "icon-class": "ai-sign"
+                  "iconClass": "ai-sign"
                 }
               },
               {
@@ -693,7 +693,7 @@
                 "checkbuttons-title": "Revisorattester - MVA kompensasjon",
                 "hasIcon": {
                   "icon-prefix": "ai",
-                  "icon-class": "ai-sign"
+                  "iconClass": "ai-sign"
                 }
               },
               {
@@ -701,7 +701,7 @@
                 "checkbuttons-title": "Utfyller/Innsender",
                 "hasIcon": {
                   "icon-prefix": "ai",
-                  "icon-class": "ai-sign"
+                  "iconClass": "ai-sign"
                 }
               },
               {
@@ -709,7 +709,7 @@
                 "checkbuttons-title": "Ansvarlig revisor",
                 "hasIcon": {
                   "icon-prefix": "ai",
-                  "icon-class": "ai-sign"
+                  "iconClass": "ai-sign"
                 }
               },
               {
@@ -717,7 +717,7 @@
                 "checkbuttons-title": "Revisormedarbeider",
                 "hasIcon": {
                   "icon-prefix": "ai",
-                  "icon-class": "ai-sign"
+                  "iconClass": "ai-sign"
                 }
               },
               {
@@ -725,7 +725,7 @@
                 "checkbuttons-title": "Revisorrettighet",
                 "hasIcon": {
                   "icon-prefix": "ai",
-                  "icon-class": "ai-sign"
+                  "iconClass": "ai-sign"
                 }
               },
               {
@@ -733,7 +733,7 @@
                 "checkbuttons-title": "Regnskapsmedarbeider",
                 "hasIcon": {
                   "icon-prefix": "ai",
-                  "icon-class": "ai-sign"
+                  "iconClass": "ai-sign"
                 }
               }
             ]
@@ -745,8 +745,8 @@
           {
             "is-icon": {
               "icon-prefix": "ai",
-              "icon-class": "ai-private",
-              "icon-extra-class": ""
+              "iconClass": "ai-private",
+              "iconExtraClass": ""
             },
             "is-sortable-collapse-link": false
           },
@@ -778,14 +778,14 @@
             "segment-fixed": "",
             "ferdigsegment-done": {
               "button-text": "Ferdig",
-              "button-class": "a-btn a-btn-success a-js-confirmAddRightBtn",
+              "buttonClass": "a-btn a-btn-success a-js-confirmAddRightBtn",
               "data-toggle": "collapse",
               "data-target": "#eksempelID5",
               "aria-expanded": false
             },
             "ferdigsegment-cancel": {
               "button-text": "Avbryt",
-              "button-class": "a-btn-link",
+              "buttonClass": "a-btn-link",
               "display-as-link": true,
               "margin-right-multiplier": 3,
               "data-toggle": "collapse",
@@ -799,7 +799,7 @@
                 "checkbuttons-title": "Begrenset signeringsrett",
                 "hasIcon": {
                   "icon-prefix": "ai",
-                  "icon-class": "ai-sign"
+                  "iconClass": "ai-sign"
                 }
               },
               {
@@ -807,7 +807,7 @@
                 "checkbuttons-title": "Lønn og personalmedarbeider",
                 "hasIcon": {
                   "icon-prefix": "ai",
-                  "icon-class": "ai-sign"
+                  "iconClass": "ai-sign"
                 }
               },
               {
@@ -815,7 +815,7 @@
                 "checkbuttons-title": "Primærnæring og næringsmidler",
                 "hasIcon": {
                   "icon-prefix": "ai",
-                  "icon-class": "ai-sign"
+                  "iconClass": "ai-sign"
                 }
               },
               {
@@ -823,7 +823,7 @@
                 "checkbuttons-title": "Regnskapsfører med signeringsrett",
                 "hasIcon": {
                   "icon-prefix": "ai",
-                  "icon-class": "ai-sign"
+                  "iconClass": "ai-sign"
                 }
               },
               {
@@ -831,7 +831,7 @@
                 "checkbuttons-title": "Regnskapsfører lønn",
                 "hasIcon": {
                   "icon-prefix": "ai",
-                  "icon-class": "ai-sign"
+                  "iconClass": "ai-sign"
                 }
               },
               {
@@ -839,7 +839,7 @@
                 "checkbuttons-title": "Basisrolle",
                 "hasIcon": {
                   "icon-prefix": "ai",
-                  "icon-class": "ai-sign"
+                  "iconClass": "ai-sign"
                 }
               },
               {
@@ -847,7 +847,7 @@
                 "checkbuttons-title": "Regnskapsfører uten signeringsrett",
                 "hasIcon": {
                   "icon-prefix": "ai",
-                  "icon-class": "ai-sign"
+                  "iconClass": "ai-sign"
                 }
               },
               {
@@ -855,7 +855,7 @@
                 "checkbuttons-title": "Revisorattester - MVA kompensasjon",
                 "hasIcon": {
                   "icon-prefix": "ai",
-                  "icon-class": "ai-sign"
+                  "iconClass": "ai-sign"
                 }
               },
               {
@@ -863,7 +863,7 @@
                 "checkbuttons-title": "Utfyller/Innsender",
                 "hasIcon": {
                   "icon-prefix": "ai",
-                  "icon-class": "ai-sign"
+                  "iconClass": "ai-sign"
                 }
               },
               {
@@ -871,7 +871,7 @@
                 "checkbuttons-title": "Ansvarlig revisor",
                 "hasIcon": {
                   "icon-prefix": "ai",
-                  "icon-class": "ai-sign"
+                  "iconClass": "ai-sign"
                 }
               },
               {
@@ -879,7 +879,7 @@
                 "checkbuttons-title": "Revisormedarbeider",
                 "hasIcon": {
                   "icon-prefix": "ai",
-                  "icon-class": "ai-sign"
+                  "iconClass": "ai-sign"
                 }
               },
               {
@@ -887,7 +887,7 @@
                 "checkbuttons-title": "Revisorrettighet",
                 "hasIcon": {
                   "icon-prefix": "ai",
-                  "icon-class": "ai-sign"
+                  "iconClass": "ai-sign"
                 }
               },
               {
@@ -895,7 +895,7 @@
                 "checkbuttons-title": "Regnskapsmedarbeider",
                 "hasIcon": {
                   "icon-prefix": "ai",
-                  "icon-class": "ai-sign"
+                  "iconClass": "ai-sign"
                 }
               }
             ]
@@ -907,8 +907,8 @@
           {
             "is-icon": {
               "icon-prefix": "ai",
-              "icon-class": "ai-private",
-              "icon-extra-class": ""
+              "iconClass": "ai-private",
+              "iconExtraClass": ""
             },
             "is-sortable-collapse-link": false
           },
@@ -940,14 +940,14 @@
             "segment-fixed": "",
             "ferdigsegment-done": {
               "button-text": "Ferdig",
-              "button-class": "a-btn a-btn-success a-js-confirmAddRightBtn",
+              "buttonClass": "a-btn a-btn-success a-js-confirmAddRightBtn",
               "data-toggle": "collapse",
               "data-target": "#eksempelID6",
               "aria-expanded": false
             },
             "ferdigsegment-cancel": {
               "button-text": "Avbryt",
-              "button-class": "a-btn-link",
+              "buttonClass": "a-btn-link",
               "display-as-link": true,
               "button-id": "cancel-deletion",
               "margin-right-multiplier": 3,
@@ -962,7 +962,7 @@
                 "checkbuttons-title": "Begrenset signeringsrett",
                 "hasIcon": {
                   "icon-prefix": "ai",
-                  "icon-class": "ai-sign"
+                  "iconClass": "ai-sign"
                 }
               },
               {
@@ -970,7 +970,7 @@
                 "checkbuttons-title": "Lønn og personalmedarbeider",
                 "hasIcon": {
                   "icon-prefix": "ai",
-                  "icon-class": "ai-sign"
+                  "iconClass": "ai-sign"
                 }
               },
               {
@@ -978,7 +978,7 @@
                 "checkbuttons-title": "Primærnæring og næringsmidler",
                 "hasIcon": {
                   "icon-prefix": "ai",
-                  "icon-class": "ai-sign"
+                  "iconClass": "ai-sign"
                 }
               },
               {
@@ -986,7 +986,7 @@
                 "checkbuttons-title": "Regnskapsfører med signeringsrett",
                 "hasIcon": {
                   "icon-prefix": "ai",
-                  "icon-class": "ai-sign"
+                  "iconClass": "ai-sign"
                 }
               },
               {
@@ -994,7 +994,7 @@
                 "checkbuttons-title": "Regnskapsfører lønn",
                 "hasIcon": {
                   "icon-prefix": "ai",
-                  "icon-class": "ai-sign"
+                  "iconClass": "ai-sign"
                 }
               },
               {
@@ -1002,7 +1002,7 @@
                 "checkbuttons-title": "Basisrolle",
                 "hasIcon": {
                   "icon-prefix": "ai",
-                  "icon-class": "ai-sign"
+                  "iconClass": "ai-sign"
                 }
               },
               {
@@ -1010,7 +1010,7 @@
                 "checkbuttons-title": "Regnskapsfører uten signeringsrett",
                 "hasIcon": {
                   "icon-prefix": "ai",
-                  "icon-class": "ai-sign"
+                  "iconClass": "ai-sign"
                 }
               },
               {
@@ -1018,7 +1018,7 @@
                 "checkbuttons-title": "Revisorattester - MVA kompensasjon",
                 "hasIcon": {
                   "icon-prefix": "ai",
-                  "icon-class": "ai-sign"
+                  "iconClass": "ai-sign"
                 }
               },
               {
@@ -1026,7 +1026,7 @@
                 "checkbuttons-title": "Utfyller/Innsender",
                 "hasIcon": {
                   "icon-prefix": "ai",
-                  "icon-class": "ai-sign"
+                  "iconClass": "ai-sign"
                 }
               },
               {
@@ -1034,7 +1034,7 @@
                 "checkbuttons-title": "Ansvarlig revisor",
                 "hasIcon": {
                   "icon-prefix": "ai",
-                  "icon-class": "ai-sign"
+                  "iconClass": "ai-sign"
                 }
               },
               {
@@ -1042,7 +1042,7 @@
                 "checkbuttons-title": "Revisormedarbeider",
                 "hasIcon": {
                   "icon-prefix": "ai",
-                  "icon-class": "ai-sign"
+                  "iconClass": "ai-sign"
                 }
               },
               {
@@ -1050,7 +1050,7 @@
                 "checkbuttons-title": "Revisorrettighet",
                 "hasIcon": {
                   "icon-prefix": "ai",
-                  "icon-class": "ai-sign"
+                  "iconClass": "ai-sign"
                 }
               },
               {
@@ -1058,7 +1058,7 @@
                 "checkbuttons-title": "Regnskapsmedarbeider",
                 "hasIcon": {
                   "icon-prefix": "ai",
-                  "icon-class": "ai-sign"
+                  "iconClass": "ai-sign"
                 }
               }
             ]

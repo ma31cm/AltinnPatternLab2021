@@ -1,12 +1,12 @@
 {
   "header-color": "",
   "logo": "../../images/a-logo-blue.svg",
-  "button-class": "a-btn a-btn-icon a-btn-shadow",
+  "buttonClass": "a-btn a-btn-icon a-btn-shadow",
   "button-colorClass": "",
   "dropdown-class": "a-dropdown-languages",
   "icon-prefix": "ai",
-  "icon-class": "ai-private",
-  "icon-extra-class": "",
+  "iconClass": "ai-private",
+  "iconExtraClass": "",
   "personlogin-isDropdown": "dropdown",
   "dropdown-personswitch": true,
   "hide-header": true,
@@ -54,7 +54,7 @@
     "form-input-hasButton": {
       "button-icon": {
         "icon-prefix": "ai",
-        "icon-class": "ai-search"
+        "iconClass": "ai-search"
       },
       "button-text": [
         {
@@ -67,6 +67,6 @@
   },
   "tel-icon": {
     "icon-prefix": "ai ai-nw ai-nw-pr",
-    "icon-class": "ai-phone"
+    "iconClass": "ai-phone"
   }
 }

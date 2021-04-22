@@ -29,15 +29,15 @@
         },
         "form-label-hasIcon": {
             "icon-prefix": "ai",
-            "icon-class": "ai-closedmessage",
+            "iconClass": "ai-closedmessage",
             "icon-size": "",
-            "icon-extra-class": ""
+            "iconExtraClass": ""
         },
         "form-input-hasButton": false
     },
     "file-delegation-done": {
         "button-text": "Ferdig",
-        "button-class": "a-btn a-btn-success mb-0",
+        "buttonClass": "a-btn a-btn-success mb-0",
         "button-type": "submit",
         "onclick": "location.href=''"
     },

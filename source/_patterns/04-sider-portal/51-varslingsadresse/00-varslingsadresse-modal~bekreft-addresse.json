@@ -34,13 +34,13 @@
       "popover-link-icon": [
         {
           "icon-prefix": "ai",
-          "icon-class": "ai-circle-plus",
-          "icon-extra-class": "a-js-popoverIconInitial"
+          "iconClass": "ai-circle-plus",
+          "iconExtraClass": "a-js-popoverIconInitial"
         },
         {
           "icon-prefix": "ai",
-          "icon-class": "ai-circle-minus",
-          "icon-extra-class": "a-js-popoverIconExpanded"
+          "iconClass": "ai-circle-minus",
+          "iconExtraClass": "a-js-popoverIconExpanded"
         }
       ],
       "popover-content-id": "popoverWithIconToggle",
@@ -52,7 +52,7 @@
     "hasAddEmailLink": {
       "button-id": "link-email",
       "button-text": "Legge til epost-varsling",
-      "button-class": "a-btn-link d-none",
+      "buttonClass": "a-btn-link d-none",
       "display-as-link": true
     },
 
@@ -79,13 +79,13 @@
         "button-text": false,
         "link-url": "",
         "button-textClass": "a-fontBold",
-        "button-class": "a-btn a-btn-icon-transparent a-delete px-0",
+        "buttonClass": "a-btn a-btn-icon-transparent a-delete px-0",
         "button-colorClass": "",
         "button-shadow-label": false,
         "aria-label": "fjern",
         "button-icon": {
           "icon-prefix": "reg",
-          "icon-class": "reg-delete"            
+          "iconClass": "reg-delete"
         }
       }
     },
@@ -94,13 +94,13 @@
         "addmore-email-id": "addmore-email",
         "button-id": "link-addmore-email",
         "button-text": "Legge til flere e-post addresser",
-        "button-class": "a-btn-link",
+        "buttonClass": "a-btn-link",
         "display-as-link": true
       },
       "hasAddSMSLink": {
         "button-id": "link-sms",
         "button-text": "Legge til sms-varsling",
-        "button-class": "a-btn-link",
+        "buttonClass": "a-btn-link",
         "display-as-link": true
       }
     },
@@ -150,14 +150,14 @@
         "button-text": false,
         "link-url": "",
         "button-textClass": "a-fontBold",
-        "button-class": "a-btn a-btn-icon-transparent a-delete px-0",
+        "buttonClass": "a-btn a-btn-icon-transparent a-delete px-0",
         "button-colorClass": "",
         "onclick": false,
         "button-shadow-label": false,
         "aria-label": "fjern",
         "button-icon": {
           "icon-prefix": "reg",
-          "icon-class": "reg-delete"            
+          "iconClass": "reg-delete"
         }
       }
     },
@@ -166,20 +166,20 @@
       "additional-class": "d-none",
       "button-id": "link-sms-addmore",
       "button-text": "Legge til flere mobilnummer",
-      "button-class": "a-btn-link",
+      "buttonClass": "a-btn-link",
       "display-as-link": true     
     },
     "save-notificationaddress-button": {
     "id": "btn-confirm-notificationaddress",
     "button-type": "button",
     "button-text": "Det stemmer",
-    "button-class": "a-btn a-btn-success",
+    "buttonClass": "a-btn a-btn-success",
     "onclick": false
     },
     "cancel-notificationaddress-button": {
       "button-id": "btn-askmelater",
       "button-text": "Spør meg senere",
-      "button-class": "a-btn-link",
+      "buttonClass": "a-btn-link",
       "display-as-link": true     
     }    
   }

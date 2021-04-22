@@ -101,7 +101,7 @@
 	    }
 	  ],
 		"link-text": "Vis aktuelle foretaksformer for deg",
-    "link-class": "a-btn",
+    "linkClass": "a-btn",
     "button-text": "Vis aktuelle foretaksformer for deg",
 		"link-url": "link.sider-infoportal-sammenlikning-v-velg-foretaksform"
 	},

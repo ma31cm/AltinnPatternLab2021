@@ -8,12 +8,12 @@
     "linkIcon-url": "",
     "linkIcon-text": "Aktivitetslogg",
     "icon-prefix": "reg ai-nw ai-nw-pr",
-    "icon-class": "reg-log"
+    "iconClass": "reg-log"
   },
   "message-text-block": {
     "extra-class": "mt-3",
     "text-paragraph": {
-      "text-paragraph-class": "d-inline",
+      "text-paragraphClass": "d-inline",
       "message-text": "Mva-meldingen skal leveres av de som er registrert i Merverdiavgiftsregisteret. Den viser hvor mye merverdiavgift du som avgiftspliktig skal innbetale til staten, eller staten skal tilbakebetale til deg."
     },
     "text-link": false
@@ -24,7 +24,7 @@
     "button-wrapper-class": "col",
     "action-button": {
       "button-text": "Ok",
-      "button-class": "a-btn",
+      "buttonClass": "a-btn",
       "button-disabled": false,
       "button-type": "button",
       "onclick": false,
@@ -33,49 +33,49 @@
       "data-target": false,
       "data-toggle": false
     },
-    "action-button-icon": [
+    "actionButtonIcon": [
       {
         "button-text": "Hjelp",
-        "button-class": "a-btn-link a-btn-md-block mr-2",
+        "buttonClass": "a-btn-link a-btn-md-block mr-2",
         "button-colorClass": "",
         "link-url": "",
         "button-shadow-label": false,
         "button-icon": {
           "icon-prefix": "reg",
-          "icon-class": "reg-help ai-left"
+          "iconClass": "reg-help ai-left"
         }
       },
       {
         "button-text": "Arkiver",
-        "button-class": "a-btn-link a-btn-md-block mr-2",
+        "buttonClass": "a-btn-link a-btn-md-block mr-2",
         "button-colorClass": "",
         "link-url": "",
         "button-shadow-label": false,
         "button-icon": {
           "icon-prefix": "reg",
-          "icon-class": "reg-archive ai-left"
+          "iconClass": "reg-archive ai-left"
         }
       },
       {
         "button-text": "Slett",
-        "button-class": "a-btn-link a-btn-md-block mr-2",
+        "buttonClass": "a-btn-link a-btn-md-block mr-2",
         "button-colorClass": "",
         "link-url": "",
         "button-shadow-label": false,
         "button-icon": {
           "icon-prefix": "reg",
-          "icon-class": "reg-trash ai-left"
+          "iconClass": "reg-trash ai-left"
         }
       },
       {
         "button-text": "Videresend",
-        "button-class": "a-btn-link a-btn-md-block",
+        "buttonClass": "a-btn-link a-btn-md-block",
         "button-colorClass": "",
         "link-url": "",
         "button-shadow-label": false,
         "button-icon": {
           "icon-prefix": "reg",
-          "icon-class": "reg-forward"
+          "iconClass": "reg-forward"
         }
       }
     ]
@@ -86,30 +86,30 @@
         "list-item-name": "Forretningsplan.ods",
         "listItemDescription": "(last ned)",
         "icon-prefix": "reg",
-        "icon-class": "reg-attachment-ods ai-md ai-nw pr-1"
+        "iconClass": "reg-attachment-ods ai-md ai-nw pr-1"
       },
       {
         "list-item-name": "Oppdragsavtale.doc",
         "listItemDescription": "(last ned)",
         "icon-prefix": "reg",
-        "icon-class": "reg-attachment ai-md ai-nw pr-1"
+        "iconClass": "reg-attachment ai-md ai-nw pr-1"
       },
       {
         "list-item-name": "Driftsbudsjett.pdf",
         "listItemDescription": "(last ned)",
         "icon-prefix": "reg",
-        "icon-class": "reg-attachment-pdf ai-md ai-nw pr-1"
+        "iconClass": "reg-attachment-pdf ai-md ai-nw pr-1"
       }
     ],
     "download-all": {
       "button-text": "Last ned alle",
-      "button-class": "a-btn-link",
+      "buttonClass": "a-btn-link",
       "button-colorClass": "",
       "link-url": "",
       "button-shadow-label": false,
       "button-icon": {
         "icon-prefix": "reg",
-        "icon-class": "reg-download"
+        "iconClass": "reg-download"
       }
     }
   },
@@ -132,13 +132,13 @@
   },
   "expandable-content": {
     "expandable-content": {
-      "button-class": "a-btn a-btn-action a-fullWidthBtn",
+      "buttonClass": "a-btn a-btn-action a-fullWidthBtn",
       "icon-prefix": "ai",
-      "icon-class": "ai-plus",
-      "icon-extra-class": "",
+      "iconClass": "ai-plus",
+      "iconExtraClass": "",
       "data-target": "expandableExample",
       "data-toggle": "altinn-expand",
-      "action-button-text": "Les hele",
+      "actionButtonText": "Les hele",
       "expandable-content-id": "expandableExample",
       "aria-hidden": true
     }

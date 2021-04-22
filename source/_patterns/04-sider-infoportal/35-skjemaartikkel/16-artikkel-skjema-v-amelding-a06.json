@@ -24,8 +24,8 @@
 		"main-card-content": {
 			"hasIcon": {
 	      "icon-prefix": "ai",
-	      "icon-class": "ai-write",
-	      "icon-extra-class": "a-icon"
+	      "iconClass": "ai-write",
+	      "iconExtraClass": "a-icon"
 	    },
 			"hasTextSmall": {
 				"byline-tekst": "Fra",
@@ -43,7 +43,7 @@
 			"main-card-description": "Bestill en rapport som oppsummerer rapporterte opplysninger fra en eller flere a-meldinger.",
 			"hasButton": {
 				"button-text": "Bestill rapport",
-				"button-class": "a-btn"
+				"buttonClass": "a-btn"
 			}
 		}
 	},

@@ -1,14 +1,14 @@
 {
   "ferdigsegment-done": {
     "button-text": "Ferdig",
-    "button-class": "a-btn a-btn-success a-js-confirmAddRightBtn",
+    "buttonClass": "a-btn a-btn-success a-js-confirmAddRightBtn",
     "data-toggle": "collapse",
     "data-target": "#eksempelID2",
     "aria-expanded": false
   },
   "ferdigsegment-cancel": {
     "button-text": "Avbryt",
-    "button-class": "a-btn-link",
+    "buttonClass": "a-btn-link",
     "display-as-link": true,
     "margin-right-multiplier": 3,
     "data-toggle": "collapse",
@@ -19,15 +19,15 @@
   "sortable-action-link": {
     "button-text": "Fjern alle",
     "button-textClass": "a-btn-black-noUnderline a-fontBold",
-    "button-class": "a-btn-link",
+    "buttonClass": "a-btn-link",
     "button-colorClass": "",
     "link-url": "",
     "aria-label":  "Fjern alle roller",
     "button-shadow-label": false,
     "button-icon": {
       "icon-prefix": "ai",
-      "icon-class": "ai-circle-exit ai-nw",
-      "icon-extra-class": "a-danger"
+      "iconClass": "ai-circle-exit ai-nw",
+      "iconExtraClass": "a-danger"
     }
   },
   "sortable-action-items": {

@@ -6,8 +6,8 @@
     "variation-class": "a-iconText-shadow a-iconText-large a-collapseBtn collapsed",
     "hasIcon": {
       "icon-prefix": "ai",
-      "icon-class": "ai-client",
-      "icon-extra-class": "a-icon a-icon-circle"
+      "iconClass": "ai-client",
+      "iconExtraClass": "a-icon a-icon-circle"
     },
     "hasTextSmall": false,
     "icontext": "Innloggingsinformasjon"

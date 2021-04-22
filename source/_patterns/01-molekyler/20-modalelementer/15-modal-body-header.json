@@ -2,8 +2,8 @@
   "variation-class": "a-iconText-background a-iconText-large",
   "hasIcon": {
     "icon-prefix": "ai",
-    "icon-class": "ai-server",
-    "icon-extra-class": "a-icon"
+    "iconClass": "ai-server",
+    "iconExtraClass": "a-icon"
   },
   "hasTextSmall": false,
   "icontext": "Dette er tittelen på modalen",

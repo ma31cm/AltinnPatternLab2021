@@ -1,6 +1,6 @@
 {
   "date-input-label": "Dato:",
   "icon-prefix": "ai",
-  "icon-class": "ai-date",
-  "icon-extra-class": ""
+  "iconClass": "ai-date",
+  "iconExtraClass": ""
 }

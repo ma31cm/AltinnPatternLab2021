@@ -4,7 +4,7 @@
       "list-item-title": "Første punkt",
       "list-item-content": "Har både tittel, tekst og lenke. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.",
       "list-item-linkInside": true,
-      "link-class": "",
+      "linkClass": "",
       "link-text": "Det kan du gjøre her",
       "link-url" : "http://skatteetaten.no",
       "link-icon": false,

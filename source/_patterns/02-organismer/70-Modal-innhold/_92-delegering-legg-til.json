@@ -45,7 +45,7 @@
       },
       "legg-til-knapp": {
           "button-text": "Neste",
-          "button-class": "a-btn a-btn-success",
+          "buttonClass": "a-btn a-btn-success",
           "button-type": "submit"
       }
     },
@@ -85,7 +85,7 @@
       },
       "legg-til-knapp": {
           "button-text": "Neste",
-          "button-class": "a-btn a-btn-success",
+          "buttonClass": "a-btn a-btn-success",
           "button-type": "submit"
       }
     },
@@ -125,7 +125,7 @@
       },
       "legg-til-knapp": {
           "button-text": "Neste",
-          "button-class": "a-btn a-btn-success",
+          "buttonClass": "a-btn a-btn-success",
           "button-type": "submit"
       }
     }

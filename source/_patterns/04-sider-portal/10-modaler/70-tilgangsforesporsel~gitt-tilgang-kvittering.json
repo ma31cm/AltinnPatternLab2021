@@ -5,8 +5,8 @@
   "icontext": "Rettighetsforespørsel",
   "hasIcon": {
     "icon-prefix": "reg",
-    "icon-class": "reg-forward",
-    "icon-extra-class": "a-icon"    
+    "iconClass": "reg-forward",
+    "iconExtraClass": "a-icon"
   },
   "modal-kvittering-content-header": "Ny rettighet gitt",
   "modal-kvittering-content": "<b>Pernille Hall</b> har nå fått tilgang til:",
@@ -66,24 +66,24 @@
                   "popover-link-icon": [
                     {
                       "icon-prefix": "ai",
-                      "icon-class": "ai-help-popicon",
-                      "icon-extra-class": "",
+                      "iconClass": "ai-help-popicon",
+                      "iconExtraClass": "",
                       "stacked-background": {
                         "stacked-container-class": "a-js-popoverIconInitial ai-sm",
                         "icon-prefix": "ai",
-                        "icon-class": "ai-help-popicon",
-                        "icon-extra-class": ""
+                        "iconClass": "ai-help-popicon",
+                        "iconExtraClass": ""
                       }
                     },
                     {
                       "icon-prefix": "ai",
-                      "icon-class": "ai-circle-exit",
-                      "icon-extra-class": "a-accessability-button",
+                      "iconClass": "ai-circle-exit",
+                      "iconExtraClass": "a-accessability-button",
                       "stacked-background": {
                         "stacked-container-class": "a-js-popoverIconExpanded ai-sm",
                         "icon-prefix": "ai",
-                        "icon-class": "ai-circle-exit",
-                        "icon-extra-class": ""
+                        "iconClass": "ai-circle-exit",
+                        "iconExtraClass": ""
                       }
                     }
                   ],
@@ -95,7 +95,7 @@
                         "list-item-name-class": "pl-1",
                         "listItemDescription": "",
                         "icon-prefix": "ai",
-                        "icon-class": "ai-read ai-sm ai-nw"
+                        "iconClass": "ai-read ai-sm ai-nw"
                       },
                       {
                         "disable-link": true,
@@ -103,7 +103,7 @@
                         "list-item-name-class": "pl-1",
                         "listItemDescription": "",
                         "icon-prefix": "ai",
-                        "icon-class": "ai-write ai-sm ai-nw"
+                        "iconClass": "ai-write ai-sm ai-nw"
                       },
                       {
                         "disable-link": true,
@@ -111,7 +111,7 @@
                         "list-item-name-class": "pl-1",
                         "listItemDescription": "",
                         "icon-prefix": "ai",
-                        "icon-class": "ai-sign ai-sm ai-nw"
+                        "iconClass": "ai-sign ai-sm ai-nw"
                       }
                     ]
                   }
@@ -148,13 +148,13 @@
                 "column-button": {
                   "button-text": false,
                   "title": "Les",
-                  "button-class": "a-btn-link a-accessability-button a-hiddenWhenDeleted a-hiddenWhenDisabled a-noPointer",
+                  "buttonClass": "a-btn-link a-accessability-button a-hiddenWhenDeleted a-hiddenWhenDisabled a-noPointer",
                   "link-url": false,
                   "button-shadow-label": false,
                   "button-icon": {
                     "icon-prefix": "ai",
-                    "icon-class": "ai-read",
-                    "icon-extra-class": ""
+                    "iconClass": "ai-read",
+                    "iconExtraClass": ""
                   }
                 }
               },
@@ -162,13 +162,13 @@
                 "column-button": {
                   "button-text": false,
                   "title": "Skriv",
-                  "button-class": "a-btn-link a-accessability-button a-hiddenWhenDeleted a-hiddenWhenDisabled a-noPointer",
+                  "buttonClass": "a-btn-link a-accessability-button a-hiddenWhenDeleted a-hiddenWhenDisabled a-noPointer",
                   "link-url": false,
                   "button-shadow-label": false,
                   "button-icon": {
                     "icon-prefix": "ai",
-                    "icon-class": "ai-write",
-                    "icon-extra-class": "a-clickable"
+                    "iconClass": "ai-write",
+                    "iconExtraClass": "a-clickable"
                   }
                 }
               },
@@ -176,13 +176,13 @@
                 "column-button": {
                   "button-text": false,
                   "title": "Signer",
-                  "button-class": "a-btn-link a-accessability-button a-hiddenWhenDeleted a-hiddenWhenDisabled a-noPointer",
+                  "buttonClass": "a-btn-link a-accessability-button a-hiddenWhenDeleted a-hiddenWhenDisabled a-noPointer",
                   "link-url": false,
                   "button-shadow-label": false,
                   "button-icon": {
                     "icon-prefix": "ai",
-                    "icon-class": "ai-sign",
-                    "icon-extra-class": "a-clickable"
+                    "iconClass": "ai-sign",
+                    "iconExtraClass": "a-clickable"
                   }
                 }
               }
@@ -196,13 +196,13 @@
     {
       "link-text": "Ferdig",
       "link-url": "link.sider-portal-profil-roller-rettigheter",
-      "link-class": "a-btn a-btn-success",
+      "linkClass": "a-btn a-btn-success",
       "link-icon": false
     },
     {
       "link-text": "Gi flere rettigheter",
       "link-url": "link.sider-portal-andre-med-rettigheter-roller-oversikt",
-      "link-class": "a-btn",
+      "linkClass": "a-btn",
       "link-icon": false
     }
   ]

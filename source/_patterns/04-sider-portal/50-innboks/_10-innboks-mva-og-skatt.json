@@ -3,7 +3,7 @@
   "login-name": "JAN PETTERSEN",
   "button-icon": {
     "icon-prefix": "ai",
-    "icon-class": "ai-corp"
+    "iconClass": "ai-corp"
   },
   "login-represent": "for Johansen Regnskap AS",
   "myself-name": "Johansen Regnskap AS",
@@ -19,7 +19,7 @@
       "form-input-button-action": "Utfør søk",
       "button-icon": {
         "icon-prefix": "ai",
-        "icon-class": "ai-search"
+        "iconClass": "ai-search"
       },
       "button-text": [
         {
@@ -31,7 +31,7 @@
   },
   "buttonTab-first": {
     "link-url": "link.sider-portal-innboks-mva-og-skatt",
-    "button-class": "a-btn a-btn-icon a-btn-transparentWhite a-btn-transparentWhite-active"
+    "buttonClass": "a-btn a-btn-icon a-btn-transparentWhite a-btn-transparentWhite-active"
   },
   "buttonTab-second": {
     "link-url": "link.sider-portal-innboks-ansatte"
@@ -56,8 +56,8 @@
           "variation-class": "a-iconText-shadow a-collapseBtn collapsed",
           "hasIcon": {
             "icon-prefix": "ai",
-            "icon-class": "ai-closedmessage",
-            "icon-extra-class": "a-icon a-icon-circle a-bgBlue"
+            "iconClass": "ai-closedmessage",
+            "iconExtraClass": "a-icon a-icon-circle a-bgBlue"
           },
           "hasTextSmall": {
             "textSmall": "Skatteetaten"
@@ -74,8 +74,8 @@
           "variation-class": "a-iconText-shadow a-collapseBtn collapsed",
           "hasIcon": {
             "icon-prefix": "ai",
-            "icon-class": "ai-closedmessage",
-            "icon-extra-class": "a-icon a-icon-circle a-bgBlue"
+            "iconClass": "ai-closedmessage",
+            "iconExtraClass": "a-icon a-icon-circle a-bgBlue"
           },
           "hasTextSmall": {
             "textSmall": "Skatteetaten"
@@ -103,11 +103,11 @@
         "buttons": [
           {
             "button-text": "Ok!",
-            "button-class": "a-btn"
+            "buttonClass": "a-btn"
           },
           {
             "button-text": "Hopp over introen",
-            "button-class": "a-btn-link a-textWhite",
+            "buttonClass": "a-btn-link a-textWhite",
             "display-as-link": true,
             "data-dismiss": "data-dismiss=\"modal\""
           }
@@ -119,7 +119,7 @@
         "buttons": [
           {
             "button-text": "Den er grei!",
-            "button-class": "a-btn"
+            "buttonClass": "a-btn"
           }
         ]
       },
@@ -129,7 +129,7 @@
         "buttons": [
           {
             "button-text": "Ok!",
-            "button-class": "a-btn"
+            "buttonClass": "a-btn"
           }
         ]
       },
@@ -139,7 +139,7 @@
         "buttons": [
           {
             "button-text": "Skjønner!",
-            "button-class": "a-btn"
+            "buttonClass": "a-btn"
           }
         ]
       },
@@ -149,7 +149,7 @@
         "buttons": [
           {
             "button-text": "Ok!",
-            "button-class": "a-btn"
+            "buttonClass": "a-btn"
           }
         ]
       },
@@ -159,7 +159,7 @@
         "buttons": [
           {
             "button-text": "Skjønner",
-            "button-class": "a-btn"
+            "buttonClass": "a-btn"
           }
         ]
       },
@@ -169,11 +169,11 @@
         "buttons": [
           {
             "button-text": "Jeg er klar!",
-            "button-class": "a-btn a-btn-success"
+            "buttonClass": "a-btn a-btn-success"
           },
           {
             "button-text": "Ta det en gang til",
-            "button-class": "a-btn-link a-textWhite",
+            "buttonClass": "a-btn-link a-textWhite",
             "display-as-link": true
           }
         ]

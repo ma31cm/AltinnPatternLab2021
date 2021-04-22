@@ -27,6 +27,6 @@
     }
   ],
   "save-btn": {
-    "button-class": "a-btn a-btn-success"
+    "buttonClass": "a-btn a-btn-success"
   }
 }

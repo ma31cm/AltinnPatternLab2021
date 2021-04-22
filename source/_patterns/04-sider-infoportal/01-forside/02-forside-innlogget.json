@@ -23,7 +23,7 @@
         "form-input-button-action": "Utfør søk",
         "button-icon": {
           "icon-prefix": "ai",
-          "icon-class": "ai-search"
+          "iconClass": "ai-search"
         },
         "button-text": [
           {
@@ -42,7 +42,7 @@
   "login-name": "JAN PETTERSEN",
   "button-icon": {
     "icon-prefix": "ai",
-    "icon-class": "ai-private"
+    "iconClass": "ai-private"
   },
   "login-represent": "",
   "data-toggle-personInfo": "dropdown",

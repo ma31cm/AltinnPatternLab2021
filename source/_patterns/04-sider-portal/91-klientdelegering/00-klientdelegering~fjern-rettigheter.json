@@ -1,8 +1,8 @@
 {
   "person-role": {
     "icon-prefix": "ai",
-    "icon-class": "ai-private",
-    "icon-extra-class": ""
+    "iconClass": "ai-private",
+    "iconExtraClass": ""
   },
   "remove-rights-title": {
     "collapse-header-title": "Har disse <span class='badge badge-primary a-label badge-pill'>11</span> klientene:",
@@ -21,14 +21,14 @@
   "modal-navbar-override": {
     "button-list": [
       {
-        "button-class": "a-modal-back",
+        "buttonClass": "a-modal-back",
         "aria-label": "Tilbake",
         "icon-prefix": "ai",
-        "icon-class": "ai-back",
-        "icon-extra-class": "",
+        "iconClass": "ai-back",
+        "iconExtraClass": "",
         "stacked-background": {
           "icon-prefix": "ai",
-          "icon-class": "ai-plain-circle-big"
+          "iconClass": "ai-plain-circle-big"
         },
         "onclick": "handleModalClose(this, 'link.sider-portal-klientdelegering-gi-rettigheter-til-klienter');",
         "enable-popover": true,
@@ -39,26 +39,26 @@
         "popover-buttons": [
           {
             "button-text": "Ok",
-            "button-class": "a-btn a-btn-danger",
+            "buttonClass": "a-btn a-btn-danger",
             "onclick": "$('button[aria-describedby=' + $(this).parent().parent().attr('id') + ']').click(); location.href='link.sider-portal-klientdelegering-gi-rettigheter-til-klienter'"
           },
           {
             "button-text": "Avbryt",
-            "button-class": "a-btn-link a-linkDanger",
+            "buttonClass": "a-btn-link a-linkDanger",
             "display-as-link": true,
             "onclick": "$('button[aria-describedby=' + $(this).parent().parent().attr('id') + ']').click();"
           }
         ]
       },
       {
-        "button-class": "a-modal-close",
+        "buttonClass": "a-modal-close",
         "aria-label": "Lukk",
         "icon-prefix": "ai",
-        "icon-class": "ai-exit",
-        "icon-extra-class": "a-modal-close-icon",
+        "iconClass": "ai-exit",
+        "iconExtraClass": "a-modal-close-icon",
         "stacked-background": {
           "icon-prefix": "ai",
-          "icon-class": "ai-plain-circle-big"
+          "iconClass": "ai-plain-circle-big"
         },
         "onclick": "handleModalClose(this, 'link.sider-portal-profil-roller-rettigheter');",
         "enable-popover": true,
@@ -69,12 +69,12 @@
         "popover-buttons": [
           {
             "button-text": "Ok",
-            "button-class": "a-btn a-btn-danger",
+            "buttonClass": "a-btn a-btn-danger",
             "onclick": "$('button[aria-describedby=' + $(this).parent().parent().attr('id') + ']').click(); location.href='link.sider-portal-profil-roller-rettigheter'"
           },
           {
             "button-text": "Avbryt",
-            "button-class": "a-btn-link a-linkDanger",
+            "buttonClass": "a-btn-link a-linkDanger",
             "display-as-link": true,
             "onclick": "$('button[aria-describedby=' + $(this).parent().parent().attr('id') + ']').click();"
           }
@@ -84,7 +84,7 @@
   },
   "form-label-hasIcon": {
     "icon-prefix": "ai",
-    "icon-class": "ai-client"
+    "iconClass": "ai-client"
   },
   "form-input-hasButton": false,
   "top-label": "Finn klient",
@@ -99,7 +99,7 @@
   "icontext": "Gi og fjerne rettigheter",
   "cancel-link": {
     "button-text": "Avbryt",
-    "button-class": "a-btn-link a-linkDanger float-left float-md-right",
+    "buttonClass": "a-btn-link a-linkDanger float-left float-md-right",
     "display-as-link": true,
     "onclick": "location.href='link.sider-portal-klientdelegering-gi-rettigheter-til-klienter'"
   },
@@ -108,12 +108,12 @@
   "full-height-table": true,
   "ferdigsegment-done": {
     "button-text": "Ferdig",
-    "button-class": "a-btn a-btn-success",
+    "buttonClass": "a-btn a-btn-success",
     "onclick": "if (onConfirmDeletionClick()) { location.href='link.sider-portal-klientdelegering-kvittering-gyldig' }"
   },
   "ferdigsegment-cancel": {
     "button-text": "Avbryt",
-    "button-class": "a-btn-link a-js-cancel-deletion",
+    "buttonClass": "a-btn-link a-js-cancel-deletion",
     "display-as-link": true
   },
   "remove-rights-table": {
@@ -194,8 +194,8 @@
               {
                 "column-icon": {
                   "icon-prefix": "ai",
-                  "icon-class": "ai-circle-exit",
-                  "icon-extra-class": "a-danger"
+                  "iconClass": "ai-circle-exit",
+                  "iconExtraClass": "a-danger"
                 }
               }
             ]
@@ -218,8 +218,8 @@
                 {
                   "column-icon": {
                     "icon-prefix": "ai",
-                    "icon-class": "ai-client",
-                    "icon-extra-class": ""
+                    "iconClass": "ai-client",
+                    "iconExtraClass": ""
                   }
                 }
               ]
@@ -269,8 +269,8 @@
                 {
                   "column-icon": {
                     "icon-prefix": "ai",
-                    "icon-class": "ai-circle-exit",
-                    "icon-extra-class": "a-danger a-hiddenWhenSelected a-hiddenWhenDeleted"
+                    "iconClass": "ai-circle-exit",
+                    "iconExtraClass": "a-danger a-hiddenWhenSelected a-hiddenWhenDeleted"
                   }
                 },
                 {
@@ -282,8 +282,8 @@
                 {
                   "column-icon": {
                     "icon-prefix": "ai",
-                    "icon-class": "ai-undo",
-                    "icon-extra-class": "a-danger a-visibleWhenSelected a-hiddenWhenDeleted"
+                    "iconClass": "ai-undo",
+                    "iconExtraClass": "a-danger a-visibleWhenSelected a-hiddenWhenDeleted"
                   }
                 },
                 {
@@ -295,8 +295,8 @@
                 {
                   "column-icon": {
                     "icon-prefix": "ai",
-                    "icon-class": "",
-                    "icon-extra-class": "a-danger a-visibleWhenDeleted"
+                    "iconClass": "",
+                    "iconExtraClass": "a-danger a-visibleWhenDeleted"
                   }
                 }
               ]
@@ -315,8 +315,8 @@
                 {
                   "column-icon": {
                     "icon-prefix": "ai",
-                    "icon-class": "ai-client",
-                    "icon-extra-class": ""
+                    "iconClass": "ai-client",
+                    "iconExtraClass": ""
                   }
                 }
               ]
@@ -366,8 +366,8 @@
                 {
                   "column-icon": {
                     "icon-prefix": "ai",
-                    "icon-class": "ai-circle-exit",
-                    "icon-extra-class": "a-danger a-hiddenWhenSelected a-hiddenWhenDeleted"
+                    "iconClass": "ai-circle-exit",
+                    "iconExtraClass": "a-danger a-hiddenWhenSelected a-hiddenWhenDeleted"
                   }
                 },
                 {
@@ -379,8 +379,8 @@
                 {
                   "column-icon": {
                     "icon-prefix": "ai",
-                    "icon-class": "ai-undo",
-                    "icon-extra-class": "a-danger a-visibleWhenSelected a-hiddenWhenDeleted"
+                    "iconClass": "ai-undo",
+                    "iconExtraClass": "a-danger a-visibleWhenSelected a-hiddenWhenDeleted"
                   }
                 },
                 {
@@ -392,8 +392,8 @@
                 {
                   "column-icon": {
                     "icon-prefix": "ai",
-                    "icon-class": "",
-                    "icon-extra-class": "a-danger a-visibleWhenDeleted"
+                    "iconClass": "",
+                    "iconExtraClass": "a-danger a-visibleWhenDeleted"
                   }
                 }
               ]
@@ -412,8 +412,8 @@
                 {
                   "column-icon": {
                     "icon-prefix": "ai",
-                    "icon-class": "ai-client",
-                    "icon-extra-class": ""
+                    "iconClass": "ai-client",
+                    "iconExtraClass": ""
                   }
                 }
               ]
@@ -463,8 +463,8 @@
                 {
                   "column-icon": {
                     "icon-prefix": "ai",
-                    "icon-class": "ai-circle-exit",
-                    "icon-extra-class": "a-danger a-hiddenWhenSelected a-hiddenWhenDeleted"
+                    "iconClass": "ai-circle-exit",
+                    "iconExtraClass": "a-danger a-hiddenWhenSelected a-hiddenWhenDeleted"
                   }
                 },
                 {
@@ -476,8 +476,8 @@
                 {
                   "column-icon": {
                     "icon-prefix": "ai",
-                    "icon-class": "ai-undo",
-                    "icon-extra-class": "a-danger a-visibleWhenSelected a-hiddenWhenDeleted"
+                    "iconClass": "ai-undo",
+                    "iconExtraClass": "a-danger a-visibleWhenSelected a-hiddenWhenDeleted"
                   }
                 },
                 {
@@ -489,8 +489,8 @@
                 {
                   "column-icon": {
                     "icon-prefix": "ai",
-                    "icon-class": "",
-                    "icon-extra-class": "a-danger a-visibleWhenDeleted"
+                    "iconClass": "",
+                    "iconExtraClass": "a-danger a-visibleWhenDeleted"
                   }
                 }
               ]
@@ -509,8 +509,8 @@
                 {
                   "column-icon": {
                     "icon-prefix": "ai",
-                    "icon-class": "ai-client",
-                    "icon-extra-class": ""
+                    "iconClass": "ai-client",
+                    "iconExtraClass": ""
                   }
                 }
               ]
@@ -560,8 +560,8 @@
                 {
                   "column-icon": {
                     "icon-prefix": "ai",
-                    "icon-class": "ai-circle-exit",
-                    "icon-extra-class": "a-danger a-hiddenWhenSelected a-hiddenWhenDeleted"
+                    "iconClass": "ai-circle-exit",
+                    "iconExtraClass": "a-danger a-hiddenWhenSelected a-hiddenWhenDeleted"
                   }
                 },
                 {
@@ -573,8 +573,8 @@
                 {
                   "column-icon": {
                     "icon-prefix": "ai",
-                    "icon-class": "ai-undo",
-                    "icon-extra-class": "a-danger a-visibleWhenSelected a-hiddenWhenDeleted"
+                    "iconClass": "ai-undo",
+                    "iconExtraClass": "a-danger a-visibleWhenSelected a-hiddenWhenDeleted"
                   }
                 },
                 {
@@ -586,8 +586,8 @@
                 {
                   "column-icon": {
                     "icon-prefix": "ai",
-                    "icon-class": "",
-                    "icon-extra-class": "a-danger a-visibleWhenDeleted"
+                    "iconClass": "",
+                    "iconExtraClass": "a-danger a-visibleWhenDeleted"
                   }
                 }
               ]
@@ -606,8 +606,8 @@
                 {
                   "column-icon": {
                     "icon-prefix": "ai",
-                    "icon-class": "ai-client",
-                    "icon-extra-class": ""
+                    "iconClass": "ai-client",
+                    "iconExtraClass": ""
                   }
                 }
               ]
@@ -657,8 +657,8 @@
                 {
                   "column-icon": {
                     "icon-prefix": "ai",
-                    "icon-class": "ai-circle-exit",
-                    "icon-extra-class": "a-danger a-hiddenWhenSelected a-hiddenWhenDeleted"
+                    "iconClass": "ai-circle-exit",
+                    "iconExtraClass": "a-danger a-hiddenWhenSelected a-hiddenWhenDeleted"
                   }
                 },
                 {
@@ -670,8 +670,8 @@
                 {
                   "column-icon": {
                     "icon-prefix": "ai",
-                    "icon-class": "ai-undo",
-                    "icon-extra-class": "a-danger a-visibleWhenSelected a-hiddenWhenDeleted"
+                    "iconClass": "ai-undo",
+                    "iconExtraClass": "a-danger a-visibleWhenSelected a-hiddenWhenDeleted"
                   }
                 },
                 {
@@ -683,8 +683,8 @@
                 {
                   "column-icon": {
                     "icon-prefix": "ai",
-                    "icon-class": "",
-                    "icon-extra-class": "a-danger a-visibleWhenDeleted"
+                    "iconClass": "",
+                    "iconExtraClass": "a-danger a-visibleWhenDeleted"
                   }
                 }
               ]
@@ -703,8 +703,8 @@
                 {
                   "column-icon": {
                     "icon-prefix": "ai",
-                    "icon-class": "ai-client",
-                    "icon-extra-class": ""
+                    "iconClass": "ai-client",
+                    "iconExtraClass": ""
                   }
                 }
               ]
@@ -754,8 +754,8 @@
                 {
                   "column-icon": {
                     "icon-prefix": "ai",
-                    "icon-class": "ai-circle-exit",
-                    "icon-extra-class": "a-danger a-hiddenWhenSelected a-hiddenWhenDeleted"
+                    "iconClass": "ai-circle-exit",
+                    "iconExtraClass": "a-danger a-hiddenWhenSelected a-hiddenWhenDeleted"
                   }
                 },
                 {
@@ -767,8 +767,8 @@
                 {
                   "column-icon": {
                     "icon-prefix": "ai",
-                    "icon-class": "ai-undo",
-                    "icon-extra-class": "a-danger a-visibleWhenSelected a-hiddenWhenDeleted"
+                    "iconClass": "ai-undo",
+                    "iconExtraClass": "a-danger a-visibleWhenSelected a-hiddenWhenDeleted"
                   }
                 },
                 {
@@ -780,8 +780,8 @@
                 {
                   "column-icon": {
                     "icon-prefix": "ai",
-                    "icon-class": "",
-                    "icon-extra-class": "a-danger a-visibleWhenDeleted"
+                    "iconClass": "",
+                    "iconExtraClass": "a-danger a-visibleWhenDeleted"
                   }
                 }
               ]
@@ -800,8 +800,8 @@
                 {
                   "column-icon": {
                     "icon-prefix": "ai",
-                    "icon-class": "ai-client",
-                    "icon-extra-class": ""
+                    "iconClass": "ai-client",
+                    "iconExtraClass": ""
                   }
                 }
               ]
@@ -851,8 +851,8 @@
                 {
                   "column-icon": {
                     "icon-prefix": "ai",
-                    "icon-class": "ai-circle-exit",
-                    "icon-extra-class": "a-danger a-hiddenWhenSelected a-hiddenWhenDeleted"
+                    "iconClass": "ai-circle-exit",
+                    "iconExtraClass": "a-danger a-hiddenWhenSelected a-hiddenWhenDeleted"
                   }
                 },
                 {
@@ -864,8 +864,8 @@
                 {
                   "column-icon": {
                     "icon-prefix": "ai",
-                    "icon-class": "ai-undo",
-                    "icon-extra-class": "a-danger a-visibleWhenSelected a-hiddenWhenDeleted"
+                    "iconClass": "ai-undo",
+                    "iconExtraClass": "a-danger a-visibleWhenSelected a-hiddenWhenDeleted"
                   }
                 },
                 {
@@ -877,8 +877,8 @@
                 {
                   "column-icon": {
                     "icon-prefix": "ai",
-                    "icon-class": "",
-                    "icon-extra-class": "a-danger a-visibleWhenDeleted"
+                    "iconClass": "",
+                    "iconExtraClass": "a-danger a-visibleWhenDeleted"
                   }
                 }
               ]
@@ -897,8 +897,8 @@
                 {
                   "column-icon": {
                     "icon-prefix": "ai",
-                    "icon-class": "ai-client",
-                    "icon-extra-class": ""
+                    "iconClass": "ai-client",
+                    "iconExtraClass": ""
                   }
                 }
               ]
@@ -948,8 +948,8 @@
                 {
                   "column-icon": {
                     "icon-prefix": "ai",
-                    "icon-class": "ai-circle-exit",
-                    "icon-extra-class": "a-danger a-hiddenWhenSelected a-hiddenWhenDeleted"
+                    "iconClass": "ai-circle-exit",
+                    "iconExtraClass": "a-danger a-hiddenWhenSelected a-hiddenWhenDeleted"
                   }
                 },
                 {
@@ -961,8 +961,8 @@
                 {
                   "column-icon": {
                     "icon-prefix": "ai",
-                    "icon-class": "ai-undo",
-                    "icon-extra-class": "a-danger a-visibleWhenSelected a-hiddenWhenDeleted"
+                    "iconClass": "ai-undo",
+                    "iconExtraClass": "a-danger a-visibleWhenSelected a-hiddenWhenDeleted"
                   }
                 },
                 {
@@ -974,8 +974,8 @@
                 {
                   "column-icon": {
                     "icon-prefix": "ai",
-                    "icon-class": "",
-                    "icon-extra-class": "a-danger a-visibleWhenDeleted"
+                    "iconClass": "",
+                    "iconExtraClass": "a-danger a-visibleWhenDeleted"
                   }
                 }
               ]
@@ -994,8 +994,8 @@
                 {
                   "column-icon": {
                     "icon-prefix": "ai",
-                    "icon-class": "ai-client",
-                    "icon-extra-class": ""
+                    "iconClass": "ai-client",
+                    "iconExtraClass": ""
                   }
                 }
               ]
@@ -1045,8 +1045,8 @@
                 {
                   "column-icon": {
                     "icon-prefix": "ai",
-                    "icon-class": "ai-circle-exit",
-                    "icon-extra-class": "a-danger a-hiddenWhenSelected a-hiddenWhenDeleted"
+                    "iconClass": "ai-circle-exit",
+                    "iconExtraClass": "a-danger a-hiddenWhenSelected a-hiddenWhenDeleted"
                   }
                 },
                 {
@@ -1058,8 +1058,8 @@
                 {
                   "column-icon": {
                     "icon-prefix": "ai",
-                    "icon-class": "ai-undo",
-                    "icon-extra-class": "a-danger a-visibleWhenSelected a-hiddenWhenDeleted"
+                    "iconClass": "ai-undo",
+                    "iconExtraClass": "a-danger a-visibleWhenSelected a-hiddenWhenDeleted"
                   }
                 },
                 {
@@ -1071,8 +1071,8 @@
                 {
                   "column-icon": {
                     "icon-prefix": "ai",
-                    "icon-class": "",
-                    "icon-extra-class": "a-danger a-visibleWhenDeleted"
+                    "iconClass": "",
+                    "iconExtraClass": "a-danger a-visibleWhenDeleted"
                   }
                 }
               ]
@@ -1091,8 +1091,8 @@
                 {
                   "column-icon": {
                     "icon-prefix": "ai",
-                    "icon-class": "ai-client",
-                    "icon-extra-class": ""
+                    "iconClass": "ai-client",
+                    "iconExtraClass": ""
                   }
                 }
               ]
@@ -1142,8 +1142,8 @@
                 {
                   "column-icon": {
                     "icon-prefix": "ai",
-                    "icon-class": "ai-circle-exit",
-                    "icon-extra-class": "a-danger a-hiddenWhenSelected a-hiddenWhenDeleted"
+                    "iconClass": "ai-circle-exit",
+                    "iconExtraClass": "a-danger a-hiddenWhenSelected a-hiddenWhenDeleted"
                   }
                 },
                 {
@@ -1155,8 +1155,8 @@
                 {
                   "column-icon": {
                     "icon-prefix": "ai",
-                    "icon-class": "ai-undo",
-                    "icon-extra-class": "a-danger a-visibleWhenSelected a-hiddenWhenDeleted"
+                    "iconClass": "ai-undo",
+                    "iconExtraClass": "a-danger a-visibleWhenSelected a-hiddenWhenDeleted"
                   }
                 },
                 {
@@ -1168,8 +1168,8 @@
                 {
                   "column-icon": {
                     "icon-prefix": "ai",
-                    "icon-class": "",
-                    "icon-extra-class": "a-danger a-visibleWhenDeleted"
+                    "iconClass": "",
+                    "iconExtraClass": "a-danger a-visibleWhenDeleted"
                   }
                 }
               ]
@@ -1188,8 +1188,8 @@
                 {
                   "column-icon": {
                     "icon-prefix": "ai",
-                    "icon-class": "ai-client",
-                    "icon-extra-class": ""
+                    "iconClass": "ai-client",
+                    "iconExtraClass": ""
                   }
                 }
               ]
@@ -1239,8 +1239,8 @@
                 {
                   "column-icon": {
                     "icon-prefix": "ai",
-                    "icon-class": "ai-circle-exit",
-                    "icon-extra-class": "a-danger a-hiddenWhenSelected a-hiddenWhenDeleted"
+                    "iconClass": "ai-circle-exit",
+                    "iconExtraClass": "a-danger a-hiddenWhenSelected a-hiddenWhenDeleted"
                   }
                 },
                 {
@@ -1252,8 +1252,8 @@
                 {
                   "column-icon": {
                     "icon-prefix": "ai",
-                    "icon-class": "ai-undo",
-                    "icon-extra-class": "a-danger a-visibleWhenSelected a-hiddenWhenDeleted"
+                    "iconClass": "ai-undo",
+                    "iconExtraClass": "a-danger a-visibleWhenSelected a-hiddenWhenDeleted"
                   }
                 },
                 {
@@ -1265,8 +1265,8 @@
                 {
                   "column-icon": {
                     "icon-prefix": "ai",
-                    "icon-class": "",
-                    "icon-extra-class": "a-danger a-visibleWhenDeleted"
+                    "iconClass": "",
+                    "iconExtraClass": "a-danger a-visibleWhenDeleted"
                   }
                 }
               ]
@@ -1285,8 +1285,8 @@
                 {
                   "column-icon": {
                     "icon-prefix": "ai",
-                    "icon-class": "ai-client",
-                    "icon-extra-class": ""
+                    "iconClass": "ai-client",
+                    "iconExtraClass": ""
                   }
                 }
               ]
@@ -1336,8 +1336,8 @@
                 {
                   "column-icon": {
                     "icon-prefix": "ai",
-                    "icon-class": "ai-circle-exit",
-                    "icon-extra-class": "a-danger a-hiddenWhenSelected a-hiddenWhenDeleted"
+                    "iconClass": "ai-circle-exit",
+                    "iconExtraClass": "a-danger a-hiddenWhenSelected a-hiddenWhenDeleted"
                   }
                 },
                 {
@@ -1349,8 +1349,8 @@
                 {
                   "column-icon": {
                     "icon-prefix": "ai",
-                    "icon-class": "ai-undo",
-                    "icon-extra-class": "a-danger a-visibleWhenSelected a-hiddenWhenDeleted"
+                    "iconClass": "ai-undo",
+                    "iconExtraClass": "a-danger a-visibleWhenSelected a-hiddenWhenDeleted"
                   }
                 },
                 {
@@ -1362,8 +1362,8 @@
                 {
                   "column-icon": {
                     "icon-prefix": "ai",
-                    "icon-class": "",
-                    "icon-extra-class": "a-danger a-visibleWhenDeleted"
+                    "iconClass": "",
+                    "iconExtraClass": "a-danger a-visibleWhenDeleted"
                   }
                 }
               ]
@@ -1382,8 +1382,8 @@
                 {
                   "column-icon": {
                     "icon-prefix": "ai",
-                    "icon-class": "ai-client",
-                    "icon-extra-class": ""
+                    "iconClass": "ai-client",
+                    "iconExtraClass": ""
                   }
                 }
               ]
@@ -1433,8 +1433,8 @@
                 {
                   "column-icon": {
                     "icon-prefix": "ai",
-                    "icon-class": "ai-circle-exit",
-                    "icon-extra-class": "a-danger a-hiddenWhenSelected a-hiddenWhenDeleted"
+                    "iconClass": "ai-circle-exit",
+                    "iconExtraClass": "a-danger a-hiddenWhenSelected a-hiddenWhenDeleted"
                   }
                 },
                 {
@@ -1446,8 +1446,8 @@
                 {
                   "column-icon": {
                     "icon-prefix": "ai",
-                    "icon-class": "ai-undo",
-                    "icon-extra-class": "a-danger a-visibleWhenSelected a-hiddenWhenDeleted"
+                    "iconClass": "ai-undo",
+                    "iconExtraClass": "a-danger a-visibleWhenSelected a-hiddenWhenDeleted"
                   }
                 },
                 {
@@ -1459,8 +1459,8 @@
                 {
                   "column-icon": {
                     "icon-prefix": "ai",
-                    "icon-class": "",
-                    "icon-extra-class": "a-danger a-visibleWhenDeleted"
+                    "iconClass": "",
+                    "iconExtraClass": "a-danger a-visibleWhenDeleted"
                   }
                 }
               ]
@@ -1479,8 +1479,8 @@
                 {
                   "column-icon": {
                     "icon-prefix": "ai",
-                    "icon-class": "ai-client",
-                    "icon-extra-class": ""
+                    "iconClass": "ai-client",
+                    "iconExtraClass": ""
                   }
                 }
               ]
@@ -1530,8 +1530,8 @@
                 {
                   "column-icon": {
                     "icon-prefix": "ai",
-                    "icon-class": "ai-circle-exit",
-                    "icon-extra-class": "a-danger a-hiddenWhenSelected a-hiddenWhenDeleted"
+                    "iconClass": "ai-circle-exit",
+                    "iconExtraClass": "a-danger a-hiddenWhenSelected a-hiddenWhenDeleted"
                   }
                 },
                 {
@@ -1543,8 +1543,8 @@
                 {
                   "column-icon": {
                     "icon-prefix": "ai",
-                    "icon-class": "ai-undo",
-                    "icon-extra-class": "a-danger a-visibleWhenSelected a-hiddenWhenDeleted"
+                    "iconClass": "ai-undo",
+                    "iconExtraClass": "a-danger a-visibleWhenSelected a-hiddenWhenDeleted"
                   }
                 },
                 {
@@ -1556,8 +1556,8 @@
                 {
                   "column-icon": {
                     "icon-prefix": "ai",
-                    "icon-class": "",
-                    "icon-extra-class": "a-danger a-visibleWhenDeleted"
+                    "iconClass": "",
+                    "iconExtraClass": "a-danger a-visibleWhenDeleted"
                   }
                 }
               ]
@@ -1576,8 +1576,8 @@
                 {
                   "column-icon": {
                     "icon-prefix": "ai",
-                    "icon-class": "ai-client",
-                    "icon-extra-class": ""
+                    "iconClass": "ai-client",
+                    "iconExtraClass": ""
                   }
                 }
               ]
@@ -1627,8 +1627,8 @@
                 {
                   "column-icon": {
                     "icon-prefix": "ai",
-                    "icon-class": "ai-circle-exit",
-                    "icon-extra-class": "a-danger a-hiddenWhenSelected a-hiddenWhenDeleted"
+                    "iconClass": "ai-circle-exit",
+                    "iconExtraClass": "a-danger a-hiddenWhenSelected a-hiddenWhenDeleted"
                   }
                 },
                 {
@@ -1640,8 +1640,8 @@
                 {
                   "column-icon": {
                     "icon-prefix": "ai",
-                    "icon-class": "ai-undo",
-                    "icon-extra-class": "a-danger a-visibleWhenSelected a-hiddenWhenDeleted"
+                    "iconClass": "ai-undo",
+                    "iconExtraClass": "a-danger a-visibleWhenSelected a-hiddenWhenDeleted"
                   }
                 },
                 {
@@ -1653,8 +1653,8 @@
                 {
                   "column-icon": {
                     "icon-prefix": "ai",
-                    "icon-class": "",
-                    "icon-extra-class": "a-danger a-visibleWhenDeleted"
+                    "iconClass": "",
+                    "iconExtraClass": "a-danger a-visibleWhenDeleted"
                   }
                 }
               ]
@@ -1673,8 +1673,8 @@
                 {
                   "column-icon": {
                     "icon-prefix": "ai",
-                    "icon-class": "ai-client",
-                    "icon-extra-class": ""
+                    "iconClass": "ai-client",
+                    "iconExtraClass": ""
                   }
                 }
               ]
@@ -1724,8 +1724,8 @@
                 {
                   "column-icon": {
                     "icon-prefix": "ai",
-                    "icon-class": "ai-circle-exit",
-                    "icon-extra-class": "a-danger a-hiddenWhenSelected a-hiddenWhenDeleted"
+                    "iconClass": "ai-circle-exit",
+                    "iconExtraClass": "a-danger a-hiddenWhenSelected a-hiddenWhenDeleted"
                   }
                 },
                 {
@@ -1737,8 +1737,8 @@
                 {
                   "column-icon": {
                     "icon-prefix": "ai",
-                    "icon-class": "ai-undo",
-                    "icon-extra-class": "a-danger a-visibleWhenSelected a-hiddenWhenDeleted"
+                    "iconClass": "ai-undo",
+                    "iconExtraClass": "a-danger a-visibleWhenSelected a-hiddenWhenDeleted"
                   }
                 },
                 {
@@ -1750,8 +1750,8 @@
                 {
                   "column-icon": {
                     "icon-prefix": "ai",
-                    "icon-class": "",
-                    "icon-extra-class": "a-danger a-visibleWhenDeleted"
+                    "iconClass": "",
+                    "iconExtraClass": "a-danger a-visibleWhenDeleted"
                   }
                 }
               ]
@@ -1770,8 +1770,8 @@
                 {
                   "column-icon": {
                     "icon-prefix": "ai",
-                    "icon-class": "ai-client",
-                    "icon-extra-class": ""
+                    "iconClass": "ai-client",
+                    "iconExtraClass": ""
                   }
                 }
               ]
@@ -1821,8 +1821,8 @@
                 {
                   "column-icon": {
                     "icon-prefix": "ai",
-                    "icon-class": "ai-circle-exit",
-                    "icon-extra-class": "a-danger a-hiddenWhenSelected a-hiddenWhenDeleted"
+                    "iconClass": "ai-circle-exit",
+                    "iconExtraClass": "a-danger a-hiddenWhenSelected a-hiddenWhenDeleted"
                   }
                 },
                 {
@@ -1834,8 +1834,8 @@
                 {
                   "column-icon": {
                     "icon-prefix": "ai",
-                    "icon-class": "ai-undo",
-                    "icon-extra-class": "a-danger a-visibleWhenSelected a-hiddenWhenDeleted"
+                    "iconClass": "ai-undo",
+                    "iconExtraClass": "a-danger a-visibleWhenSelected a-hiddenWhenDeleted"
                   }
                 },
                 {
@@ -1847,8 +1847,8 @@
                 {
                   "column-icon": {
                     "icon-prefix": "ai",
-                    "icon-class": "",
-                    "icon-extra-class": "a-danger a-visibleWhenDeleted"
+                    "iconClass": "",
+                    "iconExtraClass": "a-danger a-visibleWhenDeleted"
                   }
                 }
               ]
@@ -1867,7 +1867,7 @@
                 {
                   "column-icon": {
                     "icon-prefix": "ai",
-                    "icon-class": "ai-plus"
+                    "iconClass": "ai-plus"
                   }
                 }
               ]
@@ -1878,8 +1878,8 @@
                 {
                   "column-icon": {
                     "icon-prefix": "ai",
-                    "icon-class": "ai-plus",
-                    "icon-extra-class": "d-md-none"
+                    "iconClass": "ai-plus",
+                    "iconExtraClass": "d-md-none"
                   }
                 },
                 {

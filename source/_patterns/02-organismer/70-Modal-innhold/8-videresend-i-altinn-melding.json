@@ -11,7 +11,7 @@
   },
   "submitBtn": {
     "button-text": "Videresend",
-    "button-class": "a-btn",
+    "buttonClass": "a-btn",
     "button-disabled": false,
     "button-type": "button",
     "onclick": false,

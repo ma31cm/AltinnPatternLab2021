@@ -13,7 +13,7 @@
     "form-input-isPassword": false,
     "form-label-hasIcon": {
       "icon-prefix": "ai",
-      "icon-class": "ai-others"
+      "iconClass": "ai-others"
     }    
   },
   "select-all": {
@@ -35,9 +35,9 @@
       "checkbox-list-id": "forSelectionList",
       "loadmoreSearch": {
         "icon-prefix": "ai ai-nw ai-nw-pr",
-        "icon-class": "ai-plus",
+        "iconClass": "ai-plus",
         "icon-size": "",
-        "icon-extra-class": "",
+        "iconExtraClass": "",
         "icon-text": "",
         "icon-id": false,
         "sr-only": false,

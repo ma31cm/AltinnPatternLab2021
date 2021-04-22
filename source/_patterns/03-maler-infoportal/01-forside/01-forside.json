@@ -12,7 +12,7 @@
   "login-or-switchuser": "Logg inn",
   "login-name": "Logg inn",
   "login-icon": {
-    "icon-class": "ai-keyhole-circle"
+    "iconClass": "ai-keyhole-circle"
   },
   "url": "link.sider-portal-aktorvalg-forste-gang-enkel",
   "jumbo-md-class": "col-md-12",
@@ -29,7 +29,7 @@
       "link-buttonLarge": {
         "link-text": "Knapp",
         "link-url": "/patterns/04-sider-infoportal-01-forside-02-forside-innlogget/04-sider-infoportal-01-forside-02-forside-innlogget.html",
-        "link-class": "a-btn a-btn-border"
+        "linkClass": "a-btn a-btn-border"
       }
     },
     "front-main-button-text-right": "tekst etter knappen"
@@ -45,7 +45,7 @@
       "form-input-button-action": "Utfør søk",
       "button-icon": {
         "icon-prefix": "ai",
-        "icon-class": "ai-search"
+        "iconClass": "ai-search"
       },
       "button-text": [
         {
@@ -100,11 +100,11 @@
   },
   "showAllForms": {
     "link-text": "Vis alle skjema",
-    "link-class": "a-linkFeatured",
+    "linkClass": "a-linkFeatured",
     "link-url": "#",
     "link-icon": {
       "icon-prefix": "ai ai-sm ai-nw ai-nw-right",
-      "icon-class": "ai-arrowright"
+      "iconClass": "ai-arrowright"
     }
   },
   "mediaBlock1": {},

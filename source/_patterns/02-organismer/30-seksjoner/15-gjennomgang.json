@@ -41,7 +41,7 @@
       }
     ],
     "link-text": "Vis aktuelle foretaksformer for deg",
-    "link-class": "a-btn",
+    "linkClass": "a-btn",
     "link-url": "#",
     "button-text": "Vis aktuelle foretaksformer for deg"
   }

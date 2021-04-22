@@ -16,7 +16,7 @@
               {
                 "column-icon": {
                   "icon-prefix": "ai",
-                  "icon-class": "ai-circle-plus a-blueText"
+                  "iconClass": "ai-circle-plus a-blueText"
                 }
               }
             ]
@@ -27,8 +27,8 @@
               {
                 "column-icon": {
                   "icon-prefix": "ai",
-                  "icon-class": "ai-plus",
-                  "icon-extra-class": "d-md-none mx-1"
+                  "iconClass": "ai-plus",
+                  "iconExtraClass": "d-md-none mx-1"
                 }
               },
               {
@@ -53,8 +53,8 @@
               {
                 "column-icon": {
                   "icon-prefix": "reg",
-                  "icon-class": "reg-private",
-                  "icon-extra-class": ""
+                  "iconClass": "reg-private",
+                  "iconExtraClass": ""
                 }
               }
             ]
@@ -98,8 +98,8 @@
               {
                 "column-icon": {
                   "icon-prefix": "reg",
-                  "icon-class": "reg-private",
-                  "icon-extra-class": ""
+                  "iconClass": "reg-private",
+                  "iconExtraClass": ""
                 }
               }
             ]
@@ -143,8 +143,8 @@
               {
                 "column-icon": {
                   "icon-prefix": "reg",
-                  "icon-class": "reg-private",
-                  "icon-extra-class": ""
+                  "iconClass": "reg-private",
+                  "iconExtraClass": ""
                 }
               }
             ]
@@ -188,8 +188,8 @@
               {
                 "column-icon": {
                   "icon-prefix": "reg",
-                  "icon-class": "reg-private",
-                  "icon-extra-class": ""
+                  "iconClass": "reg-private",
+                  "iconExtraClass": ""
                 }
               }
             ]
@@ -233,8 +233,8 @@
               {
                 "column-icon": {
                   "icon-prefix": "reg",
-                  "icon-class": "reg-private",
-                  "icon-extra-class": ""
+                  "iconClass": "reg-private",
+                  "iconExtraClass": ""
                 }
               }
             ]
@@ -271,10 +271,10 @@
   },
   "dashboard-viewOrganization": {
     "link-text": "Se alle i din organisasjon",
-    "link-class": "a-linkFeatured",
+    "linkClass": "a-linkFeatured",
     "link-icon": {
       "icon-prefix": "ai ai-sm ai-nw ai-nw-right",
-      "icon-class": "ai-arrowright"
+      "iconClass": "ai-arrowright"
     }
   }
 }

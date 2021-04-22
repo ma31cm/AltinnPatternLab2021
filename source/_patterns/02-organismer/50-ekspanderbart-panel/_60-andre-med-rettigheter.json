@@ -7,13 +7,13 @@
     "variation-class": "a-iconText-shadow a-iconText-large a-collapseBtn collapsed",
     "hasIcon": {
       "icon-prefix": "reg",
-      "icon-class": "reg-corp",
-      "icon-extra-class": "a-icon"
+      "iconClass": "reg-corp",
+      "iconExtraClass": "a-icon"
     },
     "hasTextSmall": false,
     "icontext": "Andre med rettigheter"
   },
-  "button-class": "a-box-button",
+  "buttonClass": "a-box-button",
   "box-list-id": "boxList",
   "activity-log": {
     "link-text": "Aktivitetslogg",
@@ -27,17 +27,17 @@
       "has-children": false,
       "box-button-top-icon": {
         "icon-prefix": "ai",
-        "icon-class": "ai-circle-exclamation",
+        "iconClass": "ai-circle-exclamation",
         "icon-size": "ai-sm",
-        "icon-extra-class": "a-danger a-noHover ai-top ai-float-right"
+        "iconExtraClass": "a-danger a-noHover ai-top ai-float-right"
       },
       "box-button-title": false,
       "box-button-person": "PERNILLE HALL",
       "box-button-action": "Behandle forespørsel",
       "icon-prefix": "ai",
-      "icon-class": "ai-private",
+      "iconClass": "ai-private",
       "icon-size": "ai-lg",
-      "icon-extra-class": "a-box-button-icon a-blueDarkText",
+      "iconExtraClass": "a-box-button-icon a-blueDarkText",
       "onclick": "location.href='';"
     },
     {
@@ -45,17 +45,17 @@
       "has-children": false,
       "box-button-top-icon": {
         "icon-prefix": "ai",
-        "icon-class": "ai-circle-exclamation",
+        "iconClass": "ai-circle-exclamation",
         "icon-size": "ai-sm",
-        "icon-extra-class": "a-danger a-noHover ai-top ai-float-right"
+        "iconExtraClass": "a-danger a-noHover ai-top ai-float-right"
       },
       "box-button-title": false,
       "box-button-person": "TUVA LANDRO",
       "box-button-action": "Behandle forespørsel",
       "icon-prefix": "ai",
-      "icon-class": "ai-private",
+      "iconClass": "ai-private",
       "icon-size": "ai-lg",
-      "icon-extra-class": "a-box-button-icon a-blueDarkText",
+      "iconExtraClass": "a-box-button-icon a-blueDarkText",
       "onclick": "location.href='';"
     },
     {
@@ -65,9 +65,9 @@
       "box-button-person": "PERNILLE HALL",
       "box-button-action": "Gi og fjerne rettigheter",
       "icon-prefix": "ai",
-      "icon-class": "ai-private",
+      "iconClass": "ai-private",
       "icon-size": "ai-lg",
-      "icon-extra-class": "a-box-button-icon a-blueDarkText",
+      "iconExtraClass": "a-box-button-icon a-blueDarkText",
       "onclick": "location.href='';"
     },
     {
@@ -77,9 +77,9 @@
       "box-button-person": "TUVA LANDRO",
       "box-button-action": "Gi og fjerne rettigheter",
       "icon-prefix": "ai",
-      "icon-class": "ai-private",
+      "iconClass": "ai-private",
       "icon-size": "ai-lg",
-      "icon-extra-class": "a-box-button-icon a-blueDarkText",
+      "iconExtraClass": "a-box-button-icon a-blueDarkText",
       "onclick": "location.href='';"
     },
     {
@@ -89,9 +89,9 @@
       "box-button-person": "INGRID AGA",
       "box-button-action": "Gi og fjerne rettigheter",
       "icon-prefix": "ai",
-      "icon-class": "ai-private",
+      "iconClass": "ai-private",
       "icon-size": "ai-lg",
-      "icon-extra-class": "a-box-button-icon a-blueDarkText",
+      "iconExtraClass": "a-box-button-icon a-blueDarkText",
       "onclick": "location.href='';"
     },
     {
@@ -102,18 +102,18 @@
       "box-button-person": "Julius Andreas Gimli Arn MacGyver Chewbacka Highlander Elessar-Jankov",
       "box-button-action": "Gi og fjerne rettigheter",
       "icon-prefix": "ai",
-      "icon-class": "ai-private",
+      "iconClass": "ai-private",
       "icon-size": "ai-lg",
-      "icon-extra-class": "a-box-button-icon a-blueDarkText",
+      "iconExtraClass": "a-box-button-icon a-blueDarkText",
       "onclick": "location.href='';"
     },
     {
       "box-button-title": "REVISOR",
       "box-button-person": "FJELLSTRAND REGNSKAP",
       "icon-prefix": "ai",
-      "icon-class": "ai-corp",
+      "iconClass": "ai-corp",
       "icon-size": "ai-lg",
-      "icon-extra-class": "a-box-button-icon",
+      "iconExtraClass": "a-box-button-icon",
       "box-button-action": "Se alle med rettigheter",
       "box-button-secondary-action": "Skjul alle med rettigheter",
       "data-target": "firstChildContainer",
@@ -127,9 +127,9 @@
           "box-button-person": "FJELLSTRAND REGNSKAP",
           "box-button-action": "Gi og fjerne rettigheter",
           "icon-prefix": "ai",
-          "icon-class": "ai-corp",
+          "iconClass": "ai-corp",
           "icon-size": "ai-lg",
-          "icon-extra-class": "a-box-button-icon a-blueDarkText",
+          "iconExtraClass": "a-box-button-icon a-blueDarkText",
           "onclick": "location.href='';"
         },
         {
@@ -139,9 +139,9 @@
           "box-button-person": "KENNETH HOGNESTAD",
           "box-button-action": "Gi og fjerne rettigheter",
           "icon-prefix": "ai",
-          "icon-class": "ai-private",
+          "iconClass": "ai-private",
           "icon-size": "ai-lg",
-          "icon-extra-class": "a-box-button-icon a-blueDarkText",
+          "iconExtraClass": "a-box-button-icon a-blueDarkText",
           "onclick": "location.href='';"
         },
         {
@@ -151,9 +151,9 @@
           "box-button-person": "LISE GAUSDAL",
           "box-button-action": "Gi og fjerne rettigheter",
           "icon-prefix": "ai",
-          "icon-class": "ai-private",
+          "iconClass": "ai-private",
           "icon-size": "ai-lg",
-          "icon-extra-class": "a-box-button-icon a-blueDarkText",
+          "iconExtraClass": "a-box-button-icon a-blueDarkText",
           "onclick": "location.href='';"
         }
       ]
@@ -163,20 +163,20 @@
     "box-button-add-textover": "Legg til person",
     "box-button-add-textunder": "eller virksomhet",
     "icon-prefix": "ai",
-    "icon-class": "ai-plus",
+    "iconClass": "ai-plus",
     "icon-size": "ai-lg",
-    "icon-extra-class": "a-box-button-icon a-blueDarkText",
+    "iconExtraClass": "a-box-button-icon a-blueDarkText",
     "onclick": "location.href='';"
   },
   "empty-rights": {
     "alert-id": "alert-no-arrow",
     "alert-class": "a-message-info a-message--arrow-off a-message--fullwidth",
     "alert-content": "Hvis du vil at andre skal hjelpe deg med å fylle ut skjema eller tjenester, kan du legge dem til her. Du velger også hva de skal ta rettigheter til å gjøre.",
-    "button-class": "a-btn a-btn-action a-fullWidthBtn py-1",
-    "action-button-text": "Legg til ny person eller virksomhet",
+    "buttonClass": "a-btn a-btn-action a-fullWidthBtn py-1",
+    "actionButtonText": "Legg til ny person eller virksomhet",
     "icon-prefix": "ai",
-    "icon-class": "ai-plus",
-    "icon-extra-class": "",
+    "iconClass": "ai-plus",
+    "iconExtraClass": "",
     "icon-text": ""
    }
 }

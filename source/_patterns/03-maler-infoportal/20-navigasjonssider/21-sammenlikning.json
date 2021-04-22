@@ -17,7 +17,7 @@
       "form-input-button-action": "Utfør søk",
       "button-icon": {
         "icon-prefix": "ai",
-        "icon-class": "ai-search"
+        "iconClass": "ai-search"
       },
       "button-text": [
         {
@@ -82,8 +82,8 @@
     "variation-class": "a-iconText-shadow a-iconText-background a-iconText-background--white",
     "hasIcon": {
       "icon-prefix": "ai",
-      "icon-class": "ai-circle-plus",
-      "icon-extra-class": "a-icon a-icon-circle"
+      "iconClass": "ai-circle-plus",
+      "iconExtraClass": "a-icon a-icon-circle"
     },
     "hasTextSmall": {
       "textSmall": "Ekstratittel"
@@ -95,8 +95,8 @@
     "variation-class": "a-iconText-shadow a-iconText-background a-iconText-background--white",
     "hasIcon": {
       "icon-prefix": "ai",
-      "icon-class": "ai-date",
-      "icon-extra-class": "a-icon a-icon-circle"
+      "iconClass": "ai-date",
+      "iconExtraClass": "a-icon a-icon-circle"
     },
     "hasTextSmall": {
       "textSmall": "Ekstratittel"

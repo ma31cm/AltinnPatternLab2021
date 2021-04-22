@@ -6,7 +6,7 @@
       "checkbuttons-class": "",
       "hasIcon": {
         "icon-prefix": "ai",
-        "icon-class": "ai-read"
+        "iconClass": "ai-read"
       }
     },
     {
@@ -15,7 +15,7 @@
       "checkbuttons-class": "",
       "hasIcon": {
         "icon-prefix": "ai",
-        "icon-class": "ai-write"
+        "iconClass": "ai-write"
       }
     },
     {
@@ -25,7 +25,7 @@
       "role": "button",
       "hasIcon": {
         "icon-prefix": "ai",
-        "icon-class": "ai-sign"
+        "iconClass": "ai-sign"
       },
       "stacked-background": false,
       "enable-popover":  true,
@@ -37,7 +37,7 @@
       "popover-buttons": [
         {
           "button-text": "knapp",
-          "button-class": "a-btn a-btn-danger"
+          "buttonClass": "a-btn a-btn-danger"
         }
       ]
     },
@@ -47,12 +47,12 @@
       "checkbuttons-class": "a-toggle-icon",
       "hasIcon": {
         "icon-prefix": "ai",
-        "icon-class": "ai-plus"
+        "iconClass": "ai-plus"
       },
       "checkbuttons-toggle-icon": {
         "checkbuttons-class": "a-toggle-icon",
         "icon-prefix": "ai",
-        "icon-class": "ai-check"
+        "iconClass": "ai-check"
       }
     },
     {
@@ -68,7 +68,7 @@
       "isDisabled": true,
       "hasIcon": {
         "icon-prefix": "ai",
-        "icon-class": "ai-sign"
+        "iconClass": "ai-sign"
       }
     },
     {

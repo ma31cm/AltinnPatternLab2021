@@ -18,12 +18,12 @@
     "isRequired": false,
     "form-label-hasIcon": {
       "icon-prefix": "ai",
-      "icon-class": "ai-document"
+      "iconClass": "ai-document"
     },
     "form-input-hasButton": {
       "button-icon": {
         "icon-prefix": "ai",
-        "icon-class": "ai-search"
+        "iconClass": "ai-search"
       },
       "button-text": [
         {
@@ -40,14 +40,14 @@
   "local-role-buttons": {
     "local-role-save-btn": {
       "button-text": "Lagre",
-      "button-class": "a-btn a-btn-success mr-2",
+      "buttonClass": "a-btn a-btn-success mr-2",
       "onclick": false,
       "button-icon": false,
       "button-type": false
     },
     "local-role-cancel-btn": {
       "button-text": "Avbryt",
-      "button-class": "a-btn-link",
+      "buttonClass": "a-btn-link",
       "display-as-link": true,
       "onclick": false,
       "button-type": false
@@ -55,7 +55,7 @@
   },
   "local-role-cancel-link": {
     "button-text": "Avbryt",
-    "button-class": "a-btn-link",
+    "buttonClass": "a-btn-link",
     "display-as-link": true,
     "onclick": false,
     "button-type": false

@@ -2,8 +2,8 @@
     "variation-class": "a-iconText-background a-iconText-large",
     "hasIcon": {
       "icon-prefix": "reg",
-      "icon-class": "reg-other",
-      "icon-extra-class": "a-icon"    
+      "iconClass": "reg-other",
+      "iconExtraClass": "a-icon"
     },
     "hasTextSmall": false,
     "icontext": "Før du går videre...",
@@ -32,7 +32,7 @@
             "isLarge": false,
             "form-label-hasIcon": {
               "icon-prefix": "ai",
-              "icon-class": "ai-phone"
+              "iconClass": "ai-phone"
             }
           },
           "add-shared-contactinfo-second-input": {
@@ -47,7 +47,7 @@
             "isLarge": false,
             "form-label-hasIcon": {
               "icon-prefix": "ai",
-              "icon-class": "ai-closedmessage"
+              "iconClass": "ai-closedmessage"
             }
           }
         }        
@@ -55,16 +55,16 @@
       "add-contactinfo-row-button": {
         "button-type": "button",
         "onclick": false,
-        "button-class": "a-btn a-btn-action",
-        "action-button-text": "Legg til flere",
+        "buttonClass": "a-btn a-btn-action",
+        "actionButtonText": "Legg til flere",
         "icon-prefix": "ai",
-        "icon-class": "ai-plus",
-        "icon-extra-class": ""
+        "iconClass": "ai-plus",
+        "iconExtraClass": ""
       },
       "add-contactinfo-done-button": {
         "button-type": "button",
         "button-text": "Lagre",
-        "button-class": "a-btn a-btn-success",
+        "buttonClass": "a-btn a-btn-success",
         "onclick": false
       },
       "shared-contactinfo-text": "Virksomheten får varsel til disse addressene når offentlige myndigheter sender viktige meldinger i Altinn.",

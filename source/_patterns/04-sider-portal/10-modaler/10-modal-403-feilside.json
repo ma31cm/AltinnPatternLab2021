@@ -9,7 +9,7 @@
   "login-name": "JAN PETTERSEN",
   "login-icon": {
     "icon-prefix": "ai",
-    "icon-class": "ai-corp"
+    "iconClass": "ai-corp"
   },
   "login-represent": "for Johansen Regnskap AS",
   "myself-name": "Johansen Regnskap AS",
@@ -18,27 +18,27 @@
   "modal-navbar-override": {
     "button-list": [
       {
-        "button-class": "a-modal-back",
+        "buttonClass": "a-modal-back",
         "aria-label": "Tilbake",
         "icon-prefix": "ai",
-        "icon-class": "ai-back",
-        "icon-extra-class": false,
+        "iconClass": "ai-back",
+        "iconExtraClass": false,
         "stacked-background": {
           "icon-prefix": "ai",
-          "icon-class": "ai-plain-circle-big"
+          "iconClass": "ai-plain-circle-big"
         },
         "onclick": "location.href=''",
         "enable-popover": false
       },
       {
-        "button-class": "a-modal-close",
+        "buttonClass": "a-modal-close",
         "aria-label": "Lukk",
         "icon-prefix": "ai",
-        "icon-class": "ai-exit",
-        "icon-extra-class": "a-modal-close-icon",
+        "iconClass": "ai-exit",
+        "iconExtraClass": "a-modal-close-icon",
         "stacked-background": {
           "icon-prefix": "ai",
-          "icon-class": "ai-plain-circle-big"
+          "iconClass": "ai-plain-circle-big"
         },
         "onclick": "location.href=''",
         "enable-popover": false
@@ -50,7 +50,7 @@
   "isHeader": true,
   "hasIcon": {
     "icon-prefix": "ai",
-    "icon-class": "ai-circle-exclamation"
+    "iconClass": "ai-circle-exclamation"
   },
   "modal-kvittering-content": "Det ser ut til at du mangler tilgang til denne siden for KAJAKK OG SKI AS. Du kan prøve å: ",
   "modal-varsel": false,

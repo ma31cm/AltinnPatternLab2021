@@ -2,7 +2,7 @@
   "personswitch-persons": [
     {
       "button-main": {
-        "button-class": "a-btn-shadow-large a-btn a-btn-shadow a-btn-icon",
+        "buttonClass": "a-btn-shadow-large a-btn a-btn-shadow a-btn-icon",
         "button-colorClass": "",
         "button-dot": false,
         "button-text": "Pettersen foto",
@@ -13,19 +13,19 @@
         },
         "button-icon": {
           "icon-prefix": "ai",
-          "icon-class": "ai-corp ai-left",
-          "icon-extra-class": ""
+          "iconClass": "ai-corp ai-left",
+          "iconExtraClass": ""
         },
         "link-url": ""
       },
       "button-favourite": {
-        "button-class": "a-btn a-btn-icon a-btn-overlay-right",
+        "buttonClass": "a-btn a-btn-icon a-btn-overlay-right",
         "button-dot": false,
         "link-url": false,
         "button-text": "",
         "button-icon": {
           "icon-prefix": "ai",
-          "icon-class": "ai-favourite",
+          "iconClass": "ai-favourite",
           "icon-size": "ai-xs"
         }
       },
@@ -33,7 +33,7 @@
     },
     {
       "button-main": {
-        "button-class": "a-btn a-btn-shadow-large a-btn-shadow a-btn-icon disabled",
+        "buttonClass": "a-btn a-btn-shadow-large a-btn-shadow a-btn-icon disabled",
         "button-colorClass": "",
         "button-dot": false,
         "disabled": true,
@@ -45,15 +45,15 @@
         },
         "button-icon": {
           "icon-prefix": "ai",
-          "icon-class": "ai-corp ai-left",
-          "icon-extra-class": ""
+          "iconClass": "ai-corp ai-left",
+          "iconExtraClass": ""
         },
         "link-url": ""
       },
       "button-favourite": false,
       "button-sub": {
         "collapse-header-contentID": "listsublevels2",
-        "button-class": "a-btn  a-offset-border-top a-btn-shadow a-btn-shadow-expand a-btn-icon collapsed",
+        "buttonClass": "a-btn  a-offset-border-top a-btn-shadow a-btn-shadow-expand a-btn-icon collapsed",
         "role": "list",
         "collapse-header-title": "3 underenheter",
         "additional-classes": "a-list-large",
@@ -63,7 +63,7 @@
             "additional-classes": "a-clickable a-offset-border-top a-list-hasRowLink",
             "isRowLink": {
               "rowLink": "http://altinn.no",
-              "rowLink-class": "a-fontSizeM"
+              "rowlinkClass": "a-fontSizeM"
             },
             "columns": [
               {
@@ -81,13 +81,13 @@
                 "column-items": [
                   {
                     "column-button": {
-                      "button-class": "a-btn a-btn-icon a-btn-overlay-right a-child-star",
+                      "buttonClass": "a-btn a-btn-icon a-btn-overlay-right a-child-star",
                       "button-dot": false,
                       "link-url": false,
                       "button-text": "",
                       "button-icon": {
                         "icon-prefix": "ai",
-                        "icon-class": "ai-favourite-inactive",
+                        "iconClass": "ai-favourite-inactive",
                         "icon-size": "ai-xs"
                       },
                       "column-icon": false
@@ -101,7 +101,7 @@
             "additional-classes": "a-clickable a-offset-border-top a-list-hasRowLink",
             "isRowLink": {
               "rowLink": "http://altinn.no",
-              "rowLink-class": "a-fontSizeM"
+              "rowlinkClass": "a-fontSizeM"
             },
             "columns": [
               {
@@ -119,13 +119,13 @@
                 "column-items": [
                   {
                     "column-button": {
-                      "button-class": "a-btn a-btn-icon a-btn-overlay-right a-child-star",
+                      "buttonClass": "a-btn a-btn-icon a-btn-overlay-right a-child-star",
                       "button-dot": false,
                       "link-url": false,
                       "button-text": "",
                       "button-icon": {
                         "icon-prefix": "ai",
-                        "icon-class": "ai-favourite-inactive",
+                        "iconClass": "ai-favourite-inactive",
                         "icon-size": "ai-xs"
                       },
                       "column-icon": false
@@ -139,7 +139,7 @@
             "additional-classes": "a-clickable a-offset-border-top a-list-hasRowLink",
             "isRowLink": {
               "rowLink": "http://altinn.no",
-              "rowLink-class": "a-fontSizeM"
+              "rowlinkClass": "a-fontSizeM"
             },
             "columns": [
               {
@@ -157,13 +157,13 @@
                 "column-items": [
                   {
                     "column-button": {
-                      "button-class": "a-btn a-btn-icon a-btn-overlay-right a-child-star",
+                      "buttonClass": "a-btn a-btn-icon a-btn-overlay-right a-child-star",
                       "button-dot": false,
                       "link-url": false,
                       "button-text": "",
                       "button-icon": {
                         "icon-prefix": "ai",
-                        "icon-class": "ai-favourite-inactive",
+                        "iconClass": "ai-favourite-inactive",
                         "icon-size": "ai-xs"
                       },
                       "column-icon": false
@@ -178,7 +178,7 @@
     },
     {
       "button-main": {
-        "button-class": "a-btn-shadow-large a-btn a-btn-shadow a-btn-icon a-bgGreyLight",
+        "buttonClass": "a-btn-shadow-large a-btn a-btn-shadow a-btn-icon a-bgGreyLight",
         "button-colorClass": "",
         "button-dot": false,
         "button-text": "Anne Pettersen",
@@ -189,19 +189,19 @@
         },
         "button-icon": {
           "icon-prefix": "ai",
-          "icon-class": "ai-private ai-left",
-          "icon-extra-class": ""
+          "iconClass": "ai-private ai-left",
+          "iconExtraClass": ""
         },
         "link-url": ""
       },
       "button-favourite": {
-        "button-class": "a-btn a-btn-icon a-btn-overlay-right",
+        "buttonClass": "a-btn a-btn-icon a-btn-overlay-right",
         "button-dot": false,
         "link-url": false,
         "button-text": "",
         "button-icon": {
           "icon-prefix": "ai",
-          "icon-class": "ai-favourite",
+          "iconClass": "ai-favourite",
           "icon-size": "ai-xs"
         }
       },
@@ -209,7 +209,7 @@
     },
     {
       "button-main": {
-        "button-class": "a-btn-shadow-large a-btn a-btn-shadow a-btn-icon a-bgGreyLight",
+        "buttonClass": "a-btn-shadow-large a-btn a-btn-shadow a-btn-icon a-bgGreyLight",
         "button-colorClass": "",
         "button-dot": false,
         "button-text": "Jan Derek Sørensen Julius Andreas Gimli Arn MacGyver Chewbacka Highlander Elessar-Jankov",
@@ -220,20 +220,20 @@
         },
         "button-icon": {
           "icon-prefix": "ai",
-          "icon-class": "ai-private ai-left",
-          "icon-extra-class": ""
+          "iconClass": "ai-private ai-left",
+          "iconExtraClass": ""
         },
         "title":"Jan Derek Sørensen Julius Andreas Gimli Arn MacGyver Chewbacka Highlander Elessar-Jankov",
         "link-url": ""
       },
       "button-favourite": {
-        "button-class": "a-btn a-btn-icon a-btn-overlay-right",
+        "buttonClass": "a-btn a-btn-icon a-btn-overlay-right",
         "button-dot": false,
         "link-url": false,
         "button-text": "",
         "button-icon": {
           "icon-prefix": "ai",
-          "icon-class": "ai-favourite",
+          "iconClass": "ai-favourite",
           "icon-size": "ai-xs"
         }
       },
@@ -241,7 +241,7 @@
     },
     {
       "button-main": {
-        "button-class": " a-btn-shadow-large a-btn a-btn-shadow a-btn-icon",
+        "buttonClass": " a-btn-shadow-large a-btn a-btn-shadow a-btn-icon",
         "button-colorClass": "",
         "button-dot": false,
         "button-text": "Pettersen Tallknuser (slettet)",
@@ -252,19 +252,19 @@
         },
         "button-icon": {
           "icon-prefix": "ai",
-          "icon-class": "ai-corp ai-left",
-          "icon-extra-class": ""
+          "iconClass": "ai-corp ai-left",
+          "iconExtraClass": ""
         },
         "link-url": ""
       },
       "button-favourite": {
-        "button-class": "a-btn a-btn-icon a-btn-overlay-right",
+        "buttonClass": "a-btn a-btn-icon a-btn-overlay-right",
         "button-dot": false,
         "link-url": false,
         "button-text": "",
         "button-icon": {
           "icon-prefix": "ai",
-          "icon-class": "ai-favourite-inactive",
+          "iconClass": "ai-favourite-inactive",
           "icon-size": "ai-xs"
         }
       },
@@ -272,7 +272,7 @@
     },
     {
       "button-main": {
-        "button-class": "a-btn a-btn-shadow a-btn-shadow-large a-btn-icon",
+        "buttonClass": "a-btn a-btn-shadow a-btn-shadow-large a-btn-icon",
         "button-colorClass": "",
         "button-dot": false,
         "button-text": "Pettersen Bygg",
@@ -283,19 +283,19 @@
         },
         "button-icon": {
           "icon-prefix": "ai",
-          "icon-class": "ai-corp ai-left",
-          "icon-extra-class": ""
+          "iconClass": "ai-corp ai-left",
+          "iconExtraClass": ""
         },
         "link-url": ""
       },
       "button-favourite": {
-        "button-class": "a-btn a-btn-icon a-btn-overlay-right",
+        "buttonClass": "a-btn a-btn-icon a-btn-overlay-right",
         "button-dot": false,
         "link-url": false,
         "button-text": "",
         "button-icon": {
           "icon-prefix": "ai",
-          "icon-class": "ai-favourite-inactive",
+          "iconClass": "ai-favourite-inactive",
           "icon-size": "ai-xs"
         }
       },
@@ -303,11 +303,11 @@
     }
   ],
   "loadmore": {
-    "action-button-text": "Vis alle aktører",
-    "button-class": "a-btn a-btn-action a-fullWidthBtn",
+    "actionButtonText": "Vis alle aktører",
+    "buttonClass": "a-btn a-btn-action a-fullWidthBtn",
     "icon-prefix": "ai",
-    "icon-class": "ai-plus",
-    "icon-extra-class": "",
+    "iconClass": "ai-plus",
+    "iconExtraClass": "",
     "onclick": "location.href=''"
 	},
   "show-personswitch-options": false,

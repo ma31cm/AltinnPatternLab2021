@@ -12,8 +12,8 @@
     "login-name": "JAN PETTERSEN",
     "login-icon": {
       "icon-prefix": "ai",
-      "icon-class": "ai-private-circle-big",
-      "icon-extra-class": "a-personSwitcher-icon"
+      "iconClass": "ai-private-circle-big",
+      "iconExtraClass": "a-personSwitcher-icon"
     }
   },
   "icon": "group_add",
@@ -33,25 +33,25 @@
   "modal-navbar-override": {
     "button-list": [
       {
-        "button-class": "a-modal-back",
+        "buttonClass": "a-modal-back",
         "aria-label":  "Tilbake",
         "icon-prefix": "ai",
-        "icon-class": "ai-back",
-        "icon-extra-class": "",
+        "iconClass": "ai-back",
+        "iconExtraClass": "",
         "stacked-background": {
           "icon-prefix": "ai",
-          "icon-class": "ai-plain-circle-big"
+          "iconClass": "ai-plain-circle-big"
         }
       },
       {
-        "button-class": "a-modal-close",
+        "buttonClass": "a-modal-close",
         "aria-label":  "Lukk",
         "icon-prefix": "ai",
-        "icon-class": "ai-exit",
-        "icon-extra-class": "a-modal-close-icon",
+        "iconClass": "ai-exit",
+        "iconExtraClass": "a-modal-close-icon",
         "stacked-background": {
           "icon-prefix": "ai",
-          "icon-class": "ai-plain-circle-big"
+          "iconClass": "ai-plain-circle-big"
         }
       }
     ]

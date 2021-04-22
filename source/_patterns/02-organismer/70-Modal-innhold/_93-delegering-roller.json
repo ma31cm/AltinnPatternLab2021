@@ -1,7 +1,7 @@
 {
   "isTransparent": true,
   "button-text": "En knapp stylet som en link som antyder fare",
-  "button-class": "a-btn-link a-linkDanger float-right",
+  "buttonClass": "a-btn-link a-linkDanger float-right",
   "display-as-link": true,
   "search-title": "Gi nye rettigheter",
   "person-rolle": true,
@@ -18,8 +18,8 @@
     "heading-action": {
       "heading-text": "Høyrejustert tekst",
       "icon-prefix": "ai",
-      "icon-class": "ai-circle-minus",
-      "icon-extra-class": "a-danger"
+      "iconClass": "ai-circle-minus",
+      "iconExtraClass": "a-danger"
     }
   }
 }

@@ -18,12 +18,12 @@
       "linklist-item": [
         {
           "link-url": "link.sider-altinnett-forside-innlogget",
-          "link-class": "",
+          "linkClass": "",
           "link-text": "Gå til altinndigital.no"
         },
         {
           "link-url": "#",
-          "link-class": "",
+          "linkClass": "",
           "link-text": "Innstillinger"
         }
       ]

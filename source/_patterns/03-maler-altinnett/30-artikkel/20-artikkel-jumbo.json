@@ -10,7 +10,7 @@
 		"ekstra-menypunkt-1": "innovation@altinn",
 		"url-ekstra-menypunkt-1": "link.sider-altinnett-seksjonsforside",
     "login-icon": {
-      "icon-class": "ai-keyhole-circle a-personSwitcher-icon"
+      "iconClass": "ai-keyhole-circle a-personSwitcher-icon"
     },
     "login-name": "Logg inn"
   },
@@ -34,8 +34,8 @@
 		"variation-class": "a-iconText-shadow a-iconText-background a-iconText-background--white",
 		"hasIcon": {
       "icon-prefix": "ai",
-      "icon-class": "ai-write",
-      "icon-extra-class": "a-icon"
+      "iconClass": "ai-write",
+      "iconExtraClass": "a-icon"
 		},
 	  "hasTextSmall": {
 	    "textSmall": "Ekstratittel"
@@ -61,15 +61,15 @@
 			"card-code": "(A01)",
 			"card-title": "For mindre virksomheter",
 			"card-description": "Direkte registrering i Altinn er tilpasset virksomheter med ca 1-8 ansatte med enkle arbeidsforhold. ",
-			"paragraph-content": "Forklarende tekst først"
+			"paragraphContent": "Forklarende tekst først"
 		}
 	},
 	"cardFirst": {
 		"variation-class": "a-iconText-shadow a-iconText-background a-iconText-background--white",
 		"hasIcon": {
       "icon-prefix": "ai",
-      "icon-class": "ai-money",
-      "icon-extra-class": "a-icon"
+      "iconClass": "ai-money",
+      "iconExtraClass": "a-icon"
 		},
 		"hasTextSmall": false,
 		"link-text": "Lenk til et skjema eller noe annet",
@@ -77,7 +77,7 @@
 	},
 	"questionnaire": {
 		"link-text": "Vis svar",
-		"link-class": "a-btn",
+		"linkClass": "a-btn",
 		"link-url": "#"
 	},
 	"article-compare-first": {
@@ -113,7 +113,7 @@
       "form-input-hasButton": {
         "button-icon": {
           "icon-prefix": "ai",
-          "icon-class": "ai-search"
+          "iconClass": "ai-search"
         },
         "button-text": [
           {

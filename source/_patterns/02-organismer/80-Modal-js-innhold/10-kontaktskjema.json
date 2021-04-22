@@ -43,7 +43,7 @@
 
     "form-label-hasIcon": {
       "icon-prefix": "ai",
-      "icon-class": "ai-closedmessage"
+      "iconClass": "ai-closedmessage"
     }
   },
   "epost2": {
@@ -63,7 +63,7 @@
 
     "form-label-hasIcon": {
       "icon-prefix": "ai",
-      "icon-class": "ai-closedmessage"
+      "iconClass": "ai-closedmessage"
     }
   },
   "telefon": {
@@ -86,7 +86,7 @@
 
     "form-label-hasIcon": {
       "icon-prefix": "ai",
-      "icon-class": "ai-phone"
+      "iconClass": "ai-phone"
     }
   },
 
@@ -127,14 +127,14 @@
     "input-type": "text",
     "has-feedback": {
       "icon-prefix": "ai",
-      "icon-class": "ai-plus",
-      "icon-extra-class": "form-control-feedback"
+      "iconClass": "ai-plus",
+      "iconExtraClass": "form-control-feedback"
     }
   },
 
   "submit": {
     "button-text": "Send",
-    "button-class": "a-btn",
+    "buttonClass": "a-btn",
     "button-id": "a-js-contactForm-submit",
     "button-type": "button",
     "onclick": false,
@@ -193,7 +193,7 @@
 
       "form-label-hasIcon": {
         "icon-prefix": "ai",
-        "icon-class": "ai-closedmessage"
+        "iconClass": "ai-closedmessage"
       }
     },
     "epost2": {
@@ -213,7 +213,7 @@
 
       "form-label-hasIcon": {
         "icon-prefix": "ai",
-        "icon-class": "ai-closedmessage"
+        "iconClass": "ai-closedmessage"
       }
     },
     "telefon": {
@@ -236,7 +236,7 @@
 
       "form-label-hasIcon": {
         "icon-prefix": "ai",
-        "icon-class": "ai-phone"
+        "iconClass": "ai-phone"
       }
     },
 
@@ -277,14 +277,14 @@
       "input-type": "text",
       "has-feedback": {
         "icon-prefix": "ai",
-        "icon-class": "ai-plus",
-        "icon-extra-class": "form-control-feedback"
+        "iconClass": "ai-plus",
+        "iconExtraClass": "form-control-feedback"
       }
     },
 
     "submit": {
       "button-text": "Send",
-      "button-class": "a-btn d-block mt-3",
+      "buttonClass": "a-btn d-block mt-3",
       "button-id": "a-js-contactForm-submit2",
       "button-type": "button",
       "onclick": false,
@@ -310,9 +310,9 @@
           "id": "newCertificateInput",
           "icon-after": {
             "icon-prefix": "ai",
-            "icon-class": "ai-upload",
+            "iconClass": "ai-upload",
             "icon-size": "",
-            "icon-extra-class": ""
+            "iconExtraClass": ""
           }
         },
         "certificate-list": false,

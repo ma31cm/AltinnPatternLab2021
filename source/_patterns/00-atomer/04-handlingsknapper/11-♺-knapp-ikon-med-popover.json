@@ -1,9 +1,9 @@
 {
   "onclick": false,
-  "button-class": "a-modal-back",
+  "buttonClass": "a-modal-back",
   "stacked-background": {
     "icon-prefix": "ai",
-    "icon-class": "ai-plain-circle-big"
+    "iconClass": "ai-plain-circle-big"
   },
   "enable-popover": true,
   "popover-placement": "bottom",
@@ -13,11 +13,11 @@
   "popover-buttons": [
     {
       "button-text": "knapp",
-      "button-class": "a-btn a-btn-danger"
+      "buttonClass": "a-btn a-btn-danger"
     },
     {
       "button-text": "link",
-      "button-class": "a-btn-link a-linkDanger",
+      "buttonClass": "a-btn-link a-linkDanger",
       "display-as-link": true
     }
   ]

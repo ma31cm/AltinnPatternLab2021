@@ -1,12 +1,12 @@
 {
   "expandable-content": {
-    "button-class": "a-btn a-btn-action a-fullWidthBtn",
+    "buttonClass": "a-btn a-btn-action a-fullWidthBtn",
     "icon-prefix": "ai",
-    "icon-class": "ai-plus",
-    "icon-extra-class": "",
+    "iconClass": "ai-plus",
+    "iconExtraClass": "",
     "data-target": "expandableExample",
     "data-toggle": "altinn-expand",
-    "action-button-text": "Les hele",
+    "actionButtonText": "Les hele",
     "expandable-content-id": "expandableExample",
     "aria-hidden": true,
     "untabbable": true

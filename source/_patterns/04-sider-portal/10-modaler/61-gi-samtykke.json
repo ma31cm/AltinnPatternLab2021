@@ -9,7 +9,7 @@
       "personswitch-overview": false,
       "personswitch-button": {
         "button-text": "Bytt bruker ",
-        "button-class": "a-btn mb-5 mt-1",
+        "buttonClass": "a-btn mb-5 mt-1",
         "button-disabled": false,
         "button-type": "button",
         "onclick": false,
@@ -26,8 +26,8 @@
       "no-results-text": false,
       "loadmoreLarge": false,
       "icon-prefix": "ai",
-      "icon-class": "ai-private",
-      "icon-extra-class": ""
+      "iconClass": "ai-private",
+      "iconExtraClass": ""
     },
     "variation": "subheader-dark",
     "linkFeatured": false
@@ -67,7 +67,7 @@
     "buttons": [
       {
         "button-text": "Gi samtykke",
-        "button-class": "a-btn a-btn-success mr-1",
+        "buttonClass": "a-btn a-btn-success mr-1",
         "button-disabled": false,
         "onclick": false,
         "button-icon": false,
@@ -75,7 +75,7 @@
       },
       {
         "button-text": "Nei, jeg vil ikke gi samtykke",
-        "button-class": "a-btn",
+        "buttonClass": "a-btn",
         "button-disabled": false,
         "onclick": false,
         "button-icon": false,
@@ -88,8 +88,8 @@
   "icontext": "Samtykke til bruk av dine data",
   "hasIcon": {
     "icon-prefix": "ai",
-    "icon-class": "ai-read",
-    "icon-extra-class": "a-icon a-icon-circle"
+    "iconClass": "ai-read",
+    "iconExtraClass": "a-icon a-icon-circle"
   },
   "modal-navbar-override": false
 }

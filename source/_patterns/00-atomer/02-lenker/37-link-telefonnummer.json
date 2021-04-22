@@ -4,6 +4,6 @@
   "telText": "Telefonnummer til Altinn kundestøtte",
   "tel-icon": {
     "icon-prefix": "ai ai-nw ai-nw-pr",
-    "icon-class": "ai-phone"
+    "iconClass": "ai-phone"
   }
 }

@@ -1,8 +1,8 @@
 {
   "timeline-intro" : {
     "section-title": "Hva kan du gjøre nå, og hvordan blir det på sikt?",
-    "paragraph-class" : "a-fontSizeXL a-blueDarkerText",
-    "paragraph-content" : "Vi jobber smidig når vi utvikler Altinn 3. Det betyr at vi utvikler det som gir størst verdi først, lærer og justerer oss underveis og tilpasser oss brukernes behov."
+    "paragraphClass" : "a-fontSizeXL a-blueDarkerText",
+    "paragraphContent" : "Vi jobber smidig når vi utvikler Altinn 3. Det betyr at vi utvikler det som gir størst verdi først, lærer og justerer oss underveis og tilpasser oss brukernes behov."
   },
   "src": "../../images/placeholder-16x9.jpg",
   "timeline-list-items": [

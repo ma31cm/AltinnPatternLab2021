@@ -4,19 +4,19 @@
   "url-logo": "",
   "headerlogo": "../../images/an-logo-blue.svg",
   "logo-class": "a-modal-top-logo",
-  "button-class": "a-btn a-btn-icon a-btn-shadow",
+  "buttonClass": "a-btn a-btn-icon a-btn-shadow",
   "button-colorClass": "",
   "dropdown-class": "a-dropdown-languages",
   "icon-prefix": "ai",
-  "icon-class": "ai-private",
-  "icon-extra-class": "",
+  "iconClass": "ai-private",
+  "iconExtraClass": "",
   "hide-header": true,
   
   "dashboard-login": {
     "login-name": "Logg inn",
     "login-represent": false,
     "login-icon": {
-      "icon-class": "ai-keyhole-circle a-personSwitcher-icon"
+      "iconClass": "ai-keyhole-circle a-personSwitcher-icon"
     },
     "display-as-dropdown": true,
     "personlogin-isDropdown": false,
@@ -57,7 +57,7 @@
     "form-input-hasButton": {
       "button-icon": {
         "icon-prefix": "ai",
-        "icon-class": "ai-search"
+        "iconClass": "ai-search"
       },
       "button-text": [
         {
@@ -72,6 +72,6 @@
   "ekstra-menypunkt-1": "Ekstra menypunkt 1",
   "tel-icon": {
     "icon-prefix": "ai ai-nw ai-nw-pr",
-    "icon-class": "ai-phone"
+    "iconClass": "ai-phone"
   }
 }

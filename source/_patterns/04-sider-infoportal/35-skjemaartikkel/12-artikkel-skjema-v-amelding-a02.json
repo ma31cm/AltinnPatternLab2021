@@ -24,8 +24,8 @@
 		"main-card-content": {
 			"hasIcon": {
 	      "icon-prefix": "ai",
-	      "icon-class": "ai-write",
-	      "icon-extra-class": "a-icon"
+	      "iconClass": "ai-write",
+	      "iconExtraClass": "a-icon"
 	    },
 			"iconPlacement": "a-iconText-icon--start",
 			"hasTextSmall": {
@@ -57,7 +57,7 @@
 			"hasButton": {
 				"button-text": "Start utfylling",
 				"onclick": "location.href='link.sider-portal-aktorvalg-forste-gang'",
-				"button-class": "a-btn"
+				"buttonClass": "a-btn"
 			}
 		}
 	},
@@ -124,7 +124,7 @@
 		"link-text": "skatteetaten.no/a-ordningen",
 		"help-end": "eller ta kontakt med Skatteopplysningen på telefon 800 80 000, <i>tastevalg 4-3-2</i>.",
 		"link-icon": false,
-		"link-class": "",
+		"linkClass": "",
 		"link-url": "link.sider-infoportal-hjelpesenter"
 	}
 }

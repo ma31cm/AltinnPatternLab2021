@@ -13,7 +13,7 @@
   },
   "computersystem-add-button": {
     "button-text": "Legg til",
-    "button-class": "a-btn a-btn-success"
+    "buttonClass": "a-btn a-btn-success"
   },
   "computersystem-name": {
     "text-input-id": "text-input-computersystem-name",
@@ -35,75 +35,75 @@
     "dropdown-number": "",
     "dropdown-number-prefix": "",
     "icon-prefix": "ai",
-    "icon-class": "ai-server",
+    "iconClass": "ai-server",
     "isTransparent": true,
     "show-label": false,
     "label-text": "",
     "dropdown-items": [
       {
         "icon-prefix": "ai",
-        "icon-class": "ai-server",
+        "iconClass": "ai-server",
         "dropdown-item-name": "Agro Økonimi",
         "dropdown-item-number": ""
       },
       {
         "icon-prefix": "ai",
-        "icon-class": "ai-server",
+        "iconClass": "ai-server",
         "dropdown-item-name": "Aksjeservice",
         "dropdown-item-number": ""
       },
       {
         "icon-prefix": "ai",
-        "icon-class": "ai-server",
+        "iconClass": "ai-server",
         "dropdown-item-name": "Akvadok",
         "dropdown-item-number-prefix": "",
         "dropdown-item-number": ""
       },
       {
         "icon-prefix": "ai",
-        "icon-class": "ai-server",
+        "iconClass": "ai-server",
         "dropdown-item-name": "AR6 Økonomi",
         "dropdown-item-number-prefix": "",
         "dropdown-item-number": ""
       },
       {
         "icon-prefix": "ai",
-        "icon-class": "ai-server",
+        "iconClass": "ai-server",
         "dropdown-item-name": "ASPECT4 HRM",
         "dropdown-item-number-prefix": "",
         "dropdown-item-number": ""
       },
       {
         "icon-prefix": "ai",
-        "icon-class": "ai-server",
+        "iconClass": "ai-server",
         "dropdown-item-name": "Aureus AltUt",
         "dropdown-item-number-prefix": "",
         "dropdown-item-number": ""
       },
       {
         "icon-prefix": "ai",
-        "icon-class": "ai-server",
+        "iconClass": "ai-server",
         "dropdown-item-name": "Autodata",
         "dropdown-item-number-prefix": "",
         "dropdown-item-number": ""
       },
       {
         "icon-prefix": "ai",
-        "icon-class": "ai-server",
+        "iconClass": "ai-server",
         "dropdown-item-name": "Avendo Skatt",
         "dropdown-item-number-prefix": "",
         "dropdown-item-number": ""
       },
       {
         "icon-prefix": "ai",
-        "icon-class": "ai-server",
+        "iconClass": "ai-server",
         "dropdown-item-name": "BAS",
         "dropdown-item-number-prefix": "",
         "dropdown-item-number": ""
       },
       {
         "icon-prefix": "ai",
-        "icon-class": "ai-server",
+        "iconClass": "ai-server",
         "dropdown-item-name": "Bluegarden Paga",
         "dropdown-item-number-prefix": "",
         "dropdown-item-number": ""
@@ -226,8 +226,8 @@
                   "linkIcon-url": "#",
                   "linkIcon-text": "Rediger",
                   "icon-prefix": "ai ai-sm",
-                  "icon-class": "ai-edit",
-                  "link-icon-class": "a-btn-blue-noUnderline pr-0",
+                  "iconClass": "ai-edit",
+                  "link-iconClass": "a-btn-blue-noUnderline pr-0",
                   "text-class": "d-none d-lg-inline a-fontSizeXS pr-1"
                 }
               },
@@ -237,8 +237,8 @@
                   "linkIcon-text": "Slett",
                   "text-class": "sr-only",
                   "icon-prefix": "ai",
-                  "icon-class": "ai-circle-exit ai-nw ai-sm ml-0 mr-0 a-danger",
-                  "link-icon-class": "pr-0"
+                  "iconClass": "ai-circle-exit ai-nw ai-sm ml-0 mr-0 a-danger",
+                  "link-iconClass": "pr-0"
                 }
               }
             ]

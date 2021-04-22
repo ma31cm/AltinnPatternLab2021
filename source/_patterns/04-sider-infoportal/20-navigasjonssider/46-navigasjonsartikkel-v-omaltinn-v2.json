@@ -162,7 +162,7 @@
 	      "telText": "Telefonnummer til Altinn kundestøtte",
 				"tel-icon": {
 	        "icon-prefix": "ai ai-nw ai-nw-pr",
-	        "icon-class": "ai-phone"
+	        "iconClass": "ai-phone"
 	      }
 	    },
 			"mail": false
@@ -179,7 +179,7 @@
 		      "telText": "Telefonnummer til Altinn kundestøtte",
 					"tel-icon": {
 		        "icon-prefix": "ai ai-nw ai-nw-pr",
-		        "icon-class": "ai-phone"
+		        "iconClass": "ai-phone"
 		      }
 		    },
 				"mail": false
@@ -196,7 +196,7 @@
 		      "telText": "Telefonnummer til Altinn kundestøtte",
 					"tel-icon": {
 		        "icon-prefix": "ai ai-nw ai-nw-pr",
-		        "icon-class": "ai-phone"
+		        "iconClass": "ai-phone"
 		      }
 		    },
 				"mail": false
@@ -214,19 +214,19 @@
 						"linkIcon-url": "#",
 					  "linkIcon-text": "Facebook",
 					  "icon-prefix": "ai ai-nw ai-nw-pr",
-					  "icon-class": "ai-facebook"
+					  "iconClass": "ai-facebook"
 					},
 					{
 						"linkIcon-url": "#",
 					  "linkIcon-text": "Twitter",
 					  "icon-prefix": "ai ai-nw ai-nw-pr",
-					  "icon-class": "ai-twitter"
+					  "iconClass": "ai-twitter"
 					},
 					{
 						"linkIcon-url": "#",
 					  "linkIcon-text": "Linkedin",
 					  "icon-prefix": "ai ai-nw ai-nw-pr",
-					  "icon-class": "ai-linkedin"
+					  "iconClass": "ai-linkedin"
 					}
 				]
 			}

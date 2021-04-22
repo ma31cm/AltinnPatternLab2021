@@ -10,13 +10,13 @@
       "popover-link-icon": [
         {
           "icon-prefix": "ai",
-          "icon-class": "ai-circle-plus",
-          "icon-extra-class": "a-js-popoverIconInitial"
+          "iconClass": "ai-circle-plus",
+          "iconExtraClass": "a-js-popoverIconInitial"
         },
         {
           "icon-prefix": "ai",
-          "icon-class": "ai-circle-minus",
-          "icon-extra-class": "a-js-popoverIconExpanded"
+          "iconClass": "ai-circle-minus",
+          "iconExtraClass": "a-js-popoverIconExpanded"
         }
       ]
     },
@@ -30,13 +30,13 @@
       "popover-link-icon": [
         {
           "icon-prefix": "ai",
-          "icon-class": "ai-circle-plus",
-          "icon-extra-class": "a-js-popoverIconInitial"
+          "iconClass": "ai-circle-plus",
+          "iconExtraClass": "a-js-popoverIconInitial"
         },
         {
           "icon-prefix": "ai",
-          "icon-class": "ai-circle-minus",
-          "icon-extra-class": "a-js-popoverIconExpanded"
+          "iconClass": "ai-circle-minus",
+          "iconExtraClass": "a-js-popoverIconExpanded"
         }
       ]
     },

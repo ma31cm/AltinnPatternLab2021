@@ -6,7 +6,7 @@
     "buttons": [
       {
         "button-text": "Be om tilgang",
-        "button-class": "a-btn a-btn-success mr-1",
+        "buttonClass": "a-btn a-btn-success mr-1",
         "button-disabled": false,
         "onclick": "",
         "button-icon": false,
@@ -14,7 +14,7 @@
       },
       {
         "button-text": "Avbryt",
-        "button-class": "a-btn-link",
+        "buttonClass": "a-btn-link",
         "button-disabled": false,
         "onclick": "location.href=''",
         "button-icon": false,

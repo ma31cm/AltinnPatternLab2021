@@ -12,13 +12,13 @@
         "list-item-aria-label": "Fjern fil:",
         "icon-onclick": "onFileListDeleteClick(this)",
         "icon-prefix": "ai",
-        "icon-class": "ai-circle-exit"
+        "iconClass": "ai-circle-exit"
       }
     ]
   },
   "file-upload-icon": {
     "icon-prefix": "ai",
-    "icon-class": "ai-upload",
-    "icon-extra-class": ""
+    "iconClass": "ai-upload",
+    "iconExtraClass": ""
   }
 }

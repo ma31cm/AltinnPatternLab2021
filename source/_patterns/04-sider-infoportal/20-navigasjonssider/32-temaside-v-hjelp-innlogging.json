@@ -17,7 +17,7 @@
         "form-input-button-action": "Utfør søk",
         "button-icon": {
           "icon-prefix": "ai",
-          "icon-class": "ai-search"
+          "iconClass": "ai-search"
         },
         "button-text": [
           {
@@ -50,7 +50,7 @@
       "linkTitle": {
         "link-text": "Logg inn",
         "link-url": "link.sider-infoportal-navigasjonstrekkspill",
-        "link-class": "a-link-title"
+        "linkClass": "a-link-title"
       },
       "category-element-description": "Altinn har flere innloggingsmetoder. 98% av alle brukere benytter seg av en avinnloggingsmetodene til ID-porten som har egne hjelpesider. Men altinn har også egneinnloggingsmetoder for enkelte brukere med særegne behov."
     },
@@ -58,7 +58,7 @@
       "linkTitle": {
         "link-text": "Velge aktør",
         "link-url": "link.sider-infoportal-navigasjonstrekkspill",
-        "link-class": "a-link-title"
+        "linkClass": "a-link-title"
       },
       "category-element-description": "Har du plikter og rettigheter til andre enn bare deg selv som privatperson i altinn? Da må du velge den aktøren du skal representere etter innlogging."
     },
@@ -73,14 +73,14 @@
         "telText": "Telefonnummer til Altinn brukerstøtte",
         "tel-icon": {
           "icon-prefix": "ai ai-nw ai-nw-pr",
-          "icon-class": "ai-phone"
+          "iconClass": "ai-phone"
         }
       },
       "mail": {
         "mail-adress": "support@altinn.no",
         "mail-text": "Skriv til oss",
         "icon-prefix": "ai ai-nw ai-nw-pr",
-        "icon-class": "ai-send"
+        "iconClass": "ai-send"
       },
       "linkIcon": false
     }

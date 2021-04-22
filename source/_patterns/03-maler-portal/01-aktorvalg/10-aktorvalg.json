@@ -1,8 +1,8 @@
 {
 	"bodyClass": "a-bgGreyLight a-login",
   "icon-prefix": "ai",
-  "icon-class": "ai-private",
-  "icon-extra-class": "",
+  "iconClass": "ai-private",
+  "iconExtraClass": "",
 	"personlogin-isDropdown": false,
 	"dropdown-personswitch": false,
 	"display-as-dropdown": {
@@ -18,8 +18,8 @@
     "myself-personal-number": "Personnr. 123456 12345",
     "user-icon": {
       "icon-prefix": "ai",
-      "icon-class": "ai-private ai-lg",
-      "icon-extra-class": ""
+      "iconClass": "ai-private ai-lg",
+      "iconExtraClass": ""
     },
     "button-dot": false,
     "personrole-link": {
@@ -35,13 +35,13 @@
 	  "popover-link-icon": [
 	    {
 	      "icon-prefix": "ai",
-	      "icon-class": "ai-circle-plus",
-        "icon-extra-class": "a-js-popoverIconInitial"
+	      "iconClass": "ai-circle-plus",
+        "iconExtraClass": "a-js-popoverIconInitial"
 	    },
 	    {
 	      "icon-prefix": "ai",
-	      "icon-class": "ai-circle-minus",
-        "icon-extra-class": "a-js-popoverIconExpanded"
+	      "iconClass": "ai-circle-minus",
+        "iconExtraClass": "a-js-popoverIconExpanded"
 	    }
 	  ],
 	  "open-popover-class": "a-helpIconButton a-helpIconButton--blue a-js-togglePopoverIcons",
@@ -73,7 +73,7 @@
     "form-control-class": "",
     "form-label-hasIcon": {
       "icon-prefix": "ai",
-      "icon-class": "ai-others"
+      "iconClass": "ai-others"
     },
     "form-input-hasButton": false,
     "no-results-text": "Ingen treff, prøv et annet søkeord."
@@ -81,7 +81,7 @@
 
 	"mainPerson": {
 		"button-main": {
-			"button-class": "a-btn-shadow-large a-btn a-btn-shadow a-btn-icon a-bgGreyLight",
+			"buttonClass": "a-btn-shadow-large a-btn a-btn-shadow a-btn-icon a-bgGreyLight",
 			"button-colorClass": "",
 			"button-dot": false,
 			"button-text": "Jan Pettersen",
@@ -92,8 +92,8 @@
 			},
 			"button-icon": {
 				"icon-prefix": "ai",
-				"icon-class": "ai-private ai-left",
-				"icon-extra-class": ""
+				"iconClass": "ai-private ai-left",
+				"iconExtraClass": ""
 			},
 			"link-url": "link.sider-enkel-innboks"
 		},

@@ -6,7 +6,7 @@
 			"link-buttonLarge": {
 				"link-text": "Logg inn",
 				"link-url": "link.sider-portal-aktorvalg-forste-gang-enkel",
-				"link-class": "a-btn a-btn-border"
+				"linkClass": "a-btn a-btn-border"
 			}
 		},
 		"front-main-button-text-right": "og finn dine oppgaver"

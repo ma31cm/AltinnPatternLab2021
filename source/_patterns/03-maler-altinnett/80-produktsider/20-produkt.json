@@ -44,7 +44,7 @@
       "section-sub-title": "Hva er Samtykke i Altinn?",
       "multipleParagraphs": [
         {
-          "paragraph-content": "Samtykke gjør det mulig å få tilgang til data om personer eller organisasjoner som det offentlige har innhentet tidligere, som for eksempel likningsdata. Samtykke brukes når du ikke har hjemmel til å innhente opplysningene uten samtykke fra den som eier dem. Samtykke kan legges inn som et eget steg i en hvilken som helst digital dialog med brukeren. Brukerne vil kunne se hva de samtykker til å dele, hvem de deler data med, hvor lenge, og innenfor hvilke kontekst dataene skal brukes."
+          "paragraphContent": "Samtykke gjør det mulig å få tilgang til data om personer eller organisasjoner som det offentlige har innhentet tidligere, som for eksempel likningsdata. Samtykke brukes når du ikke har hjemmel til å innhente opplysningene uten samtykke fra den som eier dem. Samtykke kan legges inn som et eget steg i en hvilken som helst digital dialog med brukeren. Brukerne vil kunne se hva de samtykker til å dele, hvem de deler data med, hvor lenge, og innenfor hvilke kontekst dataene skal brukes."
         }
       ]
     },
@@ -52,10 +52,10 @@
       "section-sub-title": "Hvem passer tjenesten for?",
       "multipleParagraphs": [
         {
-          "paragraph-content": "Samtykke passer for deg som ønsker å forenkle innhenting av data fra brukerne. Du kan enten lage en helt ny samtykkeløsning eller velge å koble deg på en eksisterende løsning. Mulighetsrommet for å bruke samtykkeløsningen er stort og vi ser for oss løsninger for eksempel innen helse, (helseattester), politi og justis (fullmakt om pass til barn), jobb og anskaffelser (vandelsattest, vitnemål) eller forsikring (helseopplysninger)."
+          "paragraphContent": "Samtykke passer for deg som ønsker å forenkle innhenting av data fra brukerne. Du kan enten lage en helt ny samtykkeløsning eller velge å koble deg på en eksisterende løsning. Mulighetsrommet for å bruke samtykkeløsningen er stort og vi ser for oss løsninger for eksempel innen helse, (helseattester), politi og justis (fullmakt om pass til barn), jobb og anskaffelser (vandelsattest, vitnemål) eller forsikring (helseopplysninger)."
         },
         {
-          "paragraph-content": "Samtykkebasert lånesøknad var den første løsningen som tok i bruk samtykke i Altinn. Denne ble til i et samarbeid mellom finansnæringen, Skatteetaten og Brønnøysundregistrene/Altinn. Samtykkebasert lånesøknad vant Digitaliseringsprisen 2018 og ble årets digitale suksesshistorie."
+          "paragraphContent": "Samtykkebasert lånesøknad var den første løsningen som tok i bruk samtykke i Altinn. Denne ble til i et samarbeid mellom finansnæringen, Skatteetaten og Brønnøysundregistrene/Altinn. Samtykkebasert lånesøknad vant Digitaliseringsprisen 2018 og ble årets digitale suksesshistorie."
         }
       ]
     },
@@ -63,10 +63,10 @@
       "section-sub-title": "Hva er fordelene?",
       "multipleParagraphs": [
         {
-          "paragraph-content": "Deling av opplysninger gjennom samtykke gir kjappere saksbehandling og bedre bruk av offentlige data. Det gjør det lettere for brukerne å være i kontakt med det offentlige og gjør det mulig for private aktører å bruke offentlige data på en god og sikker måte. Kun det som trengs for den spesifikke saken blir samlet inn. I bankenes tilfelle får de tilgang kun til de opplysningene som trengs for å behandle lånesøknaden, og ikke en kopi av hele skattemeldingen."
+          "paragraphContent": "Deling av opplysninger gjennom samtykke gir kjappere saksbehandling og bedre bruk av offentlige data. Det gjør det lettere for brukerne å være i kontakt med det offentlige og gjør det mulig for private aktører å bruke offentlige data på en god og sikker måte. Kun det som trengs for den spesifikke saken blir samlet inn. I bankenes tilfelle får de tilgang kun til de opplysningene som trengs for å behandle lånesøknaden, og ikke en kopi av hele skattemeldingen."
         },
         {
-          "paragraph-content": "Det er enkelt og oversiktlig for brukeren å dele data gjennom samtykke i Altinn. Etter samtykke er gitt kan brukeren se hvilken data som er delt med hvem i Min profil i Altinn. Dette er med på å skape en mer transparent offentlig sektor, hvor brukerne til enhver tid kan se hvilken data som er delt med hvem."
+          "paragraphContent": "Det er enkelt og oversiktlig for brukeren å dele data gjennom samtykke i Altinn. Etter samtykke er gitt kan brukeren se hvilken data som er delt med hvem i Min profil i Altinn. Dette er med på å skape en mer transparent offentlig sektor, hvor brukerne til enhver tid kan se hvilken data som er delt med hvem."
         }
       ]
     }
@@ -144,7 +144,7 @@
       "form-input-hasButton": {
         "button-icon": {
           "icon-prefix": "ai",
-          "icon-class": "ai-search"
+          "iconClass": "ai-search"
         },
         "button-text": [
           {

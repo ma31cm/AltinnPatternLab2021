@@ -6,9 +6,9 @@
   "globalNav-hasProfileIcon":
   {
     "icon-prefix": "ai",
-    "icon-class": "ai-circle-exclamation",
+    "iconClass": "ai-circle-exclamation",
     "icon-size": "ai-xs",
-    "icon-extra-class": "a-danger a-noHover ai-top"
+    "iconExtraClass": "a-danger a-noHover ai-top"
   },
   "switch-legend": "Velg visning",
   "switch-radio-btn-items": [
@@ -41,8 +41,8 @@
               {
                 "column-icon": {
                   "icon-prefix": "ai",
-                  "icon-class": "ai-private",
-                  "icon-extra-class": ""
+                  "iconClass": "ai-private",
+                  "iconExtraClass": ""
                 }
               }
             ]
@@ -66,7 +66,7 @@
             "column-items": [
               {
                 "column-link": {
-                  "link-class": "a-btn-blue-noUnderline text-right a-fontBold a-fullWidthLink collapsed pr-1 pr-md-5",
+                  "linkClass": "a-btn-blue-noUnderline text-right a-fontBold a-fullWidthLink collapsed pr-1 pr-md-5",
                   "link-url": "",
                   "link-text": "<span class='d-none d-sm-block'>Gi og fjerne rettigheter</span>"
                 }
@@ -87,8 +87,8 @@
               {
                 "column-icon": {
                   "icon-prefix": "ai",
-                  "icon-class": "ai-private",
-                  "icon-extra-class": ""
+                  "iconClass": "ai-private",
+                  "iconExtraClass": ""
                 }
               }
             ]
@@ -112,7 +112,7 @@
             "column-items": [
               {
                 "column-link": {
-                  "link-class": "a-btn-blue-noUnderline text-right a-fontBold a-fullWidthLink collapsed pr-1 pr-md-5",
+                  "linkClass": "a-btn-blue-noUnderline text-right a-fontBold a-fullWidthLink collapsed pr-1 pr-md-5",
                   "link-url": "",
                   "link-text": "<span class='d-none d-sm-block'>Gi og fjerne rettigheter</span>"
                 }
@@ -133,8 +133,8 @@
               {
                 "column-icon": {
                   "icon-prefix": "ai",
-                  "icon-class": "ai-private",
-                  "icon-extra-class": ""
+                  "iconClass": "ai-private",
+                  "iconExtraClass": ""
                 }
               }
             ]
@@ -158,7 +158,7 @@
             "column-items": [
               {
                 "column-link": {
-                  "link-class": "a-btn-blue-noUnderline text-right a-fontBold a-fullWidthLink collapsed pr-1 pr-md-5",
+                  "linkClass": "a-btn-blue-noUnderline text-right a-fontBold a-fullWidthLink collapsed pr-1 pr-md-5",
                   "link-url": "",
                   "link-text": "<span class='d-none d-sm-block'>Gi og fjerne rettigheter</span>"
                 }
@@ -179,8 +179,8 @@
               {
                 "column-icon": {
                   "icon-prefix": "ai",
-                  "icon-class": "ai-private",
-                  "icon-extra-class": ""
+                  "iconClass": "ai-private",
+                  "iconExtraClass": ""
                 }
               }
             ]
@@ -204,7 +204,7 @@
             "column-items": [
               {
                 "column-link": {
-                  "link-class": "a-btn-blue-noUnderline text-right a-fontBold a-fullWidthLink collapsed pr-1 pr-md-5",
+                  "linkClass": "a-btn-blue-noUnderline text-right a-fontBold a-fullWidthLink collapsed pr-1 pr-md-5",
                   "link-url": "",
                   "link-text": "<span class='d-none d-sm-block'>Gi og fjerne rettigheter</span>"
                 }
@@ -225,8 +225,8 @@
               {
                 "column-icon": {
                   "icon-prefix": "ai",
-                  "icon-class": "ai-private",
-                  "icon-extra-class": ""
+                  "iconClass": "ai-private",
+                  "iconExtraClass": ""
                 }
               }
             ]
@@ -250,7 +250,7 @@
             "column-items": [
               {
                 "column-link": {
-                  "link-class": "a-btn-blue-noUnderline text-right a-fontBold a-fullWidthLink collapsed pr-1 pr-md-5",
+                  "linkClass": "a-btn-blue-noUnderline text-right a-fontBold a-fullWidthLink collapsed pr-1 pr-md-5",
                   "link-url": "",
                   "link-text": "<span class='d-none d-sm-block'>Gi og fjerne rettigheter</span>"
                 }
@@ -271,8 +271,8 @@
               {
                 "column-icon": {
                   "icon-prefix": "ai",
-                  "icon-class": "ai-private",
-                  "icon-extra-class": ""
+                  "iconClass": "ai-private",
+                  "iconExtraClass": ""
                 }
               }
             ]
@@ -296,7 +296,7 @@
             "column-items": [
               {
                 "column-link": {
-                  "link-class": "a-btn-blue-noUnderline text-right a-fontBold a-fullWidthLink collapsed pr-1 pr-md-5",
+                  "linkClass": "a-btn-blue-noUnderline text-right a-fontBold a-fullWidthLink collapsed pr-1 pr-md-5",
                   "link-url": "",
                   "link-text": "<span class='d-none d-sm-block'>Gi og fjerne rettigheter</span>"
                 }
@@ -317,8 +317,8 @@
               {
                 "column-icon": {
                   "icon-prefix": "ai",
-                  "icon-class": "ai-private",
-                  "icon-extra-class": ""
+                  "iconClass": "ai-private",
+                  "iconExtraClass": ""
                 }
               }
             ]
@@ -342,7 +342,7 @@
             "column-items": [
               {
                 "column-link": {
-                  "link-class": "a-btn-blue-noUnderline text-right a-fontBold a-fullWidthLink collapsed pr-1 pr-md-5",
+                  "linkClass": "a-btn-blue-noUnderline text-right a-fontBold a-fullWidthLink collapsed pr-1 pr-md-5",
                   "link-url": "",
                   "link-text": "<span class='d-none d-sm-block'>Gi og fjerne rettigheter</span>"
                 }
@@ -363,8 +363,8 @@
               {
                 "column-icon": {
                   "icon-prefix": "ai",
-                  "icon-class": "ai-private",
-                  "icon-extra-class": ""
+                  "iconClass": "ai-private",
+                  "iconExtraClass": ""
                 }
               }
             ]
@@ -388,7 +388,7 @@
             "column-items": [
               {
                 "column-link": {
-                  "link-class": "a-btn-blue-noUnderline text-right a-fontBold a-fullWidthLink collapsed pr-1 pr-md-5",
+                  "linkClass": "a-btn-blue-noUnderline text-right a-fontBold a-fullWidthLink collapsed pr-1 pr-md-5",
                   "link-url": "",
                   "link-text": "<span class='d-none d-sm-block'>Gi og fjerne rettigheter</span>"
                 }
@@ -409,8 +409,8 @@
               {
                 "column-icon": {
                   "icon-prefix": "ai",
-                  "icon-class": "ai-private",
-                  "icon-extra-class": ""
+                  "iconClass": "ai-private",
+                  "iconExtraClass": ""
                 }
               }
             ]
@@ -434,7 +434,7 @@
             "column-items": [
               {
                 "column-link": {
-                  "link-class": "a-btn-blue-noUnderline text-right a-fontBold a-fullWidthLink collapsed pr-1 pr-md-5",
+                  "linkClass": "a-btn-blue-noUnderline text-right a-fontBold a-fullWidthLink collapsed pr-1 pr-md-5",
                   "link-url": "",
                   "link-text": "<span class='d-none d-sm-block'>Gi og fjerne rettigheter</span>"
                 }
@@ -455,8 +455,8 @@
               {
                 "column-icon": {
                   "icon-prefix": "ai",
-                  "icon-class": "ai-private",
-                  "icon-extra-class": ""
+                  "iconClass": "ai-private",
+                  "iconExtraClass": ""
                 }
               }
             ]
@@ -480,7 +480,7 @@
             "column-items": [
               {
                 "column-link": {
-                  "link-class": "a-btn-blue-noUnderline text-right a-fontBold a-fullWidthLink collapsed pr-1 pr-md-5",
+                  "linkClass": "a-btn-blue-noUnderline text-right a-fontBold a-fullWidthLink collapsed pr-1 pr-md-5",
                   "link-url": "",
                   "link-text": "<span class='d-none d-sm-block'>Gi og fjerne rettigheter</span>"
                 }
@@ -501,8 +501,8 @@
               {
                 "column-icon": {
                   "icon-prefix": "ai",
-                  "icon-class": "ai-private",
-                  "icon-extra-class": ""
+                  "iconClass": "ai-private",
+                  "iconExtraClass": ""
                 }
               }
             ]
@@ -526,7 +526,7 @@
             "column-items": [
               {
                 "column-link": {
-                  "link-class": "a-btn-blue-noUnderline text-right a-fontBold a-fullWidthLink collapsed pr-1 pr-md-5",
+                  "linkClass": "a-btn-blue-noUnderline text-right a-fontBold a-fullWidthLink collapsed pr-1 pr-md-5",
                   "link-url": "",
                   "link-text": "<span class='d-none d-sm-block'>Gi og fjerne rettigheter</span>"
                 }
@@ -547,8 +547,8 @@
               {
                 "column-icon": {
                   "icon-prefix": "ai",
-                  "icon-class": "ai-private",
-                  "icon-extra-class": ""
+                  "iconClass": "ai-private",
+                  "iconExtraClass": ""
                 }
               }
             ]
@@ -572,7 +572,7 @@
             "column-items": [
               {
                 "column-link": {
-                  "link-class": "a-btn-blue-noUnderline text-right a-fontBold a-fullWidthLink collapsed pr-1 pr-md-5",
+                  "linkClass": "a-btn-blue-noUnderline text-right a-fontBold a-fullWidthLink collapsed pr-1 pr-md-5",
                   "link-url": "",
                   "link-text": "<span class='d-none d-sm-block'>Gi og fjerne rettigheter</span>"
                 }
@@ -593,8 +593,8 @@
               {
                 "column-icon": {
                   "icon-prefix": "ai",
-                  "icon-class": "ai-private",
-                  "icon-extra-class": ""
+                  "iconClass": "ai-private",
+                  "iconExtraClass": ""
                 }
               }
             ]
@@ -618,7 +618,7 @@
             "column-items": [
               {
                 "column-link": {
-                  "link-class": "a-btn-blue-noUnderline text-right a-fontBold a-fullWidthLink collapsed pr-1 pr-md-5",
+                  "linkClass": "a-btn-blue-noUnderline text-right a-fontBold a-fullWidthLink collapsed pr-1 pr-md-5",
                   "link-url": "",
                   "link-text": "<span class='d-none d-sm-block'>Gi og fjerne rettigheter</span>"
                 }
@@ -639,8 +639,8 @@
               {
                 "column-icon": {
                   "icon-prefix": "ai",
-                  "icon-class": "ai-private",
-                  "icon-extra-class": ""
+                  "iconClass": "ai-private",
+                  "iconExtraClass": ""
                 }
               }
             ]
@@ -664,7 +664,7 @@
             "column-items": [
               {
                 "column-link": {
-                  "link-class": "a-btn-blue-noUnderline text-right a-fontBold a-fullWidthLink collapsed pr-1 pr-md-5",
+                  "linkClass": "a-btn-blue-noUnderline text-right a-fontBold a-fullWidthLink collapsed pr-1 pr-md-5",
                   "link-url": "",
                   "link-text": "<span class='d-none d-sm-block'>Gi og fjerne rettigheter</span>"
                 }
@@ -685,8 +685,8 @@
               {
                 "column-icon": {
                   "icon-prefix": "ai",
-                  "icon-class": "ai-private",
-                  "icon-extra-class": ""
+                  "iconClass": "ai-private",
+                  "iconExtraClass": ""
                 }
               }
             ]
@@ -710,7 +710,7 @@
             "column-items": [
               {
                 "column-link": {
-                  "link-class": "a-btn-blue-noUnderline text-right a-fontBold a-fullWidthLink collapsed pr-1 pr-md-5",
+                  "linkClass": "a-btn-blue-noUnderline text-right a-fontBold a-fullWidthLink collapsed pr-1 pr-md-5",
                   "link-url": "",
                   "link-text": "<span class='d-none d-sm-block'>Gi og fjerne rettigheter</span>"
                 }
@@ -731,8 +731,8 @@
               {
                 "column-icon": {
                   "icon-prefix": "ai",
-                  "icon-class": "ai-private",
-                  "icon-extra-class": ""
+                  "iconClass": "ai-private",
+                  "iconExtraClass": ""
                 }
               }
             ]
@@ -756,7 +756,7 @@
             "column-items": [
               {
                 "column-link": {
-                  "link-class": "a-btn-blue-noUnderline text-right a-fontBold a-fullWidthLink collapsed pr-1 pr-md-5",
+                  "linkClass": "a-btn-blue-noUnderline text-right a-fontBold a-fullWidthLink collapsed pr-1 pr-md-5",
                   "link-url": "",
                   "link-text": "<span class='d-none d-sm-block'>Gi og fjerne rettigheter</span>"
                 }
@@ -777,8 +777,8 @@
               {
                 "column-icon": {
                   "icon-prefix": "ai",
-                  "icon-class": "ai-private",
-                  "icon-extra-class": ""
+                  "iconClass": "ai-private",
+                  "iconExtraClass": ""
                 }
               }
             ]
@@ -802,7 +802,7 @@
             "column-items": [
               {
                 "column-link": {
-                  "link-class": "a-btn-blue-noUnderline text-right a-fontBold a-fullWidthLink collapsed pr-1 pr-md-5",
+                  "linkClass": "a-btn-blue-noUnderline text-right a-fontBold a-fullWidthLink collapsed pr-1 pr-md-5",
                   "link-url": "",
                   "link-text": "<span class='d-none d-sm-block'>Gi og fjerne rettigheter</span>"
                 }
@@ -823,8 +823,8 @@
               {
                 "column-icon": {
                   "icon-prefix": "ai",
-                  "icon-class": "ai-private",
-                  "icon-extra-class": ""
+                  "iconClass": "ai-private",
+                  "iconExtraClass": ""
                 }
               }
             ]
@@ -848,7 +848,7 @@
             "column-items": [
               {
                 "column-link": {
-                  "link-class": "a-btn-blue-noUnderline text-right a-fontBold a-fullWidthLink collapsed pr-1 pr-md-5",
+                  "linkClass": "a-btn-blue-noUnderline text-right a-fontBold a-fullWidthLink collapsed pr-1 pr-md-5",
                   "link-url": "",
                   "link-text": "<span class='d-none d-sm-block'>Gi og fjerne rettigheter</span>"
                 }
@@ -869,8 +869,8 @@
               {
                 "column-icon": {
                   "icon-prefix": "ai",
-                  "icon-class": "ai-private",
-                  "icon-extra-class": ""
+                  "iconClass": "ai-private",
+                  "iconExtraClass": ""
                 }
               }
             ]
@@ -894,7 +894,7 @@
             "column-items": [
               {
                 "column-link": {
-                  "link-class": "a-btn-blue-noUnderline text-right a-fontBold a-fullWidthLink collapsed pr-1 pr-md-5",
+                  "linkClass": "a-btn-blue-noUnderline text-right a-fontBold a-fullWidthLink collapsed pr-1 pr-md-5",
                   "link-url": "",
                   "link-text": "<span class='d-none d-sm-block'>Gi og fjerne rettigheter</span>"
                 }
@@ -915,8 +915,8 @@
               {
                 "column-icon": {
                   "icon-prefix": "ai",
-                  "icon-class": "ai-private",
-                  "icon-extra-class": ""
+                  "iconClass": "ai-private",
+                  "iconExtraClass": ""
                 }
               }
             ]
@@ -940,7 +940,7 @@
             "column-items": [
               {
                 "column-link": {
-                  "link-class": "a-btn-blue-noUnderline text-right a-fontBold a-fullWidthLink collapsed pr-1 pr-md-5",
+                  "linkClass": "a-btn-blue-noUnderline text-right a-fontBold a-fullWidthLink collapsed pr-1 pr-md-5",
                   "link-url": "",
                   "link-text": "<span class='d-none d-sm-block'>Gi og fjerne rettigheter</span>"
                 }
@@ -961,7 +961,7 @@
               {
                 "column-icon": {
                   "icon-prefix": "ai",
-                  "icon-class": "ai-plus"
+                  "iconClass": "ai-plus"
                 }
               }
             ]
@@ -972,8 +972,8 @@
               {
                 "column-icon": {
                   "icon-prefix": "ai",
-                  "icon-class": "ai-plus",
-                  "icon-extra-class": "d-md-none"
+                  "iconClass": "ai-plus",
+                  "iconExtraClass": "d-md-none"
                 }
               },
               {
@@ -1027,8 +1027,8 @@
               {
                 "column-icon": {
                   "icon-prefix": "ai",
-                  "icon-class": "ai-client",
-                  "icon-extra-class": ""
+                  "iconClass": "ai-client",
+                  "iconExtraClass": ""
                 }
               }
             ]
@@ -1070,7 +1070,7 @@
             "column-items": [
               {
                 "column-link": {
-                  "link-class": "a-btn-blue-noUnderline text-right a-fontBold a-fullWidthLink collapsed pr-1 pr-md-5",
+                  "linkClass": "a-btn-blue-noUnderline text-right a-fontBold a-fullWidthLink collapsed pr-1 pr-md-5",
                   "link-url": "",
                   "link-text": "<span class='d-none d-sm-block'>Gi og fjerne rettigheter</span>"
                 }
@@ -1091,8 +1091,8 @@
               {
                 "column-icon": {
                   "icon-prefix": "ai",
-                  "icon-class": "ai-client",
-                  "icon-extra-class": ""
+                  "iconClass": "ai-client",
+                  "iconExtraClass": ""
                 }
               }
             ]
@@ -1129,7 +1129,7 @@
             "column-items": [
               {
                 "column-link": {
-                  "link-class": "a-btn-blue-noUnderline text-right a-fontBold a-fullWidthLink collapsed pr-1 pr-md-5",
+                  "linkClass": "a-btn-blue-noUnderline text-right a-fontBold a-fullWidthLink collapsed pr-1 pr-md-5",
                   "link-url": "",
                   "link-text": "<span class='d-none d-sm-block'>Gi og fjerne rettigheter</span>"
                 }
@@ -1150,8 +1150,8 @@
               {
                 "column-icon": {
                   "icon-prefix": "ai",
-                  "icon-class": "ai-client",
-                  "icon-extra-class": ""
+                  "iconClass": "ai-client",
+                  "iconExtraClass": ""
                 }
               }
             ]
@@ -1188,7 +1188,7 @@
             "column-items": [
               {
                 "column-link": {
-                  "link-class": "a-btn-blue-noUnderline text-right a-fontBold a-fullWidthLink collapsed pr-1 pr-md-5",
+                  "linkClass": "a-btn-blue-noUnderline text-right a-fontBold a-fullWidthLink collapsed pr-1 pr-md-5",
                   "link-url": "",
                   "link-text": "<span class='d-none d-sm-block'>Gi og fjerne rettigheter</span>"
                 }
@@ -1209,8 +1209,8 @@
               {
                 "column-icon": {
                   "icon-prefix": "ai",
-                  "icon-class": "ai-client",
-                  "icon-extra-class": ""
+                  "iconClass": "ai-client",
+                  "iconExtraClass": ""
                 }
               }
             ]
@@ -1247,7 +1247,7 @@
             "column-items": [
               {
                 "column-link": {
-                  "link-class": "a-btn-blue-noUnderline text-right a-fontBold a-fullWidthLink collapsed pr-1 pr-md-5",
+                  "linkClass": "a-btn-blue-noUnderline text-right a-fontBold a-fullWidthLink collapsed pr-1 pr-md-5",
                   "link-url": "",
                   "link-text": "<span class='d-none d-sm-block'>Gi og fjerne rettigheter</span>"
                 }
@@ -1268,8 +1268,8 @@
               {
                 "column-icon": {
                   "icon-prefix": "ai",
-                  "icon-class": "ai-client",
-                  "icon-extra-class": ""
+                  "iconClass": "ai-client",
+                  "iconExtraClass": ""
                 }
               }
             ]
@@ -1306,7 +1306,7 @@
             "column-items": [
               {
                 "column-link": {
-                  "link-class": "a-btn-blue-noUnderline text-right a-fontBold a-fullWidthLink collapsed pr-1 pr-md-5",
+                  "linkClass": "a-btn-blue-noUnderline text-right a-fontBold a-fullWidthLink collapsed pr-1 pr-md-5",
                   "link-url": "",
                   "link-text": "<span class='d-none d-sm-block'>Gi og fjerne rettigheter</span>"
                 }
@@ -1327,8 +1327,8 @@
               {
                 "column-icon": {
                   "icon-prefix": "ai",
-                  "icon-class": "ai-client",
-                  "icon-extra-class": ""
+                  "iconClass": "ai-client",
+                  "iconExtraClass": ""
                 }
               }
             ]
@@ -1365,7 +1365,7 @@
             "column-items": [
               {
                 "column-link": {
-                  "link-class": "a-btn-blue-noUnderline text-right a-fontBold a-fullWidthLink collapsed pr-1 pr-md-5",
+                  "linkClass": "a-btn-blue-noUnderline text-right a-fontBold a-fullWidthLink collapsed pr-1 pr-md-5",
                   "link-url": "",
                   "link-text": "<span class='d-none d-sm-block'>Gi og fjerne rettigheter</span>"
                 }
@@ -1386,8 +1386,8 @@
               {
                 "column-icon": {
                   "icon-prefix": "ai",
-                  "icon-class": "ai-client",
-                  "icon-extra-class": ""
+                  "iconClass": "ai-client",
+                  "iconExtraClass": ""
                 }
               }
             ]
@@ -1424,7 +1424,7 @@
             "column-items": [
               {
                 "column-link": {
-                  "link-class": "a-btn-blue-noUnderline text-right a-fontBold a-fullWidthLink collapsed pr-1 pr-md-5",
+                  "linkClass": "a-btn-blue-noUnderline text-right a-fontBold a-fullWidthLink collapsed pr-1 pr-md-5",
                   "link-url": "",
                   "link-text": "<span class='d-none d-sm-block'>Gi og fjerne rettigheter</span>"
                 }
@@ -1445,8 +1445,8 @@
               {
                 "column-icon": {
                   "icon-prefix": "ai",
-                  "icon-class": "ai-client",
-                  "icon-extra-class": ""
+                  "iconClass": "ai-client",
+                  "iconExtraClass": ""
                 }
               }
             ]
@@ -1483,7 +1483,7 @@
             "column-items": [
               {
                 "column-link": {
-                  "link-class": "a-btn-blue-noUnderline text-right a-fontBold a-fullWidthLink collapsed pr-1 pr-md-5",
+                  "linkClass": "a-btn-blue-noUnderline text-right a-fontBold a-fullWidthLink collapsed pr-1 pr-md-5",
                   "link-url": "",
                   "link-text": "<span class='d-none d-sm-block'>Gi og fjerne rettigheter</span>"
                 }
@@ -1504,8 +1504,8 @@
               {
                 "column-icon": {
                   "icon-prefix": "ai",
-                  "icon-class": "ai-client",
-                  "icon-extra-class": ""
+                  "iconClass": "ai-client",
+                  "iconExtraClass": ""
                 }
               }
             ]
@@ -1542,7 +1542,7 @@
             "column-items": [
               {
                 "column-link": {
-                  "link-class": "a-btn-blue-noUnderline text-right a-fontBold a-fullWidthLink collapsed pr-1 pr-md-5",
+                  "linkClass": "a-btn-blue-noUnderline text-right a-fontBold a-fullWidthLink collapsed pr-1 pr-md-5",
                   "link-url": "",
                   "link-text": "<span class='d-none d-sm-block'>Gi og fjerne rettigheter</span>"
                 }
@@ -1563,8 +1563,8 @@
               {
                 "column-icon": {
                   "icon-prefix": "ai",
-                  "icon-class": "ai-client",
-                  "icon-extra-class": ""
+                  "iconClass": "ai-client",
+                  "iconExtraClass": ""
                 }
               }
             ]
@@ -1601,7 +1601,7 @@
             "column-items": [
               {
                 "column-link": {
-                  "link-class": "a-btn-blue-noUnderline text-right a-fontBold a-fullWidthLink collapsed pr-1 pr-md-5",
+                  "linkClass": "a-btn-blue-noUnderline text-right a-fontBold a-fullWidthLink collapsed pr-1 pr-md-5",
                   "link-url": "",
                   "link-text": "<span class='d-none d-sm-block'>Gi og fjerne rettigheter</span>"
                 }
@@ -1622,8 +1622,8 @@
               {
                 "column-icon": {
                   "icon-prefix": "ai",
-                  "icon-class": "ai-client",
-                  "icon-extra-class": ""
+                  "iconClass": "ai-client",
+                  "iconExtraClass": ""
                 }
               }
             ]
@@ -1660,7 +1660,7 @@
             "column-items": [
               {
                 "column-link": {
-                  "link-class": "a-btn-blue-noUnderline text-right a-fontBold a-fullWidthLink collapsed pr-1 pr-md-5",
+                  "linkClass": "a-btn-blue-noUnderline text-right a-fontBold a-fullWidthLink collapsed pr-1 pr-md-5",
                   "link-url": "",
                   "link-text": "<span class='hidden-xs-down'>Gi og fjerne rettigheter</span>"
                 }
@@ -1681,7 +1681,7 @@
               {
                 "column-icon": {
                   "icon-prefix": "ai",
-                  "icon-class": "ai-plus"
+                  "iconClass": "ai-plus"
                 }
               }
             ]
@@ -1692,8 +1692,8 @@
               {
                 "column-icon": {
                   "icon-prefix": "ai",
-                  "icon-class": "ai-plus",
-                  "icon-extra-class": "d-md-none"
+                  "iconClass": "ai-plus",
+                  "iconExtraClass": "d-md-none"
                 }
               },
               {
@@ -1738,8 +1738,8 @@
       "variation-class": "a-iconText-shadow a-iconText-large a-collapseBtn collapsed",
       "hasIcon": {
         "icon-prefix": "reg",
-        "icon-class": "reg-other",
-        "icon-extra-class": "a-icon"
+        "iconClass": "reg-other",
+        "iconExtraClass": "a-icon"
       },
       "hasTextSmall": false,
       "isHeader": {
@@ -1756,8 +1756,8 @@
       "variation-class": "a-iconText-shadow a-iconText-large a-collapseBtn collapsed",
       "hasIcon": {
         "icon-prefix": "reg",
-        "icon-class": "reg-private",
-        "icon-extra-class": "a-icon"
+        "iconClass": "reg-private",
+        "iconExtraClass": "a-icon"
       },
       "hasTextSmall": false,
       "isHeader": {
@@ -1823,7 +1823,7 @@
       "isLarge": false,
       "form-label-hasIcon": {
         "icon-prefix": "ai",
-        "icon-class": "ai-phone"
+        "iconClass": "ai-phone"
       }
     },
     "my-contact-second-input": {
@@ -1839,7 +1839,7 @@
       "isLarge": false,
       "form-label-hasIcon": {
         "icon-prefix": "ai",
-        "icon-class": "ai-closedmessage"
+        "iconClass": "ai-closedmessage"
       }
     },
     "my-contact-third-input": {
@@ -1855,7 +1855,7 @@
       "isLarge": false,
       "form-label-hasIcon": {
         "icon-prefix": "ai",
-        "icon-class": "ai-corp"
+        "iconClass": "ai-corp"
       }
     }
   },
@@ -1872,7 +1872,7 @@
   },
   "crr-save-btn": {
     "button-text": "Lagre",
-    "button-class": "a-btn a-btn-success mr-1",
+    "buttonClass": "a-btn a-btn-success mr-1",
     "onclick": false,
     "button-icon": false
   },
@@ -1884,8 +1884,8 @@
       "variation-class": "a-iconText-shadow a-iconText-large a-collapseBtn collapsed",
       "hasIcon": {
         "icon-prefix": "reg",
-        "icon-class": "reg-lock",
-        "icon-extra-class": "a-icon"
+        "iconClass": "reg-lock",
+        "iconExtraClass": "a-icon"
       },
       "hasTextSmall": false,
       "isHeader": {
@@ -1896,14 +1896,14 @@
     "login-info-header": false,
     "login-info-save-btn": {
       "button-text": "Lagre",
-      "button-class": "a-btn a-btn-success",
+      "buttonClass": "a-btn a-btn-success",
       "onclick": false,
       "button-icon": false,
       "button-type": false
     },
     "login-info-password-link": {
       "button-text": "Endre passord",
-      "button-class": "a-btn-link",
+      "buttonClass": "a-btn-link",
       "display-as-link": true,
       "onclick": "$(this).closest('.a-js-password-link').hide().next().show().find('input').first().focus();",
       "button-type": false
@@ -1963,7 +1963,7 @@
       },
       "form-label-hasIcon": {
         "icon-prefix": "ai",
-        "icon-class": "ai-closedmessage"
+        "iconClass": "ai-closedmessage"
       }
     },
     "certificate": false
@@ -1976,8 +1976,8 @@
       "variation-class": "a-iconText-shadow a-iconText-large a-collapseBtn collapsed",
       "hasIcon": {
         "icon-prefix": "reg",
-        "icon-class": "reg-lock",
-        "icon-extra-class": "a-icon"
+        "iconClass": "reg-lock",
+        "iconExtraClass": "a-icon"
       },
       "hasTextSmall": false,
       "isHeader": {
@@ -1988,14 +1988,14 @@
     "login-info-header": false,
     "login-info-save-btn": {
       "button-text": "Lagre",
-      "button-class": "a-btn a-btn-success",
+      "buttonClass": "a-btn a-btn-success",
       "onclick": false,
       "button-icon": false,
       "button-type": false
     },
     "login-info-password-link": {
       "button-text": "Endre passord",
-      "button-class": "a-btn-link",
+      "buttonClass": "a-btn-link",
       "display-as-link": true,
       "onclick": "$(this).closest('.a-js-password-link').hide().next().show().find('input').first().focus();",
       "button-type": false
@@ -2054,7 +2054,7 @@
       },
       "form-label-hasIcon": {
         "icon-prefix": "ai",
-        "icon-class": "ai-closedmessage"
+        "iconClass": "ai-closedmessage"
       }
     },
     "certificate": {
@@ -2069,14 +2069,14 @@
           "id": "newCertificateInput",
           "icon-after": {
             "icon-prefix": "ai",
-            "icon-class": "ai-upload",
+            "iconClass": "ai-upload",
             "icon-size": "",
-            "icon-extra-class": ""
+            "iconExtraClass": ""
           }
         },
         "cancel-link": {
           "button-text": "Avbryt",
-          "button-class": "a-btn-link d-block mt-1",
+          "buttonClass": "a-btn-link d-block mt-1",
           "display-as-link": true,
           "button-id": "cancel-upload",
           "margin-right-multiplier": 0
@@ -2109,14 +2109,14 @@
         ],
         "add-btn": {
           "button-text": "Legg til",
-          "button-class": "a-btn a-btn-icon pl-0 a-js-addcertificate",
+          "buttonClass": "a-btn a-btn-icon pl-0 a-js-addcertificate",
           "button-colorClass": "",
           "link-url": "",
           "button-shadow-label": false,
           "button-icon": {
             "icon-prefix": "ai",
-            "icon-class": "ai-circle-plus",
-            "icon-extra-class": "a-blueText"
+            "iconClass": "ai-circle-plus",
+            "iconExtraClass": "a-blueText"
           }
         }
       }
@@ -2130,8 +2130,8 @@
       "variation-class": "a-iconText-shadow a-iconText-large a-collapseBtn collapsed",
       "hasIcon": {
         "icon-prefix": "reg",
-        "icon-class": "reg-private",
-        "icon-extra-class": "a-icon"
+        "iconClass": "reg-private",
+        "iconExtraClass": "a-icon"
       },
       "hasTextSmall": false,
       "icontext": "Din kontaktinformasjon for virksomheten",
@@ -2148,7 +2148,7 @@
       },
       "save-btn": {
         "button-text": "Lagre",
-        "button-class": "a-btn a-btn-success",
+        "buttonClass": "a-btn a-btn-success",
         "onclick": false,
         "button-icon": false
       },
@@ -2170,7 +2170,7 @@
         },
         "form-label-hasIcon": {
           "icon-prefix": "ai",
-          "icon-class": "ai-phone"
+          "iconClass": "ai-phone"
         }
       },
       "first-input-varsel": {
@@ -2202,7 +2202,7 @@
         },
         "form-label-hasIcon": {
           "icon-prefix": "ai",
-          "icon-class": "ai-closedmessage"
+          "iconClass": "ai-closedmessage"
         }
       },
       "second-input-varsel": {
@@ -2238,7 +2238,7 @@
       },
       "save-btn": {
         "button-text": "Lagre",
-        "button-class": "a-btn a-btn-success mr-1",
+        "buttonClass": "a-btn a-btn-success mr-1",
         "onclick": false,
         "button-icon": false
       },
@@ -2261,15 +2261,15 @@
         "isLarge": false,
         "form-label-hasIcon": {
           "icon-prefix": "ai",
-          "icon-class": "ai-document",
-          "icon-extra-class": "",
+          "iconClass": "ai-document",
+          "iconExtraClass": "",
           "icon-text": ""
         },
         "form-input-hasButton": {
           "form-input-button-action": "Utfør søk",
           "button-icon": {
             "icon-prefix": "ai",
-            "icon-class": "ai-search"
+            "iconClass": "ai-search"
           },
           "button-text": [
             {
@@ -2277,7 +2277,7 @@
               "button-text-class": "sr-only"
             }
           ],
-          "icon-extra-class": ""
+          "iconExtraClass": ""
         },
         "form-control-class": "a-js-autocomplete-varsel",
         "autocomplete": true
@@ -2287,7 +2287,7 @@
       },
       "save-btn": {
         "button-text": "Lagre",
-        "button-class": "a-btn a-btn-success mr-1",
+        "buttonClass": "a-btn a-btn-success mr-1",
         "onclick": false,
         "button-icon": false
       },
@@ -2328,8 +2328,8 @@
                   {
                     "column-icon": {
                       "icon-prefix": "ai",
-                      "icon-class": "ai-circle-exit",
-                      "icon-extra-class": "a-danger"
+                      "iconClass": "ai-circle-exit",
+                      "iconExtraClass": "a-danger"
                     }
                   }
                 ]
@@ -2364,8 +2364,8 @@
                   {
                     "column-icon": {
                       "icon-prefix": "ai",
-                      "icon-class": "ai-circle-exit",
-                      "icon-extra-class": "a-danger"
+                      "iconClass": "ai-circle-exit",
+                      "iconExtraClass": "a-danger"
                     }
                   }
                 ]
@@ -2408,8 +2408,8 @@
                   {
                     "column-icon": {
                       "icon-prefix": "ai",
-                      "icon-class": "ai-undo",
-                      "icon-extra-class": "a-danger a-visibleWhenSelected a-hiddenWhenDeleted"
+                      "iconClass": "ai-undo",
+                      "iconExtraClass": "a-danger a-visibleWhenSelected a-hiddenWhenDeleted"
                     }
                   }
                 ]
@@ -2445,8 +2445,8 @@
                   {
                     "column-icon": {
                       "icon-prefix": "ai",
-                      "icon-class": "ai-circle-exit",
-                      "icon-extra-class": "a-danger"
+                      "iconClass": "ai-circle-exit",
+                      "iconExtraClass": "a-danger"
                     }
                   }
                 ]
@@ -2481,8 +2481,8 @@
                   {
                     "column-icon": {
                       "icon-prefix": "ai",
-                      "icon-class": "ai-circle-exit",
-                      "icon-extra-class": "a-danger"
+                      "iconClass": "ai-circle-exit",
+                      "iconExtraClass": "a-danger"
                     }
                   }
                 ]
@@ -2503,8 +2503,8 @@
         "variation-class": "a-iconText-shadow a-iconText-large a-collapseBtn collapsed",
         "hasIcon": {
           "icon-prefix": "reg",
-          "icon-class": "reg-agreement",
-          "icon-extra-class": "a-icon"
+          "iconClass": "reg-agreement",
+          "iconExtraClass": "a-icon"
         },
         "hasTextSmall": false,
         "isHeader": {
@@ -2513,12 +2513,12 @@
         "icontext": "Samtykker og fullmakter",
         "hasSecondIcon": {
           "icon-prefix": "ai",
-          "icon-class": "ai-circle-exclamation",
+          "iconClass": "ai-circle-exclamation",
           "icon-size": "ai-sm",
-          "icon-extra-class": "a-danger a-noHover"
+          "iconExtraClass": "a-danger a-noHover"
         }
       },
-      "button-class": "a-box-button",
+      "buttonClass": "a-box-button",
       "box-list-id": "boxList",
       "activity-log": {
         "link-text": "Avtalelogg",
@@ -2534,9 +2534,9 @@
           "box-button-person": "ALTINN1 ANS",
           "box-button-action": "Behandle forespørsel",
           "icon-prefix": "ai",
-          "icon-class": "ai-agreement ai-lg",
+          "iconClass": "ai-agreement ai-lg",
           "icon-size": "",
-          "icon-extra-class": "a-box-button-icon a-blueDarkText",
+          "iconExtraClass": "a-box-button-icon a-blueDarkText",
           "onclick": "location.href='';"
         },
         {
@@ -2546,9 +2546,9 @@
           "box-button-person": "TUVA LANDRO",
           "box-button-action": "Se/trekk avtale",
           "icon-prefix": "ai",
-          "icon-class": "ai-agreement ai-lg",
+          "iconClass": "ai-agreement ai-lg",
           "icon-size": "",
-          "icon-extra-class": "a-box-button-icon a-blueDarkText",
+          "iconExtraClass": "a-box-button-icon a-blueDarkText",
           "onclick": "location.href='';"
         },
         {
@@ -2558,9 +2558,9 @@
           "box-button-person": "INGRID AGA",
           "box-button-action": "Se/trekk avtale",
           "icon-prefix": "ai",
-          "icon-class": "ai-agreement ai-lg",
+          "iconClass": "ai-agreement ai-lg",
           "icon-size": "",
-          "icon-extra-class": "a-box-button-icon a-blueDarkText",
+          "iconExtraClass": "a-box-button-icon a-blueDarkText",
           "onclick": "location.href='';"
         },
         {
@@ -2570,9 +2570,9 @@
           "box-button-person": "Julius Andreas Gimli Arn MacGyver Chewbacka Highlander Elessar-Jankov",
           "box-button-action": "Se/trekk avtale",
           "icon-prefix": "ai",
-          "icon-class": "ai-agreement ai-lg",
+          "iconClass": "ai-agreement ai-lg",
           "icon-size": "ai-lg",
-          "icon-extra-class": "a-box-button-icon a-blueDarkText",
+          "iconExtraClass": "a-box-button-icon a-blueDarkText",
           "onclick": "location.href='';"
         }
       ],
@@ -2581,11 +2581,11 @@
         "alert-id": "alert-no-arrow",
         "alert-class": "a-message-info a-message--arrow-off a-message--fullwidth",
         "alert-content": "Hvis du vil at andre skal hjelpe deg med å fylle ut skjema eller tjenester, kan du legge dem til her. Du velger også hva de skal ta rettigheter til å gjøre.",
-        "button-class": "a-btn a-btn-action a-fullWidthBtn py-1",
-        "action-button-text": "Legg til ny person eller virksomhet",
+        "buttonClass": "a-btn a-btn-action a-fullWidthBtn py-1",
+        "actionButtonText": "Legg til ny person eller virksomhet",
         "icon-prefix": "ai",
-        "icon-class": "ai-plus",
-        "icon-extra-class": "",
+        "iconClass": "ai-plus",
+        "iconExtraClass": "",
         "icon-text": ""
       }
     }
@@ -2598,8 +2598,8 @@
       "variation-class": "a-iconText-shadow a-iconText-large a-collapseBtn collapsed",
       "hasIcon": {
         "icon-prefix": "reg",
-        "icon-class": "reg-settings",
-        "icon-extra-class": "a-icon"
+        "iconClass": "reg-settings",
+        "iconExtraClass": "a-icon"
       },
       "isHeader": {
         "isH2": true
@@ -2611,7 +2611,7 @@
       "login-info-header": "Kvittering på e-post (for innsendinger du gjør for andre)",
       "login-info-save-btn": {
         "button-text": "Lagre",
-        "button-class": "a-btn a-btn-success",
+        "buttonClass": "a-btn a-btn-success",
         "onclick": false,
         "button-icon": false,
         "button-type": false
@@ -2647,7 +2647,7 @@
         "input-regex-validation": false,
         "form-label-hasIcon": {
           "icon-prefix": "ai",
-          "icon-class": "ai-closedmessage"
+          "iconClass": "ai-closedmessage"
         }
       }
     },
@@ -2689,7 +2689,7 @@
       },
       "si-user-success-btn": {
         "button-text": "Start overføring",
-        "button-class": "a-btn a-btn-success"
+        "buttonClass": "a-btn a-btn-success"
       },
       "si-user-transfers-received": false
     },
@@ -2700,7 +2700,7 @@
       "si-user-input-fields": false,
       "si-user-success-btn": {
         "button-text": "Avbryt overføring",
-        "button-class": "a-btn a-btn-success"
+        "buttonClass": "a-btn a-btn-success"
       },
       "si-user-transfers-received": false
     },
@@ -2714,11 +2714,11 @@
         "si-user-name": "siusername",
         "si-user-confirm-transfer-btn": {
           "button-text": "Bekreft overføring",
-          "button-class": "a-btn a-btn-success"
+          "buttonClass": "a-btn a-btn-success"
         },
         "si-user-decline-transfer-btn": {
           "button-text": "Avvis overføring",
-          "button-class": "a-btn a-btn-danger"
+          "buttonClass": "a-btn a-btn-danger"
         }
       }
     },
@@ -2727,7 +2727,7 @@
       "computersystem-text": "Legg inn et passord her, og bruk det sammen med id-en du får oppgitt i ditt system for å sende inn til Altinn.",
       "computersystem-add-button": {
         "button-text": "Legg til",
-        "button-class": "a-btn a-btn-success"
+        "buttonClass": "a-btn a-btn-success"
       },
       "computersystem-name": {
         "text-input-id": "text-input-computersystem-name",
@@ -2752,8 +2752,8 @@
         "dropdown-number": "",
         "dropdown-number-prefix": "",
         "icon-prefix": "ai",
-        "icon-class": "ai-server",
-        "icon-extra-class": "d-none d-lg-inline",
+        "iconClass": "ai-server",
+        "iconExtraClass": "d-none d-lg-inline",
         "isTransparent": true,
         "show-label": false,
         "label-text": "",
@@ -2761,78 +2761,78 @@
         "dropdown-items": [
           {
             "icon-prefix": "ai",
-            "icon-class": "ai-server",
-            "icon-extra-class": "d-none d-lg-inline",
+            "iconClass": "ai-server",
+            "iconExtraClass": "d-none d-lg-inline",
             "dropdown-item-name": "Agro Økonimi",
             "dropdown-item-number": ""
           },
           {
             "icon-prefix": "ai",
-            "icon-class": "ai-server",
-            "icon-extra-class": "d-none d-lg-inline",
+            "iconClass": "ai-server",
+            "iconExtraClass": "d-none d-lg-inline",
             "dropdown-item-name": "Aksjeservice",
             "dropdown-item-number": ""
           },
           {
             "icon-prefix": "ai",
-            "icon-class": "ai-server",
-            "icon-extra-class": "d-none d-lg-inline",
+            "iconClass": "ai-server",
+            "iconExtraClass": "d-none d-lg-inline",
             "dropdown-item-name": "Akvadok",
             "dropdown-item-number-prefix": "",
             "dropdown-item-number": ""
           },
           {
             "icon-prefix": "ai",
-            "icon-class": "ai-server",
-            "icon-extra-class": "d-none d-lg-inline",
+            "iconClass": "ai-server",
+            "iconExtraClass": "d-none d-lg-inline",
             "dropdown-item-name": "AR6 Økonomi",
             "dropdown-item-number-prefix": "",
             "dropdown-item-number": ""
           },
           {
             "icon-prefix": "ai",
-            "icon-class": "ai-server",
-            "icon-extra-class": "d-none d-lg-inline",
+            "iconClass": "ai-server",
+            "iconExtraClass": "d-none d-lg-inline",
             "dropdown-item-name": "ASPECT4 HRM",
             "dropdown-item-number-prefix": "",
             "dropdown-item-number": ""
           },
           {
             "icon-prefix": "ai",
-            "icon-class": "ai-server",
-            "icon-extra-class": "d-none d-lg-inline",
+            "iconClass": "ai-server",
+            "iconExtraClass": "d-none d-lg-inline",
             "dropdown-item-name": "Aureus AltUt",
             "dropdown-item-number-prefix": "",
             "dropdown-item-number": ""
           },
           {
             "icon-prefix": "ai",
-            "icon-class": "ai-server",
-            "icon-extra-class": "d-none d-lg-inline",
+            "iconClass": "ai-server",
+            "iconExtraClass": "d-none d-lg-inline",
             "dropdown-item-name": "Autodata",
             "dropdown-item-number-prefix": "",
             "dropdown-item-number": ""
           },
           {
             "icon-prefix": "ai",
-            "icon-class": "ai-server",
-            "icon-extra-class": "d-none d-lg-inline",
+            "iconClass": "ai-server",
+            "iconExtraClass": "d-none d-lg-inline",
             "dropdown-item-name": "Avendo Skatt",
             "dropdown-item-number-prefix": "",
             "dropdown-item-number": ""
           },
           {
             "icon-prefix": "ai",
-            "icon-class": "ai-server",
-            "icon-extra-class": "d-none d-lg-inline",
+            "iconClass": "ai-server",
+            "iconExtraClass": "d-none d-lg-inline",
             "dropdown-item-name": "BAS",
             "dropdown-item-number-prefix": "",
             "dropdown-item-number": ""
           },
           {
             "icon-prefix": "ai",
-            "icon-class": "ai-server",
-            "icon-extra-class": "d-none d-lg-inline",
+            "iconClass": "ai-server",
+            "iconExtraClass": "d-none d-lg-inline",
             "dropdown-item-name": "Bluegarden Paga",
             "dropdown-item-number-prefix": "",
             "dropdown-item-number": ""
@@ -2955,8 +2955,8 @@
                       "linkIcon-url": "#",
                       "linkIcon-text": "Rediger",
                       "icon-prefix": "ai ai-sm",
-                      "icon-class": "ai-edit",
-                      "link-icon-class": "a-btn-blue-noUnderline pr-0",
+                      "iconClass": "ai-edit",
+                      "link-iconClass": "a-btn-blue-noUnderline pr-0",
                       "text-class": "d-none d-lg-inline a-fontSizeXS"
                     }
                   },
@@ -2966,8 +2966,8 @@
                       "linkIcon-text": "Slett",
                       "text-class": "sr-only",
                       "icon-prefix": "ai",
-                      "icon-class": "ai-circle-exit ai-nw ai-sm ml-0 mr-0 a-danger",
-                      "link-icon-class": "pr-0"
+                      "iconClass": "ai-circle-exit ai-nw ai-sm ml-0 mr-0 a-danger",
+                      "link-iconClass": "pr-0"
                     }
                   }
                 ]
@@ -3010,8 +3010,8 @@
                       "linkIcon-url": "#",
                       "linkIcon-text": "Rediger",
                       "icon-prefix": "ai ai-sm",
-                      "icon-class": "ai-edit",
-                      "link-icon-class": "a-btn-blue-noUnderline pr-0",
+                      "iconClass": "ai-edit",
+                      "link-iconClass": "a-btn-blue-noUnderline pr-0",
                       "text-class": "d-none d-lg-inline a-fontSizeXS"
                     }
                   },
@@ -3021,8 +3021,8 @@
                       "linkIcon-text": "Slett",
                       "text-class": "sr-only",
                       "icon-prefix": "ai",
-                      "icon-class": "ai-circle-exit ai-nw ai-sm ml-0 mr-0 a-danger",
-                      "link-icon-class": "pr-0"
+                      "iconClass": "ai-circle-exit ai-nw ai-sm ml-0 mr-0 a-danger",
+                      "link-iconClass": "pr-0"
                     }
                   }
                 ]
@@ -3079,11 +3079,11 @@
                       "column-link": {
                         "link-icon-left": {
                           "icon-prefix": "ai",
-                          "icon-class": "ai-edit",
-                          "icon-extra-class": "a-hiddenWhenExpanded ai-left"
+                          "iconClass": "ai-edit",
+                          "iconExtraClass": "a-hiddenWhenExpanded ai-left"
                         },
                         "link-icon": false,
-                        "link-class": "a-linkIcon a-btn-blue-noUnderline collapsed a-hiddenWhenExpanded",
+                        "linkClass": "a-linkIcon a-btn-blue-noUnderline collapsed a-hiddenWhenExpanded",
                         "link-url": "#",
                         "link-text": "<span>Rediger</span>",
                         "data-target": "collapseIdSampleSertificate1"
@@ -3091,7 +3091,7 @@
                     },
                     {
                       "column-link": {
-                        "link-class": "a-visibleWhenExpanded",
+                        "linkClass": "a-visibleWhenExpanded",
                         "link-url": "#",
                         "link-text": "<span>Avbryt</span>",
                         "data-target": "collapseIdSampleSertificate1"
@@ -3106,13 +3106,13 @@
                     {
                       "column-button": {
                         "button-text": "Slett bruker",
-                        "button-class": "a-btn a-btn-icon",
+                        "buttonClass": "a-btn a-btn-icon",
                         "link-url": false,
                         "button-shadow-label": false,
                         "button-icon": {
                           "icon-prefix": "ai",
-                          "icon-class": "ai-circle-exit",
-                          "icon-extra-class": "a-danger a-blueText ai-left"
+                          "iconClass": "ai-circle-exit",
+                          "iconExtraClass": "a-danger a-blueText ai-left"
                         }
                       }
                     }
@@ -3125,13 +3125,13 @@
                     {
                       "column-button": {
                         "button-text": "Endre",
-                        "button-class": "a-btn a-btn-icon a-js-certificateEdit",
+                        "buttonClass": "a-btn a-btn-icon a-js-certificateEdit",
                         "link-url": false,
                         "button-shadow-label": false,
                         "button-icon": {
                           "icon-prefix": "ai",
-                          "icon-class": "ai-edit",
-                          "icon-extra-class": "a-blueText ai-left"
+                          "iconClass": "ai-edit",
+                          "iconExtraClass": "a-blueText ai-left"
                         }
                       }
                     }
@@ -3150,11 +3150,11 @@
                       "column-link": {
                         "link-icon-left": {
                           "icon-prefix": "ai ai-sm",
-                          "icon-class": "ai-edit",
-                          "icon-extra-class": "a-hiddenWhenExpanded"
+                          "iconClass": "ai-edit",
+                          "iconExtraClass": "a-hiddenWhenExpanded"
                         },
                         "link-icon": false,
-                        "link-class": "a-linkIcon a-btn-blue-noUnderline collapsed a-hiddenWhenExpanded pr-0",
+                        "linkClass": "a-linkIcon a-btn-blue-noUnderline collapsed a-hiddenWhenExpanded pr-0",
                         "link-url": "#",
                         "link-text": "<span>Rediger</span>",
                         "data-target": "collapseIdSampleSertificate1"
@@ -3162,7 +3162,7 @@
                     },
                     {
                       "column-link": {
-                        "link-class": "a-fullWidthLink a-fullWidthLink--underline a-visibleWhenExpanded a-pr-half",
+                        "linkClass": "a-fullWidthLink a-fullWidthLink--underline a-visibleWhenExpanded a-pr-half",
                         "link-url": "#",
                         "link-text": "<span>Avbryt</span>",
                         "data-target": "collapseIdSampleSertificate1"
@@ -3185,14 +3185,14 @@
                             "title": "SFTP-sertifikat",
                             "delete-btn": {
                               "button-text": "Slett sertifikat",
-                              "button-class": "a-btn a-btn-icon",
+                              "buttonClass": "a-btn a-btn-icon",
                               "button-colorClass": "",
                               "link-url": "",
                               "button-shadow-label": false,
                               "button-icon": {
                                 "icon-prefix": "ai",
-                                "icon-class": "ai-circle-exit",
-                                "icon-extra-class": "a-danger ai-left"
+                                "iconClass": "ai-circle-exit",
+                                "iconExtraClass": "a-danger ai-left"
                               }
                             },
                             "description": "Dette sertifikatet kan brukes til filoverføring med SFTP. Det kan ikke brukes mot webservices eller til innlogging på altinn.no."
@@ -3200,14 +3200,14 @@
                         ],
                         "add-btn": {
                           "button-text": "Legg til",
-                          "button-class": "a-btn a-btn-icon a-add-certificate",
+                          "buttonClass": "a-btn a-btn-icon a-add-certificate",
                           "button-colorClass": "",
                           "link-url": "",
                           "button-shadow-label": false,
                           "button-icon": {
                             "icon-prefix": "ai",
-                            "icon-class": "ai-circle-plus",
-                            "icon-extra-class": "a-blueText"
+                            "iconClass": "ai-circle-plus",
+                            "iconExtraClass": "a-blueText"
                           }
                         }
                       }
@@ -3241,11 +3241,11 @@
                       "column-link": {
                         "link-icon-left": {
                           "icon-prefix": "ai",
-                          "icon-class": "ai-edit",
-                          "icon-extra-class": "a-hiddenWhenExpanded ai-left"
+                          "iconClass": "ai-edit",
+                          "iconExtraClass": "a-hiddenWhenExpanded ai-left"
                         },
                         "link-icon": false,
-                        "link-class": "a-linkIcon a-btn-blue-noUnderline collapsed a-hiddenWhenExpanded",
+                        "linkClass": "a-linkIcon a-btn-blue-noUnderline collapsed a-hiddenWhenExpanded",
                         "link-url": "#",
                         "link-text": "<span>Rediger</span>",
                         "data-target": "collapseIdSampleSertificate2"
@@ -3253,7 +3253,7 @@
                     },
                     {
                       "column-link": {
-                        "link-class": "a-visibleWhenExpanded",
+                        "linkClass": "a-visibleWhenExpanded",
                         "link-url": "#",
                         "link-text": "<span>Avbryt</span>",
                         "data-target": "collapseIdSampleSertificate2"
@@ -3268,13 +3268,13 @@
                     {
                       "column-button": {
                         "button-text": "Slett bruker",
-                        "button-class": "a-btn a-btn-icon",
+                        "buttonClass": "a-btn a-btn-icon",
                         "link-url": false,
                         "button-shadow-label": false,
                         "button-icon": {
                           "icon-prefix": "ai",
-                          "icon-class": "ai-circle-exit",
-                          "icon-extra-class": "a-danger a-blueText ai-left"
+                          "iconClass": "ai-circle-exit",
+                          "iconExtraClass": "a-danger a-blueText ai-left"
                         }
                       }
                     }
@@ -3287,13 +3287,13 @@
                     {
                       "column-button": {
                         "button-text": "Endre",
-                        "button-class": "a-btn a-btn-icon a-js-certificateEdit",
+                        "buttonClass": "a-btn a-btn-icon a-js-certificateEdit",
                         "link-url": false,
                         "button-shadow-label": false,
                         "button-icon": {
                           "icon-prefix": "ai",
-                          "icon-class": "ai-edit",
-                          "icon-extra-class": "a-blueText ai-left"
+                          "iconClass": "ai-edit",
+                          "iconExtraClass": "a-blueText ai-left"
                         }
                       }
                     }
@@ -3312,11 +3312,11 @@
                       "column-link": {
                         "link-icon-left": {
                           "icon-prefix": "ai ai-sm",
-                          "icon-class": "ai-edit",
-                          "icon-extra-class": "a-hiddenWhenExpanded"
+                          "iconClass": "ai-edit",
+                          "iconExtraClass": "a-hiddenWhenExpanded"
                         },
                         "link-icon": false,
-                        "link-class": "a-linkIcon a-btn-blue-noUnderline collapsed a-hiddenWhenExpanded pr-0",
+                        "linkClass": "a-linkIcon a-btn-blue-noUnderline collapsed a-hiddenWhenExpanded pr-0",
                         "link-url": "#",
                         "link-text": "<span>Rediger</span>",
                         "data-target": "collapseIdSampleSertificate2"
@@ -3324,7 +3324,7 @@
                     },
                     {
                       "column-link": {
-                        "link-class": "a-fullWidthLink a-fullWidthLink--underline a-visibleWhenExpanded a-pr-half",
+                        "linkClass": "a-fullWidthLink a-fullWidthLink--underline a-visibleWhenExpanded a-pr-half",
                         "link-url": "#",
                         "link-text": "<span>Avbryt</span>",
                         "data-target": "collapseIdSampleSertificate2"
@@ -3347,14 +3347,14 @@
                             "title": "SFTP Sertifikat",
                             "delete-btn": {
                               "button-text": "Slett sertifikat",
-                              "button-class": "a-btn a-btn-icon",
+                              "buttonClass": "a-btn a-btn-icon",
                               "button-colorClass": "",
                               "link-url": "",
                               "button-shadow-label": false,
                               "button-icon": {
                                 "icon-prefix": "ai",
-                                "icon-class": "ai-circle-exit",
-                                "icon-extra-class": "a-danger ai-left"
+                                "iconClass": "ai-circle-exit",
+                                "iconExtraClass": "a-danger ai-left"
                               }
                             },
                             "description": "Dette sertifikatet kan brukes til filoverføring med SFTP. Det kan ikke brukes mot webservices eller til innlogging på altinn.no"
@@ -3363,14 +3363,14 @@
                             "title": "Et annet Sertifikat",
                             "delete-btn": {
                               "button-text": "Slett sertifikat",
-                              "button-class": "a-btn a-btn-icon",
+                              "buttonClass": "a-btn a-btn-icon",
                               "button-colorClass": "",
                               "link-url": "",
                               "button-shadow-label": false,
                               "button-icon": {
                                 "icon-prefix": "ai",
-                                "icon-class": "ai-circle-exit",
-                                "icon-extra-class": "a-danger ai-left"
+                                "iconClass": "ai-circle-exit",
+                                "iconExtraClass": "a-danger ai-left"
                               }
                             },
                             "description": "Dette sertifikatet kan ikke brukes til filoverføring med SFTP. Det kan kun brukes mot webservices eller til innlogging på altinn.no"
@@ -3397,7 +3397,7 @@
           "enterprise-certificate-step-info": "Dette sertifikatet kan brukes med webservices eller til innlogging på altinn.no. Det kan ikke brukes til filoverføring med SFTP.",
           "next-btn": {
             "button-text": "Neste",
-            "button-class": "a-btn a-btn-success mr-1 a-js-certificateStep1",
+            "buttonClass": "a-btn a-btn-success mr-1 a-js-certificateStep1",
             "onclick": false,
             "button-icon": false
           },
@@ -3417,7 +3417,7 @@
           "enterprise-certificate-step-info": "Du må opprette en virksomhetsbruker for sertifikatet. Brukernavn og passord skal senere brukes sammen med sertifikatet ved autentisering.",
           "next-btn": {
             "button-text": "Neste",
-            "button-class": "a-btn a-btn-success mr-1 a-js-certificateStep2",
+            "buttonClass": "a-btn a-btn-success mr-1 a-js-certificateStep2",
             "onclick": false,
             "button-icon": false
           },
@@ -3496,7 +3496,7 @@
       ],
       "save-btn": {
         "button-text": "Lagre",
-        "button-class": "a-btn a-btn-success"
+        "buttonClass": "a-btn a-btn-success"
       }
     }
   }

@@ -12,8 +12,8 @@
 
   "has-feedback": {
     "icon-prefix": "ai",
-    "icon-class": "ai-plus",
-    "icon-extra-class": "form-control-feedback"
+    "iconClass": "ai-plus",
+    "iconExtraClass": "form-control-feedback"
   },
   "input-regex-validation": {
     "error-message": "Telefonnummer må bestå av 8 siffer",

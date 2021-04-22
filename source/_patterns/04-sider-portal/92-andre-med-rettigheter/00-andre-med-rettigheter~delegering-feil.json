@@ -6,7 +6,7 @@
   },
   "hasIcon": {
     "icon-prefix": "ai",
-    "icon-class": "ai-corp"
+    "iconClass": "ai-corp"
   },
   "modal-navbar-override": {
     "hide-buttons": true
@@ -17,13 +17,13 @@
     {
       "link-text": "Ok",
       "link-url": "link.sider-portal-andre-med-rettigheter-roller-oversikt",
-      "link-class": "a-btn a-btn-success",
+      "linkClass": "a-btn a-btn-success",
       "link-icon": false
     },
     {
       "link-text": "Tilbake",
       "link-url": "link.sider-portal-andre-med-rettigheter-roller-oversikt",
-      "link-class": "",
+      "linkClass": "",
       "link-icon": false
     }
   ]

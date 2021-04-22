@@ -6,8 +6,8 @@
     "login-name": "JAN PETTERSEN",
     "login-icon": {
       "icon-prefix": "reg",
-      "icon-class": "reg-circle-big-private",
-      "icon-extra-class": "a-personSwitcher-icon"
+      "iconClass": "reg-circle-big-private",
+      "iconExtraClass": "a-personSwitcher-icon"
     },
     "load-more-btn": false,
     "login-represent": "",
@@ -24,7 +24,7 @@
         "form-input-button-action": "Utfør søk",
         "button-icon": {
           "icon-prefix": "ai",
-          "icon-class": "ai-search"
+          "iconClass": "ai-search"
         },
         "button-text": [
           {
@@ -36,46 +36,46 @@
     },
     "buttonTab-first": {
       "link-url": "link.sider-portal-innboks-mva-og-skatt",
-      "button-class": "a-btn a-btn-icon a-btn-transparentWhite a-js-onboardingTarget-3",
+      "buttonClass": "a-btn a-btn-icon a-btn-transparentWhite a-js-onboardingTarget-3",
       "button-text": "mva og skatt",
       "button-icon": {
         "icon-prefix": "ai",
-        "icon-class": "ai-money",
-        "icon-extra-class": "a-btn-icon-symbol"
+        "iconClass": "ai-money",
+        "iconExtraClass": "a-btn-icon-symbol"
       },
       "button-shadow-label": false
     },
     "buttonTab-second": {
       "link-url": "link.sider-portal-innboks-ansatte",
-      "button-class": "a-btn a-btn-icon a-btn-transparentWhite a-js-onboardingTarget-4",
+      "buttonClass": "a-btn a-btn-icon a-btn-transparentWhite a-js-onboardingTarget-4",
       "button-text": "ansatte",
       "button-icon": {
         "icon-prefix": "ai",
-        "icon-class": "ai-others",
-        "icon-extra-class": "a-btn-icon-symbol"
+        "iconClass": "ai-others",
+        "iconExtraClass": "a-btn-icon-symbol"
       },
       "button-shadow-label": false
     },
     "buttonTab-third": {
       "link-url": "link.sider-portal-innboks-frister",
-      "button-class": "a-btn a-btn-icon a-btn-transparentWhite a-js-onboardingTarget-5",
+      "buttonClass": "a-btn a-btn-icon a-btn-transparentWhite a-js-onboardingTarget-5",
       "button-text": "frister",
       "button-icon": {
         "icon-prefix": "ai",
-        "icon-class": "ai-deadline",
-        "icon-extra-class": "a-btn-icon-symbol"
+        "iconClass": "ai-deadline",
+        "iconExtraClass": "a-btn-icon-symbol"
       },
       "button-shadow-label": false
     },
     "buttonTab-fourth": {
-      "button-class": "a-btn a-btn-icon a-btn-transparentWhite",
+      "buttonClass": "a-btn a-btn-icon a-btn-transparentWhite",
       "button-colorClass": "",
       "link-url": "link.sider-portal-innboks-mva-og-skatt",
       "button-text": "egne filtre",
       "button-icon": {
         "icon-prefix": "ai",
-        "icon-class": "ai-private",
-        "icon-extra-class": "a-btn-icon-symbol"
+        "iconClass": "ai-private",
+        "iconExtraClass": "a-btn-icon-symbol"
       },
       "button-shadow-label": false
     },
@@ -102,9 +102,9 @@
                   "extra-class-headingContent": false,
                   "heading-icon": {
                     "icon-prefix": "reg",
-                    "icon-class": "reg-write",
+                    "iconClass": "reg-write",
                     "icon-size": "ai-md-lg",
-                    "icon-extra-class": "ai-nw",
+                    "iconExtraClass": "ai-nw",
                     "aria-hidden": true,
                     "icon-sr-only-text": "Skjema lest"
                   },
@@ -131,7 +131,7 @@
                     "button-wrapper-class": "col",
                     "action-button": {
                       "button-text": "Fortsett utfylling",
-                      "button-class": "a-btn",
+                      "buttonClass": "a-btn",
                       "button-disabled": false,
                       "button-type": "button",
                       "onclick": false,
@@ -140,49 +140,49 @@
                       "data-target": false,
                       "data-toggle": false
                     },
-                    "action-button-icon": [
+                    "actionButtonIcon": [
                       {
                         "button-text": "Arkiver",
-                        "button-class": "a-btn-link a-btn-md-block mr-2",
+                        "buttonClass": "a-btn-link a-btn-md-block mr-2",
                         "button-colorClass": "",
                         "link-url": "",
                         "button-shadow-label": false,
                         "button-icon": {
                           "icon-prefix": "reg",
-                          "icon-class": "reg-archive pr-1"
+                          "iconClass": "reg-archive pr-1"
                         }
                       },
                       {
                         "button-text": "Slett",
-                        "button-class": "a-btn-link a-btn-md-block mr-2",
+                        "buttonClass": "a-btn-link a-btn-md-block mr-2",
                         "button-colorClass": "",
                         "link-url": "",
                         "button-shadow-label": false,
                         "button-icon": {
                           "icon-prefix": "reg",
-                          "icon-class": "reg-trash pr-1"
+                          "iconClass": "reg-trash pr-1"
                         }
                       },
                       {
                         "button-text": "Videresend i Altinn",
-                        "button-class": "a-btn-link a-btn-md-block mr-2",
+                        "buttonClass": "a-btn-link a-btn-md-block mr-2",
                         "button-colorClass": "",
                         "link-url": "link.sider-portal-videresend-i-altinn",
                         "button-shadow-label": false,
                         "button-icon": {
                           "icon-prefix": "reg",
-                          "icon-class": "reg-forward pr-1"
+                          "iconClass": "reg-forward pr-1"
                         }
                       },
                       {
                         "button-text": "Videresend på e-post",
-                        "button-class": "a-btn-link a-btn-md-block",
+                        "buttonClass": "a-btn-link a-btn-md-block",
                         "button-colorClass": "",
                         "link-url": "link.sider-portal-videresend-pa-epost",
                         "button-shadow-label": false,
                         "button-icon": {
                           "icon-prefix": "reg",
-                          "icon-class": "reg-forward-msg pr-1"
+                          "iconClass": "reg-forward-msg pr-1"
                         }
                       }
                     ]
@@ -212,9 +212,9 @@
                   "extra-class-headingContent": "a-msgUnread",
                   "heading-icon": {
                     "icon-prefix": "reg",
-                    "icon-class": "reg-write",
+                    "iconClass": "reg-write",
                     "icon-size": "ai-md-lg",
-                    "icon-extra-class": "ai-nw",
+                    "iconExtraClass": "ai-nw",
                     "aria-hidden": true,
                     "icon-sr-only-text": "Skjema ulest"
                   },
@@ -236,7 +236,7 @@
                     "button-wrapper-class": "col",
                     "action-button": {
                       "button-text": "Start innsending",
-                      "button-class": "a-btn",
+                      "buttonClass": "a-btn",
                       "button-disabled": false,
                       "button-type": "button",
                       "onclick": false,
@@ -245,49 +245,49 @@
                       "data-target": false,
                       "data-toggle": false
                     },
-                    "action-button-icon": [
+                    "actionButtonIcon": [
                       {
                         "button-text": "Arkiver",
-                        "button-class": "a-btn-link a-btn-md-block mr-2",
+                        "buttonClass": "a-btn-link a-btn-md-block mr-2",
                         "button-colorClass": "",
                         "link-url": "",
                         "button-shadow-label": false,
                         "button-icon": {
                           "icon-prefix": "reg",
-                          "icon-class": "reg-archive pr-1"
+                          "iconClass": "reg-archive pr-1"
                         }
                       },
                       {
                         "button-text": "Slett",
-                        "button-class": "a-btn-link a-btn-md-block mr-2",
+                        "buttonClass": "a-btn-link a-btn-md-block mr-2",
                         "button-colorClass": "",
                         "link-url": "",
                         "button-shadow-label": false,
                         "button-icon": {
                           "icon-prefix": "reg",
-                          "icon-class": "reg-trash pr-1"
+                          "iconClass": "reg-trash pr-1"
                         }
                       },
                       {
                         "button-text": "Videresend i Altinn",
-                        "button-class": "a-btn-link a-btn-md-block mr-2",
+                        "buttonClass": "a-btn-link a-btn-md-block mr-2",
                         "button-colorClass": "",
                         "link-url": "link.sider-portal-videresend-i-altinn",
                         "button-shadow-label": false,
                         "button-icon": {
                           "icon-prefix": "reg",
-                          "icon-class": "reg-forward pr-1"
+                          "iconClass": "reg-forward pr-1"
                         }
                       },
                       {
                         "button-text": "Videresend på e-post",
-                        "button-class": "a-btn-link a-btn-md-block",
+                        "buttonClass": "a-btn-link a-btn-md-block",
                         "button-colorClass": "",
                         "link-url": "link.sider-portal-videresend-pa-epost",
                         "button-shadow-label": false,
                         "button-icon": {
                           "icon-prefix": "reg",
-                          "icon-class": "reg-forward-msg pr-1"
+                          "iconClass": "reg-forward-msg pr-1"
                         }
                       }
                     ]
@@ -307,16 +307,16 @@
                   "extra-class-headingContent": "a-msgUnread",
                   "heading-icon": {
                     "icon-prefix": "reg",
-                    "icon-class": "reg-closedmessage",
+                    "iconClass": "reg-closedmessage",
                     "icon-size": "reg-md-lg",
-                    "icon-extra-class": "reg-nw",
+                    "iconExtraClass": "reg-nw",
                     "aria-hidden": true,
                     "icon-sr-only-text": "Melding ulest",
                     "heading-secondary-icon": {
                       "icon-prefix": "reg",
-                      "icon-class": "reg-openmessage",
+                      "iconClass": "reg-openmessage",
                       "icon-size": "reg-md-lg",
-                      "icon-extra-class": "reg-nw a-msgIconSecondary",
+                      "iconExtraClass": "reg-nw a-msgIconSecondary",
                       "aria-hidden": true,
                       "icon-sr-only-text": "Melding lest",
                       "sr-aria-hidden": true
@@ -341,7 +341,7 @@
                     },
                     {
                       "text-paragraph": {
-                        "text-paragraph-class": "d-inline",
+                        "text-paragraphClass": "d-inline",
                         "message-text": "Søknad om endring gjøres via"
                       },
                       "text-link": {
@@ -356,7 +356,7 @@
                     "button-wrapper-class": "col",
                     "action-button": {
                       "button-text": "Last ned",
-                      "button-class": "a-btn",
+                      "buttonClass": "a-btn",
                       "button-disabled": false,
                       "button-type": "button",
                       "onclick": false,
@@ -365,49 +365,49 @@
                       "data-target": false,
                       "data-toggle": false
                     },
-                    "action-button-icon": [
+                    "actionButtonIcon": [
                       {
                         "button-text": "Arkiver",
-                        "button-class": "a-btn-link a-btn-md-block mr-2",
+                        "buttonClass": "a-btn-link a-btn-md-block mr-2",
                         "button-colorClass": "",
                         "link-url": "",
                         "button-shadow-label": false,
                         "button-icon": {
                           "icon-prefix": "reg",
-                          "icon-class": "reg-archive pr-1"
+                          "iconClass": "reg-archive pr-1"
                         }
                       },
                       {
                         "button-text": "Slett",
-                        "button-class": "a-btn-link a-btn-md-block mr-2",
+                        "buttonClass": "a-btn-link a-btn-md-block mr-2",
                         "button-colorClass": "",
                         "link-url": "",
                         "button-shadow-label": false,
                         "button-icon": {
                           "icon-prefix": "reg",
-                          "icon-class": "reg-trash pr-1"
+                          "iconClass": "reg-trash pr-1"
                         }
                       },
                       {
                         "button-text": "Videresend i Altinn",
-                        "button-class": "a-btn-link a-btn-md-block mr-2",
+                        "buttonClass": "a-btn-link a-btn-md-block mr-2",
                         "button-colorClass": "",
                         "link-url": "link.sider-portal-videresend-i-altinn",
                         "button-shadow-label": false,
                         "button-icon": {
                           "icon-prefix": "reg",
-                          "icon-class": "reg-forward pr-1"
+                          "iconClass": "reg-forward pr-1"
                         }
                       },
                       {
                         "button-text": "Videresend på e-post",
-                        "button-class": "a-btn-link a-btn-md-block",
+                        "buttonClass": "a-btn-link a-btn-md-block",
                         "button-colorClass": "",
                         "link-url": "link.sider-portal-videresend-pa-epost",
                         "button-shadow-label": false,
                         "button-icon": {
                           "icon-prefix": "reg",
-                          "icon-class": "reg-forward-msg pr-1"
+                          "iconClass": "reg-forward-msg pr-1"
                         }
                       }
                     ]
@@ -418,7 +418,7 @@
                         "list-item-name": "Forskuddsskatt.pdf",
                         "listItemDescription": "(last ned)",
                         "icon-prefix": "reg",
-                        "icon-class": "reg-attachment-pdf ai-md ai-nw pr-1"
+                        "iconClass": "reg-attachment-pdf ai-md ai-nw pr-1"
                       }
                     ]
                   },

@@ -6,8 +6,8 @@
     "isRequired": true,
     "form-control-class": "",
     "icon-prefix": "ai",
-    "icon-class": "ai-date",
-    "icon-extra-class": "",
+    "iconClass": "ai-date",
+    "iconExtraClass": "",
     "text-input-placeholder": "Antall",
     "input-regex-validation": {
       "error-message": "Oppgis i hele tall",

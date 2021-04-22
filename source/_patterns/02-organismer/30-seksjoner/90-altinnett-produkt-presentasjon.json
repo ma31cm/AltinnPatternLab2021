@@ -38,10 +38,10 @@
   "showAllLink": {
     "link-text": "Vis alle produkter",
     "link-url": "",
-    "link-class": "a-linkFeatured a-linkFeatured--large",
+    "linkClass": "a-linkFeatured a-linkFeatured--large",
     "link-icon": {
       "icon-prefix": "ai ai-sm ai-nw ai-nw-right",
-      "icon-class": "ai-arrowright"
+      "iconClass": "ai-arrowright"
     }
   }
 }

@@ -2,20 +2,20 @@
   "arrangementLink": {
     "linkFeatured": {
       "link-text": "Vis alle arrangementer",
-      "link-class": "a-linkFeatured",
+      "linkClass": "a-linkFeatured",
       "link-icon": {
         "icon-prefix": "ai ai-sm ai-nw ai-nw-right",
-        "icon-class": "ai-arrowright"
+        "iconClass": "ai-arrowright"
       }
     }
   },
   "newsLink": {
     "linkFeatured": {
       "link-text": "Vis alle nyheter",
-      "link-class": "a-linkFeatured",
+      "linkClass": "a-linkFeatured",
       "link-icon": {
         "icon-prefix": "ai ai-sm ai-nw ai-nw-right",
-        "icon-class": "ai-arrowright"
+        "iconClass": "ai-arrowright"
       }
     }
   },

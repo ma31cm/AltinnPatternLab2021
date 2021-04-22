@@ -9,7 +9,7 @@
       "enterprise-certificate-step-info": "Qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem",
       "next-btn": {
         "button-text": "Neste",
-        "button-class": "a-btn a-btn-success mr-1 a-js-certificateStep1",
+        "buttonClass": "a-btn a-btn-success mr-1 a-js-certificateStep1",
         "onclick": false,
         "button-icon": false
       },
@@ -29,7 +29,7 @@
       "enterprise-certificate-step-info": "Qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem",
       "next-btn": {
         "button-text": "Neste",
-        "button-class": "a-btn a-btn-success mr-1 a-js-certificateStep2",
+        "buttonClass": "a-btn a-btn-success mr-1 a-js-certificateStep2",
         "onclick": false,
         "button-icon": false
       },
@@ -74,7 +74,7 @@
       "enterprise-certificate-name": "sedquiaconsequunturmagni.cer",
       "save-btn": {
         "button-text": "Lagre",
-        "button-class": "a-btn a-btn-success mr-1 a-js-certificateStep3",
+        "buttonClass": "a-btn a-btn-success mr-1 a-js-certificateStep3",
         "onclick": false,
         "button-icon": false
       },

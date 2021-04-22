@@ -8,8 +8,8 @@
       "variation-class": "a-iconText-shadow a-iconText-large a-collapseBtn collapsed",
       "hasIcon": {
         "icon-prefix": "reg",
-        "icon-class": "reg-client",
-        "icon-extra-class": "a-icon"
+        "iconClass": "reg-client",
+        "iconExtraClass": "a-icon"
       },
       "hasTextSmall": false,
       "icontext": "Borolledelegering"
@@ -35,7 +35,7 @@
       },
       {
         "lenke" : {
-          "link-class": "a-btn",
+          "linkClass": "a-btn",
           "link-text": "Deleger enkeltvis"
         }
       },
@@ -53,7 +53,7 @@
       },
       {
         "lenke" : {
-          "link-class": "a-btn",
+          "linkClass": "a-btn",
           "link-text": "Deleger samlet"
         }
       }

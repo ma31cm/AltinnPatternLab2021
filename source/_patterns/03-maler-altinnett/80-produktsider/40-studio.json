@@ -17,7 +17,7 @@
         "link-buttonLarge": {
           "link-text": "Logg inn",
           "link-url": "/patterns/04-sider-infoportal-01-forside-02-forside-innlogget/04-sider-infoportal-01-forside-02-forside-innlogget.html",
-          "link-class": "a-btn a-btn-border"
+          "linkClass": "a-btn a-btn-border"
         }
       },
       "front-main-button-text-right": "eller be om tilgang"
@@ -64,7 +64,7 @@
     "img-src": "../../images/img1.jpg",
     "img-alt": "En mann som står foran en bil. Foto.",
     "link-buttonLarge": {
-      "link-class": "a-btn a-btn-lightBorder",
+      "linkClass": "a-btn a-btn-lightBorder",
       "link-text": "Lær mer"
     }
   },
@@ -196,7 +196,7 @@
       "form-input-hasButton": {
         "button-icon": {
           "icon-prefix": "ai",
-          "icon-class": "ai-search"
+          "iconClass": "ai-search"
         },
         "button-text": [
           {

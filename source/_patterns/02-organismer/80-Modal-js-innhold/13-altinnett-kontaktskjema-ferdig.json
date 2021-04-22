@@ -2,7 +2,7 @@
   "bodyClass": "a-modal-background-success",
   "submit": {
     "button-text": "Lukk",
-      "button-class": "a-btn",
+      "buttonClass": "a-btn",
       "button-id": "a-js-contactForm-submit",
       "button-type": "button",
       "onclick": false,

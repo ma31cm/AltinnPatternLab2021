@@ -1,10 +1,10 @@
 {
-  "button-class": "a-btn a-btn-icon",
+  "buttonClass": "a-btn a-btn-icon",
   "aria-label":  "Tilbake",
   "onclick": false,
   "icon-prefix": "ai",
-  "icon-class": "ai-back",
-  "icon-extra-class": "",
+  "iconClass": "ai-back",
+  "iconExtraClass": "",
   "stacked-background": false,
   "display-as-link": false
 }

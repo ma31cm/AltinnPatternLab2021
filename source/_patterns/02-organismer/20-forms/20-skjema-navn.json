@@ -15,28 +15,28 @@
       {
         "extra-helpText": "hei Navnet må inneholde etternavnet ditt. Du kan markedsføre deg med et annet navn enn foretaksnavnet, men det kan være smart om disse samsvarer. <a href=\"#\">Tips til navnevalget</a>",
         "icon-prefix": "ai",
-        "icon-class": "ai-info",
-        "icon-extra-class": "a-validatorInfo-icon"
+        "iconClass": "ai-info",
+        "iconExtraClass": "a-validatorInfo-icon"
       },
       {
         "extra-helpText": "Navnet er gyldig! Obs: Det finnes allerede et enkeltpersonforetak med dette navnet. Det er ikke noe som hindrer deg fra å bruke det, men om du vil ha et unikt navn kan du prøve noe annet.",
         "icon-prefix": "ai",
-        "icon-class": "ai-check",
-        "icon-extra-class": "a-validatorInfo-icon"
+        "iconClass": "ai-check",
+        "iconExtraClass": "a-validatorInfo-icon"
       }
     ]
   },
 
   "name-submit": {
     "button-text": "Sjekk navnet",
-		"button-class": "a-btn",
+		"buttonClass": "a-btn",
     "button-type": "submit",
     "onclick": false
   },
 
   "name-reset": {
     "button-text": "Prøv et annet navn",
-		"button-class": "a-btn-link",
+		"buttonClass": "a-btn-link",
     "display-as-link": true,
     "button-type": "reset",
     "onclick": false

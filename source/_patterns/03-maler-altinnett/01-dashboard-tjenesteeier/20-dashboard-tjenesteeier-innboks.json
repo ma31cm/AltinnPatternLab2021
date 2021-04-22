@@ -50,7 +50,7 @@
           {
             "button-icon": {
               "icon-prefix": "ai",
-              "icon-class": "ai-search"
+              "iconClass": "ai-search"
             },
             "button-text": [
               {
@@ -65,9 +65,9 @@
       "limit-hits-filter-overview": {
         "limit-hits-filter-text": "Begrens treffene: ",
         "icon-prefix": "ai",
-        "icon-class": "ai-circle-plus",
+        "iconClass": "ai-circle-plus",
         "icon-size": "",
-        "icon-extra-class": "ai-nw a-blue",
+        "iconExtraClass": "ai-nw a-blue",
         "icon-text": "",
         "icon-id": false,
         "sr-only": false,
@@ -102,13 +102,13 @@
         ],
         "filter-close-button": {
           "button-text": "Lukk",
-          "button-class": "d-inline a-btn a-btn-icon text-right mb-0 py-0 a-js-searchFilterToggle",
+          "buttonClass": "d-inline a-btn a-btn-icon text-right mb-0 py-0 a-js-searchFilterToggle",
           "link-url": false,
           "button-shadow-label": false,
           "button-textClass": "a-fontBold",
           "button-icon": {
             "icon-prefix": "reg",
-            "icon-class": "reg-circle-exit"
+            "iconClass": "reg-circle-exit"
           }
         }
       },
@@ -325,16 +325,16 @@
             "firstDateField": {
               "date-input-label": "Fra:",
               "icon-prefix": "ai",
-              "icon-class": "ai-date",
-              "icon-extra-class": "",
+              "iconClass": "ai-date",
+              "iconExtraClass": "",
               "form-control-class": "a-hasButton",
               "inputId": "dateField1"
             },
             "secondDateField": {
               "date-input-label": "Til:",
               "icon-prefix": "ai",
-              "icon-class": "ai-date",
-              "icon-extra-class": "",
+              "iconClass": "ai-date",
+              "iconExtraClass": "",
               "form-control-class": "a-hasButton",
               "inputId": "dateField2"
             }
@@ -521,7 +521,7 @@
       },
       "filter-submit": {
         "button-text": "Vis filtrert resultat",
-        "button-class": "a-btn py-1 px-3",
+        "buttonClass": "a-btn py-1 px-3",
         "button-disabled": false,
         "button-type": "button",
         "onclick": false,
@@ -544,7 +544,7 @@
       {
         "button-icon": {
           "icon-prefix": "ai",
-          "icon-class": "ai-search"
+          "iconClass": "ai-search"
         },
         "button-text": [
           {
@@ -565,11 +565,11 @@
     "filtersNotSelected": false,
     "filtersSelected": true,
     "addButton": {
-      "button-class": "a-btn a-filter-add-button a-btn-icon-inline a-js-searchFilterToggle mb-1",
+      "buttonClass": "a-btn a-filter-add-button a-btn-icon-inline a-js-searchFilterToggle mb-1",
       "aria-label": "Begrens treffene",
       "icon-prefix": "ai",
-      "icon-class": "ai-circle-plus",
-      "icon-extra-class": "a-blue",
+      "iconClass": "ai-circle-plus",
+      "iconExtraClass": "a-blue",
       "onclick": false,
       "enable-popover": false,
       "stacked-background": false,
@@ -588,11 +588,11 @@
 
   "dashboard-addMessageLeft": {
     "icon-prefix": "ai",
-    "icon-class": "ai-plus",
-    "icon-extra-class": "a-blue mr-1",
-    "button-class": "a-btn a-btn-action a-fullWidthBtn a-btnBigger mt-2 mb-2 mt-lg-4 mb-lg-4 d-none d-lg-block",
+    "iconClass": "ai-plus",
+    "iconExtraClass": "a-blue mr-1",
+    "buttonClass": "a-btn a-btn-action a-fullWidthBtn a-btnBigger mt-2 mb-2 mt-lg-4 mb-lg-4 d-none d-lg-block",
     "textstyling-button": "a-fontSizeXS",
-    "action-button-text": "Ny melding",
+    "actionButtonText": "Ny melding",
 
     "data-toggle": "altinn-modal",
     "data-action": "load",
@@ -605,58 +605,58 @@
   "messageStatus": [
     {
       "dropdown-overflow": false,
-          "button-class": "a-btn a-active a-btn-icon a-btn-transparentWhite",
+          "buttonClass": "a-btn a-active a-btn-icon a-btn-transparentWhite",
           "button-colorClass": "",
           "link-url": "link.sider-altinnett-dashboard-tjenesteeier-innboks-alle",
           "button-text": "alle",
       "responsive-br": true,
           "button-icon": {
           "icon-prefix": "reg",
-          "icon-class": "reg-closedmessage",
-          "icon-extra-class": "a-btn-icon-symbol"
+          "iconClass": "reg-closedmessage",
+          "iconExtraClass": "a-btn-icon-symbol"
       },
       "button-shadow-label": false
     },
     {
       "dropdown-overflow": false,
-          "button-class": "a-btn a-btn-icon a-btn-transparentWhite",
+          "buttonClass": "a-btn a-btn-icon a-btn-transparentWhite",
           "button-colorClass": "",
           "link-url": "link.sider-altinnett-dashboard-tjenesteeier-innboks-behandles",
           "button-text": "behandles",
       "responsive-br": true,
           "button-icon": {
           "icon-prefix": "reg",
-          "icon-class": "reg-waiting",
-          "icon-extra-class": "a-btn-icon-symbol"
+          "iconClass": "reg-waiting",
+          "iconExtraClass": "a-btn-icon-symbol"
       },
       "button-shadow-label": false
     },
     {
       "dropdown-overflow": false,
-          "button-class": "a-btn a-btn-icon a-btn-transparentWhite",
+          "buttonClass": "a-btn a-btn-icon a-btn-transparentWhite",
           "button-colorClass": "",
           "link-url": "link.sider-altinnett-dashboard-tjenesteeier-innboks-lost",
           "button-text": "løst",
           "responsive-br": true,
           "button-icon": {
           "icon-prefix": "reg",
-          "icon-class": "reg-check",
-          "icon-extra-class": "a-btn-icon-symbol"
+          "iconClass": "reg-check",
+          "iconExtraClass": "a-btn-icon-symbol"
       },
       "button-shadow-label": false
     },
     {
       "dropdown-overflow": false,
       "wrapper-class": "d-lg-none",
-      "button-class": "a-btn a-btn-icon a-btn-transparentWhite",
+      "buttonClass": "a-btn a-btn-icon a-btn-transparentWhite",
       "button-colorClass": "",
       "link-url": "#",
       "button-text": "ny",
       "responsive-br": true,
       "button-icon": {
         "icon-prefix": "ai",
-        "icon-class": "ai-plus",
-        "icon-extra-class": "a-btn-icon-symbol a-button-icon-symbol--secondary"
+        "iconClass": "ai-plus",
+        "iconExtraClass": "a-btn-icon-symbol a-button-icon-symbol--secondary"
       },
       "button-shadow-label": false
     }

@@ -7,8 +7,8 @@
     "variation-class": "a-iconText-shadow a-iconText-large a-collapseBtn collapsed",
     "hasIcon": {
       "icon-prefix": "reg",
-      "icon-class": "reg-corp",
-      "icon-extra-class": "a-icon"
+      "iconClass": "reg-corp",
+      "iconExtraClass": "a-icon"
     },
     "hasTextSmall": false,
     "isHeader": {
@@ -18,9 +18,9 @@
     "hasSecondIcon":
     {
       "icon-prefix": "ai",
-      "icon-class": "ai-circle-exclamation",
+      "iconClass": "ai-circle-exclamation",
       "icon-size": "ai-sm",
-      "icon-extra-class": "a-danger a-noHover"
+      "iconExtraClass": "a-danger a-noHover"
     }
   },
   "sok-etter-person": {
@@ -38,24 +38,24 @@
     "form-input-hasButton": {
       "button-icon": {
         "icon-prefix": "ai",
-        "icon-class": "ai-search"
+        "iconClass": "ai-search"
       }
     },
     "form-input-Icon": false
   },
-  "button-class": "a-box-button",
+  "buttonClass": "a-box-button",
   "box-list-id": "boxList",
   "activity-log": {
     "link-text": "Aktivitetslogg",
     "link-url": "/patterns/04-sider-portal-92-andre-med-rettigheter-00-andre-med-rettigheter-aktivitetslogg/04-sider-portal-92-andre-med-rettigheter-00-andre-med-rettigheter-aktivitetslogg.html"
   },
   "andremedrettigheter-add": {
-    "button-class": "a-btn a-btn-action a-fullWidthBtn",
-    "action-button-text": "Legg til ny person eller virksomhet",
+    "buttonClass": "a-btn a-btn-action a-fullWidthBtn",
+    "actionButtonText": "Legg til ny person eller virksomhet",
     "onclick": "location.href=''",
     "icon-prefix": "ai",
-    "icon-class": "ai-plus",
-    "icon-extra-class": ""
+    "iconClass": "ai-plus",
+    "iconExtraClass": ""
   },
   
   "liste-unummerert-expandable":{
@@ -68,7 +68,7 @@
         "expandedLink":{
           "data-toggle":"",
           "target-Link":"#",
-          "expandedLink-class":"a-list-rowLink a-list-rowLink-large a-fontSizeXS"          
+          "expandedlinkClass":"a-list-rowLink a-list-rowLink-large a-fontSizeXS"
         },
         "columns":[ 
             { 
@@ -78,8 +78,8 @@
                   { 
                     "column-icon":{ 
                         "icon-prefix":"ai",
-                        "icon-class":"ai-private",
-                        "icon-extra-class":""
+                        "iconClass":"ai-private",
+                        "iconExtraClass":""
                     }
                   }
               ]
@@ -115,13 +115,13 @@
                 {
                   "column-icon":{ 
                     "icon-prefix":"ai",
-                    "icon-class":"ai-circle-exclamation",
-                    "icon-extra-class":"notificationIcon"
+                    "iconClass":"ai-circle-exclamation",
+                    "iconExtraClass":"notificationIcon"
                   }
                 }, 
                 { 
                   "column-text":{ 
-                    "link-class":"text-right a-fontBold collapsed pr-0 pr-md-5",
+                    "linkClass":"text-right a-fontBold collapsed pr-0 pr-md-5",
                     "classes":"a-btn-blue-noUnderline a-js-sortValue  a-fontBold textStatus",
                     "text":"Ber om tilgang"
                   }
@@ -135,8 +135,8 @@
                 {
                   "column-icon":{ 
                     "icon-prefix":"ai",
-                    "icon-class":"ai-circle-exclamation",
-                    "icon-extra-class":"notificationIcon"
+                    "iconClass":"ai-circle-exclamation",
+                    "iconExtraClass":"notificationIcon"
                   }
                 }
               ]
@@ -150,7 +150,7 @@
         "expandedLink":{
           "data-toggle":"",
           "target-Link":"#",
-          "expandedLink-class":"a-list-rowLink a-list-rowLink-large a-fontSizeXS"
+          "expandedlinkClass":"a-list-rowLink a-list-rowLink-large a-fontSizeXS"
         },
         "columns":[ 
             { 
@@ -160,8 +160,8 @@
                   { 
                     "column-icon":{ 
                         "icon-prefix":"ai",
-                        "icon-class":"ai-private",
-                        "icon-extra-class":""
+                        "iconClass":"ai-private",
+                        "iconExtraClass":""
                     }
                   }
               ]
@@ -197,13 +197,13 @@
                 {
                   "column-icon":{ 
                     "icon-prefix":"",
-                    "icon-class":"",
-                    "icon-extra-class":"notificationIcon d-none"
+                    "iconClass":"",
+                    "iconExtraClass":"notificationIcon d-none"
                   }
                 }, 
                 { 
                   "column-text":{ 
-                    "link-class":"text-right a-fontBold collapsed pr-0 pr-md-5",
+                    "linkClass":"text-right a-fontBold collapsed pr-0 pr-md-5",
                     "classes":"a-btn-blue-noUnderline a-js-sortValue  a-fontBold expandText textStatus",
                     "text":"Gi eller fjern tilgang"
                   }
@@ -219,7 +219,7 @@
         "expandedLink":{
           "data-toggle":"collapse",
           "target-Link":"#nested-list-childRightHolders",
-          "expandedLink-class":"a-list-rowLink a-list-rowLink-large a-fontSizeXS"          
+          "expandedlinkClass":"a-list-rowLink a-list-rowLink-large a-fontSizeXS"
         },
           "columns":[ 
             { 
@@ -229,8 +229,8 @@
                   { 
                       "column-icon":{ 
                         "icon-prefix":"ai",
-                        "icon-class":"ai-expand",
-                        "icon-extra-class":"ai-sm",
+                        "iconClass":"ai-expand",
+                        "iconExtraClass":"ai-sm",
                         "popovericon-container":{
                           "popovericon-container-class":"a-dropdownCircleArrow a-dropdownCircleArrow--small a-dropdownCircleArrow--darkblue"
                         }
@@ -274,14 +274,14 @@
               "column-items":[ 
                 { 
                     "column-text":{ 
-                      "link-class":"text-right a-fontBold collapsed pr-0 pr-md-5",
+                      "linkClass":"text-right a-fontBold collapsed pr-0 pr-md-5",
                       "classes":"a-btn-blue-noUnderline a-js-sortValue  a-fontBold expandText",
                       "text":"Se alle med tilgang"
                     }
                 },
                 {
                   "column-text":{ 
-                    "link-class":"text-right a-fontBold collapsed pr-0 pr-md-5",
+                    "linkClass":"text-right a-fontBold collapsed pr-0 pr-md-5",
                     "classes":"a-btn-blue-noUnderline a-js-sortValue  a-fontBold hideText",
                     "text":"Skjul alle med tilgang"
                   }
@@ -301,7 +301,7 @@
                 "modalLink":{
                   "data-toggle":"",
                   "target-Link":"#",
-                  "modalLink-class":"a-list-rowLink a-list-rowLink-large a-fontSizeXS"
+                  "modallinkClass":"a-list-rowLink a-list-rowLink-large a-fontSizeXS"
                 },
                 "nested-columns":[
                     { 
@@ -311,8 +311,8 @@
                           { 
                             "column-icon":{ 
                                 "icon-prefix":"reg",
-                                "icon-class":"reg-client",
-                                "icon-extra-class":"reg-xs"
+                                "iconClass":"reg-client",
+                                "iconExtraClass":"reg-xs"
                             }
                           }
                       ]
@@ -347,7 +347,7 @@
                       "column-items":[
                         { 
                           "column-text":{ 
-                            "link-class":"text-right a-fontBold collapsed pr-0 pr-md-5",
+                            "linkClass":"text-right a-fontBold collapsed pr-0 pr-md-5",
                             "classes":"a-btn-blue-noUnderline a-js-sortValue  a-fontBold",
                             "text":"Gi eller fjern tilgang"
                           }
@@ -363,7 +363,7 @@
                 "modalLink":{
                   "data-toggle":"",
                   "target-Link":"#",
-                  "modalLink-class":"a-list-rowLink a-list-rowLink-large a-fontSizeXS"                  
+                  "modallinkClass":"a-list-rowLink a-list-rowLink-large a-fontSizeXS"
                 },
                 "nested-columns":[ 
                     { 
@@ -373,8 +373,8 @@
                           { 
                             "column-icon":{ 
                                 "icon-prefix":"ai",
-                                "icon-class":"ai-private",
-                                "icon-extra-class":""
+                                "iconClass":"ai-private",
+                                "iconExtraClass":""
                             }
                           }
                       ]
@@ -409,7 +409,7 @@
                       "column-items":[ 
                           { 
                           "column-text":{ 
-                            "link-class":"text-right a-fontBold collapsed pr-0 pr-md-5",
+                            "linkClass":"text-right a-fontBold collapsed pr-0 pr-md-5",
                             "classes":"a-btn-blue-noUnderline a-js-sortValue  a-fontBold",
                             "text":"Gi eller fjern tilgang"
                           }
@@ -425,7 +425,7 @@
                   "modalLink":{
                     "data-toggle":"",
                     "target-Link":"#",
-                    "modalLink-class":"a-list-rowLink a-list-rowLink-large a-fontSizeXS"                    
+                    "modallinkClass":"a-list-rowLink a-list-rowLink-large a-fontSizeXS"
                   },
                   "nested-columns":[ 
                       { 
@@ -435,8 +435,8 @@
                             { 
                               "column-icon":{ 
                                   "icon-prefix":"ai",
-                                  "icon-class":"ai-private",
-                                  "icon-extra-class":""
+                                  "iconClass":"ai-private",
+                                  "iconExtraClass":""
                               }
                             }
                         ]
@@ -471,7 +471,7 @@
                         "column-items":[
                           { 
                             "column-text":{ 
-                              "link-class":"text-right a-fontBold collapsed pr-0 pr-md-5",
+                              "linkClass":"text-right a-fontBold collapsed pr-0 pr-md-5",
                               "classes":"a-btn-blue-noUnderline a-js-sortValue  a-fontBold",                              
                               "text":"Gi eller fjern tilgang"
                             }
@@ -490,7 +490,7 @@
         "expandedLink":{
           "data-toggle":"",
           "target-Link":"#",
-          "expandedLink-class":"a-list-rowLink a-list-rowLink-large a-fontSizeXS"          
+          "expandedlinkClass":"a-list-rowLink a-list-rowLink-large a-fontSizeXS"
         },
         "columns":[ 
             { 
@@ -500,8 +500,8 @@
                   { 
                     "column-icon":{ 
                         "icon-prefix":"ai",
-                        "icon-class":"ai-private",
-                        "icon-extra-class":""
+                        "iconClass":"ai-private",
+                        "iconExtraClass":""
                     }
                   }
               ]
@@ -537,13 +537,13 @@
                 {
                   "column-icon":{ 
                     "icon-prefix":"",
-                    "icon-class":"",
-                    "icon-extra-class":"notificationIcon d-none"
+                    "iconClass":"",
+                    "iconExtraClass":"notificationIcon d-none"
                   }
                 }, 
                 { 
                   "column-text":{ 
-                    "link-class":"text-right a-fontBold collapsed pr-0 pr-md-5",
+                    "linkClass":"text-right a-fontBold collapsed pr-0 pr-md-5",
                     "classes":"a-btn-blue-noUnderline a-js-sortValue  a-fontBold textStatus ",
                     "text":"Gi eller fjern tilgang"
                   }

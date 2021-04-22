@@ -2,32 +2,32 @@
   "variation-class": "a-iconText-background a-iconText-large",
   "hasIcon": {
     "icon-prefix": "ai",
-    "icon-class": "ai-corp"
+    "iconClass": "ai-corp"
   },
   "modal-navbar-override": {
     "button-list": [
       {
-        "button-class": "a-modal-back",
+        "buttonClass": "a-modal-back",
         "aria-label": "Tilbake",
         "icon-prefix": "ai",
-        "icon-class": "ai-back",
-        "icon-extra-class": "",
+        "iconClass": "ai-back",
+        "iconExtraClass": "",
         "stacked-background": {
           "icon-prefix": "ai",
-          "icon-class": "ai-plain-circle-big"
+          "iconClass": "ai-plain-circle-big"
         },
         "onclick": "location.href='link.sider-portal-andre-med-rettigheter-tildel-roller'",
         "enable-popover": false
       },
       {
-        "button-class": "a-modal-close",
+        "buttonClass": "a-modal-close",
         "aria-label": "Lukk",
         "icon-prefix": "ai",
-        "icon-class": "ai-exit",
-        "icon-extra-class": "a-modal-close-icon",
+        "iconClass": "ai-exit",
+        "iconExtraClass": "a-modal-close-icon",
         "stacked-background": {
           "icon-prefix": "ai",
-          "icon-class": "ai-plain-circle-big"
+          "iconClass": "ai-plain-circle-big"
         },
         "onclick": "location.href='link.sider-portal-profil-roller-rettigheter'",
         "enable-popover": false
@@ -49,7 +49,7 @@
     "delegation-sub-header-text-secondary": "Anbefales kun hvis utfyller ikke har en fast tilknytning til virksomheten",
     "delegation-submit": {
       "button-text": "Fullfør",
-      "button-class": "a-btn a-btn-success",
+      "buttonClass": "a-btn a-btn-success",
       "button-type": "submit",
       "onclick": "location.href='link.sider-portal-andre-med-rettigheter-delegering-ok';"
     },
@@ -57,33 +57,33 @@
       "delegation-has-text": false,
       "checkbuttons": [
         {
-          "icon-extra-class": "",
+          "iconExtraClass": "",
           "checkbuttons-title": " Kun lese",
           "checkbuttons-id": "checkbutton-toggle",
           "checkbuttons-class": "",
           "hasIcon": {
             "icon-prefix": "ai",
-            "icon-class": "ai-read"
+            "iconClass": "ai-read"
           }
         },
         {
-          "icon-extra-class": "",
+          "iconExtraClass": "",
           "checkbuttons-title": " Fylle ut",
           "checkbuttons-id": "checkbutton-edit",
           "checkbuttons-class": "",
           "hasIcon": {
             "icon-prefix": "ai",
-            "icon-class": "ai-write"
+            "iconClass": "ai-write"
           }
         },
         {
-          "icon-extra-class": "",
+          "iconExtraClass": "",
           "checkbuttons-title": " Signere",
           "checkbuttons-id": "checkbutton-sign",
           "checkbuttons-class": "",
           "hasIcon": {
             "icon-prefix": "ai",
-            "icon-class": "ai-sign"
+            "iconClass": "ai-sign"
           }
         }
       ]

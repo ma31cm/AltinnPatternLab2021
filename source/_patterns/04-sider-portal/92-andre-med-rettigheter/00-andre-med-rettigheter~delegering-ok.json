@@ -6,7 +6,7 @@
   },
   "hasIcon": {
     "icon-prefix": "ai",
-    "icon-class": "ai-corp"
+    "iconClass": "ai-corp"
   },
   "modal-navbar-override": {
     "hide-buttons": true
@@ -28,13 +28,13 @@
     {
       "link-text": "Ferdig",
       "link-url": "link.sider-portal-profil-roller-rettigheter",
-      "link-class": "a-btn a-btn-success",
+      "linkClass": "a-btn a-btn-success",
       "link-icon": false
     },
     {
       "link-text": "Tildel flere rettigheter",
       "link-url": "link.sider-portal-andre-med-rettigheter-roller-oversikt",
-      "link-class": "a-btn",
+      "linkClass": "a-btn",
       "link-icon": false
     }
   ]

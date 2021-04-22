@@ -99,8 +99,8 @@
 			"variation-class": "a-iconText-shadow a-iconText-background a-iconText-background--white",
 			"hasIcon": {
         "icon-prefix": "ai",
-        "icon-class": "ai-circle-plus",
-				"icon-extra-class": "a-icon"
+        "iconClass": "ai-circle-plus",
+				"iconExtraClass": "a-icon"
 			},
 			"hasTextSmall": {
 				"textSmall": "Brønnøysundregistrene"
@@ -112,8 +112,8 @@
 			"variation-class": "a-iconText-shadow a-iconText-background a-iconText-background--white",
 			"hasIcon": {
         "icon-prefix": "ai",
-        "icon-class": "ai-write",
-				"icon-extra-class": "a-icon"
+        "iconClass": "ai-write",
+				"iconExtraClass": "a-icon"
 			},
 			"hasTextSmall": {
 				"textSmall": "Brønnøysundregistrene"

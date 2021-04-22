@@ -12,18 +12,18 @@
       "variation": "search-header",
       "linkFeatured": {
         "link-text": "Tilbake til aktørvalg",
-        "link-class": "a-linkFeatured a-textBlue a-textBlue-hover ml-1",
+        "linkClass": "a-linkFeatured a-textBlue a-textBlue-hover ml-1",
         "link-url": "link.sider-portal-aktorvalg-forste-gang",
         "link-icon-left": {
           "icon-prefix": "ai ",
-          "icon-class": "ai-back",
-          "icon-extra-class": "ai-sm ai-nw"
+          "iconClass": "ai-back",
+          "iconExtraClass": "ai-sm ai-nw"
         }
       },
       "login-icon": {
         "icon-prefix": "ai",
-        "icon-class": "ai-corp-circle-big",
-        "icon-extra-class": "a-personSwitcher-icon a-js-onboardingTarget-1",
+        "iconClass": "ai-corp-circle-big",
+        "iconExtraClass": "a-personSwitcher-icon a-js-onboardingTarget-1",
         "icon-sr-only-text": "Min profil"
       }
     },
@@ -60,23 +60,23 @@
           }
         ],
         "button": {
-          "button-class": "a-btn-link a-pt-9 a-fontSizeXXS a-md-fontSizeXS float-right",
+          "buttonClass": "a-btn-link a-pt-9 a-fontSizeXXS a-md-fontSizeXS float-right",
           "button-text": "Lagre søk",
           "button-icon": {
             "icon-prefix": "reg",
-            "icon-class": "reg-save",
-            "icon-extra-class": "a-btn-icon-symbol d-none d-sm-inline"
+            "iconClass": "reg-save",
+            "iconExtraClass": "a-btn-icon-symbol d-none d-sm-inline"
           }
         }
       }
     },
     "limit-hits": {
       "limit-hits-text": "Begrens treffene: ",
-      "button-class": "a-btn a-btn-icon a-btn-icon-inline a-js-searchFilterToggle",
+      "buttonClass": "a-btn a-btn-icon a-btn-icon-inline a-js-searchFilterToggle",
       "aria-label": "Begrens treffene",
       "icon-prefix": "ai",
-      "icon-class": "ai-circle-plus",
-      "icon-extra-class": "a-blue",
+      "iconClass": "ai-circle-plus",
+      "iconExtraClass": "a-blue",
       "onclick": false,
       "stacked-background": false,
       "display-as-link": false,
@@ -100,12 +100,12 @@
       ]
     },
     "load-more-btn": {
-      "button-class": "a-btn a-btn-action a-fullWidthBtn pl-1",
-      "action-button-text": "Last flere",
+      "buttonClass": "a-btn a-btn-action a-fullWidthBtn pl-1",
+      "actionButtonText": "Last flere",
       "onclick": "location.href='#'",
       "icon-prefix": "ai",
-      "icon-class": "ai-plus",
-      "icon-extra-class": ""
+      "iconClass": "ai-plus",
+      "iconExtraClass": ""
     },
     "inbox": {
       "panel-extra-class": "a-grey-panel",
@@ -132,9 +132,9 @@
                   "extra-class-headingContent": "a-msgUnread",
                   "heading-icon": {
                     "icon-prefix": "reg",
-                    "icon-class": "reg-write",
+                    "iconClass": "reg-write",
                     "icon-size": "ai-md-lg",
-                    "icon-extra-class": "ai-nw",
+                    "iconExtraClass": "ai-nw",
                     "aria-hidden": true,
                     "icon-sr-only-text": "Skjema ulest"
                   },
@@ -170,9 +170,9 @@
                   "extra-class-headingContent": "a-msgUnread",
                   "heading-icon": {
                     "icon-prefix": "reg",
-                    "icon-class": "reg-sign",
+                    "iconClass": "reg-sign",
                     "icon-size": "ai-md-lg",
-                    "icon-extra-class": "ai-nw",
+                    "iconExtraClass": "ai-nw",
                     "aria-hidden": true,
                     "icon-sr-only-text": "Skjema ulest, til signering"
                   },
@@ -207,9 +207,9 @@
                   "variation-class": "a-iconText-shadow a-collapseBtn collapsed",
                   "heading-icon": {
                     "icon-prefix": "reg",
-                    "icon-class": "reg-openmessage",
+                    "iconClass": "reg-openmessage",
                     "icon-size": "ai-md-lg",
-                    "icon-extra-class": "ai-nw",
+                    "iconExtraClass": "ai-nw",
                     "aria-hidden": true,
                     "icon-sr-only-text": "Melding lest"
                   },
@@ -246,16 +246,16 @@
                   },
                   "heading-icon": {
                     "icon-prefix": "reg",
-                    "icon-class": "reg-closedmessage",
+                    "iconClass": "reg-closedmessage",
                     "icon-size": "ai-md-lg",
-                    "icon-extra-class": "ai-nw",
+                    "iconExtraClass": "ai-nw",
                     "aria-hidden": true,
                     "icon-sr-only-text": "Melding ulest",
                     "heading-secondary-icon": {
                       "icon-prefix": "reg",
-                      "icon-class": "reg-openmessage",
+                      "iconClass": "reg-openmessage",
                       "icon-size": "ai-md-lg",
-                      "icon-extra-class": "ai-nw a-msgIconSecondary",
+                      "iconExtraClass": "ai-nw a-msgIconSecondary",
                       "aria-hidden": true,
                       "icon-sr-only-text": "Melding lest",
                       "sr-aria-hidden": true
@@ -288,9 +288,9 @@
                   "extra-class-headingContent": "a-msgWaiting",
                   "heading-icon": {
                     "icon-prefix": "reg",
-                    "icon-class": "reg-write",
+                    "iconClass": "reg-write",
                     "icon-size": "ai-md-lg",
-                    "icon-extra-class": "ai-nw",
+                    "iconExtraClass": "ai-nw",
                     "aria-hidden": true,
                     "icon-sr-only-text": "Skjema lest, venter på andre"
                   },
@@ -325,9 +325,9 @@
                   "variation-class": "a-iconText-shadow a-collapseBtn collapsed",
                   "heading-icon": {
                     "icon-prefix": "reg",
-                    "icon-class": "reg-openmessage",
+                    "iconClass": "reg-openmessage",
                     "icon-size": "ai-md-lg",
-                    "icon-extra-class": "ai-nw",
+                    "iconExtraClass": "ai-nw",
                     "aria-hidden": true,
                     "icon-sr-only-text": "Melding lest"
                   },
@@ -364,16 +364,16 @@
                   },
                   "heading-icon": {
                     "icon-prefix": "reg",
-                    "icon-class": "reg-closedmessage",
+                    "iconClass": "reg-closedmessage",
                     "icon-size": "ai-md-lg",
-                    "icon-extra-class": "ai-nw",
+                    "iconExtraClass": "ai-nw",
                     "aria-hidden": true,
                     "icon-sr-only-text": "Melding ulest",
                     "heading-secondary-icon": {
                       "icon-prefix": "reg",
-                      "icon-class": "reg-openmessage",
+                      "iconClass": "reg-openmessage",
                       "icon-size": "ai-md-lg",
-                      "icon-extra-class": "ai-nw a-msgIconSecondary",
+                      "iconExtraClass": "ai-nw a-msgIconSecondary",
                       "aria-hidden": true,
                       "icon-sr-only-text": "Melding lest",
                       "sr-aria-hidden": true
@@ -417,9 +417,9 @@
                   "extra-class-headingContent": false,
                   "heading-icon": {
                     "icon-prefix": "reg",
-                    "icon-class": "reg-sign",
+                    "iconClass": "reg-sign",
                     "icon-size": "ai-md-lg",
-                    "icon-extra-class": "ai-nw",
+                    "iconExtraClass": "ai-nw",
                     "aria-hidden": true,
                     "icon-sr-only-text": "Skjema lest, til signering"
                   },
@@ -455,9 +455,9 @@
                   "extra-class-headingContent": false,
                   "heading-icon": {
                     "icon-prefix": "reg",
-                    "icon-class": "reg-write",
+                    "iconClass": "reg-write",
                     "icon-size": "ai-md-lg",
-                    "icon-extra-class": "ai-nw",
+                    "iconExtraClass": "ai-nw",
                     "aria-hidden": true,
                     "icon-sr-only-text": "Skjema lest"
                   },
@@ -503,9 +503,9 @@
                   "extra-class-headingContent": "a-msgUnread",
                   "heading-icon": {
                     "icon-prefix": "reg",
-                    "icon-class": "reg-write",
+                    "iconClass": "reg-write",
                     "icon-size": "ai-md-lg",
-                    "icon-extra-class": "ai-nw",
+                    "iconExtraClass": "ai-nw",
                     "aria-hidden": true,
                     "icon-sr-only-text": "Skjema ulest"
                   },
@@ -541,9 +541,9 @@
                   "extra-class-headingContent": false,
                   "heading-icon": {
                     "icon-prefix": "reg",
-                    "icon-class": "reg-openmessage",
+                    "iconClass": "reg-openmessage",
                     "icon-size": "ai-md-lg",
-                    "icon-extra-class": "ai-nw",
+                    "iconExtraClass": "ai-nw",
                     "aria-hidden": true,
                     "icon-sr-only-text": "Melding lest"
                   },
@@ -580,16 +580,16 @@
                   },
                   "heading-icon": {
                     "icon-prefix": "reg",
-                    "icon-class": "reg-closedmessage",
+                    "iconClass": "reg-closedmessage",
                     "icon-size": "ai-md-lg",
-                    "icon-extra-class": "ai-nw",
+                    "iconExtraClass": "ai-nw",
                     "aria-hidden": true,
                     "icon-sr-only-text": "Melding ulest",
                     "heading-secondary-icon": {
                       "icon-prefix": "reg",
-                      "icon-class": "reg-openmessage",
+                      "iconClass": "reg-openmessage",
                       "icon-size": "ai-md-lg",
-                      "icon-extra-class": "ai-nw a-msgIconSecondary",
+                      "iconExtraClass": "ai-nw a-msgIconSecondary",
                       "aria-hidden": true,
                       "icon-sr-only-text": "Melding lest",
                       "sr-aria-hidden": true
@@ -622,9 +622,9 @@
                   "extra-class-headingContent": "a-msgWaiting",
                   "heading-icon": {
                     "icon-prefix": "reg",
-                    "icon-class": "reg-write",
+                    "iconClass": "reg-write",
                     "icon-size": "ai-md-lg",
-                    "icon-extra-class": "ai-nw",
+                    "iconExtraClass": "ai-nw",
                     "aria-hidden": true,
                     "icon-sr-only-text": "Skjema lest, venter på andre"
                   },
@@ -660,9 +660,9 @@
                   "extra-class-headingContent": "",
                   "heading-icon": {
                     "icon-prefix": "reg",
-                    "icon-class": "reg-openmessage",
+                    "iconClass": "reg-openmessage",
                     "icon-size": "ai-md-lg",
-                    "icon-extra-class": "ai-nw",
+                    "iconExtraClass": "ai-nw",
                     "aria-hidden": true,
                     "icon-sr-only-text": "Melding lest"
                   },
@@ -699,16 +699,16 @@
                   },
                   "heading-icon": {
                     "icon-prefix": "reg",
-                    "icon-class": "reg-closedmessage",
+                    "iconClass": "reg-closedmessage",
                     "icon-size": "ai-md-lg",
-                    "icon-extra-class": "ai-nw",
+                    "iconExtraClass": "ai-nw",
                     "aria-hidden": true,
                     "icon-sr-only-text": "Melding ulest",
                     "heading-secondary-icon": {
                       "icon-prefix": "reg",
-                      "icon-class": "reg-openmessage",
+                      "iconClass": "reg-openmessage",
                       "icon-size": "ai-md-lg",
-                      "icon-extra-class": "ai-nw a-msgIconSecondary",
+                      "iconExtraClass": "ai-nw a-msgIconSecondary",
                       "aria-hidden": true,
                       "icon-sr-only-text": "Melding lest",
                       "sr-aria-hidden": true
@@ -940,16 +940,16 @@
           "firstDateField": {
             "date-input-label": "Fra:",
             "icon-prefix": "ai",
-            "icon-class": "ai-date",
-            "icon-extra-class": "",
+            "iconClass": "ai-date",
+            "iconExtraClass": "",
             "form-control-class": "a-hasButton",
             "inputId": "dateField1"
           },
           "secondDateField": {
             "date-input-label": "Til:",
             "icon-prefix": "ai",
-            "icon-class": "ai-date",
-            "icon-extra-class": "",
+            "iconClass": "ai-date",
+            "iconExtraClass": "",
             "form-control-class": "a-hasButton",
             "inputId": "dateField2"
           }
@@ -1001,7 +1001,7 @@
               "form-input-isPassword": false,
               "form-label-hasIcon": {
                 "icon-prefix": "ai",
-                "icon-class": "ai-others"
+                "iconClass": "ai-others"
               }
             },
             "select-all": {
@@ -1049,9 +1049,9 @@
                 "checkbox-list-id": "forSelectionList",
                 "loadmoreSearch": {
                   "icon-prefix": "ai ai-nw ai-nw-pr",
-                  "icon-class": "ai-plus",
+                  "iconClass": "ai-plus",
                   "icon-size": "",
-                  "icon-extra-class": "",
+                  "iconExtraClass": "",
                   "icon-text": "",
                   "icon-id": false,
                   "sr-only": false,

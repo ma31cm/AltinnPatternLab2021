@@ -14,7 +14,7 @@
 	"modal-successbutton": {
 		"link-text": "Ferdig",
 		"link-url": "",
-		"link-class": "a-btn a-btn-success"
+		"linkClass": "a-btn a-btn-success"
 	},
 	"modal-startover": {
 		"link-text": "Tildel flere rettigheter",

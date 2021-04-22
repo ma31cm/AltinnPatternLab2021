@@ -2,7 +2,7 @@
   "footer-toTop": {
     "button-text": "til toppen",
     "button-link": "#top",
-    "button-class": "a-btn"
+    "buttonClass": "a-btn"
   },
   "footer-search": {
     "text-input-id": "text-input-search-11",
@@ -14,7 +14,7 @@
     "form-input-hasButton": {
       "button-icon": {
         "icon-prefix": "ai",
-        "icon-class": "ai-search"
+        "iconClass": "ai-search"
       },
       "button-text": [
         {
@@ -28,15 +28,15 @@
   },
   "footerBedriftIkon": {
     "icon-prefix": "ai ai-nw",
-    "icon-class": "ai-corp"
+    "iconClass": "ai-corp"
   },
   "footerHjelpIkon": {
     "icon-prefix": "ai ai-nw",
-    "icon-class": "ai-phone"
+    "iconClass": "ai-phone"
   },
   "telNumber": "75006000",
   "telNumberVisible": "75 00 60 00",
   "telText": "Telefonnummer til Altinn kundestøtte",
   "icon-prefix": "ai",
-  "icon-class": "ai-phone"
+  "iconClass": "ai-phone"
 }

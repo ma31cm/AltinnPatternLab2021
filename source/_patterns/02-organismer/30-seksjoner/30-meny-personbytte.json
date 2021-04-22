@@ -6,8 +6,8 @@
     "myself-personal-number": "Personnr. 123456 12345",
     "user-icon": {
       "icon-prefix": "ai",
-      "icon-class": "ai-private ai-lg",
-      "icon-extra-class": ""
+      "iconClass": "ai-private ai-lg",
+      "iconExtraClass": ""
     },
     "button-dot": false,
     "personrole-link": {
@@ -28,7 +28,7 @@
     "isInput-group": "input-group",
     "form-label-hasIcon": {
       "icon-prefix": "ai",
-      "icon-class": "ai-others"
+      "iconClass": "ai-others"
     },
     "form-input-hasButton": false,
     "no-results-text": "Ingen treff, prøv et annet søkeord."

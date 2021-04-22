@@ -11,14 +11,14 @@
     "page-title": "Hjelp og kontakt",
     "styleModifier": "a-h2 a-fontBold a-blueDarkerText"
   },
-  "paragraph-content": "Her finner du svar på dine spørsmål, enten via ofte stilte spørsmål eller ved å kontakte oss direkte. Vi gleder oss til å høre fra deg!",
+  "paragraphContent": "Her finner du svar på dine spørsmål, enten via ofte stilte spørsmål eller ved å kontakte oss direkte. Vi gleder oss til å høre fra deg!",
   "linkText": true,
   "link-text": "Ta kontakt via vårt skjema",
   "section-title": "Spørsmål du kanskje har:",
   "extra-class": "a-h2 a-fontBold a-blueDarkerText",
   "trekkspill": {
     "data-parent": "accordion",
-    "extra-link-class": "pl-md-1 pl-lg-3 pl-xl-4",
+    "extra-linkClass": "pl-md-1 pl-lg-3 pl-xl-4",
     "collapseContent-inside-extraclass": "pl-md-5 pl-lg-7 pl-xl-8",
     "accordion-header-items": [
       { "collapse-header-id": "accordionHeaderItem1",
@@ -87,7 +87,7 @@
       "form-input-hasButton": {
         "button-icon": {
           "icon-prefix": "ai",
-          "icon-class": "ai-search"
+          "iconClass": "ai-search"
         },
         "button-text": [
           {

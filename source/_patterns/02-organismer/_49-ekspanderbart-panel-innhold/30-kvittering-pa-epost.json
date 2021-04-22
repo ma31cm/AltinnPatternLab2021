@@ -4,7 +4,7 @@
 
     "login-info-save-btn": {
       "button-text": "Lagre",
-      "button-class": "a-btn a-btn-success",
+      "buttonClass": "a-btn a-btn-success",
       "onclick": false,
       "button-icon": false,
       "button-type": false
@@ -45,7 +45,7 @@
       "input-regex-validation": false,
       "form-label-hasIcon": {
         "icon-prefix": "ai",
-        "icon-class": "ai-closedmessage"
+        "iconClass": "ai-closedmessage"
       }
     }
   }

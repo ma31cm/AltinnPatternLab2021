@@ -3,9 +3,9 @@
     "extra-class-headingContent": false,
      "heading-icon": {
       "icon-prefix": "reg",
-      "icon-class": "reg-openmessage",
+      "iconClass": "reg-openmessage",
       "icon-size": "reg-md-lg",
-      "icon-extra-class": "reg-nw",
+      "iconExtraClass": "reg-nw",
       "aria-hidden": true,
       "icon-sr-only-text": "Melding lest"
     },
@@ -13,22 +13,22 @@
     "shortcuts": {
       "shortcut-icons": [
         {
-          "button-class": "a-btn a-btn-icon",
+          "buttonClass": "a-btn a-btn-icon",
           "aria-label": "Arkiv",
           "tooltip-title": "Arkiv",
           "button-icon": {
             "icon-prefix": "reg",
-            "icon-class": "reg-archive",
+            "iconClass": "reg-archive",
             "icon-size": "reg-sm"
           }
         },
         {
-          "button-class": "a-btn a-btn-icon",
+          "buttonClass": "a-btn a-btn-icon",
           "aria-label": "Slett",
           "tooltip-title": "Slett",
           "button-icon": {
             "icon-prefix": "reg",
-            "icon-class": "reg-trash",
+            "iconClass": "reg-trash",
             "icon-size": "reg-sm"
           }
         }

@@ -4,7 +4,7 @@
   "login-name": "JAN PETTERSEN",
   "button-icon": {
     "icon-prefix": "ai",
-    "icon-class": "ai-corp"
+    "iconClass": "ai-corp"
   },
   "login-represent": "for Pettersen Foto",
   "myself-name": "Pettersen Foto",
@@ -20,7 +20,7 @@
       "form-input-button-action": "Utfør søk",
       "button-icon": {
         "icon-prefix": "ai",
-        "icon-class": "ai-search"
+        "iconClass": "ai-search"
       },
       "button-text": [
         {
@@ -31,7 +31,7 @@
     }
   },
   "buttonTab-third": {
-    "button-class": "a-btn a-btn-icon a-btn-transparentWhite a-btn-transparentWhite-active"
+    "buttonClass": "a-btn a-btn-icon a-btn-transparentWhite a-btn-transparentWhite-active"
   },
   "first-page-title": {
     "page-title": "Frister"

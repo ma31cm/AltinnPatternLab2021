@@ -17,10 +17,10 @@
   },
   "document-link": {
     "link-text": "Se alle dokumenter",
-    "link-class": "a-linkFeatured",
+    "linkClass": "a-linkFeatured",
     "link-icon": {
       "icon-prefix": "ai ai-sm ai-nw ai-nw-right",
-      "icon-class": "ai-arrowright"
+      "iconClass": "ai-arrowright"
     }
   },
   "list-article": [
@@ -29,7 +29,7 @@
       "heading-end": "</h3>",
       "linkTitle": {
         "link-text": "Informasjonsmøte om a-ordningen m.m. - fredag 12.6 kl. 0900-1200",
-        "link-class": "a-link-title",
+        "linkClass": "a-link-title",
         "link-url": "#"
       },
       "category-element-description": "Informasjonsmøtet om a-ordningen m.m. blir gjennomført som et telefonmøte via Skype. Agenda vil bli lagt ut her på SBS-portalen onsdag 10.12. Presentasjoner blir lagt ut torsdag ettermiddag, 11.12. Det er ingen påmelding til møtet."
@@ -39,7 +39,7 @@
       "heading-end": "</h3>",
       "linkTitle": {
         "link-text": "Hvordan ligger dere an med utvikling og test av versjon 2.2 av a-meldingen?",
-        "link-class": "a-link-title",
+        "linkClass": "a-link-title",
         "link-url": "#"
       },
       "category-element-description": "Det er planlagt en ny versjon av a-meldingen fra 1. januar 2021 (versjon 2.2). Vi ønsker å få en tilbakemelding på hvordan dere ligger an med planlegging, utvikling og test."
@@ -49,7 +49,7 @@
       "heading-end": "</h3>",
       "linkTitle": {
         "link-text": "LØST: PROD: Forsinkelse i utsending av tilbakemeldinger (03.12.19 09:13)",
-        "link-class": "a-link-title",
+        "linkClass": "a-link-title",
         "link-url": "#"
       },
       "category-element-description": "Det er forsinkelse i utsending av tilbakemeldinger på a-ordningen for øyeblikket. Det jobbes med saken. Beklager ulempene det medfører."
@@ -59,7 +59,7 @@
       "heading-end": "</h3>",
       "linkTitle": {
         "link-text": "Brev om mangelfull trekkfri utgiftsgodtgjørelse i a-meldingen 2020",
-        "link-class": "a-link-title",
+        "linkClass": "a-link-title",
         "link-url": "#"
       },
       "category-element-description": "Det er forsinkelse i utsending av tilbakemeldinger på a-ordningen for øyeblikket. Det jobbes med saken. Beklager ulempene det medfører."
@@ -69,7 +69,7 @@
       "heading-end": "</h3>",
       "linkTitle": {
         "link-text": "Brev om manglende permitteringer",
-        "link-class": "a-link-title",
+        "linkClass": "a-link-title",
         "link-url": "#"
       },
       "category-element-description": "Lørdag 30. mai gikk det ut et brev til arbeidsgivere/opplysningspliktige hvor vi ber dem om oppgi permittering i a-meldingen. Har du mottatt brev vedrørende manglende opplysninger om permitteringer, men ikke har arbeidstakere som er permittert, så kan du se bort fra brevet. Du behøver ikke foreta deg noe."
@@ -77,15 +77,15 @@
   ],
   "news-link": {
     "link-text": "Se alle saker",
-    "link-class": "a-linkFeatured",
+    "linkClass": "a-linkFeatured",
     "link-icon": {
       "icon-prefix": "ai ai-sm ai-nw ai-nw-right",
-      "icon-class": "ai-arrowright"
+      "iconClass": "ai-arrowright"
     }
   },
   "accordion": {
     "data-parent": "accordion",
-    "extra-link-class": false,
+    "extra-linkClass": false,
     "collapseContent-inside-extraclass": false,
     "accordion-header-items": [
       { "collapse-header-id": "accordionHeaderItem1",
@@ -131,7 +131,7 @@
       "form-input-hasButton": {
         "button-icon": {
           "icon-prefix": "ai",
-          "icon-class": "ai-search"
+          "iconClass": "ai-search"
         },
         "button-text": [
           {

@@ -45,8 +45,8 @@
       "extra-help": {
         "extra-helpText": "Hvis ikke annet spesifiseres benyttes siste versjon",
         "icon-prefix": "ai",
-        "icon-class": "ai-info",
-        "icon-extra-class": "a-validatorInfo-icon"
+        "iconClass": "ai-info",
+        "iconExtraClass": "a-validatorInfo-icon"
       }
   },
   "environment": {
@@ -160,8 +160,8 @@
     "extra-help": {
       "extra-helpText": "Hvis ikke annet spesifiseres blir oppstart satt til 2 og øker med 1 for hver gang grensesnittet blir brukt uten feil.",
       "icon-prefix": "ai",
-      "icon-class": "ai-info",
-      "icon-extra-class": "a-validatorInfo-icon"
+      "iconClass": "ai-info",
+      "iconExtraClass": "a-validatorInfo-icon"
     },
     "isLarge": false,
     "form-label-hasIcon": false,
@@ -331,7 +331,7 @@
   },
   "submit": {
     "button-text": "Send bestilling",
-    "button-class": "a-btn d-block mt-3",
+    "buttonClass": "a-btn d-block mt-3",
     "button-id": "a-js-contactForm-submit2",
     "button-type": "button",
     "onclick": false,

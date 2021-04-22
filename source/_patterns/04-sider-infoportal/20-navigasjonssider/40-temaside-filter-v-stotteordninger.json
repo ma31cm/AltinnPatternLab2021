@@ -31,13 +31,13 @@
 
 		"modal-loader": true,
 		"modal-empty": {
-			"paragraph-class": "a-js-noResults a-js-forceHidden",
-			"paragraph-content": "Ingen treff. Prøv et annet filter."
+			"paragraphClass": "a-js-noResults a-js-forceHidden",
+			"paragraphContent": "Ingen treff. Prøv et annet filter."
 		},
 
 		"expand-results": {
 			"button-text": "Vis aktuelle støtteordninger for meg",
-			"button-class": "a-btn a-btn--full a-js-expandResults a-js-forceHidden",
+			"buttonClass": "a-btn a-btn--full a-js-expandResults a-js-forceHidden",
 		  "button-colorClass": "",
 		  "link-url": "",
 		  "button-icon": false
@@ -94,7 +94,7 @@
 			  "heading-end": "</h2>",
 			  "linkTitle": {
 			    "link-text": "%NAME%",
-			    "link-class": "a-link-title",
+			    "linkClass": "a-link-title",
 					"link-url": "link.sider-infoportal-artikkel-v-stotteordning"
 
 			  },
@@ -102,11 +102,11 @@
 			}
 		],
 		"list-stotteordninger-loadmore": {
-			 "action-button-text": "Last flere",
-		   "button-class": "a-btn a-btn-action a-fullWidthBtn a-js-moreResults a-js-forceHidden",
+			 "actionButtonText": "Last flere",
+		   "buttonClass": "a-btn a-btn-action a-fullWidthBtn a-js-moreResults a-js-forceHidden",
 		   "icon-prefix": "ai",
-		   "icon-class": "ai-plus",
-		   "icon-extra-class": ""
+		   "iconClass": "ai-plus",
+		   "iconExtraClass": ""
 		}
 	}
 }

@@ -3,7 +3,7 @@
   "emne": "Teknisk feil A-melding",
   "submit1": {
     "button-text": "Send",
-    "button-class": "a-btn d-block mt-3",
+    "buttonClass": "a-btn d-block mt-3",
     "button-id": "a-js-contactForm-submit2",
     "button-type": "button",
     "onclick": false,
@@ -42,9 +42,9 @@
         "id": "newCertificateInput",
         "icon-after": {
           "icon-prefix": "ai",
-          "icon-class": "ai-upload",
+          "iconClass": "ai-upload",
           "icon-size": "",
-          "icon-extra-class": ""
+          "iconExtraClass": ""
         }
       },
       "certificate-list": false,

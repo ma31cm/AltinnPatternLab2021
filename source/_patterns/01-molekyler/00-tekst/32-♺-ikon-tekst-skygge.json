@@ -2,8 +2,8 @@
   "variation-class": "a-iconText-shadow",
   "hasIcon": {
     "icon-prefix": "ai",
-    "icon-class": "ai-server",
-    "icon-extra-class": "a-icon a-icon-circle"
+    "iconClass": "ai-server",
+    "iconExtraClass": "a-icon a-icon-circle"
   },
   "hasTextSmall": {
     "textSmall": "Liten tekst"

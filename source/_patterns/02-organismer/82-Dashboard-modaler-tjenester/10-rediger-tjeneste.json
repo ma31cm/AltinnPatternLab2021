@@ -23,7 +23,7 @@
       "radiotab-id": "radio-newprod",
       "nextButton": {
         "button-text": "Neste",
-        "button-class": "a-btn d-block mt-3",
+        "buttonClass": "a-btn d-block mt-3",
         "button-id": "a-js-contactForm-submit2",
         "button-type": "button",
         "onclick": false,
@@ -41,7 +41,7 @@
       "radiotab-id": "radio-altinn",
       "nextButton": {
         "button-text": "Neste",
-        "button-class": "a-btn d-block mt-3",
+        "buttonClass": "a-btn d-block mt-3",
         "button-id": "a-js-contactForm-submit2",
         "button-type": "button",
         "onclick": false,
@@ -59,7 +59,7 @@
       "radiotab-id": "radio-roles",
       "nextButton": {
         "button-text": "Neste",
-        "button-class": "a-btn d-block mt-3",
+        "buttonClass": "a-btn d-block mt-3",
         "button-id": "a-js-contactForm-submit2",
         "button-type": "button",
         "onclick": false,
@@ -77,7 +77,7 @@
       "radiotab-id": "radio-deactivate",
       "nextButton": {
         "button-text": "Neste",
-        "button-class": "a-btn d-block mt-3",
+        "buttonClass": "a-btn d-block mt-3",
         "button-id": "a-js-contactForm-submit2",
         "button-type": "button",
         "onclick": false,

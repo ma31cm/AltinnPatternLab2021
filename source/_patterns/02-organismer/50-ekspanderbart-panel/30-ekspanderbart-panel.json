@@ -9,8 +9,8 @@
     },
     "hasIcon": {
       "icon-prefix": "ai",
-      "icon-class": "ai-private",
-      "icon-extra-class": "a-icon a-icon-circle"
+      "iconClass": "ai-private",
+      "iconExtraClass": "a-icon a-icon-circle"
     },
     "icontext": "Stor tekst"
   },

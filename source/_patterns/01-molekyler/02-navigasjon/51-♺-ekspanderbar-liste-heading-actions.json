@@ -5,8 +5,8 @@
     "heading-text-class": "d-none d-md-block",
     "heading-text": "Høyrejustert tekst",
     "icon-prefix": "ai",
-    "icon-class": "ai-circle-minus",
-    "icon-extra-class": "a-danger"
+    "iconClass": "ai-circle-minus",
+    "iconExtraClass": "a-danger"
   },
   "has-link": true
 }

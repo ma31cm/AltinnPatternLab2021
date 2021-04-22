@@ -8,13 +8,13 @@
       "variation-class": "a-iconText-shadow a-iconText-large a-collapseBtn collapsed",
       "hasIcon": {
         "icon-prefix": "ai",
-        "icon-class": "ai-read",
-        "icon-extra-class": "a-icon a-icon-circle"
+        "iconClass": "ai-read",
+        "iconExtraClass": "a-icon a-icon-circle"
       },
       "hasTextSmall": false,
       "icontext": "Samtykke"
     },
-    "button-class": "a-box-button",
+    "buttonClass": "a-box-button",
     "box-list-id": "boxList",
     "activity-log": {
       "link-text": "Samtykkelogg",
@@ -30,9 +30,9 @@
         "box-button-person": "PERNILLE HALL",
         "box-button-action": "Gi og fjerne samtykke",
         "icon-prefix": "ai",
-        "icon-class": "ai-read",
+        "iconClass": "ai-read",
         "icon-size": "ai-lg",
-        "icon-extra-class": "a-box-button-icon a-blueDarkText",
+        "iconExtraClass": "a-box-button-icon a-blueDarkText",
         "onclick": "location.href='';"
       },
       {
@@ -42,9 +42,9 @@
         "box-button-person": "TUVA LANDRO",
         "box-button-action": "Gi og fjerne samtykke",
         "icon-prefix": "ai",
-        "icon-class": "ai-read",
+        "iconClass": "ai-read",
         "icon-size": "ai-lg",
-        "icon-extra-class": "a-box-button-icon a-blueDarkText",
+        "iconExtraClass": "a-box-button-icon a-blueDarkText",
         "onclick": "location.href='';"
       },
       {
@@ -54,9 +54,9 @@
         "box-button-person": "INGRID AGA",
         "box-button-action": "Gi og fjerne samtykke",
         "icon-prefix": "ai",
-        "icon-class": "ai-read",
+        "iconClass": "ai-read",
         "icon-size": "ai-lg",
-        "icon-extra-class": "a-box-button-icon a-blueDarkText",
+        "iconExtraClass": "a-box-button-icon a-blueDarkText",
         "onclick": "location.href='';"
       },
       {
@@ -66,9 +66,9 @@
         "box-button-person": "Julius Andreas Gimli Arn MacGyver Chewbacka Highlander Elessar-Jankov",
         "box-button-action": "Gi og fjerne samtykke",
         "icon-prefix": "ai",
-        "icon-class": "ai-read",
+        "iconClass": "ai-read",
         "icon-size": "ai-lg",
-        "icon-extra-class": "a-box-button-icon a-blueDarkText",
+        "iconExtraClass": "a-box-button-icon a-blueDarkText",
         "onclick": "location.href='';"
       }
     ],
@@ -77,11 +77,11 @@
       "alert-id": "alert-no-arrow",
       "alert-class": "a-message-info a-message--arrow-off a-message--fullwidth",
       "alert-content": "Hvis du vil at andre skal hjelpe deg med å fylle ut skjema eller tjenester, kan du legge dem til her. Du velger også hva de skal ta rettigheter til å gjøre.",
-      "button-class": "a-btn a-btn-action a-fullWidthBtn py-1",
-      "action-button-text": "Legg til ny person eller virksomhet",
+      "buttonClass": "a-btn a-btn-action a-fullWidthBtn py-1",
+      "actionButtonText": "Legg til ny person eller virksomhet",
       "icon-prefix": "ai",
-      "icon-class": "ai-plus",
-      "icon-extra-class": "",
+      "iconClass": "ai-plus",
+      "iconExtraClass": "",
       "icon-text": ""
     }
   }

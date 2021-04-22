@@ -2,14 +2,14 @@
   "variation-class": "a-iconText-background a-iconText-large",
   "hasIcon": {
     "icon-prefix": "ai",
-    "icon-class": "ai-client"
+    "iconClass": "ai-client"
   },
   "person-role-role": "KLIENT",
   "person-role-name": "Ferksfisk & Saltkjøtt AS",
   "user-icon": {
     "icon-prefix": "ai",
-    "icon-class": "ai-client",
-    "icon-extra-class": "ai-lg"
+    "iconClass": "ai-client",
+    "iconExtraClass": "ai-lg"
   },
   "person-role-name-meta": false,
   "logo": {
@@ -21,27 +21,27 @@
   "modal-navbar-override": {
     "button-list": [
       {
-        "button-class": "a-modal-back",
+        "buttonClass": "a-modal-back",
         "aria-label": "Tilbake",
         "icon-prefix": "ai",
-        "icon-class": "ai-back",
-        "icon-extra-class": "",
+        "iconClass": "ai-back",
+        "iconExtraClass": "",
         "stacked-background": {
           "icon-prefix": "ai",
-          "icon-class": "ai-plain-circle-big"
+          "iconClass": "ai-plain-circle-big"
         },
         "onclick": "location.href='link.sider-portal-profil-roller-rettigheter'",
         "enable-popover": false
       },
       {
-        "button-class": "a-modal-close",
+        "buttonClass": "a-modal-close",
         "aria-label": "Lukk",
         "icon-prefix": "ai",
-        "icon-class": "ai-exit",
-        "icon-extra-class": "a-modal-close-icon",
+        "iconClass": "ai-exit",
+        "iconExtraClass": "a-modal-close-icon",
         "stacked-background": {
           "icon-prefix": "ai",
-          "icon-class": "ai-plain-circle-big"
+          "iconClass": "ai-plain-circle-big"
         },
         "onclick": "location.href='link.sider-portal-profil-roller-rettigheter'",
         "enable-popover": false
@@ -49,13 +49,13 @@
     ]
   },
   "person-role": {
-    "icon-extra-class": "",
+    "iconExtraClass": "",
     "icon-prefix": "ai",
-    "icon-class": "ai-client"
+    "iconClass": "ai-client"
   },
   "form-label-hasIcon": {
     "icon-prefix": "ai",
-    "icon-class": "ai-private"
+    "iconClass": "ai-private"
   },
   "form-input-hasButton": false,
   "isInput-group": "input-group",
@@ -138,8 +138,8 @@
               {
                 "column-icon": {
                   "icon-prefix": "ai",
-                  "icon-class": "ai-private",
-                  "icon-extra-class": ""
+                  "iconClass": "ai-private",
+                  "iconExtraClass": ""
                 }
               }
             ]
@@ -163,7 +163,7 @@
             "column-items": [
               {
                 "column-link": {
-                  "link-class": "a-btn-blue-noUnderline text-right a-fontBold a-fullWidthLink collapsed a-visibleWhenInitial pr-1 pr-md-5",
+                  "linkClass": "a-btn-blue-noUnderline text-right a-fontBold a-fullWidthLink collapsed a-visibleWhenInitial pr-1 pr-md-5",
                   "link-url": "#",
                   "link-text": "<span class='d-none d-sm-block'>Gi og fjerne rettigheter</span>",
                   "link-icon": false,
@@ -174,7 +174,7 @@
               },
               {
                 "column-link": {
-                  "link-class": "a-btn-blue-noUnderline text-right a-fontBold a-fullWidthLink a-visibleWhenExpanded pr-1 pr-md-5",
+                  "linkClass": "a-btn-blue-noUnderline text-right a-fontBold a-fullWidthLink a-visibleWhenExpanded pr-1 pr-md-5",
                   "link-url": "#",
                   "link-text": "<span class='d-none d-sm-block'>Lukk</span>",
                   "link-icon": false,
@@ -213,7 +213,7 @@
               "column-switches-with-text": {
                 "ferdigsegment-done": {
                   "button-text": "Ferdig",
-                  "button-class": "a-btn a-btn-success collapsed a-js-confirmAddRightBtn",
+                  "buttonClass": "a-btn a-btn-success collapsed a-js-confirmAddRightBtn",
                   "onclick": false,
                   "data-toggle": "collapse",
                   "data-target": "existingCollapse1",
@@ -222,7 +222,7 @@
                 },
                 "ferdigsegment-cancel": {
                   "button-text": "Avbryt",
-                  "button-class": "a-btn-link collapsed",
+                  "buttonClass": "a-btn-link collapsed",
                   "display-as-link": true,
                   "margin-right-multiplier": 3,
                   "data-toggle": "collapse",
@@ -245,9 +245,9 @@
                   "margin-override": "ml-0 ml-md-7",
                   "form-label-hasIcon": {
                     "icon-prefix": "ai",
-                    "icon-class": "ai-closedmessage",
+                    "iconClass": "ai-closedmessage",
                     "icon-size": "",
-                    "icon-extra-class": ""
+                    "iconExtraClass": ""
                   },
                   "form-input-hasButton": false
                 },
@@ -328,8 +328,8 @@
               {
                 "column-icon": {
                   "icon-prefix": "ai",
-                  "icon-class": "ai-private",
-                  "icon-extra-class": ""
+                  "iconClass": "ai-private",
+                  "iconExtraClass": ""
                 }
               }
             ]
@@ -353,7 +353,7 @@
             "column-items": [
               {
                 "column-link": {
-                  "link-class": "a-btn-blue-noUnderline text-right a-fontBold a-fullWidthLink collapsed a-visibleWhenInitial pr-1 pr-md-5",
+                  "linkClass": "a-btn-blue-noUnderline text-right a-fontBold a-fullWidthLink collapsed a-visibleWhenInitial pr-1 pr-md-5",
                   "link-url": "#",
                   "link-text": "<span class='d-none d-sm-block'>Gi og fjerne rettigheter</span>",
                   "link-icon": false,
@@ -364,7 +364,7 @@
               },
               {
                 "column-link": {
-                  "link-class": "a-btn-blue-noUnderline text-right a-fontBold a-fullWidthLink a-visibleWhenExpanded pr-1 pr-md-5",
+                  "linkClass": "a-btn-blue-noUnderline text-right a-fontBold a-fullWidthLink a-visibleWhenExpanded pr-1 pr-md-5",
                   "link-url": "#",
                   "link-text": "<span class='d-none d-sm-block'>Lukk</span>",
                   "link-icon": false,
@@ -403,7 +403,7 @@
               "column-switches-with-text": {
                 "ferdigsegment-done": {
                   "button-text": "Ferdig",
-                  "button-class": "a-btn a-btn-success collapsed a-js-confirmAddRightBtn",
+                  "buttonClass": "a-btn a-btn-success collapsed a-js-confirmAddRightBtn",
                   "onclick": false,
                   "data-toggle": "collapse",
                   "data-target": "existingCollapse2",
@@ -412,7 +412,7 @@
                 },
                 "ferdigsegment-cancel": {
                   "button-text": "Avbryt",
-                  "button-class": "a-btn-link collapsed",
+                  "buttonClass": "a-btn-link collapsed",
                   "display-as-link": true,
                   "margin-right-multiplier": 3,
                   "data-toggle": "collapse",
@@ -433,9 +433,9 @@
                   "isLarge": false,
                   "form-label-hasIcon": {
                     "icon-prefix": "ai",
-                    "icon-class": "ai-closedmessage",
+                    "iconClass": "ai-closedmessage",
                     "icon-size": "",
-                    "icon-extra-class": ""
+                    "iconExtraClass": ""
                   },
                   "form-input-hasButton": false
                 },
@@ -516,8 +516,8 @@
               {
                 "column-icon": {
                   "icon-prefix": "ai",
-                  "icon-class": "ai-private",
-                  "icon-extra-class": ""
+                  "iconClass": "ai-private",
+                  "iconExtraClass": ""
                 }
               }
             ]
@@ -541,7 +541,7 @@
             "column-items": [
               {
                 "column-link": {
-                  "link-class": "a-btn-blue-noUnderline text-right a-fontBold a-fullWidthLink collapsed a-visibleWhenInitial pr-1 pr-md-5",
+                  "linkClass": "a-btn-blue-noUnderline text-right a-fontBold a-fullWidthLink collapsed a-visibleWhenInitial pr-1 pr-md-5",
                   "link-url": "#",
                   "link-text": "<span class='d-none d-sm-block'>Gi og fjerne rettigheter</span>",
                   "link-icon": false,
@@ -552,7 +552,7 @@
               },
               {
                 "column-link": {
-                  "link-class": "a-btn-blue-noUnderline text-right a-fontBold a-fullWidthLink a-visibleWhenExpanded pr-1 pr-md-5",
+                  "linkClass": "a-btn-blue-noUnderline text-right a-fontBold a-fullWidthLink a-visibleWhenExpanded pr-1 pr-md-5",
                   "link-url": "#",
                   "link-text": "<span class='d-none d-sm-block'>Lukk</span>",
                   "link-icon": false,
@@ -591,7 +591,7 @@
               "column-switches-with-text": {
                 "ferdigsegment-done": {
                   "button-text": "Ferdig",
-                  "button-class": "a-btn a-btn-success collapsed a-js-confirmAddRightBtn",
+                  "buttonClass": "a-btn a-btn-success collapsed a-js-confirmAddRightBtn",
                   "onclick": false,
                   "data-toggle": "collapse",
                   "data-target": "existingCollapse3",
@@ -600,7 +600,7 @@
                 },
                 "ferdigsegment-cancel": {
                   "button-text": "Avbryt",
-                  "button-class": "a-btn-link collapsed",
+                  "buttonClass": "a-btn-link collapsed",
                   "display-as-link": true,
                   "margin-right-multiplier": 3,
                   "data-toggle": "collapse",
@@ -622,9 +622,9 @@
                   "margin-override": "ml-0 ml-md-7",
                   "form-label-hasIcon": {
                     "icon-prefix": "ai",
-                    "icon-class": "ai-closedmessage",
+                    "iconClass": "ai-closedmessage",
                     "icon-size": "",
-                    "icon-extra-class": ""
+                    "iconExtraClass": ""
                   },
                   "form-input-hasButton": false
                 },
@@ -726,7 +726,7 @@
               {
                 "column-icon": {
                   "icon-prefix": "ai",
-                  "icon-class": "ai-plus"
+                  "iconClass": "ai-plus"
                 }
               }
             ]
@@ -737,8 +737,8 @@
               {
                 "column-icon": {
                   "icon-prefix": "ai",
-                  "icon-class": "ai-plus",
-                  "icon-extra-class": "d-md-none"
+                  "iconClass": "ai-plus",
+                  "iconExtraClass": "d-md-none"
                 }
               },
               {
@@ -830,8 +830,8 @@
               {
                 "column-icon": {
                   "icon-prefix": "ai",
-                  "icon-class": "ai-private",
-                  "icon-extra-class": ""
+                  "iconClass": "ai-private",
+                  "iconExtraClass": ""
                 }
               }
             ]
@@ -855,7 +855,7 @@
             "column-items": [
               {
                 "column-link": {
-                  "link-class": "a-btn-blue-noUnderline text-right a-fontBold a-fullWidthLink collapsed a-visibleWhenInitial pr-1 pr-md-5",
+                  "linkClass": "a-btn-blue-noUnderline text-right a-fontBold a-fullWidthLink collapsed a-visibleWhenInitial pr-1 pr-md-5",
                   "link-url": "#",
                   "link-text": "<span class='d-none d-sm-block'>Gi rettigheter</span>",
                   "link-icon": false,
@@ -866,7 +866,7 @@
               },
               {
                 "column-link": {
-                  "link-class": "a-btn-blue-noUnderline text-right a-fontBold a-fullWidthLink a-visibleWhenExpanded pr-1 pr-md-5",
+                  "linkClass": "a-btn-blue-noUnderline text-right a-fontBold a-fullWidthLink a-visibleWhenExpanded pr-1 pr-md-5",
                   "link-url": "#",
                   "link-text": "<span class='d-none d-sm-block'>Lukk</span>",
                   "link-icon": false,
@@ -905,7 +905,7 @@
               "column-switches-with-text": {
                 "ferdigsegment-done": {
                   "button-text": "Ferdig",
-                  "button-class": "a-btn a-btn-success collapsed a-js-confirmAddRightBtn",
+                  "buttonClass": "a-btn a-btn-success collapsed a-js-confirmAddRightBtn",
                   "onclick": false,
                   "data-toggle": "collapse",
                   "data-target": "newCollapse1",
@@ -914,7 +914,7 @@
                 },
                 "ferdigsegment-cancel": {
                   "button-text": "Avbryt",
-                  "button-class": "a-btn-link collapsed",
+                  "buttonClass": "a-btn-link collapsed",
                   "display-as-link": true,
                   "margin-right-multiplier": 3,
                   "data-toggle": "collapse",
@@ -936,9 +936,9 @@
                   "margin-override": "ml-0 ml-md-7",
                   "form-label-hasIcon": {
                     "icon-prefix": "ai",
-                    "icon-class": "ai-closedmessage",
+                    "iconClass": "ai-closedmessage",
                     "icon-size": "",
-                    "icon-extra-class": ""
+                    "iconExtraClass": ""
                   },
                   "form-input-hasButton": false
                 },
@@ -1017,8 +1017,8 @@
               {
                 "column-icon": {
                   "icon-prefix": "ai",
-                  "icon-class": "ai-private",
-                  "icon-extra-class": ""
+                  "iconClass": "ai-private",
+                  "iconExtraClass": ""
                 }
               }
             ]
@@ -1042,7 +1042,7 @@
             "column-items": [
               {
                 "column-link": {
-                  "link-class": "a-btn-blue-noUnderline text-right a-fontBold a-fullWidthLink collapsed a-visibleWhenInitial pr-1 pr-md-5",
+                  "linkClass": "a-btn-blue-noUnderline text-right a-fontBold a-fullWidthLink collapsed a-visibleWhenInitial pr-1 pr-md-5",
                   "link-url": "#",
                   "link-text": "<span class='d-none d-sm-block'>Gi rettigheter</span>",
                   "link-icon": false,
@@ -1053,7 +1053,7 @@
               },
               {
                 "column-link": {
-                  "link-class": "a-btn-blue-noUnderline text-right a-fontBold a-fullWidthLink a-visibleWhenExpanded pr-1 pr-md-5",
+                  "linkClass": "a-btn-blue-noUnderline text-right a-fontBold a-fullWidthLink a-visibleWhenExpanded pr-1 pr-md-5",
                   "link-url": "#",
                   "link-text": "<span class='d-none d-sm-block'>Lukk</span>",
                   "link-icon": false,
@@ -1092,7 +1092,7 @@
               "column-switches-with-text": {
                 "ferdigsegment-done": {
                   "button-text": "Ferdig",
-                  "button-class": "a-btn a-btn-success collapsed a-js-confirmAddRightBtn",
+                  "buttonClass": "a-btn a-btn-success collapsed a-js-confirmAddRightBtn",
                   "onclick": false,
                   "data-toggle": "collapse",
                   "data-target": "newCollapse2",
@@ -1101,7 +1101,7 @@
                 },
                 "ferdigsegment-cancel": {
                   "button-text": "Avbryt",
-                  "button-class": "a-btn-link collapsed",
+                  "buttonClass": "a-btn-link collapsed",
                   "display-as-link": true,
                   "margin-right-multiplier": 3,
                   "data-toggle": "collapse",
@@ -1123,9 +1123,9 @@
                   "margin-override": "ml-0 ml-md-7",
                   "form-label-hasIcon": {
                     "icon-prefix": "ai",
-                    "icon-class": "ai-closedmessage",
+                    "iconClass": "ai-closedmessage",
                     "icon-size": "",
-                    "icon-extra-class": ""
+                    "iconExtraClass": ""
                   },
                   "form-input-hasButton": false
                 },
@@ -1204,8 +1204,8 @@
               {
                 "column-icon": {
                   "icon-prefix": "ai",
-                  "icon-class": "ai-private",
-                  "icon-extra-class": ""
+                  "iconClass": "ai-private",
+                  "iconExtraClass": ""
                 }
               }
             ]
@@ -1229,7 +1229,7 @@
             "column-items": [
               {
                 "column-link": {
-                  "link-class": "a-btn-blue-noUnderline text-right a-fontBold a-fullWidthLink collapsed a-visibleWhenInitial pr-1 pr-md-5",
+                  "linkClass": "a-btn-blue-noUnderline text-right a-fontBold a-fullWidthLink collapsed a-visibleWhenInitial pr-1 pr-md-5",
                   "link-url": "#",
                   "link-text": "<span class='d-none d-sm-block'>Gi rettigheter</span>",
                   "link-icon": false,
@@ -1240,7 +1240,7 @@
               },
               {
                 "column-link": {
-                  "link-class": "a-btn-blue-noUnderline text-right a-fontBold a-fullWidthLink a-visibleWhenExpanded pr-1 pr-md-5",
+                  "linkClass": "a-btn-blue-noUnderline text-right a-fontBold a-fullWidthLink a-visibleWhenExpanded pr-1 pr-md-5",
                   "link-url": "#",
                   "link-text": "<span class='d-none d-sm-block'>Lukk</span>",
                   "link-icon": false,
@@ -1279,7 +1279,7 @@
               "column-switches-with-text": {
                 "ferdigsegment-done": {
                   "button-text": "Ferdig",
-                  "button-class": "a-btn a-btn-success collapsed a-js-confirmAddRightBtn",
+                  "buttonClass": "a-btn a-btn-success collapsed a-js-confirmAddRightBtn",
                   "onclick": false,
                   "data-toggle": "collapse",
                   "data-target": "newCollapse3",
@@ -1288,7 +1288,7 @@
                 },
                 "ferdigsegment-cancel": {
                   "button-text": "Avbryt",
-                  "button-class": "a-btn-link collapsed",
+                  "buttonClass": "a-btn-link collapsed",
                   "display-as-link": true,
                   "margin-right-multiplier": 3,
                   "data-toggle": "collapse",
@@ -1310,9 +1310,9 @@
                   "margin-override": "ml-0 ml-md-7",
                   "form-label-hasIcon": {
                     "icon-prefix": "ai",
-                    "icon-class": "ai-closedmessage",
+                    "iconClass": "ai-closedmessage",
                     "icon-size": "",
-                    "icon-extra-class": ""
+                    "iconExtraClass": ""
                   },
                   "form-input-hasButton": false
                 },
@@ -1391,8 +1391,8 @@
               {
                 "column-icon": {
                   "icon-prefix": "ai",
-                  "icon-class": "ai-private",
-                  "icon-extra-class": ""
+                  "iconClass": "ai-private",
+                  "iconExtraClass": ""
                 }
               }
             ]
@@ -1416,7 +1416,7 @@
             "column-items": [
               {
                 "column-link": {
-                  "link-class": "a-btn-blue-noUnderline text-right a-fontBold a-fullWidthLink collapsed a-visibleWhenInitial pr-1 pr-md-5",
+                  "linkClass": "a-btn-blue-noUnderline text-right a-fontBold a-fullWidthLink collapsed a-visibleWhenInitial pr-1 pr-md-5",
                   "link-url": "#",
                   "link-text": "<span class='d-none d-sm-block'>Gi rettigheter</span>",
                   "link-icon": false,
@@ -1427,7 +1427,7 @@
               },
               {
                 "column-link": {
-                  "link-class": "a-btn-blue-noUnderline text-right a-fontBold a-fullWidthLink a-visibleWhenExpanded pr-1 pr-md-5",
+                  "linkClass": "a-btn-blue-noUnderline text-right a-fontBold a-fullWidthLink a-visibleWhenExpanded pr-1 pr-md-5",
                   "link-url": "#",
                   "link-text": "<span class='d-none d-sm-block'>Lukk</span>",
                   "link-icon": false,
@@ -1466,7 +1466,7 @@
               "column-switches-with-text": {
                 "ferdigsegment-done": {
                   "button-text": "Ferdig",
-                  "button-class": "a-btn a-btn-success collapsed a-js-confirmAddRightBtn",
+                  "buttonClass": "a-btn a-btn-success collapsed a-js-confirmAddRightBtn",
                   "onclick": false,
                   "data-toggle": "collapse",
                   "data-target": "newCollapse4",
@@ -1475,7 +1475,7 @@
                 },
                 "ferdigsegment-cancel": {
                   "button-text": "Avbryt",
-                  "button-class": "a-btn-link collapsed",
+                  "buttonClass": "a-btn-link collapsed",
                   "display-as-link": true,
                   "margin-right-multiplier": 3,
                   "data-toggle": "collapse",
@@ -1497,9 +1497,9 @@
                   "margin-override": "ml-0 ml-md-7",
                   "form-label-hasIcon": {
                     "icon-prefix": "ai",
-                    "icon-class": "ai-closedmessage",
+                    "iconClass": "ai-closedmessage",
                     "icon-size": "",
-                    "icon-extra-class": ""
+                    "iconExtraClass": ""
                   },
                   "form-input-hasButton": false
                 },
@@ -1578,8 +1578,8 @@
               {
                 "column-icon": {
                   "icon-prefix": "ai",
-                  "icon-class": "ai-private",
-                  "icon-extra-class": ""
+                  "iconClass": "ai-private",
+                  "iconExtraClass": ""
                 }
               }
             ]
@@ -1603,7 +1603,7 @@
             "column-items": [
               {
                 "column-link": {
-                  "link-class": "a-btn-blue-noUnderline text-right a-fontBold a-fullWidthLink collapsed a-visibleWhenInitial pr-1 pr-md-5",
+                  "linkClass": "a-btn-blue-noUnderline text-right a-fontBold a-fullWidthLink collapsed a-visibleWhenInitial pr-1 pr-md-5",
                   "link-url": "#",
                   "link-text": "<span class='d-none d-sm-block'>Gi rettigheter</span>",
                   "link-icon": false,
@@ -1614,7 +1614,7 @@
               },
               {
                 "column-link": {
-                  "link-class": "a-btn-blue-noUnderline text-right a-fontBold a-fullWidthLink a-visibleWhenExpanded pr-1 pr-md-5",
+                  "linkClass": "a-btn-blue-noUnderline text-right a-fontBold a-fullWidthLink a-visibleWhenExpanded pr-1 pr-md-5",
                   "link-url": "#",
                   "link-text": "<span class='d-none d-sm-block'>Lukk</span>",
                   "link-icon": false,
@@ -1653,7 +1653,7 @@
               "column-switches-with-text": {
                 "ferdigsegment-done": {
                   "button-text": "Ferdig",
-                  "button-class": "a-btn a-btn-success collapsed a-js-confirmAddRightBtn",
+                  "buttonClass": "a-btn a-btn-success collapsed a-js-confirmAddRightBtn",
                   "data-toggle": "collapse",
                   "data-target": "newCollapse5",
                   "data-parent": "allClientsTable",
@@ -1662,7 +1662,7 @@
                 },
                 "ferdigsegment-cancel": {
                   "button-text": "Avbryt",
-                  "button-class": "a-btn-link collapsed",
+                  "buttonClass": "a-btn-link collapsed",
                   "display-as-link": true,
                   "margin-right-multiplier": 3,
                   "data-toggle": "collapse",
@@ -1684,9 +1684,9 @@
                   "margin-override": "ml-0 ml-md-7",
                   "form-label-hasIcon": {
                     "icon-prefix": "ai",
-                    "icon-class": "ai-closedmessage",
+                    "iconClass": "ai-closedmessage",
                     "icon-size": "",
-                    "icon-extra-class": ""
+                    "iconExtraClass": ""
                   },
                   "form-input-hasButton": false
                 },
@@ -1772,7 +1772,7 @@
               },
               {
                 "column-link": {
-                  "link-class": "a-btn-blue-noUnderline a-fontBold",
+                  "linkClass": "a-btn-blue-noUnderline a-fontBold",
                   "link-url": "link.sider-portal-klientdelegering-legg-til-ansatt",
                   "link-text": "her",
                   "link-icon": false
@@ -1799,7 +1799,7 @@
               {
                 "column-icon": {
                   "icon-prefix": "ai",
-                  "icon-class": "ai-plus"
+                  "iconClass": "ai-plus"
                 }
               }
             ]
@@ -1810,8 +1810,8 @@
               {
                 "column-icon": {
                   "icon-prefix": "ai",
-                  "icon-class": "ai-plus",
-                  "icon-extra-class": "d-md-none"
+                  "iconClass": "ai-plus",
+                  "iconExtraClass": "d-md-none"
                 }
               },
               {

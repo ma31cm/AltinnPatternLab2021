@@ -10,9 +10,9 @@
       "id": "newCertificateInput",
       "icon-after": {
         "icon-prefix": "ai",
-        "icon-class": "ai-upload",
+        "iconClass": "ai-upload",
         "icon-size": "",
-        "icon-extra-class": ""
+        "iconExtraClass": ""
       }
     },
     "certificate-list": false,

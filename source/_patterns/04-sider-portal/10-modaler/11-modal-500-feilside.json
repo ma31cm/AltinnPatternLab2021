@@ -9,27 +9,27 @@
   "modal-navbar-override": {
     "button-list": [
       {
-        "button-class": "a-modal-back",
+        "buttonClass": "a-modal-back",
         "aria-label": "Tilbake",
         "icon-prefix": "ai",
-        "icon-class": "ai-back",
-        "icon-extra-class": "a-js-collapseInboxMessage",
+        "iconClass": "ai-back",
+        "iconExtraClass": "a-js-collapseInboxMessage",
         "stacked-background": {
           "icon-prefix": "ai",
-          "icon-class": "ai-plain-circle-big"
+          "iconClass": "ai-plain-circle-big"
         },
         "onclick": "location.href='link.sider-portal-profil-roller-rettigheter'",
         "enable-popover": false
       },
       {
-        "button-class": "a-modal-close",
+        "buttonClass": "a-modal-close",
         "aria-label": "Lukk",
         "icon-prefix": "ai",
-        "icon-class": "ai-exit",
-        "icon-extra-class": "a-modal-close-icon a-js-collapseInboxMessage",
+        "iconClass": "ai-exit",
+        "iconExtraClass": "a-modal-close-icon a-js-collapseInboxMessage",
         "stacked-background": {
           "icon-prefix": "ai",
-          "icon-class": "ai-plain-circle-big"
+          "iconClass": "ai-plain-circle-big"
         },
         "onclick": "location.href='link.sider-portal-profil-roller-rettigheter'",
         "enable-popover": false
@@ -41,7 +41,7 @@
   "isHeader": true,
   "hasIcon": {
     "icon-prefix": "ai",
-    "icon-class": "ai-circle-exclamation"
+    "iconClass": "ai-circle-exclamation"
   },
   "modal-kvittering-content": "Det er ikke din skyld og ingen skade er skjedd, men av en eller annen grunn har det oppstått en teknisk feil. Du kan prøve å: ",
   "modal-varsel": {

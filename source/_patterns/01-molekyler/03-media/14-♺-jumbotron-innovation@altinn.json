@@ -17,7 +17,7 @@
     "section-title": "De beste ideene finner man som oftest i fellesskap.",
     "front-main-button": {
       "link-buttonLarge": {
-        "link-class": "a-btn a-btn-border",
+        "linkClass": "a-btn a-btn-border",
         "link-text": "Lær mer"
       }
     },

@@ -58,13 +58,13 @@
 						"popover-link-icon": [
 							{
 								"icon-prefix": "ai",
-								"icon-class": "ai-circle-plus",
-                "icon-extra-class": "a-js-popoverIconInitial"
+								"iconClass": "ai-circle-plus",
+                "iconExtraClass": "a-js-popoverIconInitial"
 							},
 							{
 								"icon-prefix": "ai",
-								"icon-class": "ai-circle-minus",
-                "icon-extra-class": "a-js-popoverIconExpanded"
+								"iconClass": "ai-circle-minus",
+                "iconExtraClass": "a-js-popoverIconExpanded"
 							}
 						],
 						"open-popover-class": "a-helpIconButton a-helpIconButton--blue a-js-togglePopoverIcons",
@@ -91,13 +91,13 @@
 						"popover-link-icon": [
 							{
 								"icon-prefix": "ai",
-								"icon-class": "ai-circle-plus",
-                "icon-extra-class": "a-js-popoverIconInitial"
+								"iconClass": "ai-circle-plus",
+                "iconExtraClass": "a-js-popoverIconInitial"
 							},
 							{
 								"icon-prefix": "ai",
-								"icon-class": "ai-circle-minus",
-                "icon-extra-class": "a-js-popoverIconExpanded"
+								"iconClass": "ai-circle-minus",
+                "iconExtraClass": "a-js-popoverIconExpanded"
 							}
 						],
 						"open-popover-class": "a-helpIconButton a-helpIconButton--blue a-js-togglePopoverIcons",
@@ -135,7 +135,7 @@
 					"ismore": false,
 					"link-text": "",
 					"link-url": "",
-					"link-class": ""
+					"linkClass": ""
 				},
 				{
 					"istitle": true,
@@ -144,7 +144,7 @@
 					"ismore": false,
 					"link-text": "",
 					"link-url": "",
-					"link-class": ""
+					"linkClass": ""
 				}
 		]
 
@@ -163,8 +163,8 @@
 				"card-code": "(BR123)",
 				"hasIcon": {
 		      "icon-prefix": "ai",
-		      "icon-class": "ai-write",
-		      "icon-extra-class": "a-icon"
+		      "iconClass": "ai-write",
+		      "iconExtraClass": "a-icon"
 				},
 				"isIntroText": true,
 				"card-introText": "Brønnøysundregistrene"
@@ -174,8 +174,8 @@
 		"variation-class": "a-iconText-shadow a-iconText-background a-iconText-background--white",
 		"hasIcon": {
       "icon-prefix": "ai",
-      "icon-class": "ai-write",
-      "icon-extra-class": "a-icon"
+      "iconClass": "ai-write",
+      "iconExtraClass": "a-icon"
 		},
 		"hasTextSmall": false,
 		"link-text": "Registrer Enkeltpersonforetak",
@@ -207,13 +207,13 @@
 			"popover-link-icon": [
 				{
 					"icon-prefix": "ai",
-					"icon-class": "ai-circle-plus",
-          "icon-extra-class": "a-js-popoverIconInitial"
+					"iconClass": "ai-circle-plus",
+          "iconExtraClass": "a-js-popoverIconInitial"
 				},
 				{
 					"icon-prefix": "ai",
-					"icon-class": "ai-circle-minus",
-          "icon-extra-class": "a-js-popoverIconExpanded"
+					"iconClass": "ai-circle-minus",
+          "iconExtraClass": "a-js-popoverIconExpanded"
 				}
 			],
 			"open-popover-class": "a-helpIconButton a-helpIconButton--blue a-js-togglePopoverIcons",

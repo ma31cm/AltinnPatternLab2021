@@ -9,7 +9,7 @@
   "delegation-sub-header-text-secondary": "Tekst under overskrift",
   "delegation-submit": {
     "button-text": "Fullfør",
-    "button-class": "a-btn a-btn-success",
+    "buttonClass": "a-btn a-btn-success",
     "button-type": "submit"
   },
   "delegation-has": {
@@ -22,7 +22,7 @@
         "isDisabled": true,        
         "hasIcon": {
           "icon-prefix": "ai",
-          "icon-class": "ai-write"
+          "iconClass": "ai-write"
         }
       },
       {
@@ -32,7 +32,7 @@
         "isDisabled": true,
         "hasIcon": {
           "icon-prefix": "ai",
-          "icon-class": "ai-sign"
+          "iconClass": "ai-sign"
         }
       }
     ]
@@ -47,22 +47,22 @@
       "popover-link-icon": [
           {
             "icon-prefix": "ai",
-            "icon-class": "ai-help-popicon",
+            "iconClass": "ai-help-popicon",
             "stacked-background": {
               "stacked-container-class": "a-js-popoverIconInitial",
               "icon-prefix": "ai",
-              "icon-class": "ai-plain-circle",
-              "icon-extra-class": ""
+              "iconClass": "ai-plain-circle",
+              "iconExtraClass": ""
             }
           },
           {
             "icon-prefix": "ai",
-            "icon-class": "ai-circle-exit",
+            "iconClass": "ai-circle-exit",
             "stacked-background": {
               "stacked-container-class": "a-js-popoverIconExpanded",
               "icon-prefix": "ai",
-              "icon-class": "ai-plain-circle",
-              "icon-extra-class": ""
+              "iconClass": "ai-plain-circle",
+              "iconExtraClass": ""
             }
           }
       ]

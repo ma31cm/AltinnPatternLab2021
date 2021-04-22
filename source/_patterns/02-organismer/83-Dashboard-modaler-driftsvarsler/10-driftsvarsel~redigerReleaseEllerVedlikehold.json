@@ -45,8 +45,8 @@
       "input-type": "text",
       "has-feedback": {
         "icon-prefix": "ai",
-        "icon-class": "ai-plus",
-        "icon-extra-class": "form-control-feedback"
+        "iconClass": "ai-plus",
+        "iconExtraClass": "form-control-feedback"
       }
     },
 
@@ -201,8 +201,8 @@
               "isRequired": false,
               "form-control-class": "",
               "icon-prefix": "ai",
-              "icon-class": "ai-date",
-              "icon-extra-class": ""
+              "iconClass": "ai-date",
+              "iconExtraClass": ""
             }
           }
         }
@@ -224,8 +224,8 @@
         "isRequired": false,
         "form-control-class": "18.09",
         "icon-prefix": "ai",
-        "icon-class": "ai-date",
-        "icon-extra-class": "",
+        "iconClass": "ai-date",
+        "iconExtraClass": "",
         "isDisabled" : true
       }
     },
@@ -240,22 +240,22 @@
       "popover-buttons": [
         {
           "button-text": "Slett",
-          "button-class": "a-btn a-btn-danger"
+          "buttonClass": "a-btn a-btn-danger"
         },
         {
           "button-text": "Avbryt",
-          "button-class": "a-btn-link a-linkDanger",
+          "buttonClass": "a-btn-link a-linkDanger",
           "display-as-link": true
         }
       ],
       "button-text": "Fjern driftsvarsel",
-      "button-class": "a-btn a-btn-icon float-right w-auto",
+      "buttonClass": "a-btn a-btn-icon float-right w-auto",
       "button-colorClass": "",
       "link-url": "",
       "button-shadow-label": false,
       "icon-prefix": "ai",
-      "icon-class": "ai-circle-exit",
-      "icon-extra-class": "a-danger ai-left"
+      "iconClass": "ai-circle-exit",
+      "iconExtraClass": "a-danger ai-left"
     },
 
     "whenUpdating": {
@@ -281,7 +281,7 @@
 
     "save" : {
       "button-text": "Lagre",
-      "button-class": "a-btn mt-3",
+      "buttonClass": "a-btn mt-3",
       "button-id": "a-js-contactForm-submit",
       "button-type": "button",
       "onclick": false,

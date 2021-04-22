@@ -24,8 +24,8 @@
 		"main-card-content": {
 			"hasIcon": {
 				"icon-prefix": "ai",
-				"icon-class": "ai-write",
-				"icon-extra-class": "a-icon"
+				"iconClass": "ai-write",
+				"iconExtraClass": "a-icon"
 			},
 			"hasTextSmall": {
 				"byline-tekst": "Fra",
@@ -44,10 +44,10 @@
 			"hasMaincardLink": {
 	      "link-text": "Logg inn og sjekk innboksen",
 				"link-url": "link.sider-portal-aktorvalg-forste-gang",
-	      "link-class": "a-linkFeatured",
+	      "linkClass": "a-linkFeatured",
 	      "link-icon": {
 	        "icon-prefix": "ai ai-sm ai-nw ai-nw-right",
-	        "icon-class": "ai-arrowright"
+	        "iconClass": "ai-arrowright"
 	      }
 	    }
 		}

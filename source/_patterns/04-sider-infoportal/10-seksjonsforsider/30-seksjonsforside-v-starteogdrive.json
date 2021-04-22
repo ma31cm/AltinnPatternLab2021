@@ -14,7 +14,7 @@
       "form-input-button-action": "Utfør søk",
       "button-icon": {
         "icon-prefix": "ai",
-        "icon-class": "ai-search"
+        "iconClass": "ai-search"
       },
       "button-text": [
         {
@@ -42,11 +42,11 @@
   "front-main-button": false,
   "front-main-button-text-right": "",
   "jumbo-link": {
-    "link-class": "a-linkFeatured",
+    "linkClass": "a-linkFeatured",
     "link-text": "Starte bedrift temaside",
     "link-icon": {
       "icon-prefix": "ai ai-sm ai-nw ai-nw-right",
-      "icon-class": "ai-arrowright"
+      "iconClass": "ai-arrowright"
     },
     "link-url": "link.sider-infoportal-temaside-v-starte"
   },
@@ -127,12 +127,12 @@
           ]
         },
         "collapse-panel-link": {
-          "link-class": "a-linkFeatured",
+          "linkClass": "a-linkFeatured",
           "link-text": "Arbeidsforhold temaside",
           "link-url": "link.sider-infoportal-temaside-v-arbeidsforhold",
           "link-icon": {
             "icon-prefix": "ai ai-sm ai-nw ai-nw-right",
-            "icon-class": "ai-arrowright"
+            "iconClass": "ai-arrowright"
           }
         },
         "collapse-panel-img": {
@@ -205,12 +205,12 @@
           ]
         },
         "collapse-panel-link": {
-          "link-class": "a-linkFeatured",
+          "linkClass": "a-linkFeatured",
           "link-text": "Skatt og avgift temaside",
           "link-url": "link.sider-infoportal-temaside-v-arbeidsforhold",
           "link-icon": {
             "icon-prefix": "ai ai-sm ai-nw ai-nw-right",
-            "icon-class": "ai-arrowright"
+            "iconClass": "ai-arrowright"
           }
         },
         "collapse-panel-img": true
@@ -281,12 +281,12 @@
           ]
         },
         "collapse-panel-link": {
-          "link-class": "a-linkFeatured",
+          "linkClass": "a-linkFeatured",
           "link-text": "Regnskap og revisjon temaside",
           "link-url": "link.sider-infoportal-temaside-v-arbeidsforhold",
           "link-icon": {
             "icon-prefix": "ai ai-sm ai-nw ai-nw-right",
-            "icon-class": "ai-arrowright"
+            "iconClass": "ai-arrowright"
           }
         },
         "collapse-panel-img": true
@@ -358,12 +358,12 @@
           ]
         },
         "collapse-panel-link": {
-          "link-class": "a-linkFeatured",
+          "linkClass": "a-linkFeatured",
           "link-text": "Eksport og import temaside",
           "link-url": "link.sider-infoportal-temaside-v-arbeidsforhold",
           "link-icon": {
             "icon-prefix": "ai ai-sm ai-nw ai-nw-right",
-            "icon-class": "ai-arrowright"
+            "iconClass": "ai-arrowright"
           }
         },
         "collapse-panel-img": true
@@ -434,12 +434,12 @@
           ]
         },
         "collapse-panel-link": {
-          "link-class": "a-linkFeatured",
+          "linkClass": "a-linkFeatured",
           "link-text": "Avvikling og konkurs temaside",
           "link-url": "link.sider-infoportal-temaside-v-arbeidsforhold",
           "link-icon": {
             "icon-prefix": "ai ai-sm ai-nw ai-nw-right",
-            "icon-class": "ai-arrowright"
+            "iconClass": "ai-arrowright"
           }
         },
         "collapse-panel-img": true
@@ -510,12 +510,12 @@
           ]
         },
         "collapse-panel-link": {
-          "link-class": "a-linkFeatured",
+          "linkClass": "a-linkFeatured",
           "link-text": "Alle støtteordninger",
           "link-url": "link.sider-infoportal-temaside-filter-v-stotteordninger",
           "link-icon": {
             "icon-prefix": "ai ai-sm ai-nw ai-nw-right",
-            "icon-class": "ai-arrowright"
+            "iconClass": "ai-arrowright"
           }
         },
         "collapse-panel-img": true
@@ -526,8 +526,8 @@
     "variation-class": "a-iconText-shadow a-iconText-background a-iconText-background--white",
     "hasIcon": {
       "icon-prefix": "ai",
-      "icon-class": "ai-circle-plus",
-      "icon-extra-class": "a-icon"
+      "iconClass": "ai-circle-plus",
+      "iconExtraClass": "a-icon"
     },
     "hasTextSmall": false,
     "link-text": "Registrer nytt foretak",
@@ -543,7 +543,7 @@
         "linkTitle": {
           "link-text": "Nå kommer sykmeldinger i Altinn",
     			"link-url": "link.sider-infoportal-artikkel-v-nyhet",
-    			"link-class": "a-link-title"
+    			"linkClass": "a-link-title"
         },
   			"category-element-description": "NAV er i ferd med å digitalisere sykmeldingen. Det skal gjøre det enklere for alle som er involvert i et sykefravær å samhandle. Tjenesten utvikles stegvis.",
   			"maxLines": "a-js-truncate-2"
@@ -552,7 +552,7 @@
         "linkTitle": {
     			"link-text": "NAV endrer rapportering av refusjon",
     			"link-url": "link.sider-infoportal-artikkel-v-nyhet",
-  		     "link-class": "a-link-title"
+  		     "linkClass": "a-link-title"
          },
   			"category-element-description": "Endring knyttet til rapportering av refusjon av sykepenger, foreldrepenger og pleie-, omsorgs- og opplæringspenger til arbeidsgivere: Fra 26. november 2016 blir det endringer i den månedlige oppgjørslisten/oppgjørsrapporten (K27) som sendes til arbeidsgiverne via Altinn, og for oppgjørslisten (K37) som benyttes etter hovedberegningen av refusjon av feriepenger i mai. I tillegg blir det endringer i kodeverdier.",
   			"maxLines": "a-js-truncate-2"
@@ -562,10 +562,10 @@
   	"linkFeatured": {
       "link-text": "Vis alle nyheter",
       "link-url": "link.sider-infoportal-arkiv-v-nyhetsarkiv",
-      "link-class": "a-linkFeatured",
+      "linkClass": "a-linkFeatured",
       "link-icon": {
         "icon-prefix": "ai ai-sm ai-nw ai-nw-right",
-        "icon-class": "ai-arrowright"
+        "iconClass": "ai-arrowright"
       }
     }
   }

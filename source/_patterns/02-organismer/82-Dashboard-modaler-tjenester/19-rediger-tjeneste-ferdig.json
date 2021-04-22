@@ -5,7 +5,7 @@
   },
   "close" : {
     "button-text": "Lukk",
-    "button-class": "a-btn mt-3",
+    "buttonClass": "a-btn mt-3",
     "button-id": "a-js-editService-done",
     "button-type": "button",
     "onclick": false,
@@ -19,7 +19,7 @@
   },
   "domore" : {
     "button-text": "Gjør flere endringer",
-    "button-class": "a-btn-link",
+    "buttonClass": "a-btn-link",
     "button-id": "a-js-editService-domore",
     "button-type": "button",
     "onclick": false,

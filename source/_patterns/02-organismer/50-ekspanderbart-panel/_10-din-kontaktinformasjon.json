@@ -26,7 +26,7 @@
       {
         "alert-link": {
           "link-text": "med en lenke som står i løpende tekst",
-          "link-class": "a-linkArea"
+          "linkClass": "a-linkArea"
         }
       }
     ]
@@ -43,7 +43,7 @@
       {
         "alert-link": {
           "link-text": "med en lenke som står i løpende tekst",
-          "link-class": "a-linkArea"
+          "linkClass": "a-linkArea"
         }
       }
     ]
@@ -68,7 +68,7 @@
     "isLarge": false,
     "form-label-hasIcon": {
       "icon-prefix": "ai",
-      "icon-class": "ai-closedmessage"
+      "iconClass": "ai-closedmessage"
     }
   },
   "my-contact-second-input": {
@@ -83,7 +83,7 @@
     "isLarge": false,
     "form-label-hasIcon": {
       "icon-prefix": "ai",
-      "icon-class": "ai-closedmessage"
+      "iconClass": "ai-closedmessage"
     }
   },
   "my-contact-third-input": {
@@ -98,7 +98,7 @@
     "isLarge": false,
     "form-label-hasIcon": {
       "icon-prefix": "ai",
-      "icon-class": "ai-closedmessage"
+      "iconClass": "ai-closedmessage"
     }
   },
   "crr-reservation": {
@@ -114,7 +114,7 @@
   },
   "crr-save-btn": {
     "button-text": "Lagre",
-    "button-class": "a-btn a-btn-success mr-1",
+    "buttonClass": "a-btn a-btn-success mr-1",
     "onclick": false,
     "button-icon": false
   }

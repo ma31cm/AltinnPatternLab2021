@@ -5,6 +5,6 @@
       "card-title": "Dette er en underoverskrift",
       "card-description": "Her står det en beskrivende tekst. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
       "icon-prefix": "ai",
-      "icon-class": "ai-others"
+      "iconClass": "ai-others"
   }
 }

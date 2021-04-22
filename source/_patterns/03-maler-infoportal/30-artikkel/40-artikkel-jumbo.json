@@ -32,8 +32,8 @@
 		"variation-class": "a-iconText-shadow a-iconText-background a-iconText-background--white",
 		"hasIcon": {
       "icon-prefix": "ai",
-      "icon-class": "ai-write",
-      "icon-extra-class": "a-icon"
+      "iconClass": "ai-write",
+      "iconExtraClass": "a-icon"
 		},
 	  "hasTextSmall": {
 	    "textSmall": "Ekstratittel"
@@ -62,7 +62,7 @@
 			"card-code": "(A01)",
 			"card-title": "For mindre virksomheter",
 			"card-description": "Direkte registrering i Altinn er tilpasset virksomheter med ca 1-8 ansatte med enkle arbeidsforhold. ",
-			"paragraph-content": "Forklarende tekst først"
+			"paragraphContent": "Forklarende tekst først"
 		}
 	},
 
@@ -70,8 +70,8 @@
 		"variation-class": "a-iconText-shadow a-iconText-background a-iconText-background--white",
 		"hasIcon": {
       "icon-prefix": "ai",
-      "icon-class": "ai-money",
-      "icon-extra-class": "a-icon"
+      "iconClass": "ai-money",
+      "iconExtraClass": "a-icon"
 		},
 		"hasTextSmall": false,
 		"link-text": "Lenk til et skjema eller noe annet",
@@ -80,7 +80,7 @@
 
 	"questionnaire": {
 		"link-text": "Vis svar",
-		"link-class": "a-btn",
+		"linkClass": "a-btn",
 		"link-url": "link.sider-infoportal-sammenlikning-v-velg-foretaksform"
 	},
 

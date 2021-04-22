@@ -14,7 +14,7 @@
     "personswitch-persons": [
       {
         "button-main": {
-          "button-class": "a-btn-shadow-large a-btn a-btn-shadow a-btn-icon a-bgGreyLight",
+          "buttonClass": "a-btn-shadow-large a-btn a-btn-shadow a-btn-icon a-bgGreyLight",
           "button-colorClass": "",
           "button-dot": false,
           "button-text": "Anne Pettersen",
@@ -25,8 +25,8 @@
           },
           "button-icon": {
             "icon-prefix": "ai",
-            "icon-class": "ai-private ai-left",
-            "icon-extra-class": ""
+            "iconClass": "ai-private ai-left",
+            "iconExtraClass": ""
           },
           "link-url": "link.sider-portal-innboks"
         },
@@ -35,7 +35,7 @@
       },
       {
         "button-main": {
-          "button-class": "a-btn-shadow-large a-btn a-btn-shadow a-btn-icon",
+          "buttonClass": "a-btn-shadow-large a-btn a-btn-shadow a-btn-icon",
           "button-colorClass": "",
           "button-dot": false,
           "button-text": "Pettersen foto forste gang json",
@@ -46,8 +46,8 @@
           },
           "button-icon": {
             "icon-prefix": "ai",
-            "icon-class": "ai-corp ai-left",
-            "icon-extra-class": ""
+            "iconClass": "ai-corp ai-left",
+            "iconExtraClass": ""
           },
           "link-url": "link.sider-kompakt-innboks"
         },

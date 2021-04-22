@@ -7,8 +7,8 @@
     "variation-class": "a-iconText-shadow a-iconText-large a-collapseBtn collapsed",
     "hasIcon": {
       "icon-prefix": "reg",
-      "icon-class": "reg-client",
-      "icon-extra-class": "a-icon"
+      "iconClass": "reg-client",
+      "iconExtraClass": "a-icon"
     },
     "hasTextSmall": false,
     "icontext": "Varslingsprofil for leverandør"
@@ -27,17 +27,17 @@
     "isInput-group": "input-group",
     "form-label-hasIcon": {
       "icon-prefix": "ai",
-      "icon-class": "ai-private",
-      "icon-extra-class": ""
+      "iconClass": "ai-private",
+      "iconExtraClass": ""
     },
     "form-input-hasButton": false
   },
   "addEmployeeButton": {
-    "button-class": "a-btn a-btn-action a-fullWidthBtn",
-    "action-button-text": "Legg til ny ansatt",
+    "buttonClass": "a-btn a-btn-action a-fullWidthBtn",
+    "actionButtonText": "Legg til ny ansatt",
     "icon-prefix": "ai",
-    "icon-class": "ai-plus",
-    "icon-extra-class": "",
+    "iconClass": "ai-plus",
+    "iconExtraClass": "",
     "sr-text": false,
     "data-toggle": "altinn-modal",
     "data-action": "load",
@@ -61,14 +61,14 @@
     "modal-navbar-override": {
       "button-list": [
         {
-          "button-class": "a-modal-close",
+          "buttonClass": "a-modal-close",
           "aria-label": "Lukk",
           "icon-prefix": "ai",
-          "icon-class": "ai-exit",
-          "icon-extra-class": "a-modal-close-icon",
+          "iconClass": "ai-exit",
+          "iconExtraClass": "a-modal-close-icon",
           "stacked-background": {
             "icon-prefix": "ai",
-            "icon-class": "ai-plain-circle-big"
+            "iconClass": "ai-plain-circle-big"
           },
           "is-modal-close": {
             "data-target": "#add-employee-modal"
@@ -93,14 +93,14 @@
     "modal-navbar-override": {
       "button-list": [
         {
-          "button-class": "a-modal-close",
+          "buttonClass": "a-modal-close",
           "aria-label": "Lukk",
           "icon-prefix": "ai",
-          "icon-class": "ai-exit",
-          "icon-extra-class": "a-modal-close-icon",
+          "iconClass": "ai-exit",
+          "iconExtraClass": "a-modal-close-icon",
           "stacked-background": {
             "icon-prefix": "ai",
-            "icon-class": "ai-plain-circle-big"
+            "iconClass": "ai-plain-circle-big"
           },
           "is-modal-close": {
             "data-target": "#edit-employee-modal"

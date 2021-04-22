@@ -9,14 +9,14 @@
       "telText": "Telefonnummer til Altinn kundestøtte",
       "tel-icon": {
         "icon-prefix": "ai ai-nw ai-nw-pr",
-        "icon-class": "ai-phone"
+        "iconClass": "ai-phone"
       }
     },
     "mail": {
       "mail-adress": "support@altinn.no",
       "mail-text": "Skriv til oss",
       "icon-prefix": "ai ai-nw ai-nw-pr",
-      "icon-class": "ai-send"
+      "iconClass": "ai-send"
     },
     "linkIcon": false
 	}

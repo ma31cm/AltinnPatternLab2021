@@ -8,27 +8,27 @@
 
   "button-list": [
     {
-      "button-class": "a-modal-back",
+      "buttonClass": "a-modal-back",
       "aria-label":  "Lukk",
       "button-icon-text": "keyboard_backspace",
       "onclick": "goBack()",
       "icon-prefix": "ai",
-      "icon-class": "ai-back",
-      "icon-extra-class": "",
+      "iconClass": "ai-back",
+      "iconExtraClass": "",
       "stacked-background": {
         "icon-prefix": "ai",
-        "icon-class": "ai-plain-circle-big"
+        "iconClass": "ai-plain-circle-big"
       }
     },
     {
-      "button-class": "a-modal-close",
+      "buttonClass": "a-modal-close",
       "aria-label":  "Lukk",
       "icon-prefix": "ai",
-      "icon-class": "ai-exit",
-      "icon-extra-class": "a-modal-close-icon",
+      "iconClass": "ai-exit",
+      "iconExtraClass": "a-modal-close-icon",
       "stacked-background": {
         "icon-prefix": "ai",
-        "icon-class": "ai-plain-circle-big"
+        "iconClass": "ai-plain-circle-big"
       },
       "onclick": "location.href='../../patterns/04-sider-infoportal-10-seksjonsforsider-30-seksjonsforside-v-starteogdrive/04-sider-infoportal-10-seksjonsforsider-30-seksjonsforside-v-starteogdrive.html';"
     }
@@ -37,8 +37,8 @@
   "variation-class": "a-iconText-background a-iconText-large",
   "hasIcon": {
     "icon-prefix": "ai",
-    "icon-class": "ai-circle-plus",
-    "icon-extra-class": "a-icon a-icon-circle"
+    "iconClass": "ai-circle-plus",
+    "iconExtraClass": "a-icon a-icon-circle"
   },
   "hasTextSmall": {
     "textSmall": "Brønnøysundregistrene"
@@ -122,16 +122,16 @@
   },
   "modal-successbutton": {
     "button-text": "Knapp",
-    "button-class": "a-btn a-btn-success"
+    "buttonClass": "a-btn a-btn-success"
   },
   "modal-deactivated": {
     "button-text": "Knapp",
-    "button-class": "a-btn disabled",
+    "buttonClass": "a-btn disabled",
     "button-disabled": "disabled"
   },
   "modal-discard": {
     "button-text": "Knapp",
-    "button-class": "a-btn-link",
+    "buttonClass": "a-btn-link",
     "display-as-link": true
   },
 

@@ -1,8 +1,8 @@
 {
   "icon-prefix": "ai",
-  "icon-class": "ai-deadline",
+  "iconClass": "ai-deadline",
   "icon-size": "",
-  "icon-extra-class": "",
+  "iconExtraClass": "",
   "icon-text": "",
   "icon-id": false,
   "sr-only": false,
