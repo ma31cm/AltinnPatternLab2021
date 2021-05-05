@@ -1,0 +1,13 @@
+{
+  "button-text": "En knapp med ikon og skygge",
+  "buttonClass": "a-btn a-btn-icon a-btn-shadow",
+  "button-colorClass": "",
+  "link-url": "",
+  "button-shadow-label": {
+    "label-content": "6"
+  },
+  "button-icon": {
+    "icon-prefix": "ai",
+    "iconClass": "ai-plus"
+  }
+}

@@ -10,7 +10,14 @@
     "pl:install": "patternlab install --config ./patternlab-config.json",
     "pl:serve": "patternlab serve --config ./patternlab-config.json",
     "pl:version": "patternlab --version",
-    "compileSass": "sass ./source/css/style.prototype.altinn.scss ./public/css/style.prototype.altinn.css --style=expanded --embed-sources"
+    "compileSass": "sass ./source/css/style.prototype.altinn.scss ./public/css/style.prototype.altinn.css --style=expanded --embed-sources",
+    "copyCommon": "shx cp -R ./source/common/_patterns/* ./source/altinn.no/_patterns/",
+    "copyCommonAltinnDigital": "shx cp -R ./source/common/_patterns/* ./source/altinndigital/_patterns/",
+    "pl:altinn": "patternlab serve --config ./source/altinn.no/patternlab-config.json",
+    "pl:altinndigital": "patternlab serve --config ./source/altinndigital/patternlab-config.json",
+    "start:altinn": "npm run copyCommon & npm run pl:altinn",
+    "start:altinndigital": "npm run copyCommonAltinnDigital & npm run pl:altinndigital",
+    "start:common": "patternlab serve --config ./source/common/patternlab-config.json"
   },
   "repository": {
     "type": "git",
@@ -33,6 +40,7 @@
   "devDependencies": {
     "bootstrap": "^4.6.0",
     "bootstrap-datepicker": "^1.9.0",
-    "sass": "^1.32.8"
+    "sass": "^1.32.8",
+    "shx": "^0.3.3"
   }
 }
