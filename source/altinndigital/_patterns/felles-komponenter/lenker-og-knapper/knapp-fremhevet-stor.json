@@ -1,0 +1,10 @@
+{
+  "buttonClass": "a-box-button",
+  "box-button-title": "STYRETS LEDER",
+  "box-button-person": "WILHELM MELLOM MJELDE",
+  "box-button-action": "Gi og fjerne rettigheter",
+  "icon-prefix": "ai",
+  "iconClass": "ai-private",
+  "icon-size": "ai-lg",
+  "iconExtraClass": "a-box-button-icon a-blueDarkText"
+}

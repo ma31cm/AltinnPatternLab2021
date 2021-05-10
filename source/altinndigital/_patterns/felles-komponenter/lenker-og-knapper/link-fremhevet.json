@@ -1,0 +1,10 @@
+{
+  "linkFeatured": {
+    "link-text": "En fremhevet lenke kan se slik ut",
+    "linkClass": "a-linkFeatured",
+    "link-icon": {
+      "icon-prefix": "ai ai-sm ai-nw ai-nw-right",
+      "iconClass": "ai-arrowright"
+    }
+  }
+}

@@ -21,7 +21,7 @@
   				</div>
   			</div>
         {{# hasWarning }}
-    			{{> atomer-varsel:a-py-minus-1 }}
+    			{{> felles-komponenter-varsel:a-py-minus-1 }}
     		{{/ hasWarning }}
   			{{> molekyler-kort-hoved:a-py-minus-1 }}
   		{{/ hasCard }}
@@ -30,9 +30,9 @@
   			<div class="row">
   				<div class="col-sm-12 col-lg-10 offset-lg-1 mb-2">
   						{{> molekyler-smulesti }}
-  						{{> atomer-sidetittel }}
+  						{{> felles-komponenter-sidetittel }}
   						{{> atomer-byline }}
-  						{{> atomer-intro-tekst}}
+  						{{> felles-komponenter-intro-tekst}}
   						{{#hasArticleStartLink}}{{> felles-komponenter-link }}{{/hasArticleStartLink}}
               <hr class="mt-2 mb-0 d-none d-lg-block">
   				</div>
@@ -54,7 +54,7 @@
   		{{/ hasContent }}
 
   		{{# hasMessage }}
-  			{{> atomer-varsel:a-py-minus-1 }}
+  			{{> felles-komponenter-varsel:a-py-minus-1 }}
   		{{/ hasMessage }}
 
   		{{# hasSearch }}

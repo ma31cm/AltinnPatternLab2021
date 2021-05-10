@@ -1,0 +1,21 @@
+{
+  "icon-items": [
+    {
+      "icon-prefix": "ai",
+      "iconClass": "ai-deadline",
+      "icon-size": "ai-sm",
+      "iconExtraClass": ""
+    },
+    {
+      "icon-prefix": "ai",
+      "iconClass": "ai-deadline",
+      "iconExtraClass": ""
+    },
+    {
+      "icon-prefix": "ai",
+      "iconClass": "ai-deadline",
+      "icon-size": "ai-lg",
+      "iconExtraClass": ""
+    }
+  ]
+}

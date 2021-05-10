@@ -10,13 +10,13 @@
 				<div class="col-sm-12 col-lg-10 offset-lg-1 pb-3">
 
           {{#title-only}}
-          {{> atomer-sidetittel }}
+          {{> felles-komponenter-sidetittel }}
           {{/title-only}}
 					
           {{#title-link}}
           <div class="d-flex">
             <div class="flex-grow-1">
-            {{> atomer-sidetittel}}
+            {{> felles-komponenter-sidetittel}}
             </div>
             <div class="align-self-center pb-1 text-right">
             {{> felles-komponenter-link }}
@@ -24,15 +24,15 @@
           </div>
           {{/title-link}}
 
-          {{> atomer-intro-tekst }}
+          {{> felles-komponenter-intro-tekst }}
           {{> atomer-avsnitt }}
 
           {{# dashboard-subscribe-modal }}
-            {{> organismer-modal }}
+            {{> felles-komponenter-modal }}
           {{/ dashboard-subscribe-modal }}
 
           {{# active-alerts }}
-            {{> atomer-varsel }}
+            {{> felles-komponenter-varsel }}
           {{/ active-alerts }}
 
 				</div>
@@ -50,10 +50,10 @@
               <article class="a-linkArticle" {{# identifier }}id="{{ identifier }}"{{/ identifier }}>
 
               {{> atomer-byline }}
-              {{> atomer-undertittel:d-inline }}
+              {{> felles-komponenter-undertittel:d-inline }}
 
               {{# label }}
-							  {{> atomer-merkelapp }}
+							  {{> felles-komponenter-merkelapp }}
 					    {{/ label }}
               
 
@@ -63,7 +63,7 @@
 					{{/ list-article }}
 
 					{{# list-article-loadmore }}
-				    {{> atomer-handlingsknapp }}
+				    {{> felles-komponenter-handlingsknapp }}
 				  {{/ list-article-loadmore }}
 
 				</div>
