@@ -14,11 +14,11 @@
     {{/ category }}
 
     {{# fromDate }}
-      {{> atomer-datovelger }}
+      {{> felles-komponenter-datovelger }}
     {{/ fromDate }}
 
     {{# toDate }}
-      {{> atomer-datovelger }}
+      {{> felles-komponenter-datovelger }}
     {{/ toDate }}
 
     {{# sendingMethod }}
@@ -52,7 +52,7 @@
 
         <div class="tab-pane {{# checkSecond }}active{{/ checkSecond }}" id="email" role="tabpanel" aria-expanded="{{# checkSecond }}true{{/ checkSecond }}">
           {{# alertDate }}
-              {{> atomer-datovelger:mb-1 }}
+              {{> felles-komponenter-datovelger:mb-1 }}
           {{/ alertDate }}
 
           {{# alertTime }}
@@ -62,7 +62,7 @@
 
         <div class="tab-pane {{# checkThird }}active{{/ checkThird }}" id="sms-and-email" role="tabpanel" aria-expanded="{{# checkThird }}true{{/ checkThird }}">
           {{# alertDate }}
-              {{> atomer-datovelger:mb-1 }}
+              {{> felles-komponenter-datovelger:mb-1 }}
           {{/ alertDate }}
 
           {{# alertTime }}

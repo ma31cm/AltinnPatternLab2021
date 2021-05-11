@@ -1,0 +1,30 @@
+{
+  "button-list": [
+    {
+      "buttonClass": "a-modal-back",
+      "aria-label":  "Gå tilbake",
+      "onclick": false,
+      "enable-popover": false,
+      "stacked-background": {
+        "icon-prefix": "ai",
+        "iconClass": "ai-plain-circle-big"
+      },
+      "icon-prefix": "ai",
+      "iconClass": "ai-back",
+      "iconExtraClass": ""
+    },
+    {
+      "buttonClass": "a-modal-close",
+      "aria-label":  "Lukk",
+      "onclick": false,
+      "enable-popover": false,
+      "stacked-background": {
+        "icon-prefix": "ai",
+        "iconClass": "ai-plain-circle-big"
+      },
+      "icon-prefix": "ai",
+      "iconClass": "ai-exit",
+      "iconExtraClass": "a-modal-close-icon"
+    }
+  ]
+}

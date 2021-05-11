@@ -5,11 +5,11 @@
 
       <div class="container px-1 px-lg-2 px-xl-0 mb-md-4 mb-lg-6">
         <h1 class="a-fontBold a-blueDarkerText a-fontSizeXL">{{ page-title }}</h1>
-        {{> atomer-avsnitt(paragraphClass: "a-blueDarkerText a-fontSizeXL") }}
+        {{> felles-komponenter-avsnitt(paragraphClass: "a-blueDarkerText a-fontSizeXL") }}
       </div>
       {{# crumbs }}
         <div class="container px-1 px-lg-2 px-xl-0 mb-3 mb-lg-2">
-          {{> molekyler-smulesti }}
+          {{> felles-komponenter-smulesti }}
         </div>  
       {{/ crumbs }}
     <div class="container">
@@ -20,7 +20,7 @@
 
     <div class="container">
         <div class="col-sm-12 col-lg-8 offset-lg-2 a-text epi-wysiwyg mb-3 mb-sm-4">
-            {{> atomer-avsnitt }}
+            {{> felles-komponenter-avsnitt }}
         </div>                  
     </div>
     {{# slideshowBlock }}
@@ -31,7 +31,7 @@
           <div class="col-sm-12 col-lg-8 offset-lg-2 a-text epi-wysiwyg mb-5 mb-sm-6">
             {{# paragraphs }}
               <h2 class="a-h4">{{section-title}}</h2>
-              {{> atomer-avsnitt }}
+              {{> felles-komponenter-avsnitt }}
             {{/ paragraphs}}
             {{# pointlist }}
               <h2 class="a-h4">{{section-title}}</h2>
