@@ -1,0 +1,8 @@
+{
+  "box-button-add-textover": "Legg til ny person",
+  "box-button-add-textunder": "eller virksomhet",
+  "icon-prefix": "ai",
+  "iconClass": "ai-plus",
+  "icon-size": "ai-lg",
+  "iconExtraClass": "a-box-button-icon a-blueDarkText"
+}

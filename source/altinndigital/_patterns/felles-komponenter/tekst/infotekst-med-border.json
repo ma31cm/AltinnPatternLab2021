@@ -1,0 +1,8 @@
+{
+  "infotext-withboarder-text": "Tekst",
+  "infotext-withboarder-button": {
+    "button-text": "knapp",
+    "buttonClass": "a-btn-link",
+    "display-as-link": true
+  }
+}

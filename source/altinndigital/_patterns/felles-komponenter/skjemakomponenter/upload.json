@@ -1,0 +1,18 @@
+{
+  "label": {
+    "class": "a-form-label a-fontBold",
+    "text": "Virksomhetssertifikat"
+  },
+  "input": {
+    "class": "a-btn a-btn-action a-iconRight a-custom-fileupload mb-0 mt-1",
+    "text": "Last opp sertifikat",
+    "id": "newCertificateInput",
+    "icon-after": {
+      "icon-prefix": "ai",
+      "iconClass": "ai-upload",
+      "icon-size": "",
+      "iconExtraClass": ""
+    }
+  },
+  "certificate-list": false
+}

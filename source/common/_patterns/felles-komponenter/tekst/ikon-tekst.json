@@ -1,0 +1,9 @@
+{
+  "hasIcon": {
+    "icon-prefix": "ai",
+    "iconClass": "ai-server",
+    "iconExtraClass": "a-icon a-icon-circle"
+  },
+  "hasTextSmall": false,
+  "icontext": "Stor tekst"
+}

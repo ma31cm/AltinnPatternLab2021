@@ -1,0 +1,32 @@
+{
+  "info-delete-add": {
+    "added-content": [{
+      "title": "Tittel på elementet",
+      "delete-btn": {
+        "button-text": "Slett",
+        "buttonClass": "a-btn a-btn-icon",
+        "button-colorClass": "",
+        "link-url": "",
+        "button-shadow-label": false,
+        "button-icon": {
+          "icon-prefix": "ai",
+          "iconClass": "ai-circle-exit",
+          "iconExtraClass": "a-danger ai-left"
+        }
+      },
+      "description": "Dette er en beskrivelse av elementet som er blitt lagt til"
+    }],
+    "add-btn": {
+      "button-text": "Legg til",
+      "buttonClass": "a-btn a-btn-icon a-btn-add a-add-certificate",
+      "button-colorClass": "",
+      "link-url": "",
+      "button-shadow-label": false,
+      "button-icon": {
+        "icon-prefix": "ai",
+        "iconClass": "ai-circle-plus",
+        "iconExtraClass": "a-blueText"
+      }
+    }
+  }
+}

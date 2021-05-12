@@ -2,7 +2,7 @@
   <div class="card-header a-js-index-heading a-collapsePanel-heading collapsed {{isExpanded}}" id="{{ collapse-panel-header-id }}" role="tab">
     <a href="#" data-toggle="collapse" data-target="#{{{ collapseID }}}" aria-expanded="false" aria-controls="{{ collapseID }}">
       {{# collapseHeader }}
-        {{> molekyler-ikon-tekst }}
+        {{> felles-komponenter-ikon-tekst }}
       {{/ collapseHeader }}
     </a>
   </div>
@@ -15,7 +15,7 @@
         <div class="a-collapsePanel-body-content d-none a-js-certificateUpload">
           <div class="row">
             <div class="col-12">
-              {{> atomer-upload }}
+              {{> felles-komponenter-upload }}
               {{# cancel-link }}
                 {{> felles-komponenter-knapp-link }}
               {{/ cancel-link }}
