@@ -31,11 +31,11 @@
   },
   "homepage": "https://github.com/ma31cm/AltinnPatternLab2021#readme",
   "dependencies": {
-    "@pattern-lab/cli": "^5.14.1",
-    "@pattern-lab/core": "^5.14.1",
+    "@pattern-lab/cli": "^5.14.3",
+    "@pattern-lab/core": "^5.14.3",
     "@pattern-lab/engine-handlebars": "^5.14.0",
     "@pattern-lab/starterkit-handlebars-vanilla": "^1.4.0",
-    "@pattern-lab/uikit-workshop": "^5.14.1"
+    "@pattern-lab/uikit-workshop": "^5.14.3"
   },
   "devDependencies": {
     "bootstrap": "^4.6.0",
