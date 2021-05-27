@@ -20,3 +20,24 @@ gulp.task('pl-copy:distribution-js', function (done) {
     });
     done();
 });
+
+// Flatten prototyping JS and copy into public JS folder:
+gulp.task('pl-copy:designsystemdev-js', function(done) {
+    buildConfig.prototyping.forEach(function(element) {
+        if(element.javascript) {
+            element.javascript.forEach(function(bundle) {
+                return gulp.src(bundle.files)
+                    .pipe(gulp_concat('concat.js'))
+                    .pipe(gulp_rename(bundle.filename))
+                    .pipe(gulp.dest('public/js'));
+            });
+        }
+    });
+    done();
+});
+
+// Copy jQuery distribution from installed package into public JS folder:
+gulp.task('pl-copy:jq', function() {
+    return gulp.src('node_modules/jquery/dist/jquery.min.js')
+        .pipe(gulp.dest('public/js'));
+});
