@@ -61,15 +61,15 @@
       "css": "./source/css"
     },
     "public": {
-      "root": "public/",
-      "patterns": "public/patterns/",
-      "data": "public/styleguide/data/",
-      "annotations": "public/annotations/",
-      "styleguide": "public/styleguide/",
-      "js": "public/js",
-      "images": "public/images",
-      "fonts": "public/fonts",
-      "css": "public/css"
+      "root": "public/altinndigital/",
+      "patterns": "public/altinndigital/patterns/",
+      "data": "public/altinndigital/styleguide/data/",
+      "annotations": "public/altinndigital/annotations/",
+      "styleguide": "public/altinndigital/styleguide/",
+      "js": "public/altinndigital/js",
+      "images": "public/altinndigital/images",
+      "fonts": "public/altinndigital/fonts",
+      "css": "public/altinndigital/css"
     }
   },
   "patternExtension": "hbs",

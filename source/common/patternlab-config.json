@@ -61,15 +61,15 @@
       "css": "./source/css"
     },
     "public": {
-      "root": "public/",
-      "patterns": "public/patterns/",
-      "data": "public/styleguide/data/",
-      "annotations": "public/annotations/",
-      "styleguide": "public/styleguide/",
-      "js": "public/js",
-      "images": "public/images",
-      "fonts": "public/fonts",
-      "css": "public/css"
+      "root": "public/common/",
+      "patterns": "public/common/patterns/",
+      "data": "public/common/styleguide/data/",
+      "annotations": "public/common/annotations/",
+      "styleguide": "public/common/styleguide/",
+      "js": "public/common/js",
+      "images": "public/common/images",
+      "fonts": "public/common/fonts",
+      "css": "public/common/css"
     }
   },
   "patternExtension": "hbs",
