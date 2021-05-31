@@ -29,7 +29,7 @@ gulp.task('pl-copy:designsystemdev-js', function(done) {
                 return gulp.src(bundle.files)
                     .pipe(gulp_concat('concat.js'))
                     .pipe(gulp_rename(bundle.filename))
-                    .pipe(gulp.dest('public/js'));
+                    .pipe(gulp.dest('public/altinn/js'));
             });
         }
     });
@@ -39,5 +39,5 @@ gulp.task('pl-copy:designsystemdev-js', function(done) {
 // Copy jQuery distribution from installed package into public JS folder:
 gulp.task('pl-copy:jq', function() {
     return gulp.src('node_modules/jquery/dist/jquery.min.js')
-        .pipe(gulp.dest('public/js'));
+        .pipe(gulp.dest('public/altinn/js'));
 });

@@ -106,5 +106,3 @@ typings/
 # WebStorm file
 .idea/
 
-# PatternLab compiled files
-public/

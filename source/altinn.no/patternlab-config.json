@@ -61,15 +61,15 @@
       "css": "./source/css"
     },
     "public": {
-      "root": "public/",
-      "patterns": "public/patterns/",
-      "data": "public/styleguide/data/",
-      "annotations": "public/annotations/",
-      "styleguide": "public/styleguide/",
-      "js": "public/js",
-      "images": "public/images",
-      "fonts": "public/fonts",
-      "css": "public/css"
+      "root": "public/altinn/",
+      "patterns": "public/altinn/patterns/",
+      "data": "public/altinn/styleguide/data/",
+      "annotations": "public/altinn/annotations/",
+      "styleguide": "public/altinn/styleguide/",
+      "js": "public/altinn/js",
+      "images": "public/altinn/images",
+      "fonts": "public/altinn/fonts",
+      "css": "public/altinn/css"
     }
   },
   "patternExtension": "hbs",
