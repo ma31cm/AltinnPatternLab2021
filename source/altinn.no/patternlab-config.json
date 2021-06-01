@@ -58,7 +58,7 @@
       "js": "./source/js",
       "images": "./source/images",
       "fonts": "./source/fonts",
-      "css": "./source/css"
+      "css": "./source/altinn.no/css"
     },
     "public": {
       "root": "public/altinn/",
