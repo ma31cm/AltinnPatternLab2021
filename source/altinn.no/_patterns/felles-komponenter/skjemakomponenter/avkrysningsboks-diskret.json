@@ -1,17 +1,38 @@
 {
-  "isDiscreet": true,
+  "flexWrap": false,
   "check-legend": {
     "check-legendText": "Velg ett eller flere alternativer"
   },
-  "checkboxes":  [
+  "checkboxes": [
     {
-      "checkboxID" : "checkDiscret1",
-      "checkboxes-title": "Kryss av i den første avkrysningsboksen"
+      "isInline": true,
+      "isChecked": false,
+      "checkboxID": "checkDiscret1",
+      "checkboxes-title": "Kryss av i den første avkrysningsboksen",
+      "isRequired": false
     },
     {
-      "checkboxID" : "checkDiscret2",
+      "isInline": true,
+      "isChecked": false,
+      "checkboxID": "checkDiscret2",
       "checkboxes-title": "Kryss av i den andre avkrysningsboksen",
+      "isRequired": false,
       "inactive": false
+    },
+    {
+      "isInline": true,
+      "isChecked": false,
+      "checkboxID": "check3",
+      "checkboxes-title": "En avkrysningsboks som er required",
+      "isRequired": true
+    },
+    {
+      "inactive": true,
+      "isChecked": false,
+      "checkboxID": "check4",
+      "checkboxes-title": "En deaktivert avkrysningsboks",
+      "isRequired": false
     }
-  ]
+  ],
+  "isDiscreet": true
 }

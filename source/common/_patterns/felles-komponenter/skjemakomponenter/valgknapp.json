@@ -1,8 +1,27 @@
 {
-  "checkbuttons":  [
+  "button-text": "En standard knapp",
+  "buttonClass": "a-btn",
+  "button-disabled": false,
+  "button-type": "button",
+  "onclick": false,
+  "button-icon": false,
+  "display-as-link": false,
+  "icon-prefix": "ai",
+  "iconClass": "ai-deadline",
+  "icon-size": "",
+  "iconExtraClass": "",
+  "icon-text": "",
+  "icon-id": false,
+  "sr-only": false,
+  "aria-hidden": false,
+  "stacked-background": false,
+  "icon-post-text": false,
+  "icon-title": false,
+  "icon-sr-only-text": false,
+  "checkbuttons": [
     {
       "checkbuttons-title": " Kun lese",
-    	"checkbuttons-id": "checkbutton-read",
+      "checkbuttons-id": "checkbutton-read",
       "checkbuttons-class": "",
       "hasIcon": {
         "icon-prefix": "ai",
@@ -10,8 +29,8 @@
       }
     },
     {
-    	"checkbuttons-title": " Fylle ut",
-    	"checkbuttons-id": "checkbutton-edit",
+      "checkbuttons-title": " Fylle ut",
+      "checkbuttons-id": "checkbutton-edit",
       "checkbuttons-class": "",
       "hasIcon": {
         "icon-prefix": "ai",
@@ -19,8 +38,8 @@
       }
     },
     {
-    	"checkbuttons-title": " Signere",
-    	"checkbuttons-id": "checkbutton-sign",
+      "checkbuttons-title": " Signere",
+      "checkbuttons-id": "checkbutton-sign",
       "checkbuttons-class": "",
       "role": "button",
       "hasIcon": {
@@ -28,7 +47,7 @@
         "iconClass": "ai-sign"
       },
       "stacked-background": false,
-      "enable-popover":  true,
+      "enable-popover": true,
       "popover-placement": "bottom",
       "popover-content-id": "conditionalPopover",
       "popover-class": "popover-warning",
@@ -42,8 +61,8 @@
       ]
     },
     {
-    	"checkbuttons-title": " Toggle state icon",
-    	"checkbuttons-id": "checkbutton-toggle",
+      "checkbuttons-title": " Toggle state icon",
+      "checkbuttons-id": "checkbutton-toggle",
       "checkbuttons-class": "a-toggle-icon",
       "hasIcon": {
         "icon-prefix": "ai",
@@ -56,14 +75,14 @@
       }
     },
     {
-    	"checkbuttons-title": "Eksempel uten ikon",
-    	"checkbuttons-id": "checkbutton-example",
+      "checkbuttons-title": "Eksempel uten ikon",
+      "checkbuttons-id": "checkbutton-example",
       "checkbuttons-class": "",
       "hasIcon": false
     },
     {
-    	"checkbuttons-title": "Eksempel på deaktivert",
-    	"checkbuttons-id": "checkbutton-deactivated",
+      "checkbuttons-title": "Eksempel på deaktivert",
+      "checkbuttons-id": "checkbutton-deactivated",
       "checkbuttons-class": "disabled",
       "isDisabled": true,
       "hasIcon": {
@@ -72,8 +91,8 @@
       }
     },
     {
-    	"checkbuttons-title": "Eksempel med veldig veldig veldig lang tekst som blir kuttet av på mobilvisning",
-    	"checkbuttons-id": "checkbutton-longtext",
+      "checkbuttons-title": "Eksempel med veldig veldig veldig lang tekst som blir kuttet av på mobilvisning",
+      "checkbuttons-id": "checkbutton-longtext",
       "checkbuttons-class": "",
       "hasIcon": false
     }

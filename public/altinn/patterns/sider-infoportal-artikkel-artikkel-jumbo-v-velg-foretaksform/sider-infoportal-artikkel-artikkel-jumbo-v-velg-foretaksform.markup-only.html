@@ -9,7 +9,7 @@
 </nav>
 
 <!-- Begin .header -->
-<header class="a-header a-darkBackground ">
+<header class="a-header a-darkBackground  a-js-hideElement ">
 	<!-- Begin .container -->
   <div class="container">
     <div class="row">
@@ -18,7 +18,7 @@
     		<!-- Begin .a-globalNav -->
     		<nav id="primary-nav" class="a-globalNav">
     			<a href="" class="a-globalNav-logo"> 
-<img src="..&#x2F;..&#x2F;images&#x2F;a-logo-white.svg" alt="Altinn logo" class="a-logo  ">
+<img src="..&#x2F;..&#x2F;images&#x2F;a-logo-white.svg" alt="Altinn logo" class="a-logo a-modal-top-logo ">
  <span class="sr-only">Til forsiden</span>
           </a>
 
@@ -28,11 +28,88 @@
     			  <div class="collapse navbar-toggleable-sm a-globalNav-main" id="exCollapsingNavbar2">
     					<ul class="" id="exCollapsingNavbar">
     						<li class="d-md-none">
+
+  <div class="form-group a-form-group   ">
+
+      <label class="a-form-label  sr-only  " for="dropdown-input-search">Søk etter innhold</label>
+
+    <div class="a-form-group-items input-group   ">
+
+
+      <input class="form-control  
+         a-hasButton  "
+        type="search" 
+        placeholder="Søk etter innhold"
+        
+        name="input-field"
+        data-val="true"
+        id="dropdown-input-search"
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+      >
+
+        <div class="input-group-append">
+          <button onclick="location.href='';" class="btn btn-secondary" type="button"  >
+<i class="ai ai-search   "    ></i>
+
+
+              <span class="sr-only">Søk</span>
+          </button>
+        </div>
+
+
+
+    </div>
+
+
+
+  </div>
+
     						</li>
                 <li class="d-md-none dropdown">
                   <a lang="en" class="nav-link dropdown-toggle a-languageSwitcher" href="javascript:void(0)" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                     language
                   </a>
+                    <!-- Begin #a-dropdown-languages - -->
+<div class="dropdown-menu a-dropdown-languages a-dropdownTriangle">
+    <a class="dropdown-item" href="#">
+      <img src="../../images/norsk.svg" class="a-iconLeft a-flag" alt="" />
+      <p>
+        <span  class="a-h3">Bokmål</span><br>
+        <span >Alt innhold er tilgjengelig på bokmål.</span>
+      </p>
+    </a>
+    <a class="dropdown-item" href="#">
+      <img src="../../images/english.svg" class="a-iconLeft a-flag" alt="" />
+      <p>
+        <span lang="en" class="a-h3">English</span><br>
+        <span lang="en">All content is available in english.</span>
+      </p>
+    </a>
+    <a class="dropdown-item" href="#">
+      <img src="../../images/norsk.svg" class="a-iconLeft a-flag" alt="" />
+      <p>
+        <span  class="a-h3">Nynorsk</span><br>
+        <span >Det er førebels berre skjema som er tilgjengelig på nynorsk. Andre sider vil vises med bokmål.</span>
+      </p>
+    </a>
+    <a class="dropdown-item" href="#">
+      <img src="../../images/globe.svg" class="a-iconLeft a-flag a-globe" alt="" />
+      <p>
+        <span lang="en" class="a-h3">Other languages</span><br>
+        <span lang="en">Information about other languages.</span>
+      </p>
+    </a>
+</div>
+
                 </li>
     						<li><a class=" " href="">
                     <span class="a-hvr-underline a-js-onboardingTarget-2 ">innboks</span></a></li>
@@ -47,6 +124,9 @@
     						<li class="d-md-none"><a class="a-hvr-underline" href="">om altinn</a></li>
     						<li class="d-md-none">
                   <a class="a-hvr-underline" href="&#x2F;patterns&#x2F;sider-infoportal-navigasjonssider-hjelpesenter\sider-infoportal-navigasjonssider-hjelpesenter.rendered.html">
+<i class="ai ai-nw ai-nw-pr ai-phone   "    ></i>
+
+
                     hjelp og kontakt
                   </a>
                 </li>
@@ -63,21 +143,305 @@
               Language
             </a>
 
+              <!-- Begin #a-dropdown-languages - -->
+<div class="dropdown-menu a-dropdown-languages a-dropdownTriangle">
+    <a class="dropdown-item" href="#">
+      <img src="../../images/norsk.svg" class="a-iconLeft a-flag" alt="" />
+      <p>
+        <span  class="a-h3">Bokmål</span><br>
+        <span >Alt innhold er tilgjengelig på bokmål.</span>
+      </p>
+    </a>
+    <a class="dropdown-item" href="#">
+      <img src="../../images/english.svg" class="a-iconLeft a-flag" alt="" />
+      <p>
+        <span lang="en" class="a-h3">English</span><br>
+        <span lang="en">All content is available in english.</span>
+      </p>
+    </a>
+    <a class="dropdown-item" href="#">
+      <img src="../../images/norsk.svg" class="a-iconLeft a-flag" alt="" />
+      <p>
+        <span  class="a-h3">Nynorsk</span><br>
+        <span >Det er førebels berre skjema som er tilgjengelig på nynorsk. Andre sider vil vises med bokmål.</span>
+      </p>
+    </a>
+    <a class="dropdown-item" href="#">
+      <img src="../../images/globe.svg" class="a-iconLeft a-flag a-globe" alt="" />
+      <p>
+        <span lang="en" class="a-h3">Other languages</span><br>
+        <span lang="en">Information about other languages.</span>
+      </p>
+    </a>
+</div>
+
           </li>
 
     			<li class="nav-item">
     				<!-- Dropdown toggle -->
-  <div class="a-personSwitcher " title="Logg inn ">
+  <button class="nav-link dropdown-toggle a-personSwitcher logged-in  " 
+  type="button" 
+  aria-haspopup="true" 
+  aria-expanded="false"  
+  title="Logg inn "
+   
+   data-toggle="dropdown"
+  
+  
+  
+  
+  >
   <span
     class="a-personSwitcher-name">
     <span class="d-block">Logg inn</span>
     <span class="d-block"></span>
   </span>
-<i class="    "    ></i>
+<i class="ai ai-private-circle-big  a-personSwitcher-icon a-js-onboardingTarget-1 "    ></i>
+  <span class="sr-only">Min profil</span>
+
+
+
+  </button>
+
+              <!-- Begin #a-dropdown-personswitchList - -->
+<div class="dropdown-menu a-dropdown-personswitchList a-dropdownTriangle">
+
+  <div class="pt-5 pl-3 pr-3">
+
+    <a
+  
+  class="a-link-logout "
+  
+  
+  
+  
+  
+  
+  >
+  En lenke ser slik ut
+  
+</a>
+
+      <div class="row">
+        <div class="col-sm-12 px-0 mb-2">
+          <div class="a-personRole">
+          <i class="ai ai-private ai-lg   "    ></i>
+          
+          
+            <div class="a-personRole-text " title="Jan Derek Sørensen Julius Andreas Gimli Arn MacGyver Chewbacka Highlander Elessar-Jankov">
+              <span class="a-personRole-name">Jan Derek Sørensen Julius Andreas Gimli Arn MacGyver Chewbacka Highlander Elessar-Jankov</span>
+              <span class="a-personRole-role"></span>
+                <a
+            
+            class=" "
+            
+            
+            
+            
+            
+            
+            >
+            Innstillinger
+            
+          </a>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <p class="a-h2">
+        Alle dine profiler: 
+      </p>
+
+
+  <div class="form-group a-form-group   ">
+
+      <label class="a-form-label  sr-only  " for="person-switch-input-field">Søk etter aktør</label>
+
+    <div class="a-form-group-items input-group   ">
+        <span class="input-group-prepend d-none d-md-block"><i class="ai ai-others   "    ></i>
+
+</span>
+
+
+      <input class="form-control   a-hasIcon 
+         "
+        type="search" 
+        placeholder="Søk etter aktør"
+        
+        name="input-field"
+        data-val="true"
+        id="person-switch-input-field"
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+      >
+
+
+
+
+    </div>
 
 
 
   </div>
+
+        <p class="a-fontBold a-fontSizeXS">
+          Ingen treff, prøv et annet søkeord.
+        <p>
+
+
+      <div class="row mt-1 px-md-2 px-sm-1">
+        <div class="col-md col-12 mb-md-4 mb-1">
+            <div class="a-favourites">
+              <h2 class="a-h4">Favoritter:</h2>
+                <div class="a-list-container ">
+                  <ul class="a-list   a-list-borderTop a-list-noIcon ">
+                      <li  class="a-list-rowLink a-list-rowLink-inactive"  >
+                            <div class="row ">
+                          <div  class="col-12 text-center">
+                     <span class="a-fontSizeXXS"  title="Altinn"> 
+                    Din favorittliste er tom. Klikk på stjernesymbolet for å legge til en aktør i listen.
+                     </span> 
+                
+                
+                
+                
+                
+                
+                            </div>
+                          </div>
+                      </li>
+                  </ul>
+                </div>            
+            
+              <br class="a-list-rowLink a-list-rowLink-inactive">
+              
+                <div class="a-list-container ">
+                  <ul class="a-list   a-list-borderTop a-list-noIcon ">
+                      <li  class="a-dotted a-clickable a-list-hasRowLink"  >
+                            <a href="#" class="a-list-rowLink"
+                            
+                            
+                            
+                            >
+                            <div class="row ">
+                          <div  class="col-12">
+                     <span class="a-fontBold a-break-name-orgnr col-11"  title="Altinn"> 
+                    Anne Pettersen
+                     </span> 
+                      <span class="a-fontSizeXXS">fødselsnr. 123456 *****</span>
+                
+                
+                
+                
+                
+                
+                            </div>
+                          <div  class="text-right a-favourite">
+                
+                
+                
+                
+                    <button type="button" 
+                      class="a-btn a-btn-icon a-btn-overlay-right  "
+                       aria-label="knapp med popover"  
+                      
+                      
+                      
+                      
+                      
+                      
+                       title="Altinn" 
+                      
+                      >
+                    
+                    <i class="ai ai-favourite ai-xs  "    ></i>
+                    
+                    
+                    
+                    
+                    
+                    
+                    </button>
+                    
+                
+                
+                            </div>
+                          </div>
+                        </a>
+                      </li>
+                      <li  class="a-dotted a-clickable a-list-hasRowLink"  >
+                            <a href="#" class="a-list-rowLink"
+                            
+                            
+                            
+                            >
+                            <div class="row ">
+                          <div  class="col-12">
+                     <span class="a-fontBold a-break-name-orgnr col-11"  title="Altinn"> 
+                    Pettersen Regnskap - Stavanger AS
+                     </span> 
+                      <span class="a-fontSizeXXS">org.nr. 908 987 519</span>
+                
+                
+                
+                
+                
+                
+                            </div>
+                          <div  class="text-right a-favourite">
+                
+                
+                
+                
+                    <button type="button" 
+                      class="a-btn a-btn-icon a-btn-overlay-right  "
+                       aria-label="knapp med popover"  
+                      
+                      
+                      
+                      
+                      
+                      
+                       title="Altinn" 
+                      
+                      >
+                    
+                    <i class="ai ai-favourite ai-xs  "    ></i>
+                    
+                    
+                    
+                    
+                    
+                    
+                    </button>
+                    
+                
+                
+                            </div>
+                          </div>
+                        </a>
+                      </li>
+                  </ul>
+                </div>            
+            </div>
+        </div>
+      </div>
+
+
+  </div>
+
+
+
+</div>
 
     			</li>
     		</ul> <!-- End .a-globalNav-options -->
@@ -92,18 +456,18 @@
 
 	<section id="content" tabindex="-1">
 
-			<div class="jumbotron jumbotron-fluid a-jumbotron a-jumbotron-header a-jumbotron-bottom a-jumbotron-large a-jumbotron-dark" style="background-color: ;  background-image: url('../../images/header-bg5.svg') " >
+			<div class="jumbotron jumbotron-fluid a-jumbotron a-jumbotron-header a-jumbotron-bottom a-jumbotron-large a-jumbotron-dark" style="background-color: #cff0ff;  background-image: url('../../images/header-bg5.svg') " >
   <div class="container">
     <div class="row">
-      <div class="    col-md-12 offset-md-0 col-lg-8 offset-lg-1  ">
+      <div class="    col-md-12 offset-md-0 col-lg-8 offset-lg-1 col-xl-8 offset-xl-2">
 
       		
 <ol class="breadcrumb a-breadcrumb ">
     <li class="breadcrumb-item ">
-      <a href="/patterns/sider-infoportal-seksjonsforsider-seksjonsforside-v-starteogdrive/sider-infoportal-seksjonsforsider-seksjonsforside-v-starteogdrive.rendered.html">Starte og drive bedrift</a>
+      <a href="/patterns/04-sider-infoportal-10-seksjonsforsider-30-seksjonsforside-v-starteogdrive/04-sider-infoportal-10-seksjonsforsider-30-seksjonsforside-v-starteogdrive.html">Starte og drive bedrift</a>
     </li>
     <li class="breadcrumb-item breadcrumb-mobile">
-      <a href="/patterns/sider-infoportal-navigasjonssider-temaside-v-starte/sider-infoportal-navigasjonssider-temaside-v-starte.rendered.html">Starte bedrift</a>
+      <a href="/patterns/04-sider-infoportal-20-navigasjonssider-31-temaside-v-starte/04-sider-infoportal-20-navigasjonssider-31-temaside-v-starte.html">Starte bedrift</a>
     </li>
     <li class="breadcrumb-item active">
       <a href="">Velg foretaksform</a>
@@ -111,15 +475,21 @@
 </ol>
 
 
-<h1 class="a-fontBold a-pageTitle a-h2 a-fontReg">
+<h1 class="a-fontBold a-pageTitle ">
   Velg foretaksform
   
   </h1>
 
-<p class="a-leadText " >Aksjeselskap, enkeltpersonforetak eller ansvarlig selskap? Ta testen og se hvilken foretaksform som passer deg best.</p>
+<p class="a-leadText "  id="leadText" >Aksjeselskap, enkeltpersonforetak eller ansvarlig selskap? Ta testen og se hvilken foretaksform som passer deg best.</p>
 
 
+  <div class="a-byline">
+  Sist oppdatert
+  17.10.2016
+</div>
 
+
+<hr class="mt-2 mb-0 d-none d-lg-block">
 
 
 
@@ -151,6 +521,8 @@
         Er det en eller flere som skal starte foretak?
         <div class="hidewhenempty">
         
+        	<fieldset>
+        	  <legend class="sr-only">Velg et alternativ</legend>
         
         
         			<div class="a-switch a-switch--small a-lh-3 ">
@@ -191,6 +563,7 @@
         			</div>
         
         
+        	</fieldset>
         
         </div>
         <hr class="a-hrLight" />
@@ -199,6 +572,8 @@
         Er det et utenlandsk foretak som skal opprette en filial i Norge?
         <div class="hidewhenempty">
         
+        	<fieldset>
+        	  <legend class="sr-only">Velg et alternativ</legend>
         
         
         			<div class="a-switch a-switch--small a-lh-3 ">
@@ -239,6 +614,7 @@
         			</div>
         
         
+        	</fieldset>
         
         </div>
         <hr class="a-hrLight" />
@@ -247,6 +623,8 @@
         Er hovedformålet med foretaket å skape inntekter og overskudd til eier?
         <div class="hidewhenempty">
         
+        	<fieldset>
+        	  <legend class="sr-only">Velg et alternativ</legend>
         
         
         			<div class="a-switch a-switch--small a-lh-3 ">
@@ -287,13 +665,14 @@
         			</div>
         
         
+        	</fieldset>
         
         </div>
         <hr class="a-hrLight" />
       </li>
     <li>
       <a
-         href="/patterns/sider-infoportal-navigasjonssider-sammenlikning-v-velg-foretaksform/sider-infoportal-navigasjonssider-sammenlikning-v-velg-foretaksform.rendered.html" 
+         href="/patterns/04-sider-infoportal-20-navigasjonssider-21-sammenlikning-v-velg-foretaksform/04-sider-infoportal-20-navigasjonssider-21-sammenlikning-v-velg-foretaksform.html" 
         class="a-btn "
         
         
@@ -325,7 +704,7 @@
     <p>Er du alene om å skulle starte foretak? Enkeltpersonforetak er en selvstendig næringsvirksomhet drevet under fullt personlig ansvar av en person. Aktiviteter som ansees som rene engangshendelser eller hobbyvirksomhet defineres ikke som næringsvirksomhet.</p>
     <strong>
       <a
-         href="/patterns/sider-infoportal-artikkel-artikkel-jumbo-v-enkeltpersonforetak/sider-infoportal-artikkel-artikkel-jumbo-v-enkeltpersonforetak.rendered.html" 
+         href="/patterns/04-sider-infoportal-30-artikkel-41-artikkel-jumbo-v-enkeltpersonforetak/04-sider-infoportal-30-artikkel-41-artikkel-jumbo-v-enkeltpersonforetak.html" 
         class=" "
         
         
@@ -342,10 +721,11 @@
         </div>
         <div class="a-compare-container col-6 col-md col-max-4">
           <div class="a-compare-element ">
+      <h3>Aksjeselskap - AS</h3>
     <p>Skal du starte foretak sammen med noen andre? I et aksjeselskap har ingen av eierne (aksjonærene) personlig ansvar for selskapets forpliktelser. Et aksjeselskap skal ha en aksjekapital på minimum 30.000 kroner til sammen.</p>
     <strong>
       <a
-         href="/patterns/sider-infoportal-artikkel-artikkel-v-aksjeselskap/sider-infoportal-artikkel-artikkel-v-aksjeselskap.rendered.html" 
+         href="/patterns/04-sider-infoportal-30-artikkel-14-artikkel-v-aksjeselskap/04-sider-infoportal-30-artikkel-14-artikkel-v-aksjeselskap.html" 
         class=" "
         
         
@@ -376,7 +756,7 @@
 							<div class="a-list-container ">
   <ul class="a-list   a-list-borderTop a-list-noIcon ">
       <li  class="a-dotted a-clickable a-list-hasRowLink"  >
-            <a href="/patterns/sider-infoportal-seksjonsforsider-seksjonsforside-v-starteogdrive/sider-infoportal-seksjonsforsider-seksjonsforside-v-starteogdrive.rendered.html" class="a-list-rowLink"
+            <a href="/patterns/04-sider-infoportal-10-seksjonsforsider-30-seksjonsforside-v-starteogdrive/04-sider-infoportal-10-seksjonsforsider-30-seksjonsforside-v-starteogdrive.html" class="a-list-rowLink"
             
             
             
@@ -397,7 +777,7 @@
         </a>
       </li>
       <li  class="a-dotted a-clickable a-list-hasRowLink"  >
-            <a href="/patterns/sider-infoportal-seksjonsforsider-seksjonsforside-v-starteogdrive/sider-infoportal-seksjonsforsider-seksjonsforside-v-starteogdrive.rendered.html" class="a-list-rowLink"
+            <a href="/patterns/04-sider-infoportal-10-seksjonsforsider-30-seksjonsforside-v-starteogdrive/04-sider-infoportal-10-seksjonsforsider-30-seksjonsforside-v-starteogdrive.html" class="a-list-rowLink"
             
             
             
@@ -418,7 +798,7 @@
         </a>
       </li>
       <li  class="a-dotted a-clickable a-list-hasRowLink"  >
-            <a href="/patterns/sider-infoportal-seksjonsforsider-seksjonsforside-v-starteogdrive/sider-infoportal-seksjonsforsider-seksjonsforside-v-starteogdrive.rendered.html" class="a-list-rowLink"
+            <a href="/patterns/04-sider-infoportal-10-seksjonsforsider-30-seksjonsforside-v-starteogdrive/04-sider-infoportal-10-seksjonsforsider-30-seksjonsforside-v-starteogdrive.html" class="a-list-rowLink"
             
             
             
@@ -439,7 +819,7 @@
         </a>
       </li>
       <li  class="a-dotted a-clickable a-list-hasRowLink"  >
-            <a href="/patterns/sider-infoportal-seksjonsforsider-seksjonsforside-v-starteogdrive/sider-infoportal-seksjonsforsider-seksjonsforside-v-starteogdrive.rendered.html" class="a-list-rowLink"
+            <a href="/patterns/04-sider-infoportal-10-seksjonsforsider-30-seksjonsforside-v-starteogdrive/04-sider-infoportal-10-seksjonsforsider-30-seksjonsforside-v-starteogdrive.html" class="a-list-rowLink"
             
             
             
@@ -460,7 +840,7 @@
         </a>
       </li>
       <li  class="a-dotted a-clickable a-list-hasRowLink"  >
-            <a href="/patterns/sider-infoportal-seksjonsforsider-seksjonsforside-v-starteogdrive/sider-infoportal-seksjonsforsider-seksjonsforside-v-starteogdrive.rendered.html" class="a-list-rowLink"
+            <a href="/patterns/04-sider-infoportal-10-seksjonsforsider-30-seksjonsforside-v-starteogdrive/04-sider-infoportal-10-seksjonsforsider-30-seksjonsforside-v-starteogdrive.html" class="a-list-rowLink"
             
             
             
@@ -490,6 +870,34 @@
 					<div class="col-md-8 offset-md-2 col-xl-6 offset-xl-3">
 
 						<div class="a-card a-cardImage mt-4 mb-4">
+        <img src="../../images/illustrasjon_starte_og_drive_sirkel.svg" alt="Illustrasjon" />
+
+
+      <div class="a-cardImage-text">
+        <h2>Trenger du hjelp?</h2>
+        <p>Våre bedriftsveiledere sitter klar til å hjelpe deg. Telefonen er åpen 0800—1530, mandag til fredag. E-poster besvares normalt innen 24 timer.</p>
+
+          <a href="tel:+4780033840" class="a-linkIcon ">
+<i class="ai ai-nw ai-nw-pr ai-phone   "    ></i>
+
+
+  <span class="sr-only">Telefonnummer til Altinn kundestøtte</span>
+  800 33 840
+</a>
+
+
+          <a href="mailto:support@altinn.no" class="a-linkIcon ">
+<i class="ai ai-nw ai-nw-pr ai-send   "    ></i>
+
+
+  <span class="sr-only">Send mail til support@altinn.no</span>
+  Skriv til oss
+</a>
+
+
+
+
+      </div>
 </div>
 
 
@@ -506,18 +914,69 @@
 		<div class="row a-footer-firstRow">
 			<div class="col-md-4 d-none d-md-block">
 
+  <div class="form-group a-form-group   ">
+
+      <label class="a-form-label  sr-only  " for="text-input-search-11">Søk etter innhold</label>
+
+    <div class="a-form-group-items input-group   ">
+
+
+      <input class="form-control  
+         a-hasButton  "
+        type="search" 
+        placeholder="Søk etter innhold"
+        
+        name="input-field"
+        data-val="true"
+        id="text-input-search-11"
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+      >
+
+        <div class="input-group-append">
+          <button onclick="location.href='';" class="btn btn-secondary" type="button"  >
+<i class="ai ai-search   "    ></i>
+
+
+              <span class="sr-only">Søk</span>
+          </button>
+        </div>
+
+
+
+    </div>
+
+
+
+  </div>
+
+
 	    </div>
 	    <div class="col-md-8">
 	      <nav class="a-footerNav">
 					<ul>
 						<li>
               <a class="a-hvr-underline" href="">
+<i class="ai ai-nw ai-corp   "    ></i>
+
+
                 starte og drive bedrift
               </a>
             </li>
 
 						<li>
               <a class="a-hvr-underline" href="&#x2F;patterns&#x2F;sider-infoportal-navigasjonssider-hjelpesenter\sider-infoportal-navigasjonssider-hjelpesenter.rendered.html">
+<i class="ai ai-nw ai-phone   "    ></i>
+
+
                 hjelp og kontakt
               </a>
             </li>
