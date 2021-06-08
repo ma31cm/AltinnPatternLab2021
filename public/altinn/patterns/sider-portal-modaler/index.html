@@ -9,11 +9,11 @@
     <script src="https://use.fortawesome.com/ed31cded.js"></script>
     <script src="https://use.fortawesome.com/df832575.js"></script>
 
-    <link rel="stylesheet" href="../../css/style.prototype.altinn.css?1623077157966" media="all" />
-    <link rel="stylesheet" href="../../css/pattern-scaffolding.css?1623077157966" media="all" />
+    <link rel="stylesheet" href="../../css/style.prototype.altinn.css?1623157037526" media="all" />
+    <link rel="stylesheet" href="../../css/pattern-scaffolding.css?1623157037526" media="all" />
 
     <!-- Begin Pattern Lab (Required for Pattern Lab to run properly) -->
-    <link rel="stylesheet" href="../../styleguide/css/pattern-lab.css?1623077157966" media="all">
+    <link rel="stylesheet" href="../../styleguide/css/pattern-lab.css?1623157037526" media="all">
     <!-- End Pattern Lab -->
 
   </head>
@@ -84,7 +84,7 @@
       <div class="col-12">
         <nav id="primary-nav" class="a-globalNav float-left">
           <a href="" class="a-globalNav-logo"> 
-<img src="..&#x2F;..&#x2F;images&#x2F;a-logo-black.svg" alt="Altinn logo" class="a-logo  ">
+<img src="..&#x2F;..&#x2F;images&#x2F;a-logo-black.svg" alt="Altinn logo" class="a-logo a-modal-top-logo ">
  <span class="sr-only">Til forsiden</span></a>
         </nav>
     		<ul id="secondary-nav" class="nav nav-pills a-header-options">
@@ -93,9 +93,9 @@
   type="button" 
   aria-haspopup="true" 
   aria-expanded="false"  
-  title=" "
+  title="JAN PETTERSEN "
    
-  
+   data-toggle="dropdown"
   
   
   
@@ -103,9 +103,13 @@
   >
   <span
     class="a-personSwitcher-name">
-    <span class="d-block"></span>
+    <span class="d-block">JAN PETTERSEN</span>
     <span class="d-block"></span>
   </span>
+<i class="ai ai-private-circle-big  a-personSwitcher-icon a-js-onboardingTarget-1 "    ></i>
+  <span class="sr-only">Min profil</span>
+
+
 
   </button>
 
@@ -115,7 +119,7 @@
   <div class="pt-5 pl-3 pr-3">
 
     <a
-  
+   href="/patterns/04-sider-infoportal-01-forside-00-forside/04-sider-infoportal-01-forside-00-forside.html" 
   class="a-link-logout "
   
   
@@ -124,15 +128,18 @@
   
   
   >
-  
+  En lenke ser slik ut
   
 </a>
 
       <div class="row">
         <div class="col-sm-12 px-0 mb-2">
           <div class="a-personRole">
-  <div class="a-personRole-text " title="">
-    <span class="a-personRole-name"></span>
+<i class="ai ai-private  ai-lg "    ></i>
+
+
+  <div class="a-personRole-text " title="JAN PETTERSEN">
+    <span class="a-personRole-name">JAN PETTERSEN</span>
     <span class="a-personRole-role"></span>
   </div>
 </div>
@@ -188,14 +195,15 @@
               <div class="modalPage">
                 <div class="modal-content">
                     <div class="modal-header a-modal-header">
-  <div class="a-iconText a-iconText-background a-iconText-background--white a-iconText-large a-iconText--noMinHeight">
-    <div class="a-iconText-icon ">  <i class="ai ai-read  a-icon a-icon-circle "    ></i>
-  
-  </div>
-      <div class="a-iconText-text">
-    <span class="a-iconText-text-large">Samtykke til bruk av dine data  </span>
-      </div>
-  </div>
+  <div class="a-iconText a-iconText-background a-iconText-background--white a-iconText-large ">
+  <div class="a-iconText-icon "><i class="ai ai-read  a-icon a-icon-circle "    ></i>
+
+</div>
+    <h1 class="a-iconText-text mb-0">
+  <span class="a-iconText-text-large">Samtykke til bruk av dine data  </span>
+      </h1>
+</div>
+
 </div>
 
 
@@ -247,7 +255,7 @@
     <div class="row">
       <div class="col mt-3">
           <button
-  
+   type="button" 
   
   class="a-btn a-btn-success mr-1 "
   
@@ -266,7 +274,7 @@
 </button>
 
           <button
-  
+   type="button" 
   
   class="a-btn "
   
@@ -316,6 +324,10 @@
   <div id="a-iframeToggle" class="a-iframeToggle collapse">
 
     <!-- Close-button for .a-iframeToggle -->
+    <button type="button" class="a-stickyHelp-close" data-toggle="collapse" data-target="#a-iframeToggle" data-action="close" aria-expanded="true" aria-controls="a-iframeToggle"> <i class="ai ai-exit ai-sm   "   id="close-stickyHelp"   ></i>
+  <span class="sr-only">Minimer hjelpevinduet</span>
+
+ </button>
 
     <iframe class="a-js-stickyHelpFrame" data-src="../../&#x2F;patterns&#x2F;sider-infoportal-hurtighjelp-hurtighjelp\sider-infoportal-hurtighjelp-hurtighjelp.rendered.html"></iframe>
 
@@ -388,14 +400,15 @@
               <div class="modalPage">
                 <div class="modal-content">
                     <div class="modal-header a-modal-header">
-  <div class="a-iconText a-iconText-background a-iconText-large a-iconText--noMinHeight">
-    <div class="a-iconText-icon ">  <i class="reg reg-other  a-icon "    ></i>
-  
-  </div>
-      <h1 class="a-iconText-text mb-0">
-    <span class="a-iconText-text-large">Før du går videre...  </span>
-        </h1>
-  </div>
+  <div class="a-iconText a-iconText-background a-iconText-large ">
+  <div class="a-iconText-icon "><i class="reg reg-other  a-icon "    ></i>
+
+</div>
+    <h1 class="a-iconText-text mb-0">
+  <span class="a-iconText-text-large">Før du går videre...  </span>
+      </h1>
+</div>
+
 </div>
 
 
@@ -664,6 +677,38 @@
       <div class="row">       
           <div class="col-xl-10 offset-xl-1 a-p-static">
                 <div class="a-modal-navbar">
+          <button
+  type="button"
+  class="a-modal-back a-js-tabable-popover"
+   onclick="location.href&#x3D;&#39;&#39;" 
+   aria-label="Tilbake"
+>
+  <span class="ai-stack">
+    <i class="ai ai-stack-1x ai-plain-circle-big"></i>
+<i class="ai-stack-1x ai ai-back  false "    ></i>
+  </span>
+
+
+
+</button>
+
+
+          <button
+  type="button"
+  class="a-modal-close a-js-tabable-popover"
+   onclick="location.href&#x3D;&#39;&#39;" 
+   aria-label="Lukk"
+>
+  <span class="ai-stack">
+    <i class="ai ai-stack-1x ai-plain-circle-big"></i>
+<i class="ai-stack-1x ai ai-exit  a-modal-close-icon "    ></i>
+  </span>
+
+
+
+</button>
+
+
     </div>
 
           <div class="a-modal-content-target">
@@ -671,14 +716,15 @@
               <div class="modalPage">
                 <div class="modal-content">
                     <div class="modal-header a-modal-header">
-  <div class="a-iconText  a-iconText--noMinHeight">
-    <div class="a-iconText-icon ">  <i class="ai ai-circle-exclamation   "    ></i>
-  
-  </div>
-      <h1 class="a-iconText-text mb-0">
-    <span class="a-iconText-text-large">Du mangler rettighetene til å se denne siden.  </span>
-        </h1>
-  </div>
+  <div class="a-iconText  ">
+  <div class="a-iconText-icon "><i class="ai ai-circle-exclamation   "    ></i>
+
+</div>
+    <h1 class="a-iconText-text mb-0">
+  <span class="a-iconText-text-large">Du mangler rettighetene til å se denne siden.  </span>
+      </h1>
+</div>
+
 </div>
 
 
@@ -793,6 +839,38 @@
       <div class="row">       
           <div class="col-xl-10 offset-xl-1 a-p-static">
                 <div class="a-modal-navbar">
+          <button
+  type="button"
+  class="a-modal-back a-js-tabable-popover"
+   onclick="location.href&#x3D;&#39;&#x2F;patterns&#x2F;sider-portal-profil-roller-rettigheter-profil-roller-rettigheter&#x2F;sider-portal-profil-roller-rettigheter-profil-roller-rettigheter.rendered.html&#39;" 
+   aria-label="Tilbake"
+>
+  <span class="ai-stack">
+    <i class="ai ai-stack-1x ai-plain-circle-big"></i>
+<i class="ai-stack-1x ai ai-back  a-js-collapseInboxMessage "    ></i>
+  </span>
+
+
+
+</button>
+
+
+          <button
+  type="button"
+  class="a-modal-close a-js-tabable-popover"
+   onclick="location.href&#x3D;&#39;&#x2F;patterns&#x2F;sider-portal-profil-roller-rettigheter-profil-roller-rettigheter&#x2F;sider-portal-profil-roller-rettigheter-profil-roller-rettigheter.rendered.html&#39;" 
+   aria-label="Lukk"
+>
+  <span class="ai-stack">
+    <i class="ai ai-stack-1x ai-plain-circle-big"></i>
+<i class="ai-stack-1x ai ai-exit  a-modal-close-icon a-js-collapseInboxMessage "    ></i>
+  </span>
+
+
+
+</button>
+
+
     </div>
 
           <div class="a-modal-content-target">
@@ -800,14 +878,15 @@
               <div class="modalPage">
                 <div class="modal-content">
                     <div class="modal-header a-modal-header">
-  <div class="a-iconText  a-iconText--noMinHeight">
-    <div class="a-iconText-icon ">  <i class="ai ai-circle-exclamation   "    ></i>
-  
-  </div>
-      <h1 class="a-iconText-text mb-0">
-    <span class="a-iconText-text-large">Oida! Dette gikk visst ikke  </span>
-        </h1>
-  </div>
+  <div class="a-iconText  ">
+  <div class="a-iconText-icon "><i class="ai ai-circle-exclamation   "    ></i>
+
+</div>
+    <h1 class="a-iconText-text mb-0">
+  <span class="a-iconText-text-large">Oida! Dette gikk visst ikke  </span>
+      </h1>
+</div>
+
 </div>
 
 
@@ -936,6 +1015,38 @@
       <div class="row">       
           <div class="col-xl-10 offset-xl-1 a-p-static">
                 <div class="a-modal-navbar">
+          <button
+  type="button"
+  class="a-modal-back a-js-tabable-popover"
+   onclick="location.href&#x3D;&#39;&#x2F;patterns&#x2F;sider-portal-innboks-innboks-soketreff&#x2F;sider-portal-innboks-innboks-soketreff.rendered.html&#39;;" 
+   aria-label="Tilbake"
+>
+  <span class="ai-stack">
+    <i class="ai ai-stack-1x ai-plain-circle-big"></i>
+<i class="ai-stack-1x ai ai-back   "    ></i>
+  </span>
+
+
+
+</button>
+
+
+          <button
+  type="button"
+  class="a-modal-close a-js-tabable-popover"
+   onclick="location.href&#x3D;&#39;&#x2F;patterns&#x2F;sider-portal-innboks-innboks&#x2F;sider-portal-innboks-innboks.rendered.html&#39;;" 
+   aria-label="Lukk"
+>
+  <span class="ai-stack">
+    <i class="ai ai-stack-1x ai-plain-circle-big"></i>
+<i class="ai-stack-1x ai ai-exit  a-modal-close-icon "    ></i>
+  </span>
+
+
+
+</button>
+
+
     </div>
 
           <div class="a-modal-content-target">
@@ -943,14 +1054,15 @@
               <div class="modalPage">
                 <div class="modal-content">
                     <div class="modal-header a-modal-header">
-  <div class="a-iconText a-iconText-background a-iconText-large a-iconText--noMinHeight">
-    <div class="a-iconText-icon ">  <i class="reg reg-save  a-icon "    ></i>
-  
-  </div>
-      <h1 class="a-iconText-text mb-0">
-    <span class="a-iconText-text-large">Lagre Søk  </span>
-        </h1>
-  </div>
+  <div class="a-iconText a-iconText-background a-iconText-large ">
+  <div class="a-iconText-icon "><i class="reg reg-save  a-icon "    ></i>
+
+</div>
+    <h1 class="a-iconText-text mb-0">
+  <span class="a-iconText-text-large">Lagre Søk  </span>
+      </h1>
+</div>
+
 </div>
 
 
@@ -1106,11 +1218,63 @@
     <div class="container a-p-static">
       <div class="row">
         <div class="col-xl-12">
+            <div class="a-modal-top">
+        
+<img src="..&#x2F;..&#x2F;images&#x2F;a-logo-black.svg" alt="Altinn logo" class="a-logo a-modal-top-logo ">
+
+    <div class="a-modal-top-user">
+  <div class="a-personSwitcher " title="JAN PETTERSEN ">
+  <span
+    class="a-personSwitcher-name">
+    <span class="d-block">JAN PETTERSEN</span>
+    <span class="d-block"></span>
+  </span>
+<i class="ai ai-private-circle-big  a-personSwitcher-icon "    ></i>
+
+
+
+  </div>
+
+    </div>
+</div>
+
         </div>
       </div>
       <div class="row">       
           <div class="col-xl-10 offset-xl-1 a-p-static">
                 <div class="a-modal-navbar">
+          <button
+  type="button"
+  class="a-modal-back a-js-tabable-popover"
+   onclick="location.href&#x3D;&#39;&#x2F;patterns&#x2F;04-sider-portal-60-profil-roller-rettigheter-01-profil-roller-rettigheter&#x2F;04-sider-portal-60-profil-roller-rettigheter-01-profil-roller-rettigheter.html&#39;" 
+   aria-label="Tilbake"
+>
+  <span class="ai-stack">
+    <i class="ai ai-stack-1x ai-plain-circle-big"></i>
+<i class="ai-stack-1x ai ai-back   "    ></i>
+  </span>
+
+
+
+</button>
+
+
+          <button
+  type="button"
+  class="a-modal-close a-js-tabable-popover"
+   onclick="location.href&#x3D;&#39;&#x2F;patterns&#x2F;04-sider-portal-60-profil-roller-rettigheter-01-profil-roller-rettigheter&#x2F;04-sider-portal-60-profil-roller-rettigheter-01-profil-roller-rettigheter.html&#39;" 
+   aria-label="Lukk"
+>
+  <span class="ai-stack">
+    <i class="ai ai-stack-1x ai-plain-circle-big"></i>
+<i class="ai-stack-1x ai ai-exit  a-modal-close-icon "    ></i>
+  </span>
+
+
+
+</button>
+
+
     </div>
 
           <div class="a-modal-content-target">
@@ -1118,14 +1282,15 @@
               <div class="modalPage">
                 <div class="modal-content">
                     <div class="modal-header a-modal-header">
-  <div class="a-iconText  a-iconText--noMinHeight">
-    <div class="a-iconText-icon ">  <i class="ai ai-read  a-icon "    ></i>
-  
-  </div>
-      <div class="a-iconText-text">
-    <span class="a-iconText-text-large">Se og fjern samtykke  </span>
-      </div>
-  </div>
+  <div class="a-iconText a-iconText-background a-iconText-large ">
+  <div class="a-iconText-icon "><i class="ai ai-read  a-icon "    ></i>
+
+</div>
+    <h1 class="a-iconText-text mb-0">
+  <span class="a-iconText-text-large">Se og fjern samtykke  </span>
+      </h1>
+</div>
+
 </div>
 
 
@@ -1175,7 +1340,7 @@
             <div  role="popover" id="sampleIdPopoverButtoinLink"  class="d-none">
               <div class="pb-1">Samtykke vil bli slettet</div>
                 <button
-            
+             type="button" 
             
             class="a-btn a-btn-danger mr-1"
             
@@ -1194,7 +1359,7 @@
           </button>
           
                 <button
-            
+             type="button" 
              onclick="$('button[aria-describedby=' + $(this).parent().parent().attr('id') + ']').click();" 
             class="a-btn-link a-linkDanger mr-1"
             
@@ -1330,6 +1495,10 @@
   <div id="a-iframeToggle" class="a-iframeToggle collapse">
 
     <!-- Close-button for .a-iframeToggle -->
+    <button type="button" class="a-stickyHelp-close" data-toggle="collapse" data-target="#a-iframeToggle" data-action="close" aria-expanded="true" aria-controls="a-iframeToggle"> <i class="ai ai-exit ai-sm   "   id="close-stickyHelp"   ></i>
+  <span class="sr-only">Minimer hjelpevinduet</span>
+
+ </button>
 
     <iframe class="a-js-stickyHelpFrame" data-src="../../&#x2F;patterns&#x2F;sider-infoportal-hurtighjelp-hurtighjelp\sider-infoportal-hurtighjelp-hurtighjelp.rendered.html"></iframe>
 
@@ -1396,6 +1565,35 @@
       <div class="row">       
           <div class="col-xl-10 offset-xl-1 a-p-static">
                 <div class="a-modal-navbar">
+          <button
+  type="button"
+  class="a-modal-back a-hiddenRow a-js-tabable-popover"
+  
+  
+>
+<i class="    "    ></i>
+
+
+
+</button>
+
+
+          <button
+  type="button"
+  class="a-modal-close a-js-tabable-popover"
+   onclick="location.href&#x3D;&#39;&#x2F;patterns&#x2F;sider-portal-profil-roller-rettigheter-profil-roller-rettigheter&#x2F;sider-portal-profil-roller-rettigheter-profil-roller-rettigheter.rendered.html&#39;" 
+   aria-label="Lukk"
+>
+  <span class="ai-stack">
+    <i class="ai ai-stack-1x ai-plain-circle-big"></i>
+<i class="ai-stack-1x ai ai-exit  a-modal-close-icon "    ></i>
+  </span>
+
+
+
+</button>
+
+
     </div>
 
           <div class="a-modal-content-target">
@@ -1403,14 +1601,15 @@
               <div class="modalPage">
                 <div class="modal-content">
                     <div class="modal-header a-modal-header">
-  <div class="a-iconText  a-iconText--noMinHeight">
-    <div class="a-iconText-icon ">  <i class="reg reg-forward  a-icon "    ></i>
-  
-  </div>
-      <div class="a-iconText-text">
-    <span class="a-iconText-text-large">Be om tilgang  </span>
-      </div>
-  </div>
+  <div class="a-iconText  ">
+  <div class="a-iconText-icon "><i class="reg reg-forward  a-icon "    ></i>
+
+</div>
+    <div class="a-iconText-text">
+  <span class="a-iconText-text-large">Be om tilgang  </span>
+    </div>
+</div>
+
 </div>
 
 
@@ -1563,6 +1762,35 @@
       <div class="row">       
           <div class="col-xl-10 offset-xl-1 a-p-static">
                 <div class="a-modal-navbar">
+          <button
+  type="button"
+  class="a-modal-back a-hiddenRow a-js-tabable-popover"
+  
+  
+>
+<i class="    "    ></i>
+
+
+
+</button>
+
+
+          <button
+  type="button"
+  class="a-modal-close a-js-tabable-popover"
+   onclick="location.href&#x3D;&#39;&#x2F;patterns&#x2F;sider-portal-profil-roller-rettigheter-profil-roller-rettigheter&#x2F;sider-portal-profil-roller-rettigheter-profil-roller-rettigheter.rendered.html&#39;" 
+   aria-label="Lukk"
+>
+  <span class="ai-stack">
+    <i class="ai ai-stack-1x ai-plain-circle-big"></i>
+<i class="ai-stack-1x ai ai-exit  a-modal-close-icon "    ></i>
+  </span>
+
+
+
+</button>
+
+
     </div>
 
           <div class="a-modal-content-target">
@@ -1570,14 +1798,15 @@
               <div class="modalPage">
                 <div class="modal-content">
                     <div class="modal-header a-modal-header">
-  <div class="a-iconText  a-iconText--noMinHeight">
-    <div class="a-iconText-icon ">  <i class="reg reg-forward  a-icon "    ></i>
-  
-  </div>
-      <div class="a-iconText-text">
-    <span class="a-iconText-text-large">Be om tilgang  </span>
-      </div>
-  </div>
+  <div class="a-iconText  ">
+  <div class="a-iconText-icon "><i class="reg reg-forward  a-icon "    ></i>
+
+</div>
+    <div class="a-iconText-text">
+  <span class="a-iconText-text-large">Be om tilgang  </span>
+    </div>
+</div>
+
 </div>
 
 
@@ -1694,6 +1923,35 @@
       <div class="row">       
           <div class="col-xl-10 offset-xl-1 a-p-static">
                 <div class="a-modal-navbar">
+          <button
+  type="button"
+  class="a-modal-back a-hiddenRow a-js-tabable-popover"
+  
+  
+>
+<i class="    "    ></i>
+
+
+
+</button>
+
+
+          <button
+  type="button"
+  class="a-modal-close a-js-tabable-popover"
+   onclick="location.href&#x3D;&#39;&#x2F;patterns&#x2F;sider-portal-profil-roller-rettigheter-profil-roller-rettigheter&#x2F;sider-portal-profil-roller-rettigheter-profil-roller-rettigheter.rendered.html&#39;" 
+   aria-label="Lukk"
+>
+  <span class="ai-stack">
+    <i class="ai ai-stack-1x ai-plain-circle-big"></i>
+<i class="ai-stack-1x ai ai-exit  a-modal-close-icon "    ></i>
+  </span>
+
+
+
+</button>
+
+
     </div>
 
           <div class="a-modal-content-target">
@@ -1701,14 +1959,15 @@
               <div class="modalPage">
                 <div class="modal-content">
                     <div class="modal-header a-modal-header">
-  <div class="a-iconText  a-iconText--noMinHeight">
-    <div class="a-iconText-icon ">  <i class="reg reg-forward  a-icon "    ></i>
-  
-  </div>
-      <div class="a-iconText-text">
-    <span class="a-iconText-text-large">Rettighetsforespørsel  </span>
-      </div>
-  </div>
+  <div class="a-iconText  ">
+  <div class="a-iconText-icon "><i class="reg reg-forward  a-icon "    ></i>
+
+</div>
+    <div class="a-iconText-text">
+  <span class="a-iconText-text-large">Rettighetsforespørsel  </span>
+    </div>
+</div>
+
 </div>
 
 
@@ -1906,6 +2165,35 @@
       <div class="row">       
           <div class="col-xl-10 offset-xl-1 a-p-static">
                 <div class="a-modal-navbar">
+          <button
+  type="button"
+  class="a-modal-back a-hiddenRow a-js-tabable-popover"
+  
+  
+>
+<i class="    "    ></i>
+
+
+
+</button>
+
+
+          <button
+  type="button"
+  class="a-modal-close a-js-tabable-popover"
+   onclick="location.href&#x3D;&#39;&#x2F;patterns&#x2F;sider-portal-profil-roller-rettigheter-profil-roller-rettigheter&#x2F;sider-portal-profil-roller-rettigheter-profil-roller-rettigheter.rendered.html&#39;" 
+   aria-label="Lukk"
+>
+  <span class="ai-stack">
+    <i class="ai ai-stack-1x ai-plain-circle-big"></i>
+<i class="ai-stack-1x ai ai-exit  a-modal-close-icon "    ></i>
+  </span>
+
+
+
+</button>
+
+
     </div>
 
           <div class="a-modal-content-target">
@@ -1913,14 +2201,15 @@
               <div class="modalPage">
                 <div class="modal-content">
                     <div class="modal-header a-modal-header">
-  <div class="a-iconText  a-iconText--noMinHeight">
-    <div class="a-iconText-icon ">  <i class="reg reg-forward  a-icon "    ></i>
-  
-  </div>
-      <div class="a-iconText-text">
-    <span class="a-iconText-text-large">Rettighetsforespørsel  </span>
-      </div>
-  </div>
+  <div class="a-iconText  ">
+  <div class="a-iconText-icon "><i class="reg reg-forward  a-icon "    ></i>
+
+</div>
+    <div class="a-iconText-text">
+  <span class="a-iconText-text-large">Rettighetsforespørsel  </span>
+    </div>
+</div>
+
 </div>
 
 
@@ -2244,6 +2533,38 @@
       <div class="row">       
           <div class="col-xl-10 offset-xl-1 a-p-static">
                 <div class="a-modal-navbar">
+          <button
+  type="button"
+  class="a-modal-back a-js-tabable-popover"
+   onclick="location.href&#x3D;&#39;&#x2F;patterns&#x2F;sider-portal-innboks-innboks&#x2F;sider-portal-innboks-innboks.rendered.html&#39;" 
+   aria-label="Tilbake"
+>
+  <span class="ai-stack">
+    <i class="ai ai-stack-1x ai-plain-circle-big"></i>
+<i class="ai-stack-1x ai ai-back   "    ></i>
+  </span>
+
+
+
+</button>
+
+
+          <button
+  type="button"
+  class="a-modal-close a-js-tabable-popover"
+  
+   aria-label="Lukk"
+>
+  <span class="ai-stack">
+    <i class="ai ai-stack-1x ai-plain-circle-big"></i>
+<i class="ai-stack-1x ai ai-exit  a-modal-close-icon "    ></i>
+  </span>
+
+
+
+</button>
+
+
     </div>
 
           <div class="a-modal-content-target">
@@ -2251,14 +2572,15 @@
               <div class="modalPage">
                 <div class="modal-content">
                     <div class="modal-header a-modal-header">
-  <div class="a-iconText a-iconText-background a-iconText-large a-iconText--noMinHeight">
-    <div class="a-iconText-icon ">  <i class="reg reg-forward  a-icon "    ></i>
-  
-  </div>
-      <h1 class="a-iconText-text mb-0">
-    <span class="a-iconText-text-large">Del tilgang: Skattemelding for merverdiavgift - alminnelig næring (RF-0002)  </span>
-        </h1>
-  </div>
+  <div class="a-iconText a-iconText-background a-iconText-large ">
+  <div class="a-iconText-icon "><i class="reg reg-forward  a-icon "    ></i>
+
+</div>
+    <h1 class="a-iconText-text mb-0">
+  <span class="a-iconText-text-large">Del tilgang: Skattemelding for merverdiavgift - alminnelig næring (RF-0002)  </span>
+      </h1>
+</div>
+
 </div>
 
 
@@ -3227,6 +3549,38 @@
       <div class="row">       
           <div class="col-xl-10 offset-xl-1 a-p-static">
                 <div class="a-modal-navbar">
+          <button
+  type="button"
+  class="a-modal-back a-js-tabable-popover"
+  
+   aria-label="Tilbake"
+>
+  <span class="ai-stack">
+    <i class="ai ai-stack-1x ai-plain-circle-big"></i>
+<i class="ai-stack-1x ai ai-back   "    ></i>
+  </span>
+
+
+
+</button>
+
+
+          <button
+  type="button"
+  class="a-modal-close a-js-tabable-popover"
+  
+   aria-label="Lukk"
+>
+  <span class="ai-stack">
+    <i class="ai ai-stack-1x ai-plain-circle-big"></i>
+<i class="ai-stack-1x ai ai-exit  a-modal-close-icon "    ></i>
+  </span>
+
+
+
+</button>
+
+
     </div>
 
           <div class="a-modal-content-target">
@@ -3234,14 +3588,15 @@
               <div class="modalPage">
                 <div class="modal-content">
                     <div class="modal-header a-modal-header">
-  <div class="a-iconText a-iconText-background a-iconText-large a-iconText--noMinHeight">
-    <div class="a-iconText-icon ">  <i class="reg reg-forward  a-icon "    ></i>
-  
-  </div>
-      <h1 class="a-iconText-text mb-0">
-    <span class="a-iconText-text-large">Videresend Skattemelding for merverdiavgift - alminnelig næring (RF-0002)  </span>
-        </h1>
-  </div>
+  <div class="a-iconText a-iconText-background a-iconText-large ">
+  <div class="a-iconText-icon "><i class="reg reg-forward  a-icon "    ></i>
+
+</div>
+    <h1 class="a-iconText-text mb-0">
+  <span class="a-iconText-text-large">Videresend Skattemelding for merverdiavgift - alminnelig næring (RF-0002)  </span>
+      </h1>
+</div>
+
 </div>
 
 
@@ -3465,6 +3820,38 @@
       <div class="row">       
           <div class="col-xl-10 offset-xl-1 a-p-static">
                 <div class="a-modal-navbar">
+          <button
+  type="button"
+  class="a-modal-back a-js-tabable-popover"
+  
+   aria-label="Tilbake"
+>
+  <span class="ai-stack">
+    <i class="ai ai-stack-1x ai-plain-circle-big"></i>
+<i class="ai-stack-1x ai ai-back   "    ></i>
+  </span>
+
+
+
+</button>
+
+
+          <button
+  type="button"
+  class="a-modal-close a-js-tabable-popover"
+  
+   aria-label="Lukk"
+>
+  <span class="ai-stack">
+    <i class="ai ai-stack-1x ai-plain-circle-big"></i>
+<i class="ai-stack-1x ai ai-exit  a-modal-close-icon "    ></i>
+  </span>
+
+
+
+</button>
+
+
     </div>
 
           <div class="a-modal-content-target">
@@ -3472,14 +3859,15 @@
               <div class="modalPage">
                 <div class="modal-content">
                     <div class="modal-header a-modal-header">
-  <div class="a-iconText a-iconText-background a-iconText-large a-iconText--noMinHeight">
-    <div class="a-iconText-icon ">  <i class="reg reg-forward  a-icon "    ></i>
-  
-  </div>
-      <h1 class="a-iconText-text mb-0">
-    <span class="a-iconText-text-large">Del tilgang: Skattemelding for merverdiavgift - alminnelig næring (RF-0002)  </span>
-        </h1>
-  </div>
+  <div class="a-iconText a-iconText-background a-iconText-large ">
+  <div class="a-iconText-icon "><i class="reg reg-forward  a-icon "    ></i>
+
+</div>
+    <h1 class="a-iconText-text mb-0">
+  <span class="a-iconText-text-large">Del tilgang: Skattemelding for merverdiavgift - alminnelig næring (RF-0002)  </span>
+      </h1>
+</div>
+
 </div>
 
 
@@ -3634,6 +4022,38 @@
       <div class="row">       
           <div class="col-xl-10 offset-xl-1 a-p-static">
                 <div class="a-modal-navbar">
+          <button
+  type="button"
+  class="a-modal-back a-js-tabable-popover"
+   onclick="location.href&#x3D;&#39;&#x2F;patterns&#x2F;sider-portal-andre-med-rettigheter-andre-med-rettigheter-tildel-roller&#x2F;sider-portal-andre-med-rettigheter-andre-med-rettigheter-tildel-roller.rendered.html&#39;" 
+   aria-label="Tilbake"
+>
+  <span class="ai-stack">
+    <i class="ai ai-stack-1x ai-plain-circle-big"></i>
+<i class="ai-stack-1x ai ai-back   "    ></i>
+  </span>
+
+
+
+</button>
+
+
+          <button
+  type="button"
+  class="a-modal-close a-js-tabable-popover"
+   onclick="location.href&#x3D;&#39;&#x2F;patterns&#x2F;sider-portal-innboks-innboks&#x2F;sider-portal-innboks-innboks.rendered.html&#39;" 
+   aria-label="Lukk"
+>
+  <span class="ai-stack">
+    <i class="ai ai-stack-1x ai-plain-circle-big"></i>
+<i class="ai-stack-1x ai ai-exit  a-modal-close-icon "    ></i>
+  </span>
+
+
+
+</button>
+
+
     </div>
 
           <div class="a-modal-content-target">
@@ -3641,14 +4061,15 @@
               <div class="modalPage">
                 <div class="modal-content">
                     <div class="modal-header a-modal-header">
-  <div class="a-iconText a-iconText-background a-iconText-large a-iconText--noMinHeight">
-    <div class="a-iconText-icon ">  <i class="reg reg-forward  a-icon "    ></i>
-  
-  </div>
-      <h1 class="a-iconText-text mb-0">
-    <span class="a-iconText-text-large">Del tilgang: RF-1049 Oppgjørsblankett for privat arbeidsgivere  </span>
-        </h1>
-  </div>
+  <div class="a-iconText a-iconText-background a-iconText-large ">
+  <div class="a-iconText-icon "><i class="reg reg-forward  a-icon "    ></i>
+
+</div>
+    <h1 class="a-iconText-text mb-0">
+  <span class="a-iconText-text-large">Del tilgang: RF-1049 Oppgjørsblankett for privat arbeidsgivere  </span>
+      </h1>
+</div>
+
 </div>
 
 
@@ -3944,6 +4365,38 @@
       <div class="row">       
           <div class="col-xl-10 offset-xl-1 a-p-static">
                 <div class="a-modal-navbar">
+          <button
+  type="button"
+  class="a-modal-back a-js-tabable-popover"
+  
+   aria-label="Tilbake"
+>
+  <span class="ai-stack">
+    <i class="ai ai-stack-1x ai-plain-circle-big"></i>
+<i class="ai-stack-1x ai ai-back   "    ></i>
+  </span>
+
+
+
+</button>
+
+
+          <button
+  type="button"
+  class="a-modal-close a-js-tabable-popover"
+  
+   aria-label="Lukk"
+>
+  <span class="ai-stack">
+    <i class="ai ai-stack-1x ai-plain-circle-big"></i>
+<i class="ai-stack-1x ai ai-exit  a-modal-close-icon "    ></i>
+  </span>
+
+
+
+</button>
+
+
     </div>
 
           <div class="a-modal-content-target">
@@ -3951,14 +4404,15 @@
               <div class="modalPage">
                 <div class="modal-content">
                     <div class="modal-header a-modal-header">
-  <div class="a-iconText a-iconText-background a-iconText-large a-iconText--noMinHeight">
-    <div class="a-iconText-icon ">  <i class="reg reg-forward-msg  a-icon "    ></i>
-  
-  </div>
-      <h1 class="a-iconText-text mb-0">
-    <span class="a-iconText-text-large">Videresend på e-post  </span>
-        </h1>
-  </div>
+  <div class="a-iconText a-iconText-background a-iconText-large ">
+  <div class="a-iconText-icon "><i class="reg reg-forward-msg  a-icon "    ></i>
+
+</div>
+    <h1 class="a-iconText-text mb-0">
+  <span class="a-iconText-text-large">Videresend på e-post  </span>
+      </h1>
+</div>
+
 </div>
 
 
@@ -4165,6 +4619,38 @@
       <div class="row">       
           <div class="col-xl-10 offset-xl-1 a-p-static">
                 <div class="a-modal-navbar">
+          <button
+  type="button"
+  class="a-modal-back a-js-tabable-popover"
+  
+   aria-label="Tilbake"
+>
+  <span class="ai-stack">
+    <i class="ai ai-stack-1x ai-plain-circle-big"></i>
+<i class="ai-stack-1x ai ai-back   "    ></i>
+  </span>
+
+
+
+</button>
+
+
+          <button
+  type="button"
+  class="a-modal-close a-js-tabable-popover"
+  
+   aria-label="Lukk"
+>
+  <span class="ai-stack">
+    <i class="ai ai-stack-1x ai-plain-circle-big"></i>
+<i class="ai-stack-1x ai ai-exit  a-modal-close-icon "    ></i>
+  </span>
+
+
+
+</button>
+
+
     </div>
 
           <div class="a-modal-content-target">
@@ -4172,14 +4658,15 @@
               <div class="modalPage">
                 <div class="modal-content">
                     <div class="modal-header a-modal-header">
-  <div class="a-iconText a-iconText-background a-iconText-large a-iconText--noMinHeight">
-    <div class="a-iconText-icon ">  <i class="reg reg-forward-msg  a-icon "    ></i>
-  
-  </div>
-      <h1 class="a-iconText-text mb-0">
-    <span class="a-iconText-text-large">Videresend  </span>
-        </h1>
-  </div>
+  <div class="a-iconText a-iconText-background a-iconText-large ">
+  <div class="a-iconText-icon "><i class="reg reg-forward-msg  a-icon "    ></i>
+
+</div>
+    <h1 class="a-iconText-text mb-0">
+  <span class="a-iconText-text-large">Videresend  </span>
+      </h1>
+</div>
+
 </div>
 
 
@@ -4341,6 +4828,38 @@
       <div class="row">       
           <div class="col-xl-10 offset-xl-1 a-p-static">
                 <div class="a-modal-navbar">
+          <button
+  type="button"
+  class="a-modal-back a-js-tabable-popover"
+   onclick="location.href&#x3D;&#39;&#x2F;patterns&#x2F;sider-portal-innboks-innboks&#x2F;sider-portal-innboks-innboks.rendered.html&#39;;" 
+   aria-label="Tilbake"
+>
+  <span class="ai-stack">
+    <i class="ai ai-stack-1x ai-plain-circle-big"></i>
+<i class="ai-stack-1x ai ai-back   "    ></i>
+  </span>
+
+
+
+</button>
+
+
+          <button
+  type="button"
+  class="a-modal-close a-js-tabable-popover"
+   onclick="location.href&#x3D;&#39;&#x2F;patterns&#x2F;sider-portal-innboks-innboks&#x2F;sider-portal-innboks-innboks.rendered.html&#39;;" 
+   aria-label="Lukk"
+>
+  <span class="ai-stack">
+    <i class="ai ai-stack-1x ai-plain-circle-big"></i>
+<i class="ai-stack-1x ai ai-exit  a-modal-close-icon "    ></i>
+  </span>
+
+
+
+</button>
+
+
     </div>
 
           <div class="a-modal-content-target">
@@ -4348,14 +4867,15 @@
               <div class="modalPage">
                 <div class="modal-content">
                     <div class="modal-header a-modal-header">
-  <div class="a-iconText a-iconText-background a-iconText-large a-iconText--noMinHeight">
-    <div class="a-iconText-icon ">  <i class="reg reg-fwd-file  a-icon "    ></i>
-  
-  </div>
-      <h1 class="a-iconText-text mb-0">
-    <span class="a-iconText-text-large">Send til digital postkasse  </span>
-        </h1>
-  </div>
+  <div class="a-iconText a-iconText-background a-iconText-large ">
+  <div class="a-iconText-icon "><i class="reg reg-fwd-file  a-icon "    ></i>
+
+</div>
+    <h1 class="a-iconText-text mb-0">
+  <span class="a-iconText-text-large">Send til digital postkasse  </span>
+      </h1>
+</div>
+
 </div>
 
 
@@ -4516,10 +5036,10 @@
   }
 </script>
 
-<script id="pl-js-polyfill-insert-1623077157966">
+<script id="pl-js-polyfill-insert-1623157037526">
   (function() {
     if (self != top) {
-      var cb = '1623077157966';
+      var cb = '1623157037526';
       var js = [];
       scriptLoader.run(js,cb,'pl-js-polyfill-insert');
     }
@@ -4532,7 +5052,7 @@
   import('../../styleguide/js/patternlab-pattern.modern.js');
 </script>
 
-<script id="pl-js-insert-1623077157966" nomodule>
+<script id="pl-js-insert-1623157037526" nomodule>
   /*! loadJS: load a JS file asynchronously. [c]2014 @scottjehl, Filament Group, Inc. (Based on http://goo.gl/REQGQ by Paul Irish). Licensed MIT */
   !function(e){var t=function(t,n){"use strict";var o=e.document.getElementsByTagName("script")[0],r=e.document.createElement("script");return r.src=t,r.async=!0,o.parentNode.insertBefore(r,o),n&&"function"==typeof n&&(r.onload=n),r};"undefined"!=typeof module?module.exports=t:e.loadJS=t}("undefined"!=typeof global?global:this);
 

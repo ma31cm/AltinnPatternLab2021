@@ -9,7 +9,7 @@
       <div class="col-12">
         <nav id="primary-nav" class="a-globalNav float-left">
           <a href="" class="a-globalNav-logo"> 
-<img src="..&#x2F;..&#x2F;images&#x2F;a-logo-black.svg" alt="Altinn logo" class="a-logo  ">
+<img src="..&#x2F;..&#x2F;images&#x2F;a-logo-black.svg" alt="Altinn logo" class="a-logo a-modal-top-logo ">
  <span class="sr-only">Til forsiden</span></a>
         </nav>
     		<ul id="secondary-nav" class="nav nav-pills a-header-options">
@@ -18,9 +18,9 @@
   type="button" 
   aria-haspopup="true" 
   aria-expanded="false"  
-  title=" "
+  title="JAN PETTERSEN "
    
-  
+   data-toggle="dropdown"
   
   
   
@@ -28,9 +28,13 @@
   >
   <span
     class="a-personSwitcher-name">
-    <span class="d-block"></span>
+    <span class="d-block">JAN PETTERSEN</span>
     <span class="d-block"></span>
   </span>
+<i class="ai ai-private-circle-big  a-personSwitcher-icon a-js-onboardingTarget-1 "    ></i>
+  <span class="sr-only">Min profil</span>
+
+
 
   </button>
 
@@ -40,7 +44,7 @@
   <div class="pt-5 pl-3 pr-3">
 
     <a
-  
+   href="/patterns/04-sider-infoportal-01-forside-00-forside/04-sider-infoportal-01-forside-00-forside.html" 
   class="a-link-logout "
   
   
@@ -49,15 +53,18 @@
   
   
   >
-  
+  En lenke ser slik ut
   
 </a>
 
       <div class="row">
         <div class="col-sm-12 px-0 mb-2">
           <div class="a-personRole">
-  <div class="a-personRole-text " title="">
-    <span class="a-personRole-name"></span>
+<i class="ai ai-private  ai-lg "    ></i>
+
+
+  <div class="a-personRole-text " title="JAN PETTERSEN">
+    <span class="a-personRole-name">JAN PETTERSEN</span>
     <span class="a-personRole-role"></span>
   </div>
 </div>
@@ -113,14 +120,15 @@
               <div class="modalPage">
                 <div class="modal-content">
                     <div class="modal-header a-modal-header">
-  <div class="a-iconText a-iconText-background a-iconText-background--white a-iconText-large a-iconText--noMinHeight">
-    <div class="a-iconText-icon ">  <i class="ai ai-read  a-icon a-icon-circle "    ></i>
-  
-  </div>
-      <div class="a-iconText-text">
-    <span class="a-iconText-text-large">Samtykke til bruk av dine data  </span>
-      </div>
-  </div>
+  <div class="a-iconText a-iconText-background a-iconText-background--white a-iconText-large ">
+  <div class="a-iconText-icon "><i class="ai ai-read  a-icon a-icon-circle "    ></i>
+
+</div>
+    <h1 class="a-iconText-text mb-0">
+  <span class="a-iconText-text-large">Samtykke til bruk av dine data  </span>
+      </h1>
+</div>
+
 </div>
 
 
@@ -172,7 +180,7 @@
     <div class="row">
       <div class="col mt-3">
           <button
-  
+   type="button" 
   
   class="a-btn a-btn-success mr-1 "
   
@@ -191,7 +199,7 @@
 </button>
 
           <button
-  
+   type="button" 
   
   class="a-btn "
   
@@ -241,6 +249,10 @@
   <div id="a-iframeToggle" class="a-iframeToggle collapse">
 
     <!-- Close-button for .a-iframeToggle -->
+    <button type="button" class="a-stickyHelp-close" data-toggle="collapse" data-target="#a-iframeToggle" data-action="close" aria-expanded="true" aria-controls="a-iframeToggle"> <i class="ai ai-exit ai-sm   "   id="close-stickyHelp"   ></i>
+  <span class="sr-only">Minimer hjelpevinduet</span>
+
+ </button>
 
     <iframe class="a-js-stickyHelpFrame" data-src="../../&#x2F;patterns&#x2F;sider-infoportal-hurtighjelp-hurtighjelp\sider-infoportal-hurtighjelp-hurtighjelp.rendered.html"></iframe>
 
