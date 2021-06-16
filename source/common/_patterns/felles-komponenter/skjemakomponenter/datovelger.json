@@ -1,6 +1,15 @@
 {
-  "date-input-label": "Dato:",
   "icon-prefix": "ai",
   "iconClass": "ai-date",
-  "iconExtraClass": ""
+  "icon-size": "",
+  "iconExtraClass": "",
+  "icon-text": "",
+  "icon-id": false,
+  "sr-only": false,
+  "aria-hidden": false,
+  "stacked-background": false,
+  "icon-post-text": false,
+  "icon-title": false,
+  "icon-sr-only-text": false,
+  "date-input-label": "Dato:"
 }

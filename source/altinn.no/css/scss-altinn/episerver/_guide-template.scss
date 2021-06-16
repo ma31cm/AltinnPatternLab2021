@@ -1,8 +1,8 @@
 @import '../generic/variables'; // Altinn variables
 @import '../generic/bootstrap-custom';
-@import '../../scss-common/generic/mixins';
-@import './../../../../node_modules/bootstrap/scss/mixins';
-@import '../../scss-common/base/font';
+@import '../../../../common/css/scss-common/generic/mixins';
+@import './../../../../../../node_modules/bootstrap/scss/mixins';
+@import '../../../../common/css/scss-common/base/font';
 
 // ------------------------------------ \
 //  GUIDE TEMPLATE

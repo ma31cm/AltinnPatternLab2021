@@ -12,8 +12,8 @@
   "icon-title": false,
   "icon-sr-only-text": false,
   "print-form-tag": false,
-  "text-input-id": "text-input-generic",
-  "isHidden": false,
+  "text-input-id": "text-input-darkBackground",
+  "isHidden": true,
   "top-label": "Label: ",
   "isDisabled": false,
   "isInactive": false,
@@ -24,5 +24,21 @@
   "isLarge": false,
   "form-label-hasIcon": false,
   "input-name": "input-field",
-  "form-control-class": ""
+  "form-control-class": "",
+  "isDark": true,
+  "styleModifier": "a-bgBlueDarker",
+  "form-input-hasButton": {
+    "button-icon": {
+      "icon-prefix": "ai",
+      "iconClass": "ai-search"
+    },
+    "button-text": [
+      {
+        "button-text-value": "Søk",
+        "button-text-class": "sr-only"
+      }
+    ],
+    "form-input-button-action": "Utfør søk",
+    "onclick": "location.href='/patterns/04-sider-altinnett-60-sok-00-sokeside/04-sider-altinnett-60-sok-00-sokeside.html';"
+  }
 }
