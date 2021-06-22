@@ -1,4 +1,24 @@
 {
+  "byline-tekst": "Sist oppdatert",
+  "byline-dato": "11.10.2016",
+  "label-class": "badge-primary",
+  "label-id": false,
+  "label-content": "9",
+  "page-title": "Tittel på siden",
+  "dateDay": "20",
+  "dateMonth": "feb",
+  "icon-prefix": "ai",
+  "iconClass": "ai-deadline",
+  "icon-size": "",
+  "iconExtraClass": "",
+  "icon-text": "",
+  "icon-id": false,
+  "sr-only": false,
+  "aria-hidden": false,
+  "stacked-background": false,
+  "icon-post-text": false,
+  "icon-title": false,
+  "icon-sr-only-text": false,
   "hasIcon": {
     "icon-prefix": "ai",
     "iconClass": "ai-server",
@@ -12,6 +32,5 @@
       "byline-link-url": "#"
     }
   },
-  "page-title": "Tittel på siden",
   "isHeader": true
 }

@@ -1,5 +1,18 @@
 {
-  "variation-class": "a-iconText-shadow",
+  "dateDay": "20",
+  "dateMonth": "feb",
+  "icon-prefix": "ai",
+  "iconClass": "ai-deadline",
+  "icon-size": "",
+  "iconExtraClass": "",
+  "icon-text": "",
+  "icon-id": false,
+  "sr-only": false,
+  "aria-hidden": false,
+  "stacked-background": false,
+  "icon-post-text": false,
+  "icon-title": false,
+  "icon-sr-only-text": false,
   "hasIcon": {
     "icon-prefix": "ai",
     "iconClass": "ai-server",
@@ -8,5 +21,6 @@
   "hasTextSmall": {
     "textSmall": "Liten tekst"
   },
-  "icontext": "Stor tekst"
+  "icontext": "Stor tekst",
+  "variation-class": "a-iconText-shadow"
 }
