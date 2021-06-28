@@ -1,5 +1,22 @@
 {
+  "icon-prefix": "ai",
+  "iconClass": "ai-private",
+  "icon-size": "ai-lg",
+  "iconExtraClass": "a-box-button-icon a-blueDarkText",
+  "icon-text": "",
+  "icon-id": false,
+  "sr-only": false,
+  "aria-hidden": false,
+  "stacked-background": false,
+  "icon-post-text": false,
+  "icon-title": false,
+  "icon-sr-only-text": false,
+  "box-button-add-textover": "Legg til ny person",
+  "box-button-add-textunder": "eller virksomhet",
   "buttonClass": "a-box-button",
+  "box-button-title": "STYRETS LEDER",
+  "box-button-person": "WILHELM MELLOM MJELDE",
+  "box-button-action": "Gi og fjerne rettigheter",
   "box-list-id": "boxList",
   "box-button-list": [
     {
@@ -25,7 +42,7 @@
           "icon-size": "ai-lg",
           "iconExtraClass": "a-box-button-icon a-blueDarkText",
           "box-button-action": "Gi og fjerne rettigheter",
-          "onclick": "location.href='';"
+          "onclick": "location.href='/patterns/04-sider-portal-92-andre-med-rettigheter-00-andre-med-rettigheter-roller-oversikt/04-sider-portal-92-andre-med-rettigheter-00-andre-med-rettigheter-roller-oversikt.html';"
         },
         {
           "data-target": false,
@@ -37,7 +54,7 @@
           "icon-size": "ai-lg",
           "iconExtraClass": "a-box-button-icon a-blueDarkText",
           "box-button-action": "Gi og fjerne rettigheter",
-          "onclick": "location.href='';"
+          "onclick": "location.href='/patterns/04-sider-portal-92-andre-med-rettigheter-00-andre-med-rettigheter-roller-oversikt/04-sider-portal-92-andre-med-rettigheter-00-andre-med-rettigheter-roller-oversikt.html';"
         }
       ]
     },
@@ -51,7 +68,7 @@
       "icon-size": "ai-lg",
       "iconExtraClass": "a-box-button-icon a-blueDarkText",
       "box-button-action": "Gi og fjerne rettigheter",
-      "onclick": "location.href='';"
+      "onclick": "location.href='/patterns/04-sider-portal-92-andre-med-rettigheter-00-andre-med-rettigheter-roller-oversikt/04-sider-portal-92-andre-med-rettigheter-00-andre-med-rettigheter-roller-oversikt.html';"
     },
     {
       "data-target": false,
@@ -63,7 +80,7 @@
       "icon-size": "ai-lg",
       "iconExtraClass": "a-box-button-icon a-blueDarkText",
       "box-button-action": "Gi og fjerne rettigheter",
-      "onclick": "location.href='';"
+      "onclick": "location.href='/patterns/04-sider-portal-92-andre-med-rettigheter-00-andre-med-rettigheter-roller-oversikt/04-sider-portal-92-andre-med-rettigheter-00-andre-med-rettigheter-roller-oversikt.html';"
     }
   ],
   "box-button-list-add": {
@@ -73,6 +90,6 @@
     "iconClass": "ai-plus",
     "icon-size": "ai-lg",
     "iconExtraClass": "a-box-button-icon a-blueDarkText",
-    "onclick": "location.href='';"
+    "onclick": "location.href='/patterns/04-sider-portal-92-andre-med-rettigheter-00-andre-med-rettigheter-legg-til/04-sider-portal-92-andre-med-rettigheter-00-andre-med-rettigheter-legg-til.html';"
   }
 }

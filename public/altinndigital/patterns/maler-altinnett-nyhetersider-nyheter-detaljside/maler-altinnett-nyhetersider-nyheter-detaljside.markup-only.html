@@ -9,7 +9,7 @@
 </nav>
 
 <!-- Begin .header -->
-<header class="an-header  ">
+<header class="an-header   a-js-hideElement ">
   <!-- Begin .container -->
   <div class="container">
     <div class="row">
@@ -17,9 +17,9 @@
 
         <!-- Begin .a-globalNav -->
         <nav id="primary-nav" class="a-globalNav">
-          <a href="" class="a-globalNav-logo">
+          <a href="&#x2F;patterns&#x2F;04-sider-altinnett-10-forside-10-forside&#x2F;04-sider-altinnett-10-forside-10-forside.html" class="a-globalNav-logo">
             <img src="..&#x2F;..&#x2F;images&#x2F;an-logo-blue.svg" alt="Altinnett logo"
-              class="an-logo a-logo--an  ">
+              class="an-logo a-logo--an a-modal-top-logo ">
             <span class="sr-only">Til forsiden</span>
           </a>
           <button class="navbar-toggler navbar-toggler--an d-md-none" type="button">
@@ -29,6 +29,51 @@
           <div class="collapse navbar-toggleable-sm a-globalNav-main" id="exCollapsingNavbar2">
             <ul class="" id="exCollapsingNavbar">
               <li class="d-md-none">
+
+  <div class="form-group a-form-group   ">
+
+      <label class="a-form-label  sr-only  " for="dropdown-input-search">Søk etter innhold</label>
+
+    <div class="a-form-group-items input-group   ">
+
+
+      <input class="form-control  
+         a-hasButton  "
+        type="search" 
+        placeholder="Søk etter innhold"
+        
+        name="input-field"
+        data-val="true"
+        id="dropdown-input-search"
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+      >
+
+        <div class="input-group-append">
+          <button onclick="location.href='/patterns/04-sider-altinnett-60-sok-00-sokeside/04-sider-altinnett-60-sok-00-sokeside.html';" class="btn btn-secondary" type="button"  >
+<i class="ai ai-search   "    ></i>
+
+
+              <span class="sr-only">Søk</span>
+          </button>
+        </div>
+
+
+
+    </div>
+
+
+
+  </div>
+
               </li>
 
               <li><a class="a-hvr-underline " href="#">produkter</a></li>
@@ -99,7 +144,7 @@
 
   <div class="container">
       <div class="mb-4">
-        <ol class="breadcrumb a-breadcrumb ">
+        <ol class="breadcrumb a-breadcrumb a-breadcrumb-open">
     <li class="breadcrumb-item ">
       <a href="">Nyheter</a>
     </li>
@@ -120,7 +165,7 @@
           <h2 class=" a-fontSizeXL a-fontBold a-blueDarkerText ">Hva blir nytt?
 </h2>
 
-          <p class="a-leadText " >I uke 24 kom Altinn i ny versjon. Denne versjonen inneholder flere store endringer, blant annet en ny tjenestetype, og store forandringer i registrering av kontaktinformasjon.</p>
+          <p class="a-leadText " ></p>
 
           <div class="a-byline">
   
@@ -130,7 +175,7 @@
         </div>
 
       <div class="col-12 col-lg-8 offset-lg-2 a-text epi-wysiwyg">
-            <p class="">Endringene for kontaktinformasjon gjøres for å sikre at Altinn skal være godt egnet for tjenesteeiere som benytter tjenester til virksomheter som krever varsling. Her gjøres det endringer både på brukersiden med et forenklet, moderne design, og mot tjenesteeierne for å sikre kontroll på at varsel sendes ut til de riktige varslingsadressene.</p>
+            <p class="mb-4 mb-md-6">Endringene for kontaktinformasjon gjøres for å sikre at Altinn skal være godt egnet for tjenesteeiere som benytter tjenester til virksomheter som krever varsling. Her gjøres det endringer både på brukersiden med et forenklet, moderne design, og mot tjenesteeierne for å sikre kontroll på at varsel sendes ut til de riktige varslingsadressene.</p>
 
             <h3 class="a-h4">Endringer som kommer:</h3>
             <ul class="a-bullet-list ">
@@ -149,7 +194,7 @@
 
       <div class="col-12 col-lg-10 offset-lg-1 mt-4">
           <a
-   href="http://www.skatteetaten.no/" 
+   href="/patterns/04-sider-infoportal-01-forside-00-forside/04-sider-infoportal-01-forside-00-forside.html" 
   class=" "
   
   
@@ -158,7 +203,7 @@
   
   
   >
-  Se fullstendig oversikt over endringene som er en del av denne versjonen
+  En lenke ser slik ut
   
 </a>
 
@@ -166,14 +211,73 @@
     </div>
   </div>
 
+  <div class="a-modal fade modal  a-fade--appear " id="modal-singel" role="dialog" tabindex="-1" >
+  <div class="modal-dialog modal-lg" role="document">
+    <div class="container a-p-static">
+      <div class="row">
+        <div class="col-xl-12">
+          <div class="a-modal-top">
+        
+<img src="..&#x2F;..&#x2F;images&#x2F;a-logo-black.svg" alt="Altinn logo" class="a-logo a-modal-top-logo mt-0">
+
+</div>
+
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-xl-10 offset-xl-1 a-p-static">
+                <div class="a-modal-navbar">
+          <button
+  type="button"
+  class="a-modal-close a-js-tabable-popover"
+   onclick="goBack()" 
+   aria-label="Lukk"
+>
+  <span class="ai-stack">
+    <i class="ai ai-stack-1x ai-plain-circle-big"></i>
+<i class="ai-stack-1x ai ai-exit  a-modal-close-icon mt-0"    ></i>
+  </span>
+
+
+
+</button>
+
+
+    </div>
+
+          <div class="a-modal-content-target">
+            <!-- The content will be injected here -->
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
 <!-- Begin Footer -->
 <footer class="an-footer a-bgBlueDarker mt-0">
     <div class="container">
         <div class="row">
             <div class="col-md-6 col-lg-3 an-footer-contactColumn">
                 <div class="an-footer-contactInfo">
-                    <h1 class="an-footer-heading"></h1>
+                    <h1 class="an-footer-heading">Vil du vite mer?</h1>
                     <ul class="an-footer-contactLinks">
+                            <li>
+                                <a href="#">
+<i class="ai ai-phone   mt-0"    ></i>
+
+
+                                    <span>800 33 840</span>
+                                </a>
+                            </li>
+                              <li>
+                                <a href="#" data-toggle="altinn-modal" data-action="load" data-url="../../patterns/02-organismer-80-Modal-js-innhold-12-altinnett-kontaktskjema/02-organismer-80-Modal-js-innhold-12-altinnett-kontaktskjema.markup-only.html" data-target="#modal-singel">
+<i class="ai ai-send   mt-0"    ></i>
+
+
+                                    <span>Kontakt oss</span>
+                                </a>
+                            </li>
                     </ul>
                 </div>
             </div>
@@ -192,7 +296,7 @@
         type="search" 
         placeholder="Søk etter innhold"
         
-        name=""
+        name="input-field"
         data-val="true"
         id="text-input-search-11"
         
@@ -208,7 +312,7 @@
       >
 
         <div class="input-group-append">
-          <button onclick="location.href='/patterns/sider-altinnett-sok-sokeside/sider-altinnett-sok-sokeside.rendered.html';" class="btn btn-secondary" type="button"  >
+          <button onclick="location.href='link.sider-altinnett-sok-forside';" class="btn btn-secondary" type="button"  >
 <i class="ai ai-search   mt-0"    ></i>
 
 
@@ -226,11 +330,17 @@
 
                 </div>
                 <ul class="an-footer-infoLinks">
+                        <li><a class="" href="#">Altinns rolle</a></li>
+                        <li><a class="" href="#">Altinn i fremtiden</a></li>
+                        <li><a class="" href="#">Innovation</a></li>
                 </ul>
                 <div class="an-footer-supplementaryInfo">
                     <ul class="an-footer-smallLinks">
+                            <li><a class="" href="#">Driftsmeldinger</a></li>
+                            <li><a class="" href="#">Personvern</a></li>
+                            <li><a class="" href="#">Hjelp</a></li>
                     </ul>
-                    <span class="an-footer-address"></span>
+                    <span class="an-footer-address">Brønnøysundregistrene, 8910 Brønnøysund</span>
                 </div>
             </div>
         </div>

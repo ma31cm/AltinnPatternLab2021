@@ -1,12 +1,13 @@
 {
+  "letters": "ST",
   "col": "col-md-6 col-lg-6 col-xl-6",
   "extraClass": "a-bgGreyLighter",
-  "url": "",
+  "url": "/patterns/04-sider-altinnett-10-forside-10-forside/04-sider-altinnett-10-forside-10-forside.html",
   "col-image": "col-4",
-  "icon": {
-    "img-src": "../../images/dokumentasjon_white.svg",
-    "img-alt": "Dokument ikon",
-    "backgroundClass": "a-bgBlue"
+  "iconClass": "an-cover",
+  "imageurl": "../../images/product_1.svg",
+  "abbreviation": {
+    "letters": "S"
   },
   "title": "Samtykke",
   "titleClass": "an-presentationBlock-largeHeader",

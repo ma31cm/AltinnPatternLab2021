@@ -1,6 +1,16 @@
 {
-  "mail-adress": "support@altinn.no",
-  "mail-text": "Send melding",
   "icon-prefix": "ai ai-nw ai-nw-pr",
-  "iconClass": "ai-closedmessage"
+  "iconClass": "ai-closedmessage",
+  "icon-size": "",
+  "iconExtraClass": "",
+  "icon-text": "",
+  "icon-id": false,
+  "sr-only": false,
+  "aria-hidden": false,
+  "stacked-background": false,
+  "icon-post-text": false,
+  "icon-title": false,
+  "icon-sr-only-text": false,
+  "mail-adress": "support@altinn.no",
+  "mail-text": "Send melding"
 }

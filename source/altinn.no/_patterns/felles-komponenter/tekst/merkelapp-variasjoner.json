@@ -1,4 +1,7 @@
 {
+  "label-class": "badge-primary",
+  "label-id": false,
+  "label-content": "9",
   "label-items": [
     {
       "label-class": "badge-primary",

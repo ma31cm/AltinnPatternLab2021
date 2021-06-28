@@ -9,11 +9,11 @@
     <script src="https://use.fortawesome.com/ed31cded.js"></script>
     <script src="https://use.fortawesome.com/df832575.js"></script>
 
-    <link rel="stylesheet" href="../../css/style.prototype.common.css?1622549009227" media="all" />
-    <link rel="stylesheet" href="../../css/pattern-scaffolding.css?1622549009227" media="all" />
+    <link rel="stylesheet" href="../../css/style.prototype.common.css?1624890253571" media="all" />
+    <link rel="stylesheet" href="../../css/pattern-scaffolding.css?1624890253571" media="all" />
 
     <!-- Begin Pattern Lab (Required for Pattern Lab to run properly) -->
-    <link rel="stylesheet" href="../../styleguide/css/pattern-lab.css?1622549009227" media="all">
+    <link rel="stylesheet" href="../../styleguide/css/pattern-lab.css?1624890253571" media="all">
     <!-- End Pattern Lab -->
 
   </head>
@@ -204,7 +204,7 @@
   
       <div class="custom-control
         
-        
+        custom-control-inline
         custom-checkbox a-custom-checkbox
         
          a-form-checkboxes--discret 
@@ -223,7 +223,7 @@
       </div>
       <div class="custom-control
         
-        
+        custom-control-inline
         custom-checkbox a-custom-checkbox
         
          a-form-checkboxes--discret 
@@ -239,6 +239,44 @@
             
             >
           <label class="custom-control-label " for="checkDiscret2">Kryss av i den andre avkrysningsboksen</label>
+      </div>
+      <div class="custom-control
+        
+        custom-control-inline
+        custom-checkbox a-custom-checkbox
+        
+         a-form-checkboxes--discret 
+        
+        ">
+          <input
+            type="checkbox"
+            id="check3"
+            class="custom-control-input"
+            
+            
+            
+             required 
+            >
+          <label class="custom-control-label " for="check3">En avkrysningsboks som er required</label>
+      </div>
+      <div class="custom-control
+        
+        
+        custom-checkbox a-custom-checkbox
+         inactive 
+         a-form-checkboxes--discret 
+        
+        ">
+          <input
+            type="checkbox"
+            id="check4"
+            class="custom-control-input"
+            
+            
+            
+            
+             disabled >
+          <label class="custom-control-label " for="check4">En deaktivert avkrysningsboks</label>
       </div>
   
   </fieldset>
@@ -347,6 +385,25 @@
             
              disabled >
           <label class="custom-control-label " for="checkStacked3">Den tredje avkrysningsboksen er inaktiv, og er ikke egentlig en avkrysningsboks</label>
+      </div>
+      <div class="custom-control
+        
+        
+        custom-checkbox a-custom-checkbox
+         inactive 
+        
+        
+        ">
+          <input
+            type="checkbox"
+            id="check4"
+            class="custom-control-input"
+            
+            
+            
+            
+             disabled >
+          <label class="custom-control-label " for="check4">En deaktivert avkrysningsboks</label>
       </div>
   
   </fieldset>
@@ -460,7 +517,7 @@
         
         custom-control-inline
         custom-checkbox a-custom-checkbox
-        
+         inactive 
          a-form-checkboxes--discret 
          col-sm-12 col-md-6 col-lg-4 pr-0 mr-0
         ">
@@ -472,7 +529,7 @@
             
             
             
-            >
+             disabled >
           <label class="custom-control-label " for="check4">Statistisk sentralbyrå</label>
       </div>
       <div class="custom-control
@@ -1331,10 +1388,10 @@
       <div class="float-right mt-2">
           <span class="mr-3">
             <button
-  
+   type="button" 
   
   class="a-btn a-btn-success a-js-confirmAddRightBtn a-js-enableWhenValid"
-  
+  id="confirm-deletion"
   
   data-toggle="collapse"
   
@@ -1352,10 +1409,10 @@
           </span>
           <span class="mr-3">
             <button
-              
+               type="button" 
               
               class="a-btn-link "
-              
+              id="cancel-deletion"
               
               data-toggle="collapse"
               
@@ -1775,7 +1832,7 @@
 		</legend>
 
 		<div class="custom-control custom-radio a-custom-radio a-radioButtons-stackedList
-      
+       custom-control-inline 
        a-radioButtons-stackedList ">
 
 		  <input type="radio"
@@ -1800,7 +1857,7 @@
 			</label>
 		</div>
 		<div class="custom-control custom-radio a-custom-radio a-radioButtons-stackedList
-      
+       custom-control-inline 
        a-radioButtons-stackedList ">
 
 		  <input type="radio"
@@ -2063,7 +2120,7 @@
         type="text" 
         placeholder="f.eks placeholder"
         
-        name=""
+        name="input-field"
         data-val="true"
         id="text-input-hjelpetekst"
         
@@ -2141,7 +2198,7 @@
 			
   <div class="form-group a-form-group   ">
 
-      <label class="a-form-label  sr-only  " for="">Label:</label>
+      <label class="a-form-label  sr-only  " for="text-input-generic">Label:</label>
 
     <div class="a-form-group-items input-group   ">
 
@@ -2151,9 +2208,9 @@
         type="text" 
         placeholder="Ingen label, kun placeholder"
         
-        name=""
+        name="input-field"
         data-val="true"
-        
+        id="text-input-generic"
         
         
         
@@ -2233,7 +2290,7 @@
         type="text" 
         placeholder="4 siffer"
         
-        name=""
+        name="input-field"
         data-val="true"
         id="postnummer"
         
@@ -2316,7 +2373,7 @@
         type="text" 
         placeholder="f.eks placeholder"
         
-        name=""
+        name="input-field"
         data-val="true"
         id="text-input-large"
         
@@ -2571,7 +2628,7 @@
     <div  id="conditionalPopover"  class="d-none">
     <div class="pb-1">Dette er en popover tekst</div>
         <button
-  
+   type="button" 
   
   class="a-btn a-btn-danger mr-1"
   
@@ -2991,6 +3048,8 @@
 			<div class="row mb-1">
   <div class="col-12">
 
+	<fieldset>
+	  <legend class="sr-only">Velg et alternativ</legend>
 
 
 			<div class="a-switch a-switch--small ">
@@ -3259,6 +3318,7 @@
 			</div>
 
 
+	</fieldset>
 
 
   </div>
@@ -3266,6 +3326,8 @@
 <div class="row">
   <div class="col-12 col-md-auto">
 
+	<fieldset>
+	  <legend class="sr-only">Velg et alternativ</legend>
 
 
 			<div class="a-switch a-switch--small a-lh-3 ">
@@ -3287,6 +3349,7 @@
 			</div>
 
 
+	</fieldset>
 
 
   </div>
@@ -3394,10 +3457,10 @@
   }
 </script>
 
-<script id="pl-js-polyfill-insert-1622549009227">
+<script id="pl-js-polyfill-insert-1624890253571">
   (function() {
     if (self != top) {
-      var cb = '1622549009227';
+      var cb = '1624890253571';
       var js = [];
       scriptLoader.run(js,cb,'pl-js-polyfill-insert');
     }
@@ -3410,7 +3473,7 @@
   import('../../styleguide/js/patternlab-pattern.modern.js');
 </script>
 
-<script id="pl-js-insert-1622549009227" nomodule>
+<script id="pl-js-insert-1624890253571" nomodule>
   /*! loadJS: load a JS file asynchronously. [c]2014 @scottjehl, Filament Group, Inc. (Based on http://goo.gl/REQGQ by Paul Irish). Licensed MIT */
   !function(e){var t=function(t,n){"use strict";var o=e.document.getElementsByTagName("script")[0],r=e.document.createElement("script");return r.src=t,r.async=!0,o.parentNode.insertBefore(r,o),n&&"function"==typeof n&&(r.onload=n),r};"undefined"!=typeof module?module.exports=t:e.loadJS=t}("undefined"!=typeof global?global:this);
 

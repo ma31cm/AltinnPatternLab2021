@@ -1,5 +1,27 @@
 {
-  "alert-alone" : {
+  "icon-prefix": "ai",
+  "iconClass": "ai-deadline",
+  "icon-size": "",
+  "iconExtraClass": "",
+  "icon-text": "",
+  "icon-id": false,
+  "sr-only": false,
+  "aria-hidden": false,
+  "stacked-background": false,
+  "icon-post-text": false,
+  "icon-title": false,
+  "icon-sr-only-text": false,
+  "link-text": "En lenke ser slik ut",
+  "link-url": "/patterns/04-sider-infoportal-01-forside-00-forside/04-sider-infoportal-01-forside-00-forside.html",
+  "sr-text": false,
+  "alert-id": "alert",
+  "alert-class": "a-message-info",
+  "alert-items": {
+    "alert-text": {
+      "text": "Dette er en driftsmelding eller endringsinformasjon"
+    }
+  },
+  "alert-alone": {
     "alert-id": "alert-no-arrow",
     "alert-class": "a-message-info a-message--arrow-off a-message--fullwidth",
     "alert-items": [

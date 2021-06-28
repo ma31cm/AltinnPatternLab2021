@@ -9,11 +9,11 @@
     <script src="https://use.fortawesome.com/ed31cded.js"></script>
     <script src="https://use.fortawesome.com/df832575.js"></script>
 
-    <link rel="stylesheet" href="../../css/style.prototype.altinn.css?1623157037526" media="all" />
-    <link rel="stylesheet" href="../../css/pattern-scaffolding.css?1623157037526" media="all" />
+    <link rel="stylesheet" href="../../css/style.prototype.altinn.css?1624889694612" media="all" />
+    <link rel="stylesheet" href="../../css/pattern-scaffolding.css?1624889694612" media="all" />
 
     <!-- Begin Pattern Lab (Required for Pattern Lab to run properly) -->
-    <link rel="stylesheet" href="../../styleguide/css/pattern-lab.css?1623157037526" media="all">
+    <link rel="stylesheet" href="../../styleguide/css/pattern-lab.css?1624889694612" media="all">
     <!-- End Pattern Lab -->
 
   </head>
@@ -104,7 +104,7 @@
   data-target="#accordionSmallItem10"
   aria-expanded="true"
   aria-controls="accordionSmallItem10"
-  class="a-collapse-title a-collapse-title--flexstart    no-decoration   ">
+  class="a-collapse-title a-collapse-title--flexstart    no-decoration   collapsed">
    <span class="a-dropdownArrow"></span> 
 
     <span class="primary-collapse-text">
@@ -195,8 +195,29 @@
     <div class="col-12 px-0">
         <fieldset class="form-group ">
 
+    <legend class="a-legend">Velg et alternativ
+    </legend>
+
+    <div class="row">
+      <div class="col-12">
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+      </div>
+    </div>
+
+    <div class="custom-control custom-radio a-custom-radio   custom-control-inline  ">
+      <input type="radio" id="radio31" name="customRadio" value="radio31" class="custom-control-input"   >
+      <label class="custom-control-label a-radioButtons-title" for="radio31">En radioknapp
 
 
+      </label>
+    </div>
+    <div class="custom-control custom-radio a-custom-radio   custom-control-inline  ">
+      <input type="radio" id="radio32" name="customRadio" value="radio32" class="custom-control-input"   >
+      <label class="custom-control-label a-radioButtons-title" for="radio32">Enda en radioknapp som inneholder mye tekst
+
+
+      </label>
+    </div>
 
 </fieldset>
 
@@ -263,7 +284,7 @@
 </nav>
 
 <!-- Begin .header -->
-<header class="a-header  ">
+<header class="a-header   a-js-hideElement ">
 	<!-- Begin .container -->
   <div class="container">
     <div class="row">
@@ -272,7 +293,7 @@
     		<!-- Begin .a-globalNav -->
     		<nav id="primary-nav" class="a-globalNav">
     			<a href="" class="a-globalNav-logo"> 
-<img src="..&#x2F;..&#x2F;images&#x2F;a-logo-blue.svg" alt="Altinn logo" class="a-logo  ">
+<img src="..&#x2F;..&#x2F;images&#x2F;a-logo-blue.svg" alt="Altinn logo" class="a-logo a-modal-top-logo ">
  <span class="sr-only">Til forsiden</span>
           </a>
 
@@ -282,11 +303,88 @@
     			  <div class="collapse navbar-toggleable-sm a-globalNav-main" id="exCollapsingNavbar2">
     					<ul class="" id="exCollapsingNavbar">
     						<li class="d-md-none">
+
+  <div class="form-group a-form-group   ">
+
+      <label class="a-form-label  sr-only  " for="dropdown-input-search">Søk etter innhold</label>
+
+    <div class="a-form-group-items input-group   ">
+
+
+      <input class="form-control  
+         a-hasButton  "
+        type="search" 
+        placeholder="Søk etter innhold"
+        
+        name="input-field"
+        data-val="true"
+        id="dropdown-input-search"
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+      >
+
+        <div class="input-group-append">
+          <button onclick="location.href='';" class="btn btn-secondary" type="button"  >
+<i class="ai ai-search   "    ></i>
+
+
+              <span class="sr-only">Søk</span>
+          </button>
+        </div>
+
+
+
+    </div>
+
+
+
+  </div>
+
     						</li>
                 <li class="d-md-none dropdown">
                   <a lang="en" class="nav-link dropdown-toggle a-languageSwitcher" href="javascript:void(0)" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                     language
                   </a>
+                    <!-- Begin #a-dropdown-languages - -->
+<div class="dropdown-menu a-dropdown-languages a-dropdownTriangle">
+    <a class="dropdown-item" href="#">
+      <img src="../../images/norsk.svg" class="a-iconLeft a-flag" alt="" />
+      <p>
+        <span  class="a-h3">Bokmål</span><br>
+        <span >Alt innhold er tilgjengelig på bokmål.</span>
+      </p>
+    </a>
+    <a class="dropdown-item" href="#">
+      <img src="../../images/english.svg" class="a-iconLeft a-flag" alt="" />
+      <p>
+        <span lang="en" class="a-h3">English</span><br>
+        <span lang="en">All content is available in english.</span>
+      </p>
+    </a>
+    <a class="dropdown-item" href="#">
+      <img src="../../images/norsk.svg" class="a-iconLeft a-flag" alt="" />
+      <p>
+        <span  class="a-h3">Nynorsk</span><br>
+        <span >Det er førebels berre skjema som er tilgjengelig på nynorsk. Andre sider vil vises med bokmål.</span>
+      </p>
+    </a>
+    <a class="dropdown-item" href="#">
+      <img src="../../images/globe.svg" class="a-iconLeft a-flag a-globe" alt="" />
+      <p>
+        <span lang="en" class="a-h3">Other languages</span><br>
+        <span lang="en">Information about other languages.</span>
+      </p>
+    </a>
+</div>
+
                 </li>
     						<li><a class=" " href="">
                     <span class="a-hvr-underline a-js-onboardingTarget-2 ">innboks</span></a></li>
@@ -301,6 +399,9 @@
     						<li class="d-md-none"><a class="a-hvr-underline" href="">om altinn</a></li>
     						<li class="d-md-none">
                   <a class="a-hvr-underline" href="&#x2F;patterns&#x2F;sider-infoportal-navigasjonssider-hjelpesenter\sider-infoportal-navigasjonssider-hjelpesenter.rendered.html">
+<i class="ai ai-nw ai-nw-pr ai-phone   "    ></i>
+
+
                     hjelp og kontakt
                   </a>
                 </li>
@@ -317,21 +418,65 @@
               Language
             </a>
 
+              <!-- Begin #a-dropdown-languages - -->
+<div class="dropdown-menu a-dropdown-languages a-dropdownTriangle">
+    <a class="dropdown-item" href="#">
+      <img src="../../images/norsk.svg" class="a-iconLeft a-flag" alt="" />
+      <p>
+        <span  class="a-h3">Bokmål</span><br>
+        <span >Alt innhold er tilgjengelig på bokmål.</span>
+      </p>
+    </a>
+    <a class="dropdown-item" href="#">
+      <img src="../../images/english.svg" class="a-iconLeft a-flag" alt="" />
+      <p>
+        <span lang="en" class="a-h3">English</span><br>
+        <span lang="en">All content is available in english.</span>
+      </p>
+    </a>
+    <a class="dropdown-item" href="#">
+      <img src="../../images/norsk.svg" class="a-iconLeft a-flag" alt="" />
+      <p>
+        <span  class="a-h3">Nynorsk</span><br>
+        <span >Det er førebels berre skjema som er tilgjengelig på nynorsk. Andre sider vil vises med bokmål.</span>
+      </p>
+    </a>
+    <a class="dropdown-item" href="#">
+      <img src="../../images/globe.svg" class="a-iconLeft a-flag a-globe" alt="" />
+      <p>
+        <span lang="en" class="a-h3">Other languages</span><br>
+        <span lang="en">Information about other languages.</span>
+      </p>
+    </a>
+</div>
+
           </li>
 
     			<li class="nav-item">
     				<!-- Dropdown toggle -->
-  <div class="a-personSwitcher " title="Logg inn ">
+  <button class="nav-link dropdown-toggle a-personSwitcher logged-in  " 
+  type="button" 
+  aria-haspopup="true" 
+  aria-expanded="false"  
+  title="Logg inn "
+   onclick="location.href&#x3D;&#39;&#x2F;patterns&#x2F;04-sider-infoportal-100-eguide-00-utelivsguiden&#x2F;04-sider-infoportal-100-eguide-00-utelivsguiden.html&#39;" 
+   data-toggle="dropdown"
+  
+  
+  
+  data-url="https://altinn.github.io/DesignSystem/public/patterns/03-maler-portal-99-modal-js-02-page-one/03-maler-portal-99-modal-js-02-page-one.markup-only.html"
+  >
   <span
     class="a-personSwitcher-name">
     <span class="d-block">Logg inn</span>
     <span class="d-block"></span>
   </span>
-<i class=" ai-keyhole-circle   "    ></i>
+<i class="ai ai-keyhole-circle  a-personSwitcher-icon a-js-onboardingTarget-1 "    ></i>
+  <span class="sr-only">Min profil</span>
 
 
 
-  </div>
+  </button>
 
     			</li>
     		</ul> <!-- End .a-globalNav-options -->
@@ -363,6 +508,31 @@
           
   <img src="..&#x2F;..&#x2F;images&#x2F;a-logo-black.svg" alt="Altinn logo" class="a-logo a-modal-top-logo ">
   
+      <div class="a-modal-top-user">
+    <button class="nav-link dropdown-toggle a-personSwitcher logged-in  " 
+    type="button" 
+    aria-haspopup="true" 
+    aria-expanded="false"  
+    title="Kari Nordmann "
+     onclick="location.href&#x3D;&#39;&#x2F;patterns&#x2F;04-sider-infoportal-100-eguide-00-utelivsguiden&#x2F;04-sider-infoportal-100-eguide-00-utelivsguiden.html&#39;" 
+     data-toggle="dropdown"
+    
+    
+    
+    data-url="../../patterns/04-sider-infoportal-100-eguide-01-sporsmal-restaurant-1/04-sider-infoportal-100-eguide-01-sporsmal-restaurant-1.markup-only.html"
+    >
+    <span
+      class="a-personSwitcher-name">
+      <span class="d-block">Kari Nordmann</span>
+      <span class="d-block"></span>
+    </span>
+  <i class="ai ai-private-circle-big  a-personSwitcher-icon "    ></i>
+  
+  
+  
+    </button>
+  
+      </div>
   </div>
   
           </div>
@@ -373,7 +543,7 @@
             <button
     type="button"
     class="a-modal-back a-js-tabable-popover"
-     onclick="location.href&#x3D;&#39;&#x2F;patterns&#x2F;sider-infoportal-eguide-utelivsguiden&#x2F;sider-infoportal-eguide-utelivsguiden.rendered.html&#39;" 
+     onclick="location.href&#x3D;&#39;&#x2F;patterns&#x2F;04-sider-infoportal-100-eguide-00-utelivsguiden&#x2F;04-sider-infoportal-100-eguide-00-utelivsguiden.html&#39;" 
      aria-label="Tilbake"
       
       data-toggle="popover"
@@ -397,8 +567,8 @@
     <div  role="popover" id="backPopoverContent"  class="d-none">
       <div class="pb-1">Du har gjort endringer som ikke vil lagres</div>
         <button
-    
-     onclick="location.href='/patterns/sider-infoportal-eguide-utelivsguiden/sider-infoportal-eguide-utelivsguiden.rendered.html'" 
+     type="button" 
+     onclick="location.href='/patterns/04-sider-infoportal-100-eguide-00-utelivsguiden/04-sider-infoportal-100-eguide-00-utelivsguiden.html'" 
     class="a-btn a-btn-danger a-js-modal-dirtyBackBtn mr-1"
     
     
@@ -416,8 +586,8 @@
   </button>
   
         <button
-    
-     onclick="location.href='/patterns/sider-infoportal-eguide-utelivsguiden/sider-infoportal-eguide-utelivsguiden.rendered.html'" 
+     type="button" 
+     onclick="location.href='/patterns/04-sider-infoportal-100-eguide-00-utelivsguiden/04-sider-infoportal-100-eguide-00-utelivsguiden.html'" 
     class="a-btn-link a-linkDanger a-js-modal-dirtyCancelBtn mr-1"
     
     
@@ -440,7 +610,7 @@
             <button
     type="button"
     class="a-modal-close a-js-tabable-popover"
-     onclick="location.href&#x3D;&#39;&#x2F;patterns&#x2F;sider-infoportal-eguide-utelivsguiden&#x2F;sider-infoportal-eguide-utelivsguiden.rendered.html&#39;" 
+     onclick="location.href&#x3D;&#39;&#x2F;patterns&#x2F;04-sider-infoportal-100-eguide-00-utelivsguiden&#x2F;04-sider-infoportal-100-eguide-00-utelivsguiden.html&#39;" 
      aria-label="Lukk"
       
       data-toggle="popover"
@@ -464,8 +634,8 @@
     <div  role="popover" id="closePopoverContent"  class="d-none">
       <div class="pb-1">Du har gjort endringer som ikke vil lagres</div>
         <button
-    
-     onclick="location.href='/patterns/sider-infoportal-eguide-utelivsguiden/sider-infoportal-eguide-utelivsguiden.rendered.html'" 
+     type="button" 
+     onclick="location.href='/patterns/04-sider-infoportal-100-eguide-00-utelivsguiden/04-sider-infoportal-100-eguide-00-utelivsguiden.html'" 
     class="a-btn a-btn-danger a-js-modal-dirtyCloseBtn mr-1"
     
     
@@ -483,8 +653,8 @@
   </button>
   
         <button
-    
-     onclick="location.href='/patterns/sider-infoportal-eguide-utelivsguiden/sider-infoportal-eguide-utelivsguiden.rendered.html'" 
+     type="button" 
+     onclick="location.href='/patterns/04-sider-infoportal-100-eguide-00-utelivsguiden/04-sider-infoportal-100-eguide-00-utelivsguiden.html'" 
     class="a-btn-link a-linkDanger a-js-modal-dirtyCancelBtn mr-1"
     
     
@@ -525,18 +695,69 @@
 		<div class="row a-footer-firstRow">
 			<div class="col-md-4 d-none d-md-block">
 
+  <div class="form-group a-form-group   ">
+
+      <label class="a-form-label  sr-only  " for="text-input-search-11">Søk etter innhold</label>
+
+    <div class="a-form-group-items input-group   ">
+
+
+      <input class="form-control  
+         a-hasButton  "
+        type="search" 
+        placeholder="Søk etter innhold"
+        
+        name="input-field"
+        data-val="true"
+        id="text-input-search-11"
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+      >
+
+        <div class="input-group-append">
+          <button onclick="location.href='';" class="btn btn-secondary" type="button"  >
+<i class="ai ai-search   "    ></i>
+
+
+              <span class="sr-only">Søk</span>
+          </button>
+        </div>
+
+
+
+    </div>
+
+
+
+  </div>
+
+
 	    </div>
 	    <div class="col-md-8">
 	      <nav class="a-footerNav">
 					<ul>
 						<li>
               <a class="a-hvr-underline" href="">
+<i class="ai ai-nw ai-corp   "    ></i>
+
+
                 starte og drive bedrift
               </a>
             </li>
 
 						<li>
               <a class="a-hvr-underline" href="&#x2F;patterns&#x2F;sider-infoportal-navigasjonssider-hjelpesenter\sider-infoportal-navigasjonssider-hjelpesenter.rendered.html">
+<i class="ai ai-nw ai-phone   "    ></i>
+
+
                 hjelp og kontakt
               </a>
             </li>
@@ -592,6 +813,10 @@
   <div id="a-iframeToggle" class="a-iframeToggle collapse">
 
     <!-- Close-button for .a-iframeToggle -->
+    <button type="button" class="a-stickyHelp-close" data-toggle="collapse" data-target="#a-iframeToggle" data-action="close" aria-expanded="true" aria-controls="a-iframeToggle"> <i class="ai ai-exit ai-sm   "   id="close-stickyHelp"   ></i>
+  <span class="sr-only">Minimer hjelpevinduet</span>
+
+ </button>
 
     <iframe class="a-js-stickyHelpFrame" data-src="../../&#x2F;patterns&#x2F;sider-infoportal-hurtighjelp-hurtighjelp\sider-infoportal-hurtighjelp-hurtighjelp.rendered.html"></iframe>
 
@@ -658,10 +883,10 @@
   }
 </script>
 
-<script id="pl-js-polyfill-insert-1623157037526">
+<script id="pl-js-polyfill-insert-1624889694612">
   (function() {
     if (self != top) {
-      var cb = '1623157037526';
+      var cb = '1624889694612';
       var js = [];
       scriptLoader.run(js,cb,'pl-js-polyfill-insert');
     }
@@ -674,7 +899,7 @@
   import('../../styleguide/js/patternlab-pattern.modern.js');
 </script>
 
-<script id="pl-js-insert-1623157037526" nomodule>
+<script id="pl-js-insert-1624889694612" nomodule>
   /*! loadJS: load a JS file asynchronously. [c]2014 @scottjehl, Filament Group, Inc. (Based on http://goo.gl/REQGQ by Paul Irish). Licensed MIT */
   !function(e){var t=function(t,n){"use strict";var o=e.document.getElementsByTagName("script")[0],r=e.document.createElement("script");return r.src=t,r.async=!0,o.parentNode.insertBefore(r,o),n&&"function"==typeof n&&(r.onload=n),r};"undefined"!=typeof module?module.exports=t:e.loadJS=t}("undefined"!=typeof global?global:this);
 

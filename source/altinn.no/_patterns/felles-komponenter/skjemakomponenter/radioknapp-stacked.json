@@ -1,18 +1,23 @@
 {
+  "radiobutton-indicator": true,
   "radio-legend": {
     "radio-legendText": "Hvilken knapp vil du velge?"
   },
-  "isStacked": "custom-controls-stacked",
   "radiobuttons": [
     {
-      "isInline" : false,
+      "isDisabled": false,
+      "isInline": false,
       "radiobutton-title": "En radioknapp som er stacked",
-      "radiobutton-id": "radio10"
+      "radiobutton-id": "radio10",
+      "radiobutton-indicator": true
     },
     {
-      "isInline" : false,
+      "isDisabled": false,
+      "isInline": false,
       "radiobutton-title": "En annen radioknapp som er stacked",
-    	"radiobutton-id": "radio11"
+      "radiobutton-id": "radio11",
+      "radiobutton-indicator": true
     }
-  ]
+  ],
+  "isStacked": "custom-controls-stacked"
 }

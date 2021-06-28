@@ -1,4 +1,52 @@
 {
+  "icon-prefix": "ai ai-nw ai-nw-pr",
+  "iconClass": "ai-private",
+  "icon-size": "",
+  "iconExtraClass": "",
+  "icon-text": "",
+  "icon-id": false,
+  "sr-only": false,
+  "aria-hidden": false,
+  "stacked-background": false,
+  "icon-post-text": false,
+  "icon-title": false,
+  "icon-sr-only-text": false,
+  "linkIcon-url": "#",
+  "linkIcon-text": "En lenke",
+  "flexWrap": false,
+  "check-legend": {
+    "check-legendText": "Velg ett eller flere alternativer"
+  },
+  "checkboxes": [
+    {
+      "isInline": true,
+      "isChecked": false,
+      "checkboxID": "check1",
+      "checkboxes-title": "Kryss av i den første avkrysningsboksen",
+      "isRequired": false
+    },
+    {
+      "isInline": true,
+      "isChecked": false,
+      "checkboxID": "check2",
+      "checkboxes-title": "Kryss av i den andre avkrysningsboksen",
+      "isRequired": false
+    },
+    {
+      "isInline": true,
+      "isChecked": false,
+      "checkboxID": "check3",
+      "checkboxes-title": "En avkrysningsboks som er required",
+      "isRequired": true
+    },
+    {
+      "inactive": true,
+      "isChecked": false,
+      "checkboxID": "check4",
+      "checkboxes-title": "En deaktivert avkrysningsboks",
+      "isRequired": false
+    }
+  ],
   "firstLevelColClass": "col-12",
   "secondLevelColClass": "col-12 col-md-3",
   "hrExtraClass": "a-hrLight",
