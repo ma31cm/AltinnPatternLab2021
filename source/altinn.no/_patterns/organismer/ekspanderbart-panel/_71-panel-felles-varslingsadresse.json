@@ -1,4 +1,172 @@
 {
+  "icon-prefix": "ai",
+  "iconClass": "ai-deadline",
+  "icon-size": "",
+  "iconExtraClass": "",
+  "icon-text": "",
+  "icon-id": false,
+  "sr-only": false,
+  "aria-hidden": false,
+  "stacked-background": false,
+  "icon-post-text": false,
+  "icon-title": false,
+  "icon-sr-only-text": false,
+  "dropdown-linkClass": "a-borderBottom",
+  "dropdown-top-item": {
+    "dropdown-top-item-content": "Lagrede søk",
+    "overflow-extraclass": "pt-1 pb-1"
+  },
+  "dropdown-item": [
+    {
+      "dropdown-icon": {
+        "icon-prefix": "ai",
+        "iconClass": "ai-letter-r",
+        "icon-size": "",
+        "iconExtraClass": "a-blue"
+      },
+      "dropdown-item-content": "Lagre søk",
+      "dropdown-item-content-class": "a-fontBold"
+    },
+    {
+      "dropdown-icon": {
+        "icon-prefix": "ai",
+        "iconClass": "ai-letter-r",
+        "icon-size": "",
+        "iconExtraClass": "a-blue"
+      },
+      "dropdown-item-content": "Annet lagret søk",
+      "dropdown-item-content-class": "a-fontBold"
+    },
+    {
+      "dropdown-icon": {
+        "icon-prefix": "ai",
+        "iconClass": "ai-settings",
+        "icon-size": "",
+        "iconExtraClass": "a-blue"
+      },
+      "dropdown-item-content": "tilpass",
+      "dropdown-item-content-class": "a-fontBold"
+    }
+  ],
+  "label-class": "badge-primary",
+  "label-id": false,
+  "label-content": "9",
+  "button-text": "En standard knapp",
+  "buttonClass": "a-btn",
+  "button-colorClass": "",
+  "link-url": "/patterns/04-sider-infoportal-01-forside-00-forside/04-sider-infoportal-01-forside-00-forside.html",
+  "button-shadow-label": false,
+  "button-icon": false,
+  "print-form-tag": false,
+  "text-input-id": "text-input-generic",
+  "isHidden": false,
+  "top-label": "Label: ",
+  "isDisabled": false,
+  "isInactive": false,
+  "text-input-placeholder": "f.eks placeholder",
+  "input-type": "text",
+  "isRequired": false,
+  "extra-help": false,
+  "isLarge": false,
+  "form-label-hasIcon": false,
+  "input-name": "input-field",
+  "form-control-class": "",
+  "button-disabled": false,
+  "button-type": "button",
+  "onclick": false,
+  "display-as-link": false,
+  "link-text": "En lenke ser slik ut",
+  "sr-text": false,
+  "header-text": "Forklarende tittel",
+  "intro-text": "Beskrivelse av innholdet i listen:",
+  "rows": [
+    {
+      "additional-classes": "a-dotted a-list a-list-noIcon",
+      "columns": [
+        {
+          "additional-classes": "col",
+          "column-items": [
+            {
+              "column-text": {
+                "text": "Første rad"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "additional-classes": "a-dotted a-list a-list-noIcon",
+      "columns": [
+        {
+          "additional-classes": "col",
+          "column-items": [
+            {
+              "column-text": {
+                "text": "Andre rad"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "popover-aria-label": "valid",
+  "open-popover-class": "a-helpIconButton a-helpIconButton--blue a-js-togglePopoverIcons",
+  "popover-data-target": "myPopup",
+  "popover-title": false,
+  "popover-content": false,
+  "popover-class": "",
+  "popover-link-text": "",
+  "popover-various-content": {
+    "alert-items": [
+      {
+        "alert-text": {
+          "text": "Dette er en tekst "
+        }
+      },
+      {
+        "alert-link": {
+          "link-text": "med en lenke som står i løpende tekst",
+          "link-url": "http://www.altinn.no"
+        }
+      },
+      {
+        "alert-text": {
+          "text": "og man kan ha mer tekst etter."
+        }
+      }
+    ]
+  },
+  "popover-link-icon": [
+    {
+      "icon-prefix": "ai",
+      "iconClass": "ai-circle-plus",
+      "iconExtraClass": "a-js-popoverIconInitial"
+    },
+    {
+      "icon-prefix": "ai",
+      "iconClass": "ai-circle-minus",
+      "iconExtraClass": "a-js-popoverIconExpanded"
+    }
+  ],
+  "popover-content-id": "popoverWithIconToggle",
+  "altText": {
+    "altText": "Vis mer info"
+  },
+  "lead-text-id": "leadText",
+  "lead-text-content": "Ingress er et kort innledende avsnitt som vanligvis plasseres mellom overskriften og brødteksten. Ingressen brukes ofte til å \"gripe\" fatt i leseren, for at personen skal bli interessert i å lese resten av teksten. Den fungerer også som et visuelt skille mellom resten av teksten. Ingressen bør være lettlest og fri for vanskelige faguttrykk.",
+  "section-title": "Tittel på seksjon",
+  "extra-class": false,
+  "dateDay": "20",
+  "dateMonth": "feb",
+  "hasIcon": {
+    "icon-prefix": "ai",
+    "iconClass": "ai-server",
+    "iconExtraClass": "a-icon a-icon-circle"
+  },
+  "hasTextSmall": false,
+  "icontext": "Stor tekst",
   "collapseID": "fellesvarslingsadresse",
   "dataParent": "#accordion",
   "collapse-panel-header-id": "sharedAlertInfoHeader",
@@ -56,14 +224,12 @@
         "altText": "Vis mer info"
       }
     },
-
     "hasAddEmailLink": {
       "button-id": "link-email",
       "button-text": "Legge til epost-varsling",
       "buttonClass": "a-btn-link d-none",
       "display-as-link": true
     },
-
     "email-section-title-id": "emailTitle",
     "email-sectiontitle": "Epost",
     "shared-notificationinfo-email-input": [
@@ -80,14 +246,13 @@
         "isHidden": true,
         "isDisabled": false,
         "isLarge": false,
-  
         "delete-shared-contactinfo-email-icon": {
           "button-id": "emailDelete-1",
           "button-type": "button",
           "button-text": false,
           "link-url": "",
           "button-textClass": "a-fontBold",
-          "button-colorClass": "",        
+          "button-colorClass": "",
           "buttonClass": "a-btn a-btn-icon-transparent a-delete px-0",
           "onclick": false,
           "button-shadow-label": false,
@@ -145,7 +310,7 @@
           "button-textClass": "a-fontBold",
           "buttonClass": "a-btn a-btn-icon-transparent a-delete px-0",
           "button-colorClass": "",
-          "link-url": "",          
+          "link-url": "",
           "button-shadow-label": false,
           "aria-label": "fjern",
           "button-icon": {
@@ -178,7 +343,7 @@
           "button-textClass": "a-fontBold",
           "buttonClass": "a-btn a-btn-icon-transparent a-delete px-0",
           "button-colorClass": "",
-          "link-url": "",          
+          "link-url": "",
           "button-shadow-label": false,
           "aria-label": "fjern",
           "button-icon": {
@@ -188,7 +353,7 @@
         }
       }
     ],
-    "shared-notification-add-links": {      
+    "shared-notification-add-links": {
       "hasAddMoreEmailLink": {
         "addmore-email-id": "addmore-email",
         "button-id": "link-addmore-email",
@@ -213,7 +378,7 @@
         "shared-notificationinfo-phone-input": {
           "text-input-id": "",
           "form-control-class": "a-input-phonenumber",
-          "top-label": "Label:",   
+          "top-label": "Label:",
           "text-input-value": "97837462",
           "text-input-placeholder": false,
           "input-type": "tel",
@@ -222,8 +387,7 @@
           "extra-help": false,
           "isHidden": true,
           "isLarge": false,
-          "visible": false,      
-        
+          "visible": false,
           "has-feedback": {
             "icon-prefix": "ai",
             "iconClass": "ai-plus",
@@ -233,9 +397,8 @@
             "error-message": "Telefonnummer må bestå av 8 siffer",
             "validation-pattern": "\"[0-9]{8}\""
           },
-          
           "form-label-isPhoneNumber": {
-            "text-input-id": "", 
+            "text-input-id": "",
             "text-input-value": "+47",
             "form-control-class": "a-input-countryCode a-js-countryCode",
             "input-type": "tel",
@@ -271,7 +434,7 @@
       "button-id": "link-sms-addmore",
       "button-text": "Legge til flere mobilnummer",
       "buttonClass": "a-btn-link",
-      "display-as-link": true     
+      "display-as-link": true
     },
     "save-notificationaddress-button": {
       "id": "btn-save-notificationaddress",
@@ -285,7 +448,7 @@
       "button-id": "btn-askmelater",
       "button-text": "Avbryt",
       "buttonClass": "a-btn-link",
-      "display-as-link": true     
-    }    
+      "display-as-link": true
+    }
   }
 }

@@ -1,8 +1,189 @@
 {
+  "icon-prefix": "ai",
+  "iconClass": "ai-back",
+  "icon-size": "",
+  "iconExtraClass": "",
+  "icon-text": "",
+  "icon-id": false,
+  "sr-only": false,
+  "aria-hidden": false,
+  "stacked-background": false,
+  "icon-post-text": false,
+  "icon-title": false,
+  "icon-sr-only-text": false,
+  "link-text": "En lenke ser slik ut",
+  "link-url": "",
+  "sr-text": false,
+  "button-text": "En standard knapp",
+  "buttonClass": "a-btn a-btn-icon",
+  "button-disabled": false,
+  "button-type": "button",
+  "onclick": false,
+  "button-icon": false,
+  "display-as-link": false,
+  "date-input-label": "Dato:",
+  "datovelger": {
+    "styleModifier": "",
+    "stackedLabel": true,
+    "inputId": "datovelger",
+    "date-input-label": false,
+    "isRequired": false,
+    "form-control-class": "",
+    "icon-prefix": "ai",
+    "iconClass": "ai-date",
+    "iconExtraClass": ""
+  },
+  "tidsvelger": {
+    "select-menu-id": "tidsvelger",
+    "select-menu-label": "",
+    "select-menu-selected": "00:00",
+    "select-menu-items": [
+      {
+        "select-menu-option": "01:00"
+      },
+      {
+        "select-menu-option": "02:00"
+      },
+      {
+        "select-menu-option": "03:00"
+      },
+      {
+        "select-menu-option": "04:00"
+      },
+      {
+        "select-menu-option": "05:00"
+      },
+      {
+        "select-menu-option": "06:00"
+      },
+      {
+        "select-menu-option": "07:00"
+      },
+      {
+        "select-menu-option": "08:00"
+      },
+      {
+        "select-menu-option": "09:00"
+      },
+      {
+        "select-menu-option": "10:00"
+      },
+      {
+        "select-menu-option": "11:00"
+      },
+      {
+        "select-menu-option": "12:00"
+      },
+      {
+        "select-menu-option": "13:00"
+      },
+      {
+        "select-menu-option": "14:00"
+      },
+      {
+        "select-menu-option": "15:00"
+      },
+      {
+        "select-menu-option": "16:00"
+      },
+      {
+        "select-menu-option": "17:00"
+      },
+      {
+        "select-menu-option": "18:00"
+      },
+      {
+        "select-menu-option": "19:00"
+      },
+      {
+        "select-menu-option": "20:00"
+      },
+      {
+        "select-menu-option": "21:00"
+      },
+      {
+        "select-menu-option": "22:00"
+      },
+      {
+        "select-menu-option": "23:00"
+      }
+    ]
+  },
+  "textarea-label": "Fyll inn tekst:",
+  "textarea-placeholder": "Forklarende hjelpetekst med forslag",
+  "print-form-tag": false,
+  "text-input-id": "text-input-generic",
+  "isHidden": false,
+  "top-label": "Label: ",
+  "isDisabled": false,
+  "isInactive": false,
+  "text-input-placeholder": "f.eks placeholder",
+  "input-type": "text",
+  "isRequired": false,
+  "extra-help": false,
+  "isLarge": false,
+  "form-label-hasIcon": false,
+  "input-name": "input-field",
+  "form-control-class": "",
+  "flexWrap": false,
+  "check-legend": {
+    "check-legendText": "Velg ett eller flere alternativer"
+  },
+  "checkboxes": [
+    {
+      "isInline": true,
+      "isChecked": false,
+      "checkboxID": "check1",
+      "checkboxes-title": "Kryss av i den første avkrysningsboksen",
+      "isRequired": false
+    },
+    {
+      "isInline": true,
+      "isChecked": false,
+      "checkboxID": "check2",
+      "checkboxes-title": "Kryss av i den andre avkrysningsboksen",
+      "isRequired": false
+    },
+    {
+      "isInline": true,
+      "isChecked": false,
+      "checkboxID": "check3",
+      "checkboxes-title": "En avkrysningsboks som er required",
+      "isRequired": true
+    },
+    {
+      "inactive": true,
+      "isChecked": false,
+      "checkboxID": "check4",
+      "checkboxes-title": "En deaktivert avkrysningsboks",
+      "isRequired": false
+    }
+  ],
+  "icon-list-items": [
+    {
+      "list-item-name": "Forretningsplan.ods",
+      "listItemDescription": "(last ned)",
+      "icon-prefix": "reg",
+      "iconClass": "reg-attachment-ods ai-md ai-nw pr-1"
+    },
+    {
+      "list-item-name": "Oppdragsavtale.doc",
+      "listItemDescription": "(last ned)",
+      "icon-prefix": "reg",
+      "iconClass": "reg-attachment ai-md ai-nw pr-1"
+    },
+    {
+      "list-item-name": "Driftsbudsjett.pdf",
+      "listItemDescription": "(last ned)",
+      "icon-prefix": "reg",
+      "iconClass": "reg-attachment-pdf ai-md ai-nw pr-1"
+    }
+  ],
+  "aria-label": "Tilbake",
   "header-title": "Endre eller fjerne driftsvarsel",
-  "form" : {
+  "form": {
     "description": false,
-    "emne" : {
+    "emne": {
       "print-form-tag": false,
       "text-input-id": "text-input-title2",
       "isHidden": false,
@@ -24,7 +205,6 @@
         "data-required-message": "Du har ikke oppgitt tittel."
       }
     },
-
     "question": {
       "textarea-label": "Tekst",
       "textarea-placeholder": "G​runnet planlagt vedlikehold mandag 18.3.19, mellom kl. 04 – 06 (natt), vil det kunne oppleves noe treghet/forstyrrelser i løsningen i en kort periode.",
@@ -49,8 +229,7 @@
         "iconExtraClass": "form-control-feedback"
       }
     },
-
-    "link" : {
+    "link": {
       "print-form-tag": false,
       "text-input-id": "text-input-link",
       "isHidden": false,
@@ -66,8 +245,7 @@
       "form-label-hasIcon": false,
       "data-required": false
     },
-
-    "linktext" : {
+    "linktext": {
       "print-form-tag": false,
       "text-input-id": "text-input-linktext",
       "isHidden": false,
@@ -83,105 +261,96 @@
       "form-label-hasIcon": false,
       "data-required": false
     },
-
-    "alerttype" : {
+    "alerttype": {
       "flexWrap": false,
       "check-legend": false,
-      "label-text" : "Type driftsvarsel",
-
-      "radiotab-items" : [
+      "label-text": "Type driftsvarsel",
+      "radiotab-items": [
         {
           "radiotab-id": "radio-Feilmelding",
           "radiotab-title": "Feil i Altinn",
-          "isChecked" : true,
-          "isDisabled" : true
+          "isChecked": true,
+          "isDisabled": true
         },
         {
           "radiotab-id": "radio-Feilmelding",
           "radiotab-title": "Feil og endringer i samtykkeløsningen",
-          "isDisabled" : true
+          "isDisabled": true
         },
         {
           "radiotab-id": "radio-Feilmelding",
           "radiotab-title": "Feil og endringer som påvirker ekstern programvare",
-          "isDisabled" : true
+          "isDisabled": true
         },
         {
           "radiotab-id": "radio-vedlikehold",
           "radiotab-title": "Planlagt vedlikehold",
-          "isDisabled" : true
+          "isDisabled": true
         },
         {
           "radiotab-id": "radio-feilaltinn",
           "radiotab-title": "Nye releaser i Altinn",
-          "isDisabled" : true
+          "isDisabled": true
         }
       ],
-      "radiotab-panes" : false
-      
+      "radiotab-panes": false,
+      "invalid-feedback": "Vennligst velg type"
     },
-
     "critical-deactivated": {
       "check-legend": false,
-      "checkboxes":  [
+      "checkboxes": [
         {
-          "isInline" : false,
+          "isInline": false,
           "isChecked": true,
-          "checkboxID" : "criticaltrue-deactivated",
+          "checkboxID": "criticaltrue-deactivated",
           "checkboxes-title": "Feilmeldingen er av kritisk art/A-feil",
           "isRequired": false,
-          "inactive" : true
+          "inactive": true
         }
       ]
     },
-
-    "canal" : {
+    "canal": {
       "flexWrap": false,
       "check-legend": false,
-      "label-text" : "Kanaler driftsvarslene skal legges ut på",
-      "checkboxes":  [
+      "label-text": "Kanaler driftsvarslene skal legges ut på",
+      "checkboxes": [
         {
-          "isInline" : false,
+          "isInline": false,
           "isChecked": false,
-          "checkboxID" : "canal3",
+          "checkboxID": "canal3",
           "checkboxes-title": "Altinndigital.no",
           "isRequired": false,
           "inactive": true
         },
         {
-          "isInline" : false,
+          "isInline": false,
           "isChecked": true,
-          "checkboxID" : "canal4",
+          "checkboxID": "canal4",
           "checkboxes-title": "Dashboard for tjenesteeiere",
           "isRequired": false,
           "inactive": true
         }
       ]
     },
-
-    "time-start" : false,
-
-    "time-end-edit" : false,
-
-    "errorIsSolved" : {
+    "time-start": false,
+    "time-end-edit": false,
+    "errorIsSolved": {
       "alert-id": "alert",
       "check-legend": {
         "check-legendText": "Er feilen løst?"
       },
-      "checkboxes":  [
+      "checkboxes": [
         {
-          "isInline" : true,
+          "isInline": true,
           "isChecked": false,
-          "checkboxID" : "errorSolved",
+          "checkboxID": "errorSolved",
           "checkboxes-title": "Ja, feilen kan oppdateres til løst",
           "isRequired": false
         }
       ]
     },
-
-    "timeend" : false,
-
-    "time" : {
+    "timeend": false,
+    "time": {
       "label": "Publisert/sendt ut",
       "datovelger": {
         "styleModifier": "",
@@ -196,12 +365,11 @@
         "icon-prefix": "ai",
         "iconClass": "ai-date",
         "iconExtraClass": "",
-        "isDisabled" : true
+        "isDisabled": true
       },
-      "timeIsDisabled" : true,
+      "timeIsDisabled": true,
       "timeValue": "08:32"
     },
-
     "removeAlert": {
       "display-as-link": true,
       "enable-popover": true,
@@ -229,29 +397,26 @@
       "iconClass": "ai-circle-exit",
       "iconExtraClass": "a-danger ai-left"
     },
-
     "whenUpdating": {
       "alert-id": "alert",
       "check-legend": {
         "check-legendText": "Ønsker du at det skal sendes ut et nytt e-postvarsel med oppdateringene du har gjort?"
       },
-      "checkboxes":  [
+      "checkboxes": [
         {
-          "isInline" : true,
+          "isInline": true,
           "isChecked": false,
-          "checkboxID" : "sendnewemail",
+          "checkboxID": "sendnewemail",
           "checkboxes-title": "Ja, send ut nytt varsel",
           "isRequired": false
         }
       ]
     },
-
     "avbryt": {
       "link-text": "Avbryt",
       "link-url": ""
     },
-
-    "save" : {
+    "save": {
       "button-text": "Lagre",
       "buttonClass": "a-btn mt-3",
       "button-id": "a-js-contactForm-submit",
@@ -260,10 +425,9 @@
       "button-icon": false,
       "display-as-link": false,
       "data-is-success": true,
-  
       "data-action": "next",
-      "data-toggle":"altinn-modal",
-      "data-target":"#modal-addAlert",
+      "data-toggle": "altinn-modal",
+      "data-target": "#modal-addAlert",
       "page-url": "../../patterns/02-organismer-83-Dashboard-modaler-driftsvarsler-11-driftsvarsel-ferdig/02-organismer-83-Dashboard-modaler-driftsvarsler-11-driftsvarsel-ferdig.markup-only.html"
     }
   }

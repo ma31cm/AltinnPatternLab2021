@@ -1,4 +1,54 @@
 {
+  "button-text": "En standard knapp",
+  "buttonClass": "a-btn",
+  "button-disabled": false,
+  "button-type": "button",
+  "onclick": false,
+  "button-icon": false,
+  "display-as-link": false,
+  "icon-prefix": "ai",
+  "iconClass": "ai-deadline",
+  "icon-size": "",
+  "iconExtraClass": "",
+  "icon-text": "",
+  "icon-id": false,
+  "sr-only": false,
+  "aria-hidden": false,
+  "stacked-background": false,
+  "icon-post-text": false,
+  "icon-title": false,
+  "icon-sr-only-text": false,
+  "date-input-label": "Dato:",
+  "select-menu-id": "primaryEmail",
+  "select-menu-label": "Primær epost-adresse:",
+  "select-menu-selected": "post@første.com",
+  "select-menu-items": [
+    {
+      "select-menu-option": "post@andre.com"
+    },
+    {
+      "select-menu-option": "post@tredje.com"
+    },
+    {
+      "select-menu-option": "post@fjerde.com"
+    }
+  ],
+  "textarea-label": "Fyll inn tekst:",
+  "textarea-placeholder": "Forklarende hjelpetekst med forslag",
+  "print-form-tag": false,
+  "text-input-id": "text-input-generic",
+  "isHidden": false,
+  "top-label": "Label: ",
+  "isDisabled": false,
+  "isInactive": false,
+  "text-input-placeholder": "f.eks placeholder",
+  "input-type": "text",
+  "isRequired": false,
+  "extra-help": false,
+  "isLarge": false,
+  "form-label-hasIcon": false,
+  "input-name": "input-field",
+  "form-control-class": "",
   "title": {
     "top-label": "Tittel:",
     "text-input-placeholder": "Navn på varsel",
@@ -26,9 +76,15 @@
     "select-menu-label": "Kategori:",
     "select-menu-selected": "Velg kategori",
     "select-menu-items": [
-      { "select-menu-option": "Serverdrift" },
-      { "select-menu-option": "Applikasjonsforvaltning" },
-      { "select-menu-option": "Statusmøte drift" }
+      {
+        "select-menu-option": "Serverdrift"
+      },
+      {
+        "select-menu-option": "Applikasjonsforvaltning"
+      },
+      {
+        "select-menu-option": "Statusmøte drift"
+      }
     ]
   },
   "fromDate": {

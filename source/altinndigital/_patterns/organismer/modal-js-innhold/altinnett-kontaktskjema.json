@@ -1,4 +1,39 @@
 {
+  "button-text": "En standard knapp",
+  "buttonClass": "a-btn",
+  "button-disabled": false,
+  "button-type": "button",
+  "onclick": false,
+  "button-icon": false,
+  "display-as-link": false,
+  "textarea-label": "Fyll inn tekst:",
+  "textarea-placeholder": "Forklarende hjelpetekst med forslag",
+  "icon-prefix": "ai",
+  "iconClass": "ai-deadline",
+  "icon-size": "",
+  "iconExtraClass": "",
+  "icon-text": "",
+  "icon-id": false,
+  "sr-only": false,
+  "aria-hidden": false,
+  "stacked-background": false,
+  "icon-post-text": false,
+  "icon-title": false,
+  "icon-sr-only-text": false,
+  "print-form-tag": false,
+  "text-input-id": "text-input-generic",
+  "isHidden": false,
+  "top-label": "Label: ",
+  "isDisabled": false,
+  "isInactive": false,
+  "text-input-placeholder": "f.eks placeholder",
+  "input-type": "text",
+  "isRequired": false,
+  "extra-help": false,
+  "isLarge": false,
+  "form-label-hasIcon": false,
+  "input-name": "input-field",
+  "form-control-class": "",
   "navn": {
     "print-form-tag": false,
     "text-input-id": "text-input-name",
@@ -18,7 +53,7 @@
       "data-required-message": "Du har ikke oppgitt navn."
     }
   },
-    "firma": {
+  "firma": {
     "print-form-tag": false,
     "text-input-id": "text-input-name",
     "isHidden": false,
@@ -46,16 +81,13 @@
     "isRequired": true,
     "error-message-popover": true,
     "input-name": "text-input-epost1",
-
     "input-regex-validation": {
       "error-message": "Du har ikke skrevet eposten korrekt",
       "validation-pattern": "(('[^']+')|(([a-zA-Z0-9!#$%&'*+-=?^_`{|}~])+(.([a-zA-Z0-9!#$%&'*+-=?^_`{|}~])+)*))@((((([a-zA-Z0-9æøåÆØÅ]([a-zA-Z0-9-æøåÆØÅ]{0,61})[a-zA-Z0-9æøåÆØÅ].)|[a-zA-Z0-9æøåÆØÅ].){1,9})([a-zA-Z]{2,14}))|((d{1,3}).(d{1,3}).(d{1,3}).(d{1,3})))"
     },
-
     "data-required": {
       "data-required-message": "Du har ikke oppgitt e-post."
     },
-
     "extra-help": false,
     "isHidden": false,
     "isLarge": false
@@ -72,14 +104,12 @@
     "extra-help": false,
     "isHidden": false,
     "isLarge": false,
-
     "input-regex-validation": {
       "error-message": "Telefonnummer kan kun inneholde siffer",
       "validation-pattern": "[0-9]+"
     }
   },
-
-  "emne" : {
+  "emne": {
     "print-form-tag": false,
     "text-input-id": "text-input-title",
     "isHidden": false,
@@ -98,7 +128,6 @@
       "data-required-message": "Du har ikke oppgitt emne."
     }
   },
-
   "question": {
     "textarea-label": "Din melding: ",
     "textarea-placeholder": "Fyll inn tekst",
@@ -129,16 +158,15 @@
     "button-icon": false,
     "display-as-link": false,
     "data-is-success": true,
-
     "data-action": "load",
-    "data-toggle":"altinn-modal",
-    "data-target":"modal-singel",
+    "data-toggle": "altinn-modal",
+    "data-target": "modal-singel",
     "page-url": "../../patterns/02-organismer-80-Modal-js-innhold-12-altinnett-kontaktskjema/02-organismer-80-Modal-js-innhold-12-altinnett-kontaktskjema.markup-only.html"
   },
-  "modal-id" : "modal-singel",
+  "modal-id": "modal-singel",
   "singelmodal": {
-    "modal-id" : "modal-singel",
-    "modal-isSingel" : true,
+    "modal-id": "modal-singel",
+    "modal-isSingel": true,
     "show-login": false,
     "display-as-dropdown": false,
     "logo": {

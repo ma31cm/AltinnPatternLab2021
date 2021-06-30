@@ -1,4 +1,37 @@
 {
+  "button-text": "En standard knapp",
+  "buttonClass": "a-btn",
+  "button-disabled": false,
+  "button-type": "button",
+  "onclick": false,
+  "button-icon": false,
+  "display-as-link": false,
+  "icon-prefix": "ai",
+  "iconClass": "ai-deadline",
+  "icon-size": "",
+  "iconExtraClass": "",
+  "icon-text": "",
+  "icon-id": false,
+  "sr-only": false,
+  "aria-hidden": false,
+  "stacked-background": false,
+  "icon-post-text": false,
+  "icon-title": false,
+  "icon-sr-only-text": false,
+  "print-form-tag": false,
+  "text-input-id": "text-input-generic",
+  "isHidden": false,
+  "top-label": "Label: ",
+  "isDisabled": false,
+  "isInactive": false,
+  "text-input-placeholder": "f.eks placeholder",
+  "input-type": "text",
+  "isRequired": false,
+  "extra-help": false,
+  "isLarge": false,
+  "form-label-hasIcon": false,
+  "input-name": "input-field",
+  "form-control-class": "",
   "text-input-personnumber": {
     "text-input-id": "Fødselsnummer",
     "top-label": "Fødselsnummer: ",
@@ -26,11 +59,9 @@
   },
   "adress-submit": {
     "button-text": "Neste",
-		"buttonClass": "a-btn",
+    "buttonClass": "a-btn",
     "button-type": "submit",
     "onclick": false
   },
-  "url": ""
-
-
+  "url": "/patterns/04-sider-infoportal-01-forside-00-forside/04-sider-infoportal-01-forside-00-forside.html"
 }

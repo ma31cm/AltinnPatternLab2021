@@ -1,4 +1,28 @@
 {
+  "icon-prefix": "ai",
+  "iconClass": "ai-deadline",
+  "icon-size": "",
+  "iconExtraClass": "",
+  "icon-text": "",
+  "icon-id": false,
+  "sr-only": false,
+  "aria-hidden": false,
+  "stacked-background": false,
+  "icon-post-text": false,
+  "icon-title": false,
+  "icon-sr-only-text": false,
+  "link-text": "En lenke ser slik ut",
+  "link-url": "/patterns/04-sider-infoportal-01-forside-00-forside/04-sider-infoportal-01-forside-00-forside.html",
+  "sr-text": false,
+  "dateDay": "20",
+  "dateMonth": "feb",
+  "hasIcon": {
+    "icon-prefix": "ai",
+    "iconClass": "ai-server",
+    "iconExtraClass": "a-icon a-icon-circle"
+  },
+  "hasTextSmall": false,
+  "icontext": "Stor tekst",
   "borolleDelegering": {
     "collapseID": "borolleDelegering",
     "collapse-panel-header-id": "borolleDelegeringHeader",
@@ -34,7 +58,7 @@
         }
       },
       {
-        "lenke" : {
+        "lenke": {
           "linkClass": "a-btn",
           "link-text": "Deleger enkeltvis"
         }
@@ -52,7 +76,7 @@
         }
       },
       {
-        "lenke" : {
+        "lenke": {
           "linkClass": "a-btn",
           "link-text": "Deleger samlet"
         }

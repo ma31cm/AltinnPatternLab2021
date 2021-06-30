@@ -1,4 +1,11 @@
 {
+  "button-text": "En standard knapp",
+  "buttonClass": "a-btn",
+  "button-disabled": false,
+  "button-type": "button",
+  "onclick": false,
+  "button-icon": false,
+  "display-as-link": false,
   "headingOne": "Obs!",
   "message-info": {
     "info-text-1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean lacinia eu diam non pharetra. Nulla volutpat egestas tristique.",
@@ -9,14 +16,14 @@
     "buttonClass": "a-btn mr-1",
     "button-disabled": false,
     "button-type": "button",
-    "onclick": "location.href='';",
+    "onclick": "location.href='/patterns/04-sider-portal-50-innboks-00-innboks/04-sider-portal-50-innboks-00-innboks.html';",
     "button-icon": false,
     "display-as-link": false
   },
   "closeBtn": {
     "button-text": "Nei, takk",
     "buttonClass": "a-btn-link",
-    "onclick": "location.href='';",
+    "onclick": "location.href='/patterns/04-sider-portal-50-innboks-00-innboks/04-sider-portal-50-innboks-00-innboks.html';",
     "button-icon": false,
     "display-as-link": true
   }
