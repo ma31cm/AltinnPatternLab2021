@@ -9,8 +9,8 @@
     <script src="https://use.fortawesome.com/ed31cded.js"></script>
     <script src="https://use.fortawesome.com/df832575.js"></script>
 
-    <link rel="stylesheet" href="../../css/style.prototype.altinn.css?1624889694612" media="all" />
-    <link rel="stylesheet" href="../../css/pattern-scaffolding.css?1624889694612" media="all" />
+    <link rel="stylesheet" href="../../css/style.prototype.altinn.css?1625039929350" media="all" />
+    <link rel="stylesheet" href="../../css/pattern-scaffolding.css?1625039929350" media="all" />
 
     <!-- Begin Pattern Lab (Required for Pattern Lab to run properly) -->
     
@@ -23,6 +23,26 @@
     <div class="container a-p-static">
       <div class="row">
         <div class="col-xl-12">
+            <div class="a-modal-top">
+        
+<img src="..&#x2F;..&#x2F;images&#x2F;a-logo-black.svg" alt="Altinn logo" class="a-logo a-modal-top-logo ">
+
+    <div class="a-modal-top-user">
+  <div class="a-personSwitcher " title="JAN PETTERSEN ">
+  <span
+    class="a-personSwitcher-name">
+    <span class="d-block">JAN PETTERSEN</span>
+    <span class="d-block"></span>
+  </span>
+<i class="ai ai-private-circle-big  a-personSwitcher-icon "    ></i>
+
+
+
+  </div>
+
+    </div>
+</div>
+
         </div>
       </div>
       <div class="row">       
@@ -98,7 +118,7 @@
           type="text" 
           placeholder="11 siffer"
           
-          name=""
+          name="input-field"
           data-val="true"
           id="text-fnr-brukernavn"
           required
@@ -108,8 +128,8 @@
           
           
           
-          
-          
+          data-search-algorithm="show-and-highlight"
+          data-search-target="employee-table"
           
             data-val-regex="Du har tastet et ugyldig fødsensnummer eller brukernavn. Fødselsnummer må bestå av 11 tegn."
             data-val-regex-pattern="&quot;^([0-9]{11})\s*$|(.*\D+.*)&quot;"
@@ -121,7 +141,7 @@
       </div>
   
   
-        <div class="a-message a-message-error" data-valmsg-for="" data-valmsg-replace="true"></div>
+        <div class="a-message a-message-error" data-valmsg-for="input-field" data-valmsg-replace="true"></div>
   
     </div>
   
@@ -143,7 +163,7 @@
           type="text" 
           placeholder="Etternavn"
           
-          name=""
+          name="input-field"
           data-val="true"
           id="text-etternavn"
           required
@@ -153,8 +173,8 @@
           
           
           
-          
-          
+          data-search-algorithm="show-and-highlight"
+          data-search-target="employee-table"
           
         >
   
@@ -164,7 +184,7 @@
       </div>
   
   
-        <div class="a-message a-message-error" data-valmsg-for="" data-valmsg-replace="true"></div>
+        <div class="a-message a-message-error" data-valmsg-for="input-field" data-valmsg-replace="true"></div>
   
     </div>
   
@@ -176,7 +196,7 @@
               <div class="mt-3">
                     <button
      type="submit" 
-     onclick="location.href=''" 
+     onclick="location.href='/patterns/04-sider-portal-60-profil-roller-rettigheter-01-profil-roller-rettigheter/04-sider-portal-60-profil-roller-rettigheter-01-profil-roller-rettigheter.html'" 
     class="a-btn a-btn-success mb-0"
     
     
@@ -232,6 +252,10 @@
   <div id="a-iframeToggle" class="a-iframeToggle collapse">
 
     <!-- Close-button for .a-iframeToggle -->
+    <button type="button" class="a-stickyHelp-close" data-toggle="collapse" data-target="#a-iframeToggle" data-action="close" aria-expanded="true" aria-controls="a-iframeToggle"> <i class="ai ai-exit ai-sm   "   id="close-stickyHelp"   ></i>
+  <span class="sr-only">Minimer hjelpevinduet</span>
+
+ </button>
 
     <iframe class="a-js-stickyHelpFrame" data-src="../../&#x2F;patterns&#x2F;sider-infoportal-hurtighjelp-hurtighjelp\sider-infoportal-hurtighjelp-hurtighjelp.rendered.html"></iframe>
 
@@ -286,10 +310,10 @@
   }
 </script>
 
-<script id="pl-js-polyfill-insert-1624889694612">
+<script id="pl-js-polyfill-insert-1625039929350">
   (function() {
     if (self != top) {
-      var cb = '1624889694612';
+      var cb = '1625039929350';
       var js = [];
       scriptLoader.run(js,cb,'pl-js-polyfill-insert');
     }
@@ -302,7 +326,7 @@
   import('../../styleguide/js/patternlab-pattern.modern.js');
 </script>
 
-<script id="pl-js-insert-1624889694612" nomodule>
+<script id="pl-js-insert-1625039929350" nomodule>
   /*! loadJS: load a JS file asynchronously. [c]2014 @scottjehl, Filament Group, Inc. (Based on http://goo.gl/REQGQ by Paul Irish). Licensed MIT */
   !function(e){var t=function(t,n){"use strict";var o=e.document.getElementsByTagName("script")[0],r=e.document.createElement("script");return r.src=t,r.async=!0,o.parentNode.insertBefore(r,o),n&&"function"==typeof n&&(r.onload=n),r};"undefined"!=typeof module?module.exports=t:e.loadJS=t}("undefined"!=typeof global?global:this);
 

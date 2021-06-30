@@ -3,6 +3,26 @@
     <div class="container a-p-static">
       <div class="row">
         <div class="col-xl-12">
+            <div class="a-modal-top">
+        
+<img src="..&#x2F;..&#x2F;images&#x2F;a-logo-black.svg" alt="Altinn logo" class="a-logo a-modal-top-logo ">
+
+    <div class="a-modal-top-user">
+  <div class="a-personSwitcher " title="JAN PETTERSEN ">
+  <span
+    class="a-personSwitcher-name">
+    <span class="d-block">JAN PETTERSEN</span>
+    <span class="d-block"></span>
+  </span>
+<i class="ai ai-private-circle-big  a-personSwitcher-icon "    ></i>
+
+
+
+  </div>
+
+    </div>
+</div>
+
         </div>
       </div>
       <div class="row">       
@@ -11,7 +31,7 @@
           <button
   type="button"
   class="a-modal-back a-js-tabable-popover"
-   onclick="location.href&#x3D;&#39;&#x2F;patterns&#x2F;sider-portal-profil-roller-rettigheter-profil-roller-rettigheter&#x2F;sider-portal-profil-roller-rettigheter-profil-roller-rettigheter.rendered.html&#39;" 
+   onclick="location.href&#x3D;&#39;&#x2F;patterns&#x2F;04-sider-portal-60-profil-roller-rettigheter-01-profil-roller-rettigheter&#x2F;04-sider-portal-60-profil-roller-rettigheter-01-profil-roller-rettigheter.html&#39;" 
    aria-label="Tilbake"
 >
   <span class="ai-stack">
@@ -27,7 +47,7 @@
           <button
   type="button"
   class="a-modal-close a-js-tabable-popover"
-   onclick="location.href&#x3D;&#39;&#x2F;patterns&#x2F;sider-portal-profil-roller-rettigheter-profil-roller-rettigheter&#x2F;sider-portal-profil-roller-rettigheter-profil-roller-rettigheter.rendered.html&#39;" 
+   onclick="location.href&#x3D;&#39;&#x2F;patterns&#x2F;04-sider-portal-60-profil-roller-rettigheter-01-profil-roller-rettigheter&#x2F;04-sider-portal-60-profil-roller-rettigheter-01-profil-roller-rettigheter.html&#39;" 
    aria-label="Lukk"
 >
   <span class="ai-stack">
@@ -48,12 +68,12 @@
                 <div class="modal-content">
                     <div class="modal-header a-modal-header">
   <div class="a-iconText a-iconText-background a-iconText-large a-iconText--noMinHeight">
-    <div class="a-iconText-icon ">  <i class="ai ai-client   "    ></i>
+    <div class="a-iconText-icon ">  <i class="ai ai-client  a-icon "    ></i>
   
   </div>
-      <div class="a-iconText-text">
+      <h1 class="a-iconText-text mb-0">
     <span class="a-iconText-text-large">Gi og fjerne rettigheter  </span>
-      </div>
+        </h1>
   </div>
 </div>
 
@@ -85,7 +105,7 @@
   
     <div class="form-group a-form-group   ">
   
-        <label class="a-form-label  sr-only  " for="">Finn klient</label>
+        <label class="a-form-label  sr-only  " for="text-input-generic">Finn klient</label>
   
       <div class="a-form-group-items input-group   ">
           <span class="input-group-prepend d-none d-md-block">  <i class="ai ai-private   "    ></i>
@@ -98,9 +118,9 @@
           type="search" 
           placeholder="Søk etter ansatt"
           
-          name=""
+          name="input-field"
           data-val="true"
-          
+          id="text-input-generic"
           
           
           
@@ -275,6 +295,34 @@
                 Velg roller den ansatte skal ha:
               </div>
       
+              <div class="col-12 col-sm-auto pr-1 pr-md-4 mt-1 mt-md-0">
+                <button type="button" 
+        class="a-btn-link  "
+         aria-label="Fjern alle roller"  
+        
+        
+        
+        
+        
+        
+        
+        
+        >
+      
+      <i class="ai ai-circle-exit ai-nw  a-danger "    ></i>
+      
+      
+      
+      
+          <span class="a-btn-icon-text a-btn-black-noUnderline a-fontBold">
+            Fjern alle
+          </span>
+      
+      
+      </button>
+      
+      
+              </div>
           </div>
       
           <div class="text-sm-center mt-1">
@@ -288,6 +336,13 @@
             
              checked 
             
+              class="sr-only"
+              data-toggle="popover"
+              data-placement="bottom"
+              data-animation="false"
+              data-popover-content="popoverWithIconToggle"
+              
+              
             
             
             >
@@ -296,6 +351,47 @@
             class="a-switch-label ">
             Begrenset signeringsrett
           </label>
+          <div  id="popoverWithIconToggle"  class="d-none">
+          <div class="pb-1">Dette er en popover tekst</div>
+              <button
+         type="button" 
+        
+        class="a-btn a-btn-danger mr-1"
+        
+        
+        
+        
+        
+        
+        
+        
+        aria-expanded="true" 
+        >
+        
+          knapp
+        
+      </button>
+      
+              <button
+         type="button" 
+        
+        class="a-btn-link a-linkDanger mr-1"
+        
+        
+        
+        
+        
+        
+        
+        
+        aria-expanded="true" 
+        >
+        <span>
+          link
+        </span>
+      </button>
+      
+          </div>
         </div>
         <div class="a-switch   ">
           <input
@@ -307,6 +403,13 @@
             
             
             
+              class="sr-only"
+              data-toggle="popover"
+              data-placement="bottom"
+              data-animation="false"
+              data-popover-content="popoverWithIconToggle"
+              
+              
             
             
             >
@@ -315,6 +418,47 @@
             class="a-switch-label ">
             Lønn og personalmedarbeider
           </label>
+          <div  id="popoverWithIconToggle"  class="d-none">
+          <div class="pb-1">Dette er en popover tekst</div>
+              <button
+         type="button" 
+        
+        class="a-btn a-btn-danger mr-1"
+        
+        
+        
+        
+        
+        
+        
+        
+        aria-expanded="true" 
+        >
+        
+          knapp
+        
+      </button>
+      
+              <button
+         type="button" 
+        
+        class="a-btn-link a-linkDanger mr-1"
+        
+        
+        
+        
+        
+        
+        
+        
+        aria-expanded="true" 
+        >
+        <span>
+          link
+        </span>
+      </button>
+      
+          </div>
         </div>
         <div class="a-switch   ">
           <input
@@ -326,6 +470,13 @@
             
             
             
+              class="sr-only"
+              data-toggle="popover"
+              data-placement="bottom"
+              data-animation="false"
+              data-popover-content="popoverWithIconToggle"
+              
+              
             
             
             >
@@ -334,6 +485,47 @@
             class="a-switch-label ">
             Primærnæring og næringsmidler
           </label>
+          <div  id="popoverWithIconToggle"  class="d-none">
+          <div class="pb-1">Dette er en popover tekst</div>
+              <button
+         type="button" 
+        
+        class="a-btn a-btn-danger mr-1"
+        
+        
+        
+        
+        
+        
+        
+        
+        aria-expanded="true" 
+        >
+        
+          knapp
+        
+      </button>
+      
+              <button
+         type="button" 
+        
+        class="a-btn-link a-linkDanger mr-1"
+        
+        
+        
+        
+        
+        
+        
+        
+        aria-expanded="true" 
+        >
+        <span>
+          link
+        </span>
+      </button>
+      
+          </div>
         </div>
         <div class="a-switch   ">
           <input
@@ -345,6 +537,13 @@
             
             
             
+              class="sr-only"
+              data-toggle="popover"
+              data-placement="bottom"
+              data-animation="false"
+              data-popover-content="popoverWithIconToggle"
+              
+              
             
             
             >
@@ -353,6 +552,47 @@
             class="a-switch-label ">
             Regnskapsfører med signeringsrett
           </label>
+          <div  id="popoverWithIconToggle"  class="d-none">
+          <div class="pb-1">Dette er en popover tekst</div>
+              <button
+         type="button" 
+        
+        class="a-btn a-btn-danger mr-1"
+        
+        
+        
+        
+        
+        
+        
+        
+        aria-expanded="true" 
+        >
+        
+          knapp
+        
+      </button>
+      
+              <button
+         type="button" 
+        
+        class="a-btn-link a-linkDanger mr-1"
+        
+        
+        
+        
+        
+        
+        
+        
+        aria-expanded="true" 
+        >
+        <span>
+          link
+        </span>
+      </button>
+      
+          </div>
         </div>
         <div class="a-switch   ">
           <input
@@ -364,6 +604,13 @@
             
             
             
+              class="sr-only"
+              data-toggle="popover"
+              data-placement="bottom"
+              data-animation="false"
+              data-popover-content="popoverWithIconToggle"
+              
+              
             
             
             >
@@ -372,6 +619,47 @@
             class="a-switch-label ">
             Regnskapsfører lønn
           </label>
+          <div  id="popoverWithIconToggle"  class="d-none">
+          <div class="pb-1">Dette er en popover tekst</div>
+              <button
+         type="button" 
+        
+        class="a-btn a-btn-danger mr-1"
+        
+        
+        
+        
+        
+        
+        
+        
+        aria-expanded="true" 
+        >
+        
+          knapp
+        
+      </button>
+      
+              <button
+         type="button" 
+        
+        class="a-btn-link a-linkDanger mr-1"
+        
+        
+        
+        
+        
+        
+        
+        
+        aria-expanded="true" 
+        >
+        <span>
+          link
+        </span>
+      </button>
+      
+          </div>
         </div>
         <div class="a-switch   ">
           <input
@@ -383,6 +671,13 @@
             
              checked 
             
+              class="sr-only"
+              data-toggle="popover"
+              data-placement="bottom"
+              data-animation="false"
+              data-popover-content="popoverWithIconToggle"
+              
+              
             
             
             >
@@ -391,6 +686,47 @@
             class="a-switch-label ">
             Basisrolle
           </label>
+          <div  id="popoverWithIconToggle"  class="d-none">
+          <div class="pb-1">Dette er en popover tekst</div>
+              <button
+         type="button" 
+        
+        class="a-btn a-btn-danger mr-1"
+        
+        
+        
+        
+        
+        
+        
+        
+        aria-expanded="true" 
+        >
+        
+          knapp
+        
+      </button>
+      
+              <button
+         type="button" 
+        
+        class="a-btn-link a-linkDanger mr-1"
+        
+        
+        
+        
+        
+        
+        
+        
+        aria-expanded="true" 
+        >
+        <span>
+          link
+        </span>
+      </button>
+      
+          </div>
         </div>
         <div class="a-switch   ">
           <input
@@ -402,6 +738,13 @@
             
             
             
+              class="sr-only"
+              data-toggle="popover"
+              data-placement="bottom"
+              data-animation="false"
+              data-popover-content="popoverWithIconToggle"
+              
+              
             
             
             >
@@ -410,6 +753,47 @@
             class="a-switch-label ">
             Regnskapsfører uten signeringsrett
           </label>
+          <div  id="popoverWithIconToggle"  class="d-none">
+          <div class="pb-1">Dette er en popover tekst</div>
+              <button
+         type="button" 
+        
+        class="a-btn a-btn-danger mr-1"
+        
+        
+        
+        
+        
+        
+        
+        
+        aria-expanded="true" 
+        >
+        
+          knapp
+        
+      </button>
+      
+              <button
+         type="button" 
+        
+        class="a-btn-link a-linkDanger mr-1"
+        
+        
+        
+        
+        
+        
+        
+        
+        aria-expanded="true" 
+        >
+        <span>
+          link
+        </span>
+      </button>
+      
+          </div>
         </div>
         <div class="a-switch   ">
           <input
@@ -421,6 +805,13 @@
             
             
             
+              class="sr-only"
+              data-toggle="popover"
+              data-placement="bottom"
+              data-animation="false"
+              data-popover-content="popoverWithIconToggle"
+              
+              
             
             
             >
@@ -429,6 +820,47 @@
             class="a-switch-label ">
             Revisorattester - MVA kompensasjon
           </label>
+          <div  id="popoverWithIconToggle"  class="d-none">
+          <div class="pb-1">Dette er en popover tekst</div>
+              <button
+         type="button" 
+        
+        class="a-btn a-btn-danger mr-1"
+        
+        
+        
+        
+        
+        
+        
+        
+        aria-expanded="true" 
+        >
+        
+          knapp
+        
+      </button>
+      
+              <button
+         type="button" 
+        
+        class="a-btn-link a-linkDanger mr-1"
+        
+        
+        
+        
+        
+        
+        
+        
+        aria-expanded="true" 
+        >
+        <span>
+          link
+        </span>
+      </button>
+      
+          </div>
         </div>
         <div class="a-switch   ">
           <input
@@ -440,6 +872,13 @@
             
             
             
+              class="sr-only"
+              data-toggle="popover"
+              data-placement="bottom"
+              data-animation="false"
+              data-popover-content="popoverWithIconToggle"
+              
+              
             
             
             >
@@ -448,6 +887,47 @@
             class="a-switch-label ">
             Utfyller/Innsender
           </label>
+          <div  id="popoverWithIconToggle"  class="d-none">
+          <div class="pb-1">Dette er en popover tekst</div>
+              <button
+         type="button" 
+        
+        class="a-btn a-btn-danger mr-1"
+        
+        
+        
+        
+        
+        
+        
+        
+        aria-expanded="true" 
+        >
+        
+          knapp
+        
+      </button>
+      
+              <button
+         type="button" 
+        
+        class="a-btn-link a-linkDanger mr-1"
+        
+        
+        
+        
+        
+        
+        
+        
+        aria-expanded="true" 
+        >
+        <span>
+          link
+        </span>
+      </button>
+      
+          </div>
         </div>
         <div class="a-switch   ">
           <input
@@ -459,6 +939,13 @@
             
             
             
+              class="sr-only"
+              data-toggle="popover"
+              data-placement="bottom"
+              data-animation="false"
+              data-popover-content="popoverWithIconToggle"
+              
+              
             
             
             >
@@ -467,6 +954,47 @@
             class="a-switch-label ">
             Ansvarlig revisor
           </label>
+          <div  id="popoverWithIconToggle"  class="d-none">
+          <div class="pb-1">Dette er en popover tekst</div>
+              <button
+         type="button" 
+        
+        class="a-btn a-btn-danger mr-1"
+        
+        
+        
+        
+        
+        
+        
+        
+        aria-expanded="true" 
+        >
+        
+          knapp
+        
+      </button>
+      
+              <button
+         type="button" 
+        
+        class="a-btn-link a-linkDanger mr-1"
+        
+        
+        
+        
+        
+        
+        
+        
+        aria-expanded="true" 
+        >
+        <span>
+          link
+        </span>
+      </button>
+      
+          </div>
         </div>
         <div class="a-switch   ">
           <input
@@ -478,6 +1006,13 @@
             
             
             
+              class="sr-only"
+              data-toggle="popover"
+              data-placement="bottom"
+              data-animation="false"
+              data-popover-content="popoverWithIconToggle"
+              
+              
             
             
             >
@@ -486,6 +1021,47 @@
             class="a-switch-label ">
             Revisormedarbeider
           </label>
+          <div  id="popoverWithIconToggle"  class="d-none">
+          <div class="pb-1">Dette er en popover tekst</div>
+              <button
+         type="button" 
+        
+        class="a-btn a-btn-danger mr-1"
+        
+        
+        
+        
+        
+        
+        
+        
+        aria-expanded="true" 
+        >
+        
+          knapp
+        
+      </button>
+      
+              <button
+         type="button" 
+        
+        class="a-btn-link a-linkDanger mr-1"
+        
+        
+        
+        
+        
+        
+        
+        
+        aria-expanded="true" 
+        >
+        <span>
+          link
+        </span>
+      </button>
+      
+          </div>
         </div>
         <div class="a-switch   ">
           <input
@@ -497,6 +1073,13 @@
             
             
             
+              class="sr-only"
+              data-toggle="popover"
+              data-placement="bottom"
+              data-animation="false"
+              data-popover-content="popoverWithIconToggle"
+              
+              
             
             
             >
@@ -505,6 +1088,47 @@
             class="a-switch-label ">
             Revisorrettighet
           </label>
+          <div  id="popoverWithIconToggle"  class="d-none">
+          <div class="pb-1">Dette er en popover tekst</div>
+              <button
+         type="button" 
+        
+        class="a-btn a-btn-danger mr-1"
+        
+        
+        
+        
+        
+        
+        
+        
+        aria-expanded="true" 
+        >
+        
+          knapp
+        
+      </button>
+      
+              <button
+         type="button" 
+        
+        class="a-btn-link a-linkDanger mr-1"
+        
+        
+        
+        
+        
+        
+        
+        
+        aria-expanded="true" 
+        >
+        <span>
+          link
+        </span>
+      </button>
+      
+          </div>
         </div>
         <div class="a-switch   ">
           <input
@@ -516,6 +1140,13 @@
             
             
             
+              class="sr-only"
+              data-toggle="popover"
+              data-placement="bottom"
+              data-animation="false"
+              data-popover-content="popoverWithIconToggle"
+              
+              
             
             
             >
@@ -524,6 +1155,47 @@
             class="a-switch-label ">
             Regnskapsmedarbeider
           </label>
+          <div  id="popoverWithIconToggle"  class="d-none">
+          <div class="pb-1">Dette er en popover tekst</div>
+              <button
+         type="button" 
+        
+        class="a-btn a-btn-danger mr-1"
+        
+        
+        
+        
+        
+        
+        
+        
+        aria-expanded="true" 
+        >
+        
+          knapp
+        
+      </button>
+      
+              <button
+         type="button" 
+        
+        class="a-btn-link a-linkDanger mr-1"
+        
+        
+        
+        
+        
+        
+        
+        
+        aria-expanded="true" 
+        >
+        <span>
+          link
+        </span>
+      </button>
+      
+          </div>
         </div>
       
           </div>
@@ -554,7 +1226,7 @@
               type="email" 
               placeholder="f.eks post@karinordmann.no"
               
-              name=""
+              name="input-field"
               data-val="true"
               id="text-input-1-epost"
               required
@@ -575,7 +1247,7 @@
           </div>
       
       
-            <div class="a-message a-message-error" data-valmsg-for="" data-valmsg-replace="true"></div>
+            <div class="a-message a-message-error" data-valmsg-for="input-field" data-valmsg-replace="true"></div>
       
         </div>
       
@@ -591,7 +1263,7 @@
             <div class="float-right mt-2">
                 <span class="mr-3">
                   <button
-        
+         type="button" 
         
         class="a-btn a-btn-success collapsed a-js-confirmAddRightBtn a-js-enableWhenValid"
         
@@ -612,7 +1284,7 @@
                 </span>
                 <span class="mr-3">
                   <button
-                    
+                     type="button" 
                     
                     class="a-btn-link collapsed "
                     
@@ -735,6 +1407,34 @@
                 Velg roller den ansatte skal ha:
               </div>
       
+              <div class="col-12 col-sm-auto pr-1 pr-md-4 mt-1 mt-md-0">
+                <button type="button" 
+        class="a-btn-link  "
+         aria-label="Fjern alle roller"  
+        
+        
+        
+        
+        
+        
+        
+        
+        >
+      
+      <i class="ai ai-circle-exit ai-nw  a-danger "    ></i>
+      
+      
+      
+      
+          <span class="a-btn-icon-text a-btn-black-noUnderline a-fontBold">
+            Fjern alle
+          </span>
+      
+      
+      </button>
+      
+      
+              </div>
           </div>
       
           <div class="text-sm-center mt-1">
@@ -748,6 +1448,13 @@
             
             
             
+              class="sr-only"
+              data-toggle="popover"
+              data-placement="bottom"
+              data-animation="false"
+              data-popover-content="popoverWithIconToggle"
+              
+              
             
             
             >
@@ -756,6 +1463,47 @@
             class="a-switch-label ">
             Begrenset signeringsrett
           </label>
+          <div  id="popoverWithIconToggle"  class="d-none">
+          <div class="pb-1">Dette er en popover tekst</div>
+              <button
+         type="button" 
+        
+        class="a-btn a-btn-danger mr-1"
+        
+        
+        
+        
+        
+        
+        
+        
+        aria-expanded="true" 
+        >
+        
+          knapp
+        
+      </button>
+      
+              <button
+         type="button" 
+        
+        class="a-btn-link a-linkDanger mr-1"
+        
+        
+        
+        
+        
+        
+        
+        
+        aria-expanded="true" 
+        >
+        <span>
+          link
+        </span>
+      </button>
+      
+          </div>
         </div>
         <div class="a-switch   ">
           <input
@@ -767,6 +1515,13 @@
             
             
             
+              class="sr-only"
+              data-toggle="popover"
+              data-placement="bottom"
+              data-animation="false"
+              data-popover-content="popoverWithIconToggle"
+              
+              
             
             
             >
@@ -775,6 +1530,47 @@
             class="a-switch-label ">
             Lønn og personalmedarbeider
           </label>
+          <div  id="popoverWithIconToggle"  class="d-none">
+          <div class="pb-1">Dette er en popover tekst</div>
+              <button
+         type="button" 
+        
+        class="a-btn a-btn-danger mr-1"
+        
+        
+        
+        
+        
+        
+        
+        
+        aria-expanded="true" 
+        >
+        
+          knapp
+        
+      </button>
+      
+              <button
+         type="button" 
+        
+        class="a-btn-link a-linkDanger mr-1"
+        
+        
+        
+        
+        
+        
+        
+        
+        aria-expanded="true" 
+        >
+        <span>
+          link
+        </span>
+      </button>
+      
+          </div>
         </div>
         <div class="a-switch   ">
           <input
@@ -786,6 +1582,13 @@
             
              checked 
             
+              class="sr-only"
+              data-toggle="popover"
+              data-placement="bottom"
+              data-animation="false"
+              data-popover-content="popoverWithIconToggle"
+              
+              
             
             
             >
@@ -794,6 +1597,47 @@
             class="a-switch-label ">
             Primærnæring og næringsmidler
           </label>
+          <div  id="popoverWithIconToggle"  class="d-none">
+          <div class="pb-1">Dette er en popover tekst</div>
+              <button
+         type="button" 
+        
+        class="a-btn a-btn-danger mr-1"
+        
+        
+        
+        
+        
+        
+        
+        
+        aria-expanded="true" 
+        >
+        
+          knapp
+        
+      </button>
+      
+              <button
+         type="button" 
+        
+        class="a-btn-link a-linkDanger mr-1"
+        
+        
+        
+        
+        
+        
+        
+        
+        aria-expanded="true" 
+        >
+        <span>
+          link
+        </span>
+      </button>
+      
+          </div>
         </div>
         <div class="a-switch   ">
           <input
@@ -805,6 +1649,13 @@
             
              checked 
             
+              class="sr-only"
+              data-toggle="popover"
+              data-placement="bottom"
+              data-animation="false"
+              data-popover-content="popoverWithIconToggle"
+              
+              
             
             
             >
@@ -813,6 +1664,47 @@
             class="a-switch-label ">
             Regnskapsfører med signeringsrett
           </label>
+          <div  id="popoverWithIconToggle"  class="d-none">
+          <div class="pb-1">Dette er en popover tekst</div>
+              <button
+         type="button" 
+        
+        class="a-btn a-btn-danger mr-1"
+        
+        
+        
+        
+        
+        
+        
+        
+        aria-expanded="true" 
+        >
+        
+          knapp
+        
+      </button>
+      
+              <button
+         type="button" 
+        
+        class="a-btn-link a-linkDanger mr-1"
+        
+        
+        
+        
+        
+        
+        
+        
+        aria-expanded="true" 
+        >
+        <span>
+          link
+        </span>
+      </button>
+      
+          </div>
         </div>
         <div class="a-switch   ">
           <input
@@ -824,6 +1716,13 @@
             
             
             
+              class="sr-only"
+              data-toggle="popover"
+              data-placement="bottom"
+              data-animation="false"
+              data-popover-content="popoverWithIconToggle"
+              
+              
             
             
             >
@@ -832,6 +1731,47 @@
             class="a-switch-label ">
             Regnskapsfører lønn
           </label>
+          <div  id="popoverWithIconToggle"  class="d-none">
+          <div class="pb-1">Dette er en popover tekst</div>
+              <button
+         type="button" 
+        
+        class="a-btn a-btn-danger mr-1"
+        
+        
+        
+        
+        
+        
+        
+        
+        aria-expanded="true" 
+        >
+        
+          knapp
+        
+      </button>
+      
+              <button
+         type="button" 
+        
+        class="a-btn-link a-linkDanger mr-1"
+        
+        
+        
+        
+        
+        
+        
+        
+        aria-expanded="true" 
+        >
+        <span>
+          link
+        </span>
+      </button>
+      
+          </div>
         </div>
         <div class="a-switch   ">
           <input
@@ -843,6 +1783,13 @@
             
             
             
+              class="sr-only"
+              data-toggle="popover"
+              data-placement="bottom"
+              data-animation="false"
+              data-popover-content="popoverWithIconToggle"
+              
+              
             
             
             >
@@ -851,6 +1798,47 @@
             class="a-switch-label ">
             Basisrolle
           </label>
+          <div  id="popoverWithIconToggle"  class="d-none">
+          <div class="pb-1">Dette er en popover tekst</div>
+              <button
+         type="button" 
+        
+        class="a-btn a-btn-danger mr-1"
+        
+        
+        
+        
+        
+        
+        
+        
+        aria-expanded="true" 
+        >
+        
+          knapp
+        
+      </button>
+      
+              <button
+         type="button" 
+        
+        class="a-btn-link a-linkDanger mr-1"
+        
+        
+        
+        
+        
+        
+        
+        
+        aria-expanded="true" 
+        >
+        <span>
+          link
+        </span>
+      </button>
+      
+          </div>
         </div>
         <div class="a-switch   ">
           <input
@@ -862,6 +1850,13 @@
             
             
             
+              class="sr-only"
+              data-toggle="popover"
+              data-placement="bottom"
+              data-animation="false"
+              data-popover-content="popoverWithIconToggle"
+              
+              
             
             
             >
@@ -870,6 +1865,47 @@
             class="a-switch-label ">
             Regnskapsfører uten signeringsrett
           </label>
+          <div  id="popoverWithIconToggle"  class="d-none">
+          <div class="pb-1">Dette er en popover tekst</div>
+              <button
+         type="button" 
+        
+        class="a-btn a-btn-danger mr-1"
+        
+        
+        
+        
+        
+        
+        
+        
+        aria-expanded="true" 
+        >
+        
+          knapp
+        
+      </button>
+      
+              <button
+         type="button" 
+        
+        class="a-btn-link a-linkDanger mr-1"
+        
+        
+        
+        
+        
+        
+        
+        
+        aria-expanded="true" 
+        >
+        <span>
+          link
+        </span>
+      </button>
+      
+          </div>
         </div>
         <div class="a-switch   ">
           <input
@@ -881,6 +1917,13 @@
             
             
             
+              class="sr-only"
+              data-toggle="popover"
+              data-placement="bottom"
+              data-animation="false"
+              data-popover-content="popoverWithIconToggle"
+              
+              
             
             
             >
@@ -889,6 +1932,47 @@
             class="a-switch-label ">
             Revisorattester - MVA kompensasjon
           </label>
+          <div  id="popoverWithIconToggle"  class="d-none">
+          <div class="pb-1">Dette er en popover tekst</div>
+              <button
+         type="button" 
+        
+        class="a-btn a-btn-danger mr-1"
+        
+        
+        
+        
+        
+        
+        
+        
+        aria-expanded="true" 
+        >
+        
+          knapp
+        
+      </button>
+      
+              <button
+         type="button" 
+        
+        class="a-btn-link a-linkDanger mr-1"
+        
+        
+        
+        
+        
+        
+        
+        
+        aria-expanded="true" 
+        >
+        <span>
+          link
+        </span>
+      </button>
+      
+          </div>
         </div>
         <div class="a-switch   ">
           <input
@@ -900,6 +1984,13 @@
             
             
             
+              class="sr-only"
+              data-toggle="popover"
+              data-placement="bottom"
+              data-animation="false"
+              data-popover-content="popoverWithIconToggle"
+              
+              
             
             
             >
@@ -908,6 +1999,47 @@
             class="a-switch-label ">
             Utfyller/Innsender
           </label>
+          <div  id="popoverWithIconToggle"  class="d-none">
+          <div class="pb-1">Dette er en popover tekst</div>
+              <button
+         type="button" 
+        
+        class="a-btn a-btn-danger mr-1"
+        
+        
+        
+        
+        
+        
+        
+        
+        aria-expanded="true" 
+        >
+        
+          knapp
+        
+      </button>
+      
+              <button
+         type="button" 
+        
+        class="a-btn-link a-linkDanger mr-1"
+        
+        
+        
+        
+        
+        
+        
+        
+        aria-expanded="true" 
+        >
+        <span>
+          link
+        </span>
+      </button>
+      
+          </div>
         </div>
         <div class="a-switch   ">
           <input
@@ -919,6 +2051,13 @@
             
             
             
+              class="sr-only"
+              data-toggle="popover"
+              data-placement="bottom"
+              data-animation="false"
+              data-popover-content="popoverWithIconToggle"
+              
+              
             
             
             >
@@ -927,6 +2066,47 @@
             class="a-switch-label ">
             Ansvarlig revisor
           </label>
+          <div  id="popoverWithIconToggle"  class="d-none">
+          <div class="pb-1">Dette er en popover tekst</div>
+              <button
+         type="button" 
+        
+        class="a-btn a-btn-danger mr-1"
+        
+        
+        
+        
+        
+        
+        
+        
+        aria-expanded="true" 
+        >
+        
+          knapp
+        
+      </button>
+      
+              <button
+         type="button" 
+        
+        class="a-btn-link a-linkDanger mr-1"
+        
+        
+        
+        
+        
+        
+        
+        
+        aria-expanded="true" 
+        >
+        <span>
+          link
+        </span>
+      </button>
+      
+          </div>
         </div>
         <div class="a-switch   ">
           <input
@@ -938,6 +2118,13 @@
             
             
             
+              class="sr-only"
+              data-toggle="popover"
+              data-placement="bottom"
+              data-animation="false"
+              data-popover-content="popoverWithIconToggle"
+              
+              
             
             
             >
@@ -946,6 +2133,47 @@
             class="a-switch-label ">
             Revisormedarbeider
           </label>
+          <div  id="popoverWithIconToggle"  class="d-none">
+          <div class="pb-1">Dette er en popover tekst</div>
+              <button
+         type="button" 
+        
+        class="a-btn a-btn-danger mr-1"
+        
+        
+        
+        
+        
+        
+        
+        
+        aria-expanded="true" 
+        >
+        
+          knapp
+        
+      </button>
+      
+              <button
+         type="button" 
+        
+        class="a-btn-link a-linkDanger mr-1"
+        
+        
+        
+        
+        
+        
+        
+        
+        aria-expanded="true" 
+        >
+        <span>
+          link
+        </span>
+      </button>
+      
+          </div>
         </div>
         <div class="a-switch   ">
           <input
@@ -957,6 +2185,13 @@
             
             
             
+              class="sr-only"
+              data-toggle="popover"
+              data-placement="bottom"
+              data-animation="false"
+              data-popover-content="popoverWithIconToggle"
+              
+              
             
             
             >
@@ -965,6 +2200,47 @@
             class="a-switch-label ">
             Revisorrettighet
           </label>
+          <div  id="popoverWithIconToggle"  class="d-none">
+          <div class="pb-1">Dette er en popover tekst</div>
+              <button
+         type="button" 
+        
+        class="a-btn a-btn-danger mr-1"
+        
+        
+        
+        
+        
+        
+        
+        
+        aria-expanded="true" 
+        >
+        
+          knapp
+        
+      </button>
+      
+              <button
+         type="button" 
+        
+        class="a-btn-link a-linkDanger mr-1"
+        
+        
+        
+        
+        
+        
+        
+        
+        aria-expanded="true" 
+        >
+        <span>
+          link
+        </span>
+      </button>
+      
+          </div>
         </div>
         <div class="a-switch   ">
           <input
@@ -976,6 +2252,13 @@
             
             
             
+              class="sr-only"
+              data-toggle="popover"
+              data-placement="bottom"
+              data-animation="false"
+              data-popover-content="popoverWithIconToggle"
+              
+              
             
             
             >
@@ -984,6 +2267,47 @@
             class="a-switch-label ">
             Regnskapsmedarbeider
           </label>
+          <div  id="popoverWithIconToggle"  class="d-none">
+          <div class="pb-1">Dette er en popover tekst</div>
+              <button
+         type="button" 
+        
+        class="a-btn a-btn-danger mr-1"
+        
+        
+        
+        
+        
+        
+        
+        
+        aria-expanded="true" 
+        >
+        
+          knapp
+        
+      </button>
+      
+              <button
+         type="button" 
+        
+        class="a-btn-link a-linkDanger mr-1"
+        
+        
+        
+        
+        
+        
+        
+        
+        aria-expanded="true" 
+        >
+        <span>
+          link
+        </span>
+      </button>
+      
+          </div>
         </div>
       
           </div>
@@ -1014,7 +2338,7 @@
               type="email" 
               placeholder="f.eks post@karinordmann.no"
               
-              name=""
+              name="input-field"
               data-val="true"
               id="text-input-2-epost"
               required
@@ -1035,7 +2359,7 @@
           </div>
       
       
-            <div class="a-message a-message-error" data-valmsg-for="" data-valmsg-replace="true"></div>
+            <div class="a-message a-message-error" data-valmsg-for="input-field" data-valmsg-replace="true"></div>
       
         </div>
       
@@ -1051,7 +2375,7 @@
             <div class="float-right mt-2">
                 <span class="mr-3">
                   <button
-        
+         type="button" 
         
         class="a-btn a-btn-success collapsed a-js-confirmAddRightBtn a-js-enableWhenValid"
         
@@ -1072,7 +2396,7 @@
                 </span>
                 <span class="mr-3">
                   <button
-                    
+                     type="button" 
                     
                     class="a-btn-link collapsed "
                     
@@ -1195,6 +2519,34 @@
                 Velg roller den ansatte skal ha:
               </div>
       
+              <div class="col-12 col-sm-auto pr-1 pr-md-4 mt-1 mt-md-0">
+                <button type="button" 
+        class="a-btn-link  "
+         aria-label="Fjern alle roller"  
+        
+        
+        
+        
+        
+        
+        
+        
+        >
+      
+      <i class="ai ai-circle-exit ai-nw  a-danger "    ></i>
+      
+      
+      
+      
+          <span class="a-btn-icon-text a-btn-black-noUnderline a-fontBold">
+            Fjern alle
+          </span>
+      
+      
+      </button>
+      
+      
+              </div>
           </div>
       
           <div class="text-sm-center mt-1">
@@ -1208,6 +2560,13 @@
             
             
             
+              class="sr-only"
+              data-toggle="popover"
+              data-placement="bottom"
+              data-animation="false"
+              data-popover-content="popoverWithIconToggle"
+              
+              
             
             
             >
@@ -1216,6 +2575,47 @@
             class="a-switch-label ">
             Begrenset signeringsrett
           </label>
+          <div  id="popoverWithIconToggle"  class="d-none">
+          <div class="pb-1">Dette er en popover tekst</div>
+              <button
+         type="button" 
+        
+        class="a-btn a-btn-danger mr-1"
+        
+        
+        
+        
+        
+        
+        
+        
+        aria-expanded="true" 
+        >
+        
+          knapp
+        
+      </button>
+      
+              <button
+         type="button" 
+        
+        class="a-btn-link a-linkDanger mr-1"
+        
+        
+        
+        
+        
+        
+        
+        
+        aria-expanded="true" 
+        >
+        <span>
+          link
+        </span>
+      </button>
+      
+          </div>
         </div>
         <div class="a-switch   ">
           <input
@@ -1227,6 +2627,13 @@
             
             
             
+              class="sr-only"
+              data-toggle="popover"
+              data-placement="bottom"
+              data-animation="false"
+              data-popover-content="popoverWithIconToggle"
+              
+              
             
             
             >
@@ -1235,6 +2642,47 @@
             class="a-switch-label ">
             Lønn og personalmedarbeider
           </label>
+          <div  id="popoverWithIconToggle"  class="d-none">
+          <div class="pb-1">Dette er en popover tekst</div>
+              <button
+         type="button" 
+        
+        class="a-btn a-btn-danger mr-1"
+        
+        
+        
+        
+        
+        
+        
+        
+        aria-expanded="true" 
+        >
+        
+          knapp
+        
+      </button>
+      
+              <button
+         type="button" 
+        
+        class="a-btn-link a-linkDanger mr-1"
+        
+        
+        
+        
+        
+        
+        
+        
+        aria-expanded="true" 
+        >
+        <span>
+          link
+        </span>
+      </button>
+      
+          </div>
         </div>
         <div class="a-switch   ">
           <input
@@ -1246,6 +2694,13 @@
             
             
             
+              class="sr-only"
+              data-toggle="popover"
+              data-placement="bottom"
+              data-animation="false"
+              data-popover-content="popoverWithIconToggle"
+              
+              
             
             
             >
@@ -1254,6 +2709,47 @@
             class="a-switch-label ">
             Primærnæring og næringsmidler
           </label>
+          <div  id="popoverWithIconToggle"  class="d-none">
+          <div class="pb-1">Dette er en popover tekst</div>
+              <button
+         type="button" 
+        
+        class="a-btn a-btn-danger mr-1"
+        
+        
+        
+        
+        
+        
+        
+        
+        aria-expanded="true" 
+        >
+        
+          knapp
+        
+      </button>
+      
+              <button
+         type="button" 
+        
+        class="a-btn-link a-linkDanger mr-1"
+        
+        
+        
+        
+        
+        
+        
+        
+        aria-expanded="true" 
+        >
+        <span>
+          link
+        </span>
+      </button>
+      
+          </div>
         </div>
         <div class="a-switch   ">
           <input
@@ -1265,6 +2761,13 @@
             
             
             
+              class="sr-only"
+              data-toggle="popover"
+              data-placement="bottom"
+              data-animation="false"
+              data-popover-content="popoverWithIconToggle"
+              
+              
             
             
             >
@@ -1273,6 +2776,47 @@
             class="a-switch-label ">
             Regnskapsfører med signeringsrett
           </label>
+          <div  id="popoverWithIconToggle"  class="d-none">
+          <div class="pb-1">Dette er en popover tekst</div>
+              <button
+         type="button" 
+        
+        class="a-btn a-btn-danger mr-1"
+        
+        
+        
+        
+        
+        
+        
+        
+        aria-expanded="true" 
+        >
+        
+          knapp
+        
+      </button>
+      
+              <button
+         type="button" 
+        
+        class="a-btn-link a-linkDanger mr-1"
+        
+        
+        
+        
+        
+        
+        
+        
+        aria-expanded="true" 
+        >
+        <span>
+          link
+        </span>
+      </button>
+      
+          </div>
         </div>
         <div class="a-switch   ">
           <input
@@ -1284,6 +2828,13 @@
             
             
             
+              class="sr-only"
+              data-toggle="popover"
+              data-placement="bottom"
+              data-animation="false"
+              data-popover-content="popoverWithIconToggle"
+              
+              
             
             
             >
@@ -1292,6 +2843,47 @@
             class="a-switch-label ">
             Regnskapsfører lønn
           </label>
+          <div  id="popoverWithIconToggle"  class="d-none">
+          <div class="pb-1">Dette er en popover tekst</div>
+              <button
+         type="button" 
+        
+        class="a-btn a-btn-danger mr-1"
+        
+        
+        
+        
+        
+        
+        
+        
+        aria-expanded="true" 
+        >
+        
+          knapp
+        
+      </button>
+      
+              <button
+         type="button" 
+        
+        class="a-btn-link a-linkDanger mr-1"
+        
+        
+        
+        
+        
+        
+        
+        
+        aria-expanded="true" 
+        >
+        <span>
+          link
+        </span>
+      </button>
+      
+          </div>
         </div>
         <div class="a-switch   ">
           <input
@@ -1303,6 +2895,13 @@
             
             
             
+              class="sr-only"
+              data-toggle="popover"
+              data-placement="bottom"
+              data-animation="false"
+              data-popover-content="popoverWithIconToggle"
+              
+              
             
             
             >
@@ -1311,6 +2910,47 @@
             class="a-switch-label ">
             Basisrolle
           </label>
+          <div  id="popoverWithIconToggle"  class="d-none">
+          <div class="pb-1">Dette er en popover tekst</div>
+              <button
+         type="button" 
+        
+        class="a-btn a-btn-danger mr-1"
+        
+        
+        
+        
+        
+        
+        
+        
+        aria-expanded="true" 
+        >
+        
+          knapp
+        
+      </button>
+      
+              <button
+         type="button" 
+        
+        class="a-btn-link a-linkDanger mr-1"
+        
+        
+        
+        
+        
+        
+        
+        
+        aria-expanded="true" 
+        >
+        <span>
+          link
+        </span>
+      </button>
+      
+          </div>
         </div>
         <div class="a-switch   ">
           <input
@@ -1322,6 +2962,13 @@
             
             
             
+              class="sr-only"
+              data-toggle="popover"
+              data-placement="bottom"
+              data-animation="false"
+              data-popover-content="popoverWithIconToggle"
+              
+              
             
             
             >
@@ -1330,6 +2977,47 @@
             class="a-switch-label ">
             Regnskapsfører uten signeringsrett
           </label>
+          <div  id="popoverWithIconToggle"  class="d-none">
+          <div class="pb-1">Dette er en popover tekst</div>
+              <button
+         type="button" 
+        
+        class="a-btn a-btn-danger mr-1"
+        
+        
+        
+        
+        
+        
+        
+        
+        aria-expanded="true" 
+        >
+        
+          knapp
+        
+      </button>
+      
+              <button
+         type="button" 
+        
+        class="a-btn-link a-linkDanger mr-1"
+        
+        
+        
+        
+        
+        
+        
+        
+        aria-expanded="true" 
+        >
+        <span>
+          link
+        </span>
+      </button>
+      
+          </div>
         </div>
         <div class="a-switch   ">
           <input
@@ -1341,6 +3029,13 @@
             
             
             
+              class="sr-only"
+              data-toggle="popover"
+              data-placement="bottom"
+              data-animation="false"
+              data-popover-content="popoverWithIconToggle"
+              
+              
             
             
             >
@@ -1349,6 +3044,47 @@
             class="a-switch-label ">
             Revisorattester - MVA kompensasjon
           </label>
+          <div  id="popoverWithIconToggle"  class="d-none">
+          <div class="pb-1">Dette er en popover tekst</div>
+              <button
+         type="button" 
+        
+        class="a-btn a-btn-danger mr-1"
+        
+        
+        
+        
+        
+        
+        
+        
+        aria-expanded="true" 
+        >
+        
+          knapp
+        
+      </button>
+      
+              <button
+         type="button" 
+        
+        class="a-btn-link a-linkDanger mr-1"
+        
+        
+        
+        
+        
+        
+        
+        
+        aria-expanded="true" 
+        >
+        <span>
+          link
+        </span>
+      </button>
+      
+          </div>
         </div>
         <div class="a-switch   ">
           <input
@@ -1360,6 +3096,13 @@
             
             
             
+              class="sr-only"
+              data-toggle="popover"
+              data-placement="bottom"
+              data-animation="false"
+              data-popover-content="popoverWithIconToggle"
+              
+              
             
             
             >
@@ -1368,6 +3111,47 @@
             class="a-switch-label ">
             Utfyller/Innsender
           </label>
+          <div  id="popoverWithIconToggle"  class="d-none">
+          <div class="pb-1">Dette er en popover tekst</div>
+              <button
+         type="button" 
+        
+        class="a-btn a-btn-danger mr-1"
+        
+        
+        
+        
+        
+        
+        
+        
+        aria-expanded="true" 
+        >
+        
+          knapp
+        
+      </button>
+      
+              <button
+         type="button" 
+        
+        class="a-btn-link a-linkDanger mr-1"
+        
+        
+        
+        
+        
+        
+        
+        
+        aria-expanded="true" 
+        >
+        <span>
+          link
+        </span>
+      </button>
+      
+          </div>
         </div>
         <div class="a-switch   ">
           <input
@@ -1379,6 +3163,13 @@
             
             
             
+              class="sr-only"
+              data-toggle="popover"
+              data-placement="bottom"
+              data-animation="false"
+              data-popover-content="popoverWithIconToggle"
+              
+              
             
             
             >
@@ -1387,6 +3178,47 @@
             class="a-switch-label ">
             Ansvarlig revisor
           </label>
+          <div  id="popoverWithIconToggle"  class="d-none">
+          <div class="pb-1">Dette er en popover tekst</div>
+              <button
+         type="button" 
+        
+        class="a-btn a-btn-danger mr-1"
+        
+        
+        
+        
+        
+        
+        
+        
+        aria-expanded="true" 
+        >
+        
+          knapp
+        
+      </button>
+      
+              <button
+         type="button" 
+        
+        class="a-btn-link a-linkDanger mr-1"
+        
+        
+        
+        
+        
+        
+        
+        
+        aria-expanded="true" 
+        >
+        <span>
+          link
+        </span>
+      </button>
+      
+          </div>
         </div>
         <div class="a-switch   ">
           <input
@@ -1398,6 +3230,13 @@
             
              checked 
             
+              class="sr-only"
+              data-toggle="popover"
+              data-placement="bottom"
+              data-animation="false"
+              data-popover-content="popoverWithIconToggle"
+              
+              
             
             
             >
@@ -1406,6 +3245,47 @@
             class="a-switch-label ">
             Revisormedarbeider
           </label>
+          <div  id="popoverWithIconToggle"  class="d-none">
+          <div class="pb-1">Dette er en popover tekst</div>
+              <button
+         type="button" 
+        
+        class="a-btn a-btn-danger mr-1"
+        
+        
+        
+        
+        
+        
+        
+        
+        aria-expanded="true" 
+        >
+        
+          knapp
+        
+      </button>
+      
+              <button
+         type="button" 
+        
+        class="a-btn-link a-linkDanger mr-1"
+        
+        
+        
+        
+        
+        
+        
+        
+        aria-expanded="true" 
+        >
+        <span>
+          link
+        </span>
+      </button>
+      
+          </div>
         </div>
         <div class="a-switch   ">
           <input
@@ -1417,6 +3297,13 @@
             
              checked 
             
+              class="sr-only"
+              data-toggle="popover"
+              data-placement="bottom"
+              data-animation="false"
+              data-popover-content="popoverWithIconToggle"
+              
+              
             
             
             >
@@ -1425,6 +3312,47 @@
             class="a-switch-label ">
             Revisorrettighet
           </label>
+          <div  id="popoverWithIconToggle"  class="d-none">
+          <div class="pb-1">Dette er en popover tekst</div>
+              <button
+         type="button" 
+        
+        class="a-btn a-btn-danger mr-1"
+        
+        
+        
+        
+        
+        
+        
+        
+        aria-expanded="true" 
+        >
+        
+          knapp
+        
+      </button>
+      
+              <button
+         type="button" 
+        
+        class="a-btn-link a-linkDanger mr-1"
+        
+        
+        
+        
+        
+        
+        
+        
+        aria-expanded="true" 
+        >
+        <span>
+          link
+        </span>
+      </button>
+      
+          </div>
         </div>
         <div class="a-switch   ">
           <input
@@ -1436,6 +3364,13 @@
             
              checked 
             
+              class="sr-only"
+              data-toggle="popover"
+              data-placement="bottom"
+              data-animation="false"
+              data-popover-content="popoverWithIconToggle"
+              
+              
             
             
             >
@@ -1444,6 +3379,47 @@
             class="a-switch-label ">
             Regnskapsmedarbeider
           </label>
+          <div  id="popoverWithIconToggle"  class="d-none">
+          <div class="pb-1">Dette er en popover tekst</div>
+              <button
+         type="button" 
+        
+        class="a-btn a-btn-danger mr-1"
+        
+        
+        
+        
+        
+        
+        
+        
+        aria-expanded="true" 
+        >
+        
+          knapp
+        
+      </button>
+      
+              <button
+         type="button" 
+        
+        class="a-btn-link a-linkDanger mr-1"
+        
+        
+        
+        
+        
+        
+        
+        
+        aria-expanded="true" 
+        >
+        <span>
+          link
+        </span>
+      </button>
+      
+          </div>
         </div>
       
           </div>
@@ -1474,7 +3450,7 @@
               type="email" 
               placeholder="f.eks post@karinordmann.no"
               
-              name=""
+              name="input-field"
               data-val="true"
               id="text-input-3-epost"
               required
@@ -1495,7 +3471,7 @@
           </div>
       
       
-            <div class="a-message a-message-error" data-valmsg-for="" data-valmsg-replace="true"></div>
+            <div class="a-message a-message-error" data-valmsg-for="input-field" data-valmsg-replace="true"></div>
       
         </div>
       
@@ -1511,7 +3487,7 @@
             <div class="float-right mt-2">
                 <span class="mr-3">
                   <button
-        
+         type="button" 
         
         class="a-btn a-btn-success collapsed a-js-confirmAddRightBtn a-js-enableWhenValid"
         
@@ -1532,7 +3508,7 @@
                 </span>
                 <span class="mr-3">
                   <button
-                    
+                     type="button" 
                     
                     class="a-btn-link collapsed "
                     
@@ -1785,6 +3761,34 @@
                 Velg roller den ansatte skal ha:
               </div>
       
+              <div class="col-12 col-sm-auto pr-1 pr-md-4 mt-1 mt-md-0">
+                <button type="button" 
+        class="a-btn-link  "
+         aria-label="Fjern alle roller"  
+        
+        
+        
+        
+        
+        
+        
+        
+        >
+      
+      <i class="ai ai-circle-exit ai-nw  a-danger "    ></i>
+      
+      
+      
+      
+          <span class="a-btn-icon-text a-btn-black-noUnderline a-fontBold">
+            Fjern alle
+          </span>
+      
+      
+      </button>
+      
+      
+              </div>
           </div>
       
           <div class="text-sm-center mt-1">
@@ -1798,6 +3802,13 @@
             
             
             
+              class="sr-only"
+              data-toggle="popover"
+              data-placement="bottom"
+              data-animation="false"
+              data-popover-content="popoverWithIconToggle"
+              
+              
             
             
             >
@@ -1806,6 +3817,47 @@
             class="a-switch-label ">
             Begrenset signeringsrett
           </label>
+          <div  id="popoverWithIconToggle"  class="d-none">
+          <div class="pb-1">Dette er en popover tekst</div>
+              <button
+         type="button" 
+        
+        class="a-btn a-btn-danger mr-1"
+        
+        
+        
+        
+        data-parent="#allClientsTable"
+        
+        
+        
+        aria-expanded="true" 
+        >
+        
+          knapp
+        
+      </button>
+      
+              <button
+         type="button" 
+        
+        class="a-btn-link a-linkDanger mr-1"
+        
+        
+        
+        
+        data-parent="#allClientsTable"
+        
+        
+        
+        aria-expanded="true" 
+        >
+        <span>
+          link
+        </span>
+      </button>
+      
+          </div>
         </div>
         <div class="a-switch   ">
           <input
@@ -1817,6 +3869,13 @@
             
             
             
+              class="sr-only"
+              data-toggle="popover"
+              data-placement="bottom"
+              data-animation="false"
+              data-popover-content="popoverWithIconToggle"
+              
+              
             
             
             >
@@ -1825,6 +3884,47 @@
             class="a-switch-label ">
             Lønn og personalmedarbeider
           </label>
+          <div  id="popoverWithIconToggle"  class="d-none">
+          <div class="pb-1">Dette er en popover tekst</div>
+              <button
+         type="button" 
+        
+        class="a-btn a-btn-danger mr-1"
+        
+        
+        
+        
+        data-parent="#allClientsTable"
+        
+        
+        
+        aria-expanded="true" 
+        >
+        
+          knapp
+        
+      </button>
+      
+              <button
+         type="button" 
+        
+        class="a-btn-link a-linkDanger mr-1"
+        
+        
+        
+        
+        data-parent="#allClientsTable"
+        
+        
+        
+        aria-expanded="true" 
+        >
+        <span>
+          link
+        </span>
+      </button>
+      
+          </div>
         </div>
         <div class="a-switch   ">
           <input
@@ -1836,6 +3936,13 @@
             
             
             
+              class="sr-only"
+              data-toggle="popover"
+              data-placement="bottom"
+              data-animation="false"
+              data-popover-content="popoverWithIconToggle"
+              
+              
             
             
             >
@@ -1844,6 +3951,47 @@
             class="a-switch-label ">
             Primærnæring og næringsmidler
           </label>
+          <div  id="popoverWithIconToggle"  class="d-none">
+          <div class="pb-1">Dette er en popover tekst</div>
+              <button
+         type="button" 
+        
+        class="a-btn a-btn-danger mr-1"
+        
+        
+        
+        
+        data-parent="#allClientsTable"
+        
+        
+        
+        aria-expanded="true" 
+        >
+        
+          knapp
+        
+      </button>
+      
+              <button
+         type="button" 
+        
+        class="a-btn-link a-linkDanger mr-1"
+        
+        
+        
+        
+        data-parent="#allClientsTable"
+        
+        
+        
+        aria-expanded="true" 
+        >
+        <span>
+          link
+        </span>
+      </button>
+      
+          </div>
         </div>
         <div class="a-switch   ">
           <input
@@ -1855,6 +4003,13 @@
             
             
             
+              class="sr-only"
+              data-toggle="popover"
+              data-placement="bottom"
+              data-animation="false"
+              data-popover-content="popoverWithIconToggle"
+              
+              
             
             
             >
@@ -1863,6 +4018,47 @@
             class="a-switch-label ">
             Regnskapsfører med signeringsrett
           </label>
+          <div  id="popoverWithIconToggle"  class="d-none">
+          <div class="pb-1">Dette er en popover tekst</div>
+              <button
+         type="button" 
+        
+        class="a-btn a-btn-danger mr-1"
+        
+        
+        
+        
+        data-parent="#allClientsTable"
+        
+        
+        
+        aria-expanded="true" 
+        >
+        
+          knapp
+        
+      </button>
+      
+              <button
+         type="button" 
+        
+        class="a-btn-link a-linkDanger mr-1"
+        
+        
+        
+        
+        data-parent="#allClientsTable"
+        
+        
+        
+        aria-expanded="true" 
+        >
+        <span>
+          link
+        </span>
+      </button>
+      
+          </div>
         </div>
         <div class="a-switch   ">
           <input
@@ -1874,6 +4070,13 @@
             
             
             
+              class="sr-only"
+              data-toggle="popover"
+              data-placement="bottom"
+              data-animation="false"
+              data-popover-content="popoverWithIconToggle"
+              
+              
             
             
             >
@@ -1882,6 +4085,47 @@
             class="a-switch-label ">
             Regnskapsfører lønn
           </label>
+          <div  id="popoverWithIconToggle"  class="d-none">
+          <div class="pb-1">Dette er en popover tekst</div>
+              <button
+         type="button" 
+        
+        class="a-btn a-btn-danger mr-1"
+        
+        
+        
+        
+        data-parent="#allClientsTable"
+        
+        
+        
+        aria-expanded="true" 
+        >
+        
+          knapp
+        
+      </button>
+      
+              <button
+         type="button" 
+        
+        class="a-btn-link a-linkDanger mr-1"
+        
+        
+        
+        
+        data-parent="#allClientsTable"
+        
+        
+        
+        aria-expanded="true" 
+        >
+        <span>
+          link
+        </span>
+      </button>
+      
+          </div>
         </div>
         <div class="a-switch   ">
           <input
@@ -1893,6 +4137,13 @@
             
             
             
+              class="sr-only"
+              data-toggle="popover"
+              data-placement="bottom"
+              data-animation="false"
+              data-popover-content="popoverWithIconToggle"
+              
+              
             
             
             >
@@ -1901,6 +4152,47 @@
             class="a-switch-label ">
             Basisrolle
           </label>
+          <div  id="popoverWithIconToggle"  class="d-none">
+          <div class="pb-1">Dette er en popover tekst</div>
+              <button
+         type="button" 
+        
+        class="a-btn a-btn-danger mr-1"
+        
+        
+        
+        
+        data-parent="#allClientsTable"
+        
+        
+        
+        aria-expanded="true" 
+        >
+        
+          knapp
+        
+      </button>
+      
+              <button
+         type="button" 
+        
+        class="a-btn-link a-linkDanger mr-1"
+        
+        
+        
+        
+        data-parent="#allClientsTable"
+        
+        
+        
+        aria-expanded="true" 
+        >
+        <span>
+          link
+        </span>
+      </button>
+      
+          </div>
         </div>
         <div class="a-switch   ">
           <input
@@ -1912,6 +4204,13 @@
             
             
             
+              class="sr-only"
+              data-toggle="popover"
+              data-placement="bottom"
+              data-animation="false"
+              data-popover-content="popoverWithIconToggle"
+              
+              
             
             
             >
@@ -1920,6 +4219,47 @@
             class="a-switch-label ">
             Regnskapsfører uten signeringsrett
           </label>
+          <div  id="popoverWithIconToggle"  class="d-none">
+          <div class="pb-1">Dette er en popover tekst</div>
+              <button
+         type="button" 
+        
+        class="a-btn a-btn-danger mr-1"
+        
+        
+        
+        
+        data-parent="#allClientsTable"
+        
+        
+        
+        aria-expanded="true" 
+        >
+        
+          knapp
+        
+      </button>
+      
+              <button
+         type="button" 
+        
+        class="a-btn-link a-linkDanger mr-1"
+        
+        
+        
+        
+        data-parent="#allClientsTable"
+        
+        
+        
+        aria-expanded="true" 
+        >
+        <span>
+          link
+        </span>
+      </button>
+      
+          </div>
         </div>
         <div class="a-switch   ">
           <input
@@ -1931,6 +4271,13 @@
             
             
             
+              class="sr-only"
+              data-toggle="popover"
+              data-placement="bottom"
+              data-animation="false"
+              data-popover-content="popoverWithIconToggle"
+              
+              
             
             
             >
@@ -1939,6 +4286,47 @@
             class="a-switch-label ">
             Revisorattester - MVA kompensasjon
           </label>
+          <div  id="popoverWithIconToggle"  class="d-none">
+          <div class="pb-1">Dette er en popover tekst</div>
+              <button
+         type="button" 
+        
+        class="a-btn a-btn-danger mr-1"
+        
+        
+        
+        
+        data-parent="#allClientsTable"
+        
+        
+        
+        aria-expanded="true" 
+        >
+        
+          knapp
+        
+      </button>
+      
+              <button
+         type="button" 
+        
+        class="a-btn-link a-linkDanger mr-1"
+        
+        
+        
+        
+        data-parent="#allClientsTable"
+        
+        
+        
+        aria-expanded="true" 
+        >
+        <span>
+          link
+        </span>
+      </button>
+      
+          </div>
         </div>
         <div class="a-switch   ">
           <input
@@ -1950,6 +4338,13 @@
             
             
             
+              class="sr-only"
+              data-toggle="popover"
+              data-placement="bottom"
+              data-animation="false"
+              data-popover-content="popoverWithIconToggle"
+              
+              
             
             
             >
@@ -1958,6 +4353,47 @@
             class="a-switch-label ">
             Utfyller/Innsender
           </label>
+          <div  id="popoverWithIconToggle"  class="d-none">
+          <div class="pb-1">Dette er en popover tekst</div>
+              <button
+         type="button" 
+        
+        class="a-btn a-btn-danger mr-1"
+        
+        
+        
+        
+        data-parent="#allClientsTable"
+        
+        
+        
+        aria-expanded="true" 
+        >
+        
+          knapp
+        
+      </button>
+      
+              <button
+         type="button" 
+        
+        class="a-btn-link a-linkDanger mr-1"
+        
+        
+        
+        
+        data-parent="#allClientsTable"
+        
+        
+        
+        aria-expanded="true" 
+        >
+        <span>
+          link
+        </span>
+      </button>
+      
+          </div>
         </div>
         <div class="a-switch   ">
           <input
@@ -1969,6 +4405,13 @@
             
             
             
+              class="sr-only"
+              data-toggle="popover"
+              data-placement="bottom"
+              data-animation="false"
+              data-popover-content="popoverWithIconToggle"
+              
+              
             
             
             >
@@ -1977,6 +4420,47 @@
             class="a-switch-label ">
             Ansvarlig revisor
           </label>
+          <div  id="popoverWithIconToggle"  class="d-none">
+          <div class="pb-1">Dette er en popover tekst</div>
+              <button
+         type="button" 
+        
+        class="a-btn a-btn-danger mr-1"
+        
+        
+        
+        
+        data-parent="#allClientsTable"
+        
+        
+        
+        aria-expanded="true" 
+        >
+        
+          knapp
+        
+      </button>
+      
+              <button
+         type="button" 
+        
+        class="a-btn-link a-linkDanger mr-1"
+        
+        
+        
+        
+        data-parent="#allClientsTable"
+        
+        
+        
+        aria-expanded="true" 
+        >
+        <span>
+          link
+        </span>
+      </button>
+      
+          </div>
         </div>
         <div class="a-switch   ">
           <input
@@ -1988,6 +4472,13 @@
             
             
             
+              class="sr-only"
+              data-toggle="popover"
+              data-placement="bottom"
+              data-animation="false"
+              data-popover-content="popoverWithIconToggle"
+              
+              
             
             
             >
@@ -1996,6 +4487,47 @@
             class="a-switch-label ">
             Revisormedarbeider
           </label>
+          <div  id="popoverWithIconToggle"  class="d-none">
+          <div class="pb-1">Dette er en popover tekst</div>
+              <button
+         type="button" 
+        
+        class="a-btn a-btn-danger mr-1"
+        
+        
+        
+        
+        data-parent="#allClientsTable"
+        
+        
+        
+        aria-expanded="true" 
+        >
+        
+          knapp
+        
+      </button>
+      
+              <button
+         type="button" 
+        
+        class="a-btn-link a-linkDanger mr-1"
+        
+        
+        
+        
+        data-parent="#allClientsTable"
+        
+        
+        
+        aria-expanded="true" 
+        >
+        <span>
+          link
+        </span>
+      </button>
+      
+          </div>
         </div>
         <div class="a-switch   ">
           <input
@@ -2007,6 +4539,13 @@
             
             
             
+              class="sr-only"
+              data-toggle="popover"
+              data-placement="bottom"
+              data-animation="false"
+              data-popover-content="popoverWithIconToggle"
+              
+              
             
             
             >
@@ -2015,6 +4554,47 @@
             class="a-switch-label ">
             Revisorrettighet
           </label>
+          <div  id="popoverWithIconToggle"  class="d-none">
+          <div class="pb-1">Dette er en popover tekst</div>
+              <button
+         type="button" 
+        
+        class="a-btn a-btn-danger mr-1"
+        
+        
+        
+        
+        data-parent="#allClientsTable"
+        
+        
+        
+        aria-expanded="true" 
+        >
+        
+          knapp
+        
+      </button>
+      
+              <button
+         type="button" 
+        
+        class="a-btn-link a-linkDanger mr-1"
+        
+        
+        
+        
+        data-parent="#allClientsTable"
+        
+        
+        
+        aria-expanded="true" 
+        >
+        <span>
+          link
+        </span>
+      </button>
+      
+          </div>
         </div>
         <div class="a-switch   ">
           <input
@@ -2026,6 +4606,13 @@
             
             
             
+              class="sr-only"
+              data-toggle="popover"
+              data-placement="bottom"
+              data-animation="false"
+              data-popover-content="popoverWithIconToggle"
+              
+              
             
             
             >
@@ -2034,6 +4621,47 @@
             class="a-switch-label ">
             Regnskapsmedarbeider
           </label>
+          <div  id="popoverWithIconToggle"  class="d-none">
+          <div class="pb-1">Dette er en popover tekst</div>
+              <button
+         type="button" 
+        
+        class="a-btn a-btn-danger mr-1"
+        
+        
+        
+        
+        data-parent="#allClientsTable"
+        
+        
+        
+        aria-expanded="true" 
+        >
+        
+          knapp
+        
+      </button>
+      
+              <button
+         type="button" 
+        
+        class="a-btn-link a-linkDanger mr-1"
+        
+        
+        
+        
+        data-parent="#allClientsTable"
+        
+        
+        
+        aria-expanded="true" 
+        >
+        <span>
+          link
+        </span>
+      </button>
+      
+          </div>
         </div>
       
           </div>
@@ -2064,7 +4692,7 @@
               type="email" 
               placeholder="f.eks post@karinordmann.no"
               
-              name=""
+              name="input-field"
               data-val="true"
               id="text-input-4-epost"
               required
@@ -2085,7 +4713,7 @@
           </div>
       
       
-            <div class="a-message a-message-error" data-valmsg-for="" data-valmsg-replace="true"></div>
+            <div class="a-message a-message-error" data-valmsg-for="input-field" data-valmsg-replace="true"></div>
       
         </div>
       
@@ -2101,7 +4729,7 @@
             <div class="float-right mt-2">
                 <span class="mr-3">
                   <button
-        
+         type="button" 
         
         class="a-btn a-btn-success collapsed a-js-confirmAddRightBtn a-js-enableWhenValid"
         
@@ -2122,7 +4750,7 @@
                 </span>
                 <span class="mr-3">
                   <button
-                    
+                     type="button" 
                     
                     class="a-btn-link collapsed "
                     
@@ -2245,6 +4873,34 @@
                 Velg roller den ansatte skal ha:
               </div>
       
+              <div class="col-12 col-sm-auto pr-1 pr-md-4 mt-1 mt-md-0">
+                <button type="button" 
+        class="a-btn-link  "
+         aria-label="Fjern alle roller"  
+        
+        
+        
+        
+        
+        
+        
+        
+        >
+      
+      <i class="ai ai-circle-exit ai-nw  a-danger "    ></i>
+      
+      
+      
+      
+          <span class="a-btn-icon-text a-btn-black-noUnderline a-fontBold">
+            Fjern alle
+          </span>
+      
+      
+      </button>
+      
+      
+              </div>
           </div>
       
           <div class="text-sm-center mt-1">
@@ -2258,6 +4914,13 @@
             
             
             
+              class="sr-only"
+              data-toggle="popover"
+              data-placement="bottom"
+              data-animation="false"
+              data-popover-content="popoverWithIconToggle"
+              
+              
             
             
             >
@@ -2266,6 +4929,47 @@
             class="a-switch-label ">
             Begrenset signeringsrett
           </label>
+          <div  id="popoverWithIconToggle"  class="d-none">
+          <div class="pb-1">Dette er en popover tekst</div>
+              <button
+         type="button" 
+        
+        class="a-btn a-btn-danger mr-1"
+        
+        
+        
+        
+        data-parent="#allClientsTable"
+        
+        
+        
+        aria-expanded="true" 
+        >
+        
+          knapp
+        
+      </button>
+      
+              <button
+         type="button" 
+        
+        class="a-btn-link a-linkDanger mr-1"
+        
+        
+        
+        
+        data-parent="#allClientsTable"
+        
+        
+        
+        aria-expanded="true" 
+        >
+        <span>
+          link
+        </span>
+      </button>
+      
+          </div>
         </div>
         <div class="a-switch   ">
           <input
@@ -2277,6 +4981,13 @@
             
             
             
+              class="sr-only"
+              data-toggle="popover"
+              data-placement="bottom"
+              data-animation="false"
+              data-popover-content="popoverWithIconToggle"
+              
+              
             
             
             >
@@ -2285,6 +4996,47 @@
             class="a-switch-label ">
             Lønn og personalmedarbeider
           </label>
+          <div  id="popoverWithIconToggle"  class="d-none">
+          <div class="pb-1">Dette er en popover tekst</div>
+              <button
+         type="button" 
+        
+        class="a-btn a-btn-danger mr-1"
+        
+        
+        
+        
+        data-parent="#allClientsTable"
+        
+        
+        
+        aria-expanded="true" 
+        >
+        
+          knapp
+        
+      </button>
+      
+              <button
+         type="button" 
+        
+        class="a-btn-link a-linkDanger mr-1"
+        
+        
+        
+        
+        data-parent="#allClientsTable"
+        
+        
+        
+        aria-expanded="true" 
+        >
+        <span>
+          link
+        </span>
+      </button>
+      
+          </div>
         </div>
         <div class="a-switch   ">
           <input
@@ -2296,6 +5048,13 @@
             
             
             
+              class="sr-only"
+              data-toggle="popover"
+              data-placement="bottom"
+              data-animation="false"
+              data-popover-content="popoverWithIconToggle"
+              
+              
             
             
             >
@@ -2304,6 +5063,47 @@
             class="a-switch-label ">
             Primærnæring og næringsmidler
           </label>
+          <div  id="popoverWithIconToggle"  class="d-none">
+          <div class="pb-1">Dette er en popover tekst</div>
+              <button
+         type="button" 
+        
+        class="a-btn a-btn-danger mr-1"
+        
+        
+        
+        
+        data-parent="#allClientsTable"
+        
+        
+        
+        aria-expanded="true" 
+        >
+        
+          knapp
+        
+      </button>
+      
+              <button
+         type="button" 
+        
+        class="a-btn-link a-linkDanger mr-1"
+        
+        
+        
+        
+        data-parent="#allClientsTable"
+        
+        
+        
+        aria-expanded="true" 
+        >
+        <span>
+          link
+        </span>
+      </button>
+      
+          </div>
         </div>
         <div class="a-switch   ">
           <input
@@ -2315,6 +5115,13 @@
             
             
             
+              class="sr-only"
+              data-toggle="popover"
+              data-placement="bottom"
+              data-animation="false"
+              data-popover-content="popoverWithIconToggle"
+              
+              
             
             
             >
@@ -2323,6 +5130,47 @@
             class="a-switch-label ">
             Regnskapsfører med signeringsrett
           </label>
+          <div  id="popoverWithIconToggle"  class="d-none">
+          <div class="pb-1">Dette er en popover tekst</div>
+              <button
+         type="button" 
+        
+        class="a-btn a-btn-danger mr-1"
+        
+        
+        
+        
+        data-parent="#allClientsTable"
+        
+        
+        
+        aria-expanded="true" 
+        >
+        
+          knapp
+        
+      </button>
+      
+              <button
+         type="button" 
+        
+        class="a-btn-link a-linkDanger mr-1"
+        
+        
+        
+        
+        data-parent="#allClientsTable"
+        
+        
+        
+        aria-expanded="true" 
+        >
+        <span>
+          link
+        </span>
+      </button>
+      
+          </div>
         </div>
         <div class="a-switch   ">
           <input
@@ -2334,6 +5182,13 @@
             
             
             
+              class="sr-only"
+              data-toggle="popover"
+              data-placement="bottom"
+              data-animation="false"
+              data-popover-content="popoverWithIconToggle"
+              
+              
             
             
             >
@@ -2342,6 +5197,47 @@
             class="a-switch-label ">
             Regnskapsfører lønn
           </label>
+          <div  id="popoverWithIconToggle"  class="d-none">
+          <div class="pb-1">Dette er en popover tekst</div>
+              <button
+         type="button" 
+        
+        class="a-btn a-btn-danger mr-1"
+        
+        
+        
+        
+        data-parent="#allClientsTable"
+        
+        
+        
+        aria-expanded="true" 
+        >
+        
+          knapp
+        
+      </button>
+      
+              <button
+         type="button" 
+        
+        class="a-btn-link a-linkDanger mr-1"
+        
+        
+        
+        
+        data-parent="#allClientsTable"
+        
+        
+        
+        aria-expanded="true" 
+        >
+        <span>
+          link
+        </span>
+      </button>
+      
+          </div>
         </div>
         <div class="a-switch   ">
           <input
@@ -2353,6 +5249,13 @@
             
             
             
+              class="sr-only"
+              data-toggle="popover"
+              data-placement="bottom"
+              data-animation="false"
+              data-popover-content="popoverWithIconToggle"
+              
+              
             
             
             >
@@ -2361,6 +5264,47 @@
             class="a-switch-label ">
             Basisrolle
           </label>
+          <div  id="popoverWithIconToggle"  class="d-none">
+          <div class="pb-1">Dette er en popover tekst</div>
+              <button
+         type="button" 
+        
+        class="a-btn a-btn-danger mr-1"
+        
+        
+        
+        
+        data-parent="#allClientsTable"
+        
+        
+        
+        aria-expanded="true" 
+        >
+        
+          knapp
+        
+      </button>
+      
+              <button
+         type="button" 
+        
+        class="a-btn-link a-linkDanger mr-1"
+        
+        
+        
+        
+        data-parent="#allClientsTable"
+        
+        
+        
+        aria-expanded="true" 
+        >
+        <span>
+          link
+        </span>
+      </button>
+      
+          </div>
         </div>
         <div class="a-switch   ">
           <input
@@ -2372,6 +5316,13 @@
             
             
             
+              class="sr-only"
+              data-toggle="popover"
+              data-placement="bottom"
+              data-animation="false"
+              data-popover-content="popoverWithIconToggle"
+              
+              
             
             
             >
@@ -2380,6 +5331,47 @@
             class="a-switch-label ">
             Regnskapsfører uten signeringsrett
           </label>
+          <div  id="popoverWithIconToggle"  class="d-none">
+          <div class="pb-1">Dette er en popover tekst</div>
+              <button
+         type="button" 
+        
+        class="a-btn a-btn-danger mr-1"
+        
+        
+        
+        
+        data-parent="#allClientsTable"
+        
+        
+        
+        aria-expanded="true" 
+        >
+        
+          knapp
+        
+      </button>
+      
+              <button
+         type="button" 
+        
+        class="a-btn-link a-linkDanger mr-1"
+        
+        
+        
+        
+        data-parent="#allClientsTable"
+        
+        
+        
+        aria-expanded="true" 
+        >
+        <span>
+          link
+        </span>
+      </button>
+      
+          </div>
         </div>
         <div class="a-switch   ">
           <input
@@ -2391,6 +5383,13 @@
             
             
             
+              class="sr-only"
+              data-toggle="popover"
+              data-placement="bottom"
+              data-animation="false"
+              data-popover-content="popoverWithIconToggle"
+              
+              
             
             
             >
@@ -2399,6 +5398,47 @@
             class="a-switch-label ">
             Revisorattester - MVA kompensasjon
           </label>
+          <div  id="popoverWithIconToggle"  class="d-none">
+          <div class="pb-1">Dette er en popover tekst</div>
+              <button
+         type="button" 
+        
+        class="a-btn a-btn-danger mr-1"
+        
+        
+        
+        
+        data-parent="#allClientsTable"
+        
+        
+        
+        aria-expanded="true" 
+        >
+        
+          knapp
+        
+      </button>
+      
+              <button
+         type="button" 
+        
+        class="a-btn-link a-linkDanger mr-1"
+        
+        
+        
+        
+        data-parent="#allClientsTable"
+        
+        
+        
+        aria-expanded="true" 
+        >
+        <span>
+          link
+        </span>
+      </button>
+      
+          </div>
         </div>
         <div class="a-switch   ">
           <input
@@ -2410,6 +5450,13 @@
             
             
             
+              class="sr-only"
+              data-toggle="popover"
+              data-placement="bottom"
+              data-animation="false"
+              data-popover-content="popoverWithIconToggle"
+              
+              
             
             
             >
@@ -2418,6 +5465,47 @@
             class="a-switch-label ">
             Utfyller/Innsender
           </label>
+          <div  id="popoverWithIconToggle"  class="d-none">
+          <div class="pb-1">Dette er en popover tekst</div>
+              <button
+         type="button" 
+        
+        class="a-btn a-btn-danger mr-1"
+        
+        
+        
+        
+        data-parent="#allClientsTable"
+        
+        
+        
+        aria-expanded="true" 
+        >
+        
+          knapp
+        
+      </button>
+      
+              <button
+         type="button" 
+        
+        class="a-btn-link a-linkDanger mr-1"
+        
+        
+        
+        
+        data-parent="#allClientsTable"
+        
+        
+        
+        aria-expanded="true" 
+        >
+        <span>
+          link
+        </span>
+      </button>
+      
+          </div>
         </div>
         <div class="a-switch   ">
           <input
@@ -2429,6 +5517,13 @@
             
             
             
+              class="sr-only"
+              data-toggle="popover"
+              data-placement="bottom"
+              data-animation="false"
+              data-popover-content="popoverWithIconToggle"
+              
+              
             
             
             >
@@ -2437,6 +5532,47 @@
             class="a-switch-label ">
             Ansvarlig revisor
           </label>
+          <div  id="popoverWithIconToggle"  class="d-none">
+          <div class="pb-1">Dette er en popover tekst</div>
+              <button
+         type="button" 
+        
+        class="a-btn a-btn-danger mr-1"
+        
+        
+        
+        
+        data-parent="#allClientsTable"
+        
+        
+        
+        aria-expanded="true" 
+        >
+        
+          knapp
+        
+      </button>
+      
+              <button
+         type="button" 
+        
+        class="a-btn-link a-linkDanger mr-1"
+        
+        
+        
+        
+        data-parent="#allClientsTable"
+        
+        
+        
+        aria-expanded="true" 
+        >
+        <span>
+          link
+        </span>
+      </button>
+      
+          </div>
         </div>
         <div class="a-switch   ">
           <input
@@ -2448,6 +5584,13 @@
             
             
             
+              class="sr-only"
+              data-toggle="popover"
+              data-placement="bottom"
+              data-animation="false"
+              data-popover-content="popoverWithIconToggle"
+              
+              
             
             
             >
@@ -2456,6 +5599,47 @@
             class="a-switch-label ">
             Revisormedarbeider
           </label>
+          <div  id="popoverWithIconToggle"  class="d-none">
+          <div class="pb-1">Dette er en popover tekst</div>
+              <button
+         type="button" 
+        
+        class="a-btn a-btn-danger mr-1"
+        
+        
+        
+        
+        data-parent="#allClientsTable"
+        
+        
+        
+        aria-expanded="true" 
+        >
+        
+          knapp
+        
+      </button>
+      
+              <button
+         type="button" 
+        
+        class="a-btn-link a-linkDanger mr-1"
+        
+        
+        
+        
+        data-parent="#allClientsTable"
+        
+        
+        
+        aria-expanded="true" 
+        >
+        <span>
+          link
+        </span>
+      </button>
+      
+          </div>
         </div>
         <div class="a-switch   ">
           <input
@@ -2467,6 +5651,13 @@
             
             
             
+              class="sr-only"
+              data-toggle="popover"
+              data-placement="bottom"
+              data-animation="false"
+              data-popover-content="popoverWithIconToggle"
+              
+              
             
             
             >
@@ -2475,6 +5666,47 @@
             class="a-switch-label ">
             Revisorrettighet
           </label>
+          <div  id="popoverWithIconToggle"  class="d-none">
+          <div class="pb-1">Dette er en popover tekst</div>
+              <button
+         type="button" 
+        
+        class="a-btn a-btn-danger mr-1"
+        
+        
+        
+        
+        data-parent="#allClientsTable"
+        
+        
+        
+        aria-expanded="true" 
+        >
+        
+          knapp
+        
+      </button>
+      
+              <button
+         type="button" 
+        
+        class="a-btn-link a-linkDanger mr-1"
+        
+        
+        
+        
+        data-parent="#allClientsTable"
+        
+        
+        
+        aria-expanded="true" 
+        >
+        <span>
+          link
+        </span>
+      </button>
+      
+          </div>
         </div>
         <div class="a-switch   ">
           <input
@@ -2486,6 +5718,13 @@
             
             
             
+              class="sr-only"
+              data-toggle="popover"
+              data-placement="bottom"
+              data-animation="false"
+              data-popover-content="popoverWithIconToggle"
+              
+              
             
             
             >
@@ -2494,6 +5733,47 @@
             class="a-switch-label ">
             Regnskapsmedarbeider
           </label>
+          <div  id="popoverWithIconToggle"  class="d-none">
+          <div class="pb-1">Dette er en popover tekst</div>
+              <button
+         type="button" 
+        
+        class="a-btn a-btn-danger mr-1"
+        
+        
+        
+        
+        data-parent="#allClientsTable"
+        
+        
+        
+        aria-expanded="true" 
+        >
+        
+          knapp
+        
+      </button>
+      
+              <button
+         type="button" 
+        
+        class="a-btn-link a-linkDanger mr-1"
+        
+        
+        
+        
+        data-parent="#allClientsTable"
+        
+        
+        
+        aria-expanded="true" 
+        >
+        <span>
+          link
+        </span>
+      </button>
+      
+          </div>
         </div>
       
           </div>
@@ -2524,7 +5804,7 @@
               type="email" 
               placeholder="f.eks post@karinordmann.no"
               
-              name=""
+              name="input-field"
               data-val="true"
               id="text-input-5-epost"
               required
@@ -2545,7 +5825,7 @@
           </div>
       
       
-            <div class="a-message a-message-error" data-valmsg-for="" data-valmsg-replace="true"></div>
+            <div class="a-message a-message-error" data-valmsg-for="input-field" data-valmsg-replace="true"></div>
       
         </div>
       
@@ -2561,7 +5841,7 @@
             <div class="float-right mt-2">
                 <span class="mr-3">
                   <button
-        
+         type="button" 
         
         class="a-btn a-btn-success collapsed a-js-confirmAddRightBtn a-js-enableWhenValid"
         
@@ -2582,7 +5862,7 @@
                 </span>
                 <span class="mr-3">
                   <button
-                    
+                     type="button" 
                     
                     class="a-btn-link collapsed "
                     
@@ -2705,6 +5985,34 @@
                 Velg roller den ansatte skal ha:
               </div>
       
+              <div class="col-12 col-sm-auto pr-1 pr-md-4 mt-1 mt-md-0">
+                <button type="button" 
+        class="a-btn-link  "
+         aria-label="Fjern alle roller"  
+        
+        
+        
+        
+        
+        
+        
+        
+        >
+      
+      <i class="ai ai-circle-exit ai-nw  a-danger "    ></i>
+      
+      
+      
+      
+          <span class="a-btn-icon-text a-btn-black-noUnderline a-fontBold">
+            Fjern alle
+          </span>
+      
+      
+      </button>
+      
+      
+              </div>
           </div>
       
           <div class="text-sm-center mt-1">
@@ -2718,6 +6026,13 @@
             
             
             
+              class="sr-only"
+              data-toggle="popover"
+              data-placement="bottom"
+              data-animation="false"
+              data-popover-content="popoverWithIconToggle"
+              
+              
             
             
             >
@@ -2726,6 +6041,47 @@
             class="a-switch-label ">
             Begrenset signeringsrett
           </label>
+          <div  id="popoverWithIconToggle"  class="d-none">
+          <div class="pb-1">Dette er en popover tekst</div>
+              <button
+         type="button" 
+        
+        class="a-btn a-btn-danger mr-1"
+        
+        
+        
+        
+        data-parent="#allClientsTable"
+        
+        
+        
+        aria-expanded="true" 
+        >
+        
+          knapp
+        
+      </button>
+      
+              <button
+         type="button" 
+        
+        class="a-btn-link a-linkDanger mr-1"
+        
+        
+        
+        
+        data-parent="#allClientsTable"
+        
+        
+        
+        aria-expanded="true" 
+        >
+        <span>
+          link
+        </span>
+      </button>
+      
+          </div>
         </div>
         <div class="a-switch   ">
           <input
@@ -2737,6 +6093,13 @@
             
             
             
+              class="sr-only"
+              data-toggle="popover"
+              data-placement="bottom"
+              data-animation="false"
+              data-popover-content="popoverWithIconToggle"
+              
+              
             
             
             >
@@ -2745,6 +6108,47 @@
             class="a-switch-label ">
             Lønn og personalmedarbeider
           </label>
+          <div  id="popoverWithIconToggle"  class="d-none">
+          <div class="pb-1">Dette er en popover tekst</div>
+              <button
+         type="button" 
+        
+        class="a-btn a-btn-danger mr-1"
+        
+        
+        
+        
+        data-parent="#allClientsTable"
+        
+        
+        
+        aria-expanded="true" 
+        >
+        
+          knapp
+        
+      </button>
+      
+              <button
+         type="button" 
+        
+        class="a-btn-link a-linkDanger mr-1"
+        
+        
+        
+        
+        data-parent="#allClientsTable"
+        
+        
+        
+        aria-expanded="true" 
+        >
+        <span>
+          link
+        </span>
+      </button>
+      
+          </div>
         </div>
         <div class="a-switch   ">
           <input
@@ -2756,6 +6160,13 @@
             
             
             
+              class="sr-only"
+              data-toggle="popover"
+              data-placement="bottom"
+              data-animation="false"
+              data-popover-content="popoverWithIconToggle"
+              
+              
             
             
             >
@@ -2764,6 +6175,47 @@
             class="a-switch-label ">
             Primærnæring og næringsmidler
           </label>
+          <div  id="popoverWithIconToggle"  class="d-none">
+          <div class="pb-1">Dette er en popover tekst</div>
+              <button
+         type="button" 
+        
+        class="a-btn a-btn-danger mr-1"
+        
+        
+        
+        
+        data-parent="#allClientsTable"
+        
+        
+        
+        aria-expanded="true" 
+        >
+        
+          knapp
+        
+      </button>
+      
+              <button
+         type="button" 
+        
+        class="a-btn-link a-linkDanger mr-1"
+        
+        
+        
+        
+        data-parent="#allClientsTable"
+        
+        
+        
+        aria-expanded="true" 
+        >
+        <span>
+          link
+        </span>
+      </button>
+      
+          </div>
         </div>
         <div class="a-switch   ">
           <input
@@ -2775,6 +6227,13 @@
             
             
             
+              class="sr-only"
+              data-toggle="popover"
+              data-placement="bottom"
+              data-animation="false"
+              data-popover-content="popoverWithIconToggle"
+              
+              
             
             
             >
@@ -2783,6 +6242,47 @@
             class="a-switch-label ">
             Regnskapsfører med signeringsrett
           </label>
+          <div  id="popoverWithIconToggle"  class="d-none">
+          <div class="pb-1">Dette er en popover tekst</div>
+              <button
+         type="button" 
+        
+        class="a-btn a-btn-danger mr-1"
+        
+        
+        
+        
+        data-parent="#allClientsTable"
+        
+        
+        
+        aria-expanded="true" 
+        >
+        
+          knapp
+        
+      </button>
+      
+              <button
+         type="button" 
+        
+        class="a-btn-link a-linkDanger mr-1"
+        
+        
+        
+        
+        data-parent="#allClientsTable"
+        
+        
+        
+        aria-expanded="true" 
+        >
+        <span>
+          link
+        </span>
+      </button>
+      
+          </div>
         </div>
         <div class="a-switch   ">
           <input
@@ -2794,6 +6294,13 @@
             
             
             
+              class="sr-only"
+              data-toggle="popover"
+              data-placement="bottom"
+              data-animation="false"
+              data-popover-content="popoverWithIconToggle"
+              
+              
             
             
             >
@@ -2802,6 +6309,47 @@
             class="a-switch-label ">
             Regnskapsfører lønn
           </label>
+          <div  id="popoverWithIconToggle"  class="d-none">
+          <div class="pb-1">Dette er en popover tekst</div>
+              <button
+         type="button" 
+        
+        class="a-btn a-btn-danger mr-1"
+        
+        
+        
+        
+        data-parent="#allClientsTable"
+        
+        
+        
+        aria-expanded="true" 
+        >
+        
+          knapp
+        
+      </button>
+      
+              <button
+         type="button" 
+        
+        class="a-btn-link a-linkDanger mr-1"
+        
+        
+        
+        
+        data-parent="#allClientsTable"
+        
+        
+        
+        aria-expanded="true" 
+        >
+        <span>
+          link
+        </span>
+      </button>
+      
+          </div>
         </div>
         <div class="a-switch   ">
           <input
@@ -2813,6 +6361,13 @@
             
             
             
+              class="sr-only"
+              data-toggle="popover"
+              data-placement="bottom"
+              data-animation="false"
+              data-popover-content="popoverWithIconToggle"
+              
+              
             
             
             >
@@ -2821,6 +6376,47 @@
             class="a-switch-label ">
             Basisrolle
           </label>
+          <div  id="popoverWithIconToggle"  class="d-none">
+          <div class="pb-1">Dette er en popover tekst</div>
+              <button
+         type="button" 
+        
+        class="a-btn a-btn-danger mr-1"
+        
+        
+        
+        
+        data-parent="#allClientsTable"
+        
+        
+        
+        aria-expanded="true" 
+        >
+        
+          knapp
+        
+      </button>
+      
+              <button
+         type="button" 
+        
+        class="a-btn-link a-linkDanger mr-1"
+        
+        
+        
+        
+        data-parent="#allClientsTable"
+        
+        
+        
+        aria-expanded="true" 
+        >
+        <span>
+          link
+        </span>
+      </button>
+      
+          </div>
         </div>
         <div class="a-switch   ">
           <input
@@ -2832,6 +6428,13 @@
             
             
             
+              class="sr-only"
+              data-toggle="popover"
+              data-placement="bottom"
+              data-animation="false"
+              data-popover-content="popoverWithIconToggle"
+              
+              
             
             
             >
@@ -2840,6 +6443,47 @@
             class="a-switch-label ">
             Regnskapsfører uten signeringsrett
           </label>
+          <div  id="popoverWithIconToggle"  class="d-none">
+          <div class="pb-1">Dette er en popover tekst</div>
+              <button
+         type="button" 
+        
+        class="a-btn a-btn-danger mr-1"
+        
+        
+        
+        
+        data-parent="#allClientsTable"
+        
+        
+        
+        aria-expanded="true" 
+        >
+        
+          knapp
+        
+      </button>
+      
+              <button
+         type="button" 
+        
+        class="a-btn-link a-linkDanger mr-1"
+        
+        
+        
+        
+        data-parent="#allClientsTable"
+        
+        
+        
+        aria-expanded="true" 
+        >
+        <span>
+          link
+        </span>
+      </button>
+      
+          </div>
         </div>
         <div class="a-switch   ">
           <input
@@ -2851,6 +6495,13 @@
             
             
             
+              class="sr-only"
+              data-toggle="popover"
+              data-placement="bottom"
+              data-animation="false"
+              data-popover-content="popoverWithIconToggle"
+              
+              
             
             
             >
@@ -2859,6 +6510,47 @@
             class="a-switch-label ">
             Revisorattester - MVA kompensasjon
           </label>
+          <div  id="popoverWithIconToggle"  class="d-none">
+          <div class="pb-1">Dette er en popover tekst</div>
+              <button
+         type="button" 
+        
+        class="a-btn a-btn-danger mr-1"
+        
+        
+        
+        
+        data-parent="#allClientsTable"
+        
+        
+        
+        aria-expanded="true" 
+        >
+        
+          knapp
+        
+      </button>
+      
+              <button
+         type="button" 
+        
+        class="a-btn-link a-linkDanger mr-1"
+        
+        
+        
+        
+        data-parent="#allClientsTable"
+        
+        
+        
+        aria-expanded="true" 
+        >
+        <span>
+          link
+        </span>
+      </button>
+      
+          </div>
         </div>
         <div class="a-switch   ">
           <input
@@ -2870,6 +6562,13 @@
             
             
             
+              class="sr-only"
+              data-toggle="popover"
+              data-placement="bottom"
+              data-animation="false"
+              data-popover-content="popoverWithIconToggle"
+              
+              
             
             
             >
@@ -2878,6 +6577,47 @@
             class="a-switch-label ">
             Utfyller/Innsender
           </label>
+          <div  id="popoverWithIconToggle"  class="d-none">
+          <div class="pb-1">Dette er en popover tekst</div>
+              <button
+         type="button" 
+        
+        class="a-btn a-btn-danger mr-1"
+        
+        
+        
+        
+        data-parent="#allClientsTable"
+        
+        
+        
+        aria-expanded="true" 
+        >
+        
+          knapp
+        
+      </button>
+      
+              <button
+         type="button" 
+        
+        class="a-btn-link a-linkDanger mr-1"
+        
+        
+        
+        
+        data-parent="#allClientsTable"
+        
+        
+        
+        aria-expanded="true" 
+        >
+        <span>
+          link
+        </span>
+      </button>
+      
+          </div>
         </div>
         <div class="a-switch   ">
           <input
@@ -2889,6 +6629,13 @@
             
             
             
+              class="sr-only"
+              data-toggle="popover"
+              data-placement="bottom"
+              data-animation="false"
+              data-popover-content="popoverWithIconToggle"
+              
+              
             
             
             >
@@ -2897,6 +6644,47 @@
             class="a-switch-label ">
             Ansvarlig revisor
           </label>
+          <div  id="popoverWithIconToggle"  class="d-none">
+          <div class="pb-1">Dette er en popover tekst</div>
+              <button
+         type="button" 
+        
+        class="a-btn a-btn-danger mr-1"
+        
+        
+        
+        
+        data-parent="#allClientsTable"
+        
+        
+        
+        aria-expanded="true" 
+        >
+        
+          knapp
+        
+      </button>
+      
+              <button
+         type="button" 
+        
+        class="a-btn-link a-linkDanger mr-1"
+        
+        
+        
+        
+        data-parent="#allClientsTable"
+        
+        
+        
+        aria-expanded="true" 
+        >
+        <span>
+          link
+        </span>
+      </button>
+      
+          </div>
         </div>
         <div class="a-switch   ">
           <input
@@ -2908,6 +6696,13 @@
             
             
             
+              class="sr-only"
+              data-toggle="popover"
+              data-placement="bottom"
+              data-animation="false"
+              data-popover-content="popoverWithIconToggle"
+              
+              
             
             
             >
@@ -2916,6 +6711,47 @@
             class="a-switch-label ">
             Revisormedarbeider
           </label>
+          <div  id="popoverWithIconToggle"  class="d-none">
+          <div class="pb-1">Dette er en popover tekst</div>
+              <button
+         type="button" 
+        
+        class="a-btn a-btn-danger mr-1"
+        
+        
+        
+        
+        data-parent="#allClientsTable"
+        
+        
+        
+        aria-expanded="true" 
+        >
+        
+          knapp
+        
+      </button>
+      
+              <button
+         type="button" 
+        
+        class="a-btn-link a-linkDanger mr-1"
+        
+        
+        
+        
+        data-parent="#allClientsTable"
+        
+        
+        
+        aria-expanded="true" 
+        >
+        <span>
+          link
+        </span>
+      </button>
+      
+          </div>
         </div>
         <div class="a-switch   ">
           <input
@@ -2927,6 +6763,13 @@
             
             
             
+              class="sr-only"
+              data-toggle="popover"
+              data-placement="bottom"
+              data-animation="false"
+              data-popover-content="popoverWithIconToggle"
+              
+              
             
             
             >
@@ -2935,6 +6778,47 @@
             class="a-switch-label ">
             Revisorrettighet
           </label>
+          <div  id="popoverWithIconToggle"  class="d-none">
+          <div class="pb-1">Dette er en popover tekst</div>
+              <button
+         type="button" 
+        
+        class="a-btn a-btn-danger mr-1"
+        
+        
+        
+        
+        data-parent="#allClientsTable"
+        
+        
+        
+        aria-expanded="true" 
+        >
+        
+          knapp
+        
+      </button>
+      
+              <button
+         type="button" 
+        
+        class="a-btn-link a-linkDanger mr-1"
+        
+        
+        
+        
+        data-parent="#allClientsTable"
+        
+        
+        
+        aria-expanded="true" 
+        >
+        <span>
+          link
+        </span>
+      </button>
+      
+          </div>
         </div>
         <div class="a-switch   ">
           <input
@@ -2946,6 +6830,13 @@
             
             
             
+              class="sr-only"
+              data-toggle="popover"
+              data-placement="bottom"
+              data-animation="false"
+              data-popover-content="popoverWithIconToggle"
+              
+              
             
             
             >
@@ -2954,6 +6845,47 @@
             class="a-switch-label ">
             Regnskapsmedarbeider
           </label>
+          <div  id="popoverWithIconToggle"  class="d-none">
+          <div class="pb-1">Dette er en popover tekst</div>
+              <button
+         type="button" 
+        
+        class="a-btn a-btn-danger mr-1"
+        
+        
+        
+        
+        data-parent="#allClientsTable"
+        
+        
+        
+        aria-expanded="true" 
+        >
+        
+          knapp
+        
+      </button>
+      
+              <button
+         type="button" 
+        
+        class="a-btn-link a-linkDanger mr-1"
+        
+        
+        
+        
+        data-parent="#allClientsTable"
+        
+        
+        
+        aria-expanded="true" 
+        >
+        <span>
+          link
+        </span>
+      </button>
+      
+          </div>
         </div>
       
           </div>
@@ -2984,7 +6916,7 @@
               type="email" 
               placeholder="f.eks post@karinordmann.no"
               
-              name=""
+              name="input-field"
               data-val="true"
               id="text-input-6-epost"
               required
@@ -3005,7 +6937,7 @@
           </div>
       
       
-            <div class="a-message a-message-error" data-valmsg-for="" data-valmsg-replace="true"></div>
+            <div class="a-message a-message-error" data-valmsg-for="input-field" data-valmsg-replace="true"></div>
       
         </div>
       
@@ -3021,7 +6953,7 @@
             <div class="float-right mt-2">
                 <span class="mr-3">
                   <button
-        
+         type="button" 
         
         class="a-btn a-btn-success collapsed a-js-confirmAddRightBtn a-js-enableWhenValid"
         
@@ -3042,7 +6974,7 @@
                 </span>
                 <span class="mr-3">
                   <button
-                    
+                     type="button" 
                     
                     class="a-btn-link collapsed "
                     
@@ -3165,6 +7097,34 @@
                 Velg roller den ansatte skal ha:
               </div>
       
+              <div class="col-12 col-sm-auto pr-1 pr-md-4 mt-1 mt-md-0">
+                <button type="button" 
+        class="a-btn-link  "
+         aria-label="Fjern alle roller"  
+        
+        
+        
+        
+        
+        
+        
+        
+        >
+      
+      <i class="ai ai-circle-exit ai-nw  a-danger "    ></i>
+      
+      
+      
+      
+          <span class="a-btn-icon-text a-btn-black-noUnderline a-fontBold">
+            Fjern alle
+          </span>
+      
+      
+      </button>
+      
+      
+              </div>
           </div>
       
           <div class="text-sm-center mt-1">
@@ -3178,6 +7138,13 @@
             
             
             
+              class="sr-only"
+              data-toggle="popover"
+              data-placement="bottom"
+              data-animation="false"
+              data-popover-content="popoverWithIconToggle"
+              
+              
             
             
             >
@@ -3186,6 +7153,47 @@
             class="a-switch-label ">
             Begrenset signeringsrett
           </label>
+          <div  id="popoverWithIconToggle"  class="d-none">
+          <div class="pb-1">Dette er en popover tekst</div>
+              <button
+         type="button" 
+        
+        class="a-btn a-btn-danger mr-1"
+        
+        
+        
+        
+        data-parent="#allClientsTable"
+        
+        
+        
+        aria-expanded="true" 
+        >
+        
+          knapp
+        
+      </button>
+      
+              <button
+         type="button" 
+        
+        class="a-btn-link a-linkDanger mr-1"
+        
+        
+        
+        
+        data-parent="#allClientsTable"
+        
+        
+        
+        aria-expanded="true" 
+        >
+        <span>
+          link
+        </span>
+      </button>
+      
+          </div>
         </div>
         <div class="a-switch   ">
           <input
@@ -3197,6 +7205,13 @@
             
             
             
+              class="sr-only"
+              data-toggle="popover"
+              data-placement="bottom"
+              data-animation="false"
+              data-popover-content="popoverWithIconToggle"
+              
+              
             
             
             >
@@ -3205,6 +7220,47 @@
             class="a-switch-label ">
             Lønn og personalmedarbeider
           </label>
+          <div  id="popoverWithIconToggle"  class="d-none">
+          <div class="pb-1">Dette er en popover tekst</div>
+              <button
+         type="button" 
+        
+        class="a-btn a-btn-danger mr-1"
+        
+        
+        
+        
+        data-parent="#allClientsTable"
+        
+        
+        
+        aria-expanded="true" 
+        >
+        
+          knapp
+        
+      </button>
+      
+              <button
+         type="button" 
+        
+        class="a-btn-link a-linkDanger mr-1"
+        
+        
+        
+        
+        data-parent="#allClientsTable"
+        
+        
+        
+        aria-expanded="true" 
+        >
+        <span>
+          link
+        </span>
+      </button>
+      
+          </div>
         </div>
         <div class="a-switch   ">
           <input
@@ -3216,6 +7272,13 @@
             
             
             
+              class="sr-only"
+              data-toggle="popover"
+              data-placement="bottom"
+              data-animation="false"
+              data-popover-content="popoverWithIconToggle"
+              
+              
             
             
             >
@@ -3224,6 +7287,47 @@
             class="a-switch-label ">
             Primærnæring og næringsmidler
           </label>
+          <div  id="popoverWithIconToggle"  class="d-none">
+          <div class="pb-1">Dette er en popover tekst</div>
+              <button
+         type="button" 
+        
+        class="a-btn a-btn-danger mr-1"
+        
+        
+        
+        
+        data-parent="#allClientsTable"
+        
+        
+        
+        aria-expanded="true" 
+        >
+        
+          knapp
+        
+      </button>
+      
+              <button
+         type="button" 
+        
+        class="a-btn-link a-linkDanger mr-1"
+        
+        
+        
+        
+        data-parent="#allClientsTable"
+        
+        
+        
+        aria-expanded="true" 
+        >
+        <span>
+          link
+        </span>
+      </button>
+      
+          </div>
         </div>
         <div class="a-switch   ">
           <input
@@ -3235,6 +7339,13 @@
             
             
             
+              class="sr-only"
+              data-toggle="popover"
+              data-placement="bottom"
+              data-animation="false"
+              data-popover-content="popoverWithIconToggle"
+              
+              
             
             
             >
@@ -3243,6 +7354,47 @@
             class="a-switch-label ">
             Regnskapsfører med signeringsrett
           </label>
+          <div  id="popoverWithIconToggle"  class="d-none">
+          <div class="pb-1">Dette er en popover tekst</div>
+              <button
+         type="button" 
+        
+        class="a-btn a-btn-danger mr-1"
+        
+        
+        
+        
+        data-parent="#allClientsTable"
+        
+        
+        
+        aria-expanded="true" 
+        >
+        
+          knapp
+        
+      </button>
+      
+              <button
+         type="button" 
+        
+        class="a-btn-link a-linkDanger mr-1"
+        
+        
+        
+        
+        data-parent="#allClientsTable"
+        
+        
+        
+        aria-expanded="true" 
+        >
+        <span>
+          link
+        </span>
+      </button>
+      
+          </div>
         </div>
         <div class="a-switch   ">
           <input
@@ -3254,6 +7406,13 @@
             
             
             
+              class="sr-only"
+              data-toggle="popover"
+              data-placement="bottom"
+              data-animation="false"
+              data-popover-content="popoverWithIconToggle"
+              
+              
             
             
             >
@@ -3262,6 +7421,47 @@
             class="a-switch-label ">
             Regnskapsfører lønn
           </label>
+          <div  id="popoverWithIconToggle"  class="d-none">
+          <div class="pb-1">Dette er en popover tekst</div>
+              <button
+         type="button" 
+        
+        class="a-btn a-btn-danger mr-1"
+        
+        
+        
+        
+        data-parent="#allClientsTable"
+        
+        
+        
+        aria-expanded="true" 
+        >
+        
+          knapp
+        
+      </button>
+      
+              <button
+         type="button" 
+        
+        class="a-btn-link a-linkDanger mr-1"
+        
+        
+        
+        
+        data-parent="#allClientsTable"
+        
+        
+        
+        aria-expanded="true" 
+        >
+        <span>
+          link
+        </span>
+      </button>
+      
+          </div>
         </div>
         <div class="a-switch   ">
           <input
@@ -3273,6 +7473,13 @@
             
             
             
+              class="sr-only"
+              data-toggle="popover"
+              data-placement="bottom"
+              data-animation="false"
+              data-popover-content="popoverWithIconToggle"
+              
+              
             
             
             >
@@ -3281,6 +7488,47 @@
             class="a-switch-label ">
             Basisrolle
           </label>
+          <div  id="popoverWithIconToggle"  class="d-none">
+          <div class="pb-1">Dette er en popover tekst</div>
+              <button
+         type="button" 
+        
+        class="a-btn a-btn-danger mr-1"
+        
+        
+        
+        
+        data-parent="#allClientsTable"
+        
+        
+        
+        aria-expanded="true" 
+        >
+        
+          knapp
+        
+      </button>
+      
+              <button
+         type="button" 
+        
+        class="a-btn-link a-linkDanger mr-1"
+        
+        
+        
+        
+        data-parent="#allClientsTable"
+        
+        
+        
+        aria-expanded="true" 
+        >
+        <span>
+          link
+        </span>
+      </button>
+      
+          </div>
         </div>
         <div class="a-switch   ">
           <input
@@ -3292,6 +7540,13 @@
             
             
             
+              class="sr-only"
+              data-toggle="popover"
+              data-placement="bottom"
+              data-animation="false"
+              data-popover-content="popoverWithIconToggle"
+              
+              
             
             
             >
@@ -3300,6 +7555,47 @@
             class="a-switch-label ">
             Regnskapsfører uten signeringsrett
           </label>
+          <div  id="popoverWithIconToggle"  class="d-none">
+          <div class="pb-1">Dette er en popover tekst</div>
+              <button
+         type="button" 
+        
+        class="a-btn a-btn-danger mr-1"
+        
+        
+        
+        
+        data-parent="#allClientsTable"
+        
+        
+        
+        aria-expanded="true" 
+        >
+        
+          knapp
+        
+      </button>
+      
+              <button
+         type="button" 
+        
+        class="a-btn-link a-linkDanger mr-1"
+        
+        
+        
+        
+        data-parent="#allClientsTable"
+        
+        
+        
+        aria-expanded="true" 
+        >
+        <span>
+          link
+        </span>
+      </button>
+      
+          </div>
         </div>
         <div class="a-switch   ">
           <input
@@ -3311,6 +7607,13 @@
             
             
             
+              class="sr-only"
+              data-toggle="popover"
+              data-placement="bottom"
+              data-animation="false"
+              data-popover-content="popoverWithIconToggle"
+              
+              
             
             
             >
@@ -3319,6 +7622,47 @@
             class="a-switch-label ">
             Revisorattester - MVA kompensasjon
           </label>
+          <div  id="popoverWithIconToggle"  class="d-none">
+          <div class="pb-1">Dette er en popover tekst</div>
+              <button
+         type="button" 
+        
+        class="a-btn a-btn-danger mr-1"
+        
+        
+        
+        
+        data-parent="#allClientsTable"
+        
+        
+        
+        aria-expanded="true" 
+        >
+        
+          knapp
+        
+      </button>
+      
+              <button
+         type="button" 
+        
+        class="a-btn-link a-linkDanger mr-1"
+        
+        
+        
+        
+        data-parent="#allClientsTable"
+        
+        
+        
+        aria-expanded="true" 
+        >
+        <span>
+          link
+        </span>
+      </button>
+      
+          </div>
         </div>
         <div class="a-switch   ">
           <input
@@ -3330,6 +7674,13 @@
             
             
             
+              class="sr-only"
+              data-toggle="popover"
+              data-placement="bottom"
+              data-animation="false"
+              data-popover-content="popoverWithIconToggle"
+              
+              
             
             
             >
@@ -3338,6 +7689,47 @@
             class="a-switch-label ">
             Utfyller/Innsender
           </label>
+          <div  id="popoverWithIconToggle"  class="d-none">
+          <div class="pb-1">Dette er en popover tekst</div>
+              <button
+         type="button" 
+        
+        class="a-btn a-btn-danger mr-1"
+        
+        
+        
+        
+        data-parent="#allClientsTable"
+        
+        
+        
+        aria-expanded="true" 
+        >
+        
+          knapp
+        
+      </button>
+      
+              <button
+         type="button" 
+        
+        class="a-btn-link a-linkDanger mr-1"
+        
+        
+        
+        
+        data-parent="#allClientsTable"
+        
+        
+        
+        aria-expanded="true" 
+        >
+        <span>
+          link
+        </span>
+      </button>
+      
+          </div>
         </div>
         <div class="a-switch   ">
           <input
@@ -3349,6 +7741,13 @@
             
             
             
+              class="sr-only"
+              data-toggle="popover"
+              data-placement="bottom"
+              data-animation="false"
+              data-popover-content="popoverWithIconToggle"
+              
+              
             
             
             >
@@ -3357,6 +7756,47 @@
             class="a-switch-label ">
             Ansvarlig revisor
           </label>
+          <div  id="popoverWithIconToggle"  class="d-none">
+          <div class="pb-1">Dette er en popover tekst</div>
+              <button
+         type="button" 
+        
+        class="a-btn a-btn-danger mr-1"
+        
+        
+        
+        
+        data-parent="#allClientsTable"
+        
+        
+        
+        aria-expanded="true" 
+        >
+        
+          knapp
+        
+      </button>
+      
+              <button
+         type="button" 
+        
+        class="a-btn-link a-linkDanger mr-1"
+        
+        
+        
+        
+        data-parent="#allClientsTable"
+        
+        
+        
+        aria-expanded="true" 
+        >
+        <span>
+          link
+        </span>
+      </button>
+      
+          </div>
         </div>
         <div class="a-switch   ">
           <input
@@ -3368,6 +7808,13 @@
             
             
             
+              class="sr-only"
+              data-toggle="popover"
+              data-placement="bottom"
+              data-animation="false"
+              data-popover-content="popoverWithIconToggle"
+              
+              
             
             
             >
@@ -3376,6 +7823,47 @@
             class="a-switch-label ">
             Revisormedarbeider
           </label>
+          <div  id="popoverWithIconToggle"  class="d-none">
+          <div class="pb-1">Dette er en popover tekst</div>
+              <button
+         type="button" 
+        
+        class="a-btn a-btn-danger mr-1"
+        
+        
+        
+        
+        data-parent="#allClientsTable"
+        
+        
+        
+        aria-expanded="true" 
+        >
+        
+          knapp
+        
+      </button>
+      
+              <button
+         type="button" 
+        
+        class="a-btn-link a-linkDanger mr-1"
+        
+        
+        
+        
+        data-parent="#allClientsTable"
+        
+        
+        
+        aria-expanded="true" 
+        >
+        <span>
+          link
+        </span>
+      </button>
+      
+          </div>
         </div>
         <div class="a-switch   ">
           <input
@@ -3387,6 +7875,13 @@
             
             
             
+              class="sr-only"
+              data-toggle="popover"
+              data-placement="bottom"
+              data-animation="false"
+              data-popover-content="popoverWithIconToggle"
+              
+              
             
             
             >
@@ -3395,6 +7890,47 @@
             class="a-switch-label ">
             Revisorrettighet
           </label>
+          <div  id="popoverWithIconToggle"  class="d-none">
+          <div class="pb-1">Dette er en popover tekst</div>
+              <button
+         type="button" 
+        
+        class="a-btn a-btn-danger mr-1"
+        
+        
+        
+        
+        data-parent="#allClientsTable"
+        
+        
+        
+        aria-expanded="true" 
+        >
+        
+          knapp
+        
+      </button>
+      
+              <button
+         type="button" 
+        
+        class="a-btn-link a-linkDanger mr-1"
+        
+        
+        
+        
+        data-parent="#allClientsTable"
+        
+        
+        
+        aria-expanded="true" 
+        >
+        <span>
+          link
+        </span>
+      </button>
+      
+          </div>
         </div>
         <div class="a-switch   ">
           <input
@@ -3406,6 +7942,13 @@
             
             
             
+              class="sr-only"
+              data-toggle="popover"
+              data-placement="bottom"
+              data-animation="false"
+              data-popover-content="popoverWithIconToggle"
+              
+              
             
             
             >
@@ -3414,6 +7957,47 @@
             class="a-switch-label ">
             Regnskapsmedarbeider
           </label>
+          <div  id="popoverWithIconToggle"  class="d-none">
+          <div class="pb-1">Dette er en popover tekst</div>
+              <button
+         type="button" 
+        
+        class="a-btn a-btn-danger mr-1"
+        
+        
+        
+        
+        data-parent="#allClientsTable"
+        
+        
+        
+        aria-expanded="true" 
+        >
+        
+          knapp
+        
+      </button>
+      
+              <button
+         type="button" 
+        
+        class="a-btn-link a-linkDanger mr-1"
+        
+        
+        
+        
+        data-parent="#allClientsTable"
+        
+        
+        
+        aria-expanded="true" 
+        >
+        <span>
+          link
+        </span>
+      </button>
+      
+          </div>
         </div>
       
           </div>
@@ -3444,7 +8028,7 @@
               type="email" 
               placeholder="f.eks post@karinordmann.no"
               
-              name=""
+              name="input-field"
               data-val="true"
               id="text-input-7-epost"
               required
@@ -3465,7 +8049,7 @@
           </div>
       
       
-            <div class="a-message a-message-error" data-valmsg-for="" data-valmsg-replace="true"></div>
+            <div class="a-message a-message-error" data-valmsg-for="input-field" data-valmsg-replace="true"></div>
       
         </div>
       
@@ -3481,7 +8065,7 @@
             <div class="float-right mt-2">
                 <span class="mr-3">
                   <button
-        
+         type="button" 
         
         class="a-btn a-btn-success collapsed a-js-confirmAddRightBtn a-js-enableWhenValid"
         
@@ -3502,7 +8086,7 @@
                 </span>
                 <span class="mr-3">
                   <button
-                    
+                     type="button" 
                     
                     class="a-btn-link collapsed "
                     
@@ -3625,6 +8209,34 @@
                 Velg roller den ansatte skal ha:
               </div>
       
+              <div class="col-12 col-sm-auto pr-1 pr-md-4 mt-1 mt-md-0">
+                <button type="button" 
+        class="a-btn-link  "
+         aria-label="Fjern alle roller"  
+        
+        
+        
+        
+        
+        
+        
+        
+        >
+      
+      <i class="ai ai-circle-exit ai-nw  a-danger "    ></i>
+      
+      
+      
+      
+          <span class="a-btn-icon-text a-btn-black-noUnderline a-fontBold">
+            Fjern alle
+          </span>
+      
+      
+      </button>
+      
+      
+              </div>
           </div>
       
           <div class="text-sm-center mt-1">
@@ -3638,6 +8250,13 @@
             
             
             
+              class="sr-only"
+              data-toggle="popover"
+              data-placement="bottom"
+              data-animation="false"
+              data-popover-content="popoverWithIconToggle"
+              
+              
             
             
             >
@@ -3646,6 +8265,47 @@
             class="a-switch-label ">
             Begrenset signeringsrett
           </label>
+          <div  id="popoverWithIconToggle"  class="d-none">
+          <div class="pb-1">Dette er en popover tekst</div>
+              <button
+         type="button" 
+        
+        class="a-btn a-btn-danger mr-1"
+        
+        
+        
+        
+        data-parent="#allClientsTable"
+        
+        
+        
+        aria-expanded="true" 
+        >
+        
+          knapp
+        
+      </button>
+      
+              <button
+         type="button" 
+        
+        class="a-btn-link a-linkDanger mr-1"
+        
+        
+        
+        
+        data-parent="#allClientsTable"
+        
+        
+        
+        aria-expanded="true" 
+        >
+        <span>
+          link
+        </span>
+      </button>
+      
+          </div>
         </div>
         <div class="a-switch   ">
           <input
@@ -3657,6 +8317,13 @@
             
             
             
+              class="sr-only"
+              data-toggle="popover"
+              data-placement="bottom"
+              data-animation="false"
+              data-popover-content="popoverWithIconToggle"
+              
+              
             
             
             >
@@ -3665,6 +8332,47 @@
             class="a-switch-label ">
             Lønn og personalmedarbeider
           </label>
+          <div  id="popoverWithIconToggle"  class="d-none">
+          <div class="pb-1">Dette er en popover tekst</div>
+              <button
+         type="button" 
+        
+        class="a-btn a-btn-danger mr-1"
+        
+        
+        
+        
+        data-parent="#allClientsTable"
+        
+        
+        
+        aria-expanded="true" 
+        >
+        
+          knapp
+        
+      </button>
+      
+              <button
+         type="button" 
+        
+        class="a-btn-link a-linkDanger mr-1"
+        
+        
+        
+        
+        data-parent="#allClientsTable"
+        
+        
+        
+        aria-expanded="true" 
+        >
+        <span>
+          link
+        </span>
+      </button>
+      
+          </div>
         </div>
         <div class="a-switch   ">
           <input
@@ -3676,6 +8384,13 @@
             
             
             
+              class="sr-only"
+              data-toggle="popover"
+              data-placement="bottom"
+              data-animation="false"
+              data-popover-content="popoverWithIconToggle"
+              
+              
             
             
             >
@@ -3684,6 +8399,47 @@
             class="a-switch-label ">
             Primærnæring og næringsmidler
           </label>
+          <div  id="popoverWithIconToggle"  class="d-none">
+          <div class="pb-1">Dette er en popover tekst</div>
+              <button
+         type="button" 
+        
+        class="a-btn a-btn-danger mr-1"
+        
+        
+        
+        
+        data-parent="#allClientsTable"
+        
+        
+        
+        aria-expanded="true" 
+        >
+        
+          knapp
+        
+      </button>
+      
+              <button
+         type="button" 
+        
+        class="a-btn-link a-linkDanger mr-1"
+        
+        
+        
+        
+        data-parent="#allClientsTable"
+        
+        
+        
+        aria-expanded="true" 
+        >
+        <span>
+          link
+        </span>
+      </button>
+      
+          </div>
         </div>
         <div class="a-switch   ">
           <input
@@ -3695,6 +8451,13 @@
             
             
             
+              class="sr-only"
+              data-toggle="popover"
+              data-placement="bottom"
+              data-animation="false"
+              data-popover-content="popoverWithIconToggle"
+              
+              
             
             
             >
@@ -3703,6 +8466,47 @@
             class="a-switch-label ">
             Regnskapsfører med signeringsrett
           </label>
+          <div  id="popoverWithIconToggle"  class="d-none">
+          <div class="pb-1">Dette er en popover tekst</div>
+              <button
+         type="button" 
+        
+        class="a-btn a-btn-danger mr-1"
+        
+        
+        
+        
+        data-parent="#allClientsTable"
+        
+        
+        
+        aria-expanded="true" 
+        >
+        
+          knapp
+        
+      </button>
+      
+              <button
+         type="button" 
+        
+        class="a-btn-link a-linkDanger mr-1"
+        
+        
+        
+        
+        data-parent="#allClientsTable"
+        
+        
+        
+        aria-expanded="true" 
+        >
+        <span>
+          link
+        </span>
+      </button>
+      
+          </div>
         </div>
         <div class="a-switch   ">
           <input
@@ -3714,6 +8518,13 @@
             
             
             
+              class="sr-only"
+              data-toggle="popover"
+              data-placement="bottom"
+              data-animation="false"
+              data-popover-content="popoverWithIconToggle"
+              
+              
             
             
             >
@@ -3722,6 +8533,47 @@
             class="a-switch-label ">
             Regnskapsfører lønn
           </label>
+          <div  id="popoverWithIconToggle"  class="d-none">
+          <div class="pb-1">Dette er en popover tekst</div>
+              <button
+         type="button" 
+        
+        class="a-btn a-btn-danger mr-1"
+        
+        
+        
+        
+        data-parent="#allClientsTable"
+        
+        
+        
+        aria-expanded="true" 
+        >
+        
+          knapp
+        
+      </button>
+      
+              <button
+         type="button" 
+        
+        class="a-btn-link a-linkDanger mr-1"
+        
+        
+        
+        
+        data-parent="#allClientsTable"
+        
+        
+        
+        aria-expanded="true" 
+        >
+        <span>
+          link
+        </span>
+      </button>
+      
+          </div>
         </div>
         <div class="a-switch   ">
           <input
@@ -3733,6 +8585,13 @@
             
             
             
+              class="sr-only"
+              data-toggle="popover"
+              data-placement="bottom"
+              data-animation="false"
+              data-popover-content="popoverWithIconToggle"
+              
+              
             
             
             >
@@ -3741,6 +8600,47 @@
             class="a-switch-label ">
             Basisrolle
           </label>
+          <div  id="popoverWithIconToggle"  class="d-none">
+          <div class="pb-1">Dette er en popover tekst</div>
+              <button
+         type="button" 
+        
+        class="a-btn a-btn-danger mr-1"
+        
+        
+        
+        
+        data-parent="#allClientsTable"
+        
+        
+        
+        aria-expanded="true" 
+        >
+        
+          knapp
+        
+      </button>
+      
+              <button
+         type="button" 
+        
+        class="a-btn-link a-linkDanger mr-1"
+        
+        
+        
+        
+        data-parent="#allClientsTable"
+        
+        
+        
+        aria-expanded="true" 
+        >
+        <span>
+          link
+        </span>
+      </button>
+      
+          </div>
         </div>
         <div class="a-switch   ">
           <input
@@ -3752,6 +8652,13 @@
             
             
             
+              class="sr-only"
+              data-toggle="popover"
+              data-placement="bottom"
+              data-animation="false"
+              data-popover-content="popoverWithIconToggle"
+              
+              
             
             
             >
@@ -3760,6 +8667,47 @@
             class="a-switch-label ">
             Regnskapsfører uten signeringsrett
           </label>
+          <div  id="popoverWithIconToggle"  class="d-none">
+          <div class="pb-1">Dette er en popover tekst</div>
+              <button
+         type="button" 
+        
+        class="a-btn a-btn-danger mr-1"
+        
+        
+        
+        
+        data-parent="#allClientsTable"
+        
+        
+        
+        aria-expanded="true" 
+        >
+        
+          knapp
+        
+      </button>
+      
+              <button
+         type="button" 
+        
+        class="a-btn-link a-linkDanger mr-1"
+        
+        
+        
+        
+        data-parent="#allClientsTable"
+        
+        
+        
+        aria-expanded="true" 
+        >
+        <span>
+          link
+        </span>
+      </button>
+      
+          </div>
         </div>
         <div class="a-switch   ">
           <input
@@ -3771,6 +8719,13 @@
             
             
             
+              class="sr-only"
+              data-toggle="popover"
+              data-placement="bottom"
+              data-animation="false"
+              data-popover-content="popoverWithIconToggle"
+              
+              
             
             
             >
@@ -3779,6 +8734,47 @@
             class="a-switch-label ">
             Revisorattester - MVA kompensasjon
           </label>
+          <div  id="popoverWithIconToggle"  class="d-none">
+          <div class="pb-1">Dette er en popover tekst</div>
+              <button
+         type="button" 
+        
+        class="a-btn a-btn-danger mr-1"
+        
+        
+        
+        
+        data-parent="#allClientsTable"
+        
+        
+        
+        aria-expanded="true" 
+        >
+        
+          knapp
+        
+      </button>
+      
+              <button
+         type="button" 
+        
+        class="a-btn-link a-linkDanger mr-1"
+        
+        
+        
+        
+        data-parent="#allClientsTable"
+        
+        
+        
+        aria-expanded="true" 
+        >
+        <span>
+          link
+        </span>
+      </button>
+      
+          </div>
         </div>
         <div class="a-switch   ">
           <input
@@ -3790,6 +8786,13 @@
             
             
             
+              class="sr-only"
+              data-toggle="popover"
+              data-placement="bottom"
+              data-animation="false"
+              data-popover-content="popoverWithIconToggle"
+              
+              
             
             
             >
@@ -3798,6 +8801,47 @@
             class="a-switch-label ">
             Utfyller/Innsender
           </label>
+          <div  id="popoverWithIconToggle"  class="d-none">
+          <div class="pb-1">Dette er en popover tekst</div>
+              <button
+         type="button" 
+        
+        class="a-btn a-btn-danger mr-1"
+        
+        
+        
+        
+        data-parent="#allClientsTable"
+        
+        
+        
+        aria-expanded="true" 
+        >
+        
+          knapp
+        
+      </button>
+      
+              <button
+         type="button" 
+        
+        class="a-btn-link a-linkDanger mr-1"
+        
+        
+        
+        
+        data-parent="#allClientsTable"
+        
+        
+        
+        aria-expanded="true" 
+        >
+        <span>
+          link
+        </span>
+      </button>
+      
+          </div>
         </div>
         <div class="a-switch   ">
           <input
@@ -3809,6 +8853,13 @@
             
             
             
+              class="sr-only"
+              data-toggle="popover"
+              data-placement="bottom"
+              data-animation="false"
+              data-popover-content="popoverWithIconToggle"
+              
+              
             
             
             >
@@ -3817,6 +8868,47 @@
             class="a-switch-label ">
             Ansvarlig revisor
           </label>
+          <div  id="popoverWithIconToggle"  class="d-none">
+          <div class="pb-1">Dette er en popover tekst</div>
+              <button
+         type="button" 
+        
+        class="a-btn a-btn-danger mr-1"
+        
+        
+        
+        
+        data-parent="#allClientsTable"
+        
+        
+        
+        aria-expanded="true" 
+        >
+        
+          knapp
+        
+      </button>
+      
+              <button
+         type="button" 
+        
+        class="a-btn-link a-linkDanger mr-1"
+        
+        
+        
+        
+        data-parent="#allClientsTable"
+        
+        
+        
+        aria-expanded="true" 
+        >
+        <span>
+          link
+        </span>
+      </button>
+      
+          </div>
         </div>
         <div class="a-switch   ">
           <input
@@ -3828,6 +8920,13 @@
             
             
             
+              class="sr-only"
+              data-toggle="popover"
+              data-placement="bottom"
+              data-animation="false"
+              data-popover-content="popoverWithIconToggle"
+              
+              
             
             
             >
@@ -3836,6 +8935,47 @@
             class="a-switch-label ">
             Revisormedarbeider
           </label>
+          <div  id="popoverWithIconToggle"  class="d-none">
+          <div class="pb-1">Dette er en popover tekst</div>
+              <button
+         type="button" 
+        
+        class="a-btn a-btn-danger mr-1"
+        
+        
+        
+        
+        data-parent="#allClientsTable"
+        
+        
+        
+        aria-expanded="true" 
+        >
+        
+          knapp
+        
+      </button>
+      
+              <button
+         type="button" 
+        
+        class="a-btn-link a-linkDanger mr-1"
+        
+        
+        
+        
+        data-parent="#allClientsTable"
+        
+        
+        
+        aria-expanded="true" 
+        >
+        <span>
+          link
+        </span>
+      </button>
+      
+          </div>
         </div>
         <div class="a-switch   ">
           <input
@@ -3847,6 +8987,13 @@
             
             
             
+              class="sr-only"
+              data-toggle="popover"
+              data-placement="bottom"
+              data-animation="false"
+              data-popover-content="popoverWithIconToggle"
+              
+              
             
             
             >
@@ -3855,6 +9002,47 @@
             class="a-switch-label ">
             Revisorrettighet
           </label>
+          <div  id="popoverWithIconToggle"  class="d-none">
+          <div class="pb-1">Dette er en popover tekst</div>
+              <button
+         type="button" 
+        
+        class="a-btn a-btn-danger mr-1"
+        
+        
+        
+        
+        data-parent="#allClientsTable"
+        
+        
+        
+        aria-expanded="true" 
+        >
+        
+          knapp
+        
+      </button>
+      
+              <button
+         type="button" 
+        
+        class="a-btn-link a-linkDanger mr-1"
+        
+        
+        
+        
+        data-parent="#allClientsTable"
+        
+        
+        
+        aria-expanded="true" 
+        >
+        <span>
+          link
+        </span>
+      </button>
+      
+          </div>
         </div>
         <div class="a-switch   ">
           <input
@@ -3866,6 +9054,13 @@
             
             
             
+              class="sr-only"
+              data-toggle="popover"
+              data-placement="bottom"
+              data-animation="false"
+              data-popover-content="popoverWithIconToggle"
+              
+              
             
             
             >
@@ -3874,6 +9069,47 @@
             class="a-switch-label ">
             Regnskapsmedarbeider
           </label>
+          <div  id="popoverWithIconToggle"  class="d-none">
+          <div class="pb-1">Dette er en popover tekst</div>
+              <button
+         type="button" 
+        
+        class="a-btn a-btn-danger mr-1"
+        
+        
+        
+        
+        data-parent="#allClientsTable"
+        
+        
+        
+        aria-expanded="true" 
+        >
+        
+          knapp
+        
+      </button>
+      
+              <button
+         type="button" 
+        
+        class="a-btn-link a-linkDanger mr-1"
+        
+        
+        
+        
+        data-parent="#allClientsTable"
+        
+        
+        
+        aria-expanded="true" 
+        >
+        <span>
+          link
+        </span>
+      </button>
+      
+          </div>
         </div>
       
           </div>
@@ -3904,7 +9140,7 @@
               type="email" 
               placeholder="f.eks post@karinordmann.no"
               
-              name=""
+              name="input-field"
               data-val="true"
               id="text-input-8-epost"
               required
@@ -3925,7 +9161,7 @@
           </div>
       
       
-            <div class="a-message a-message-error" data-valmsg-for="" data-valmsg-replace="true"></div>
+            <div class="a-message a-message-error" data-valmsg-for="input-field" data-valmsg-replace="true"></div>
       
         </div>
       
@@ -3941,7 +9177,7 @@
             <div class="float-right mt-2">
                 <span class="mr-3">
                   <button
-        
+         type="button" 
         
         class="a-btn a-btn-success collapsed a-js-confirmAddRightBtn a-js-enableWhenValid"
         
@@ -3962,7 +9198,7 @@
                 </span>
                 <span class="mr-3">
                   <button
-                    
+                     type="button" 
                     
                     class="a-btn-link collapsed "
                     
@@ -4007,7 +9243,7 @@
   
   
       <a
-         href="/patterns/sider-portal-klientdelegering-klientdelegering-legg-til-ansatt/sider-portal-klientdelegering-klientdelegering-legg-til-ansatt.rendered.html" 
+         href="/patterns/04-sider-portal-91-klientdelegering-00-klientdelegering-legg-til-ansatt/04-sider-portal-91-klientdelegering-00-klientdelegering-legg-til-ansatt.html" 
         class="a-btn-blue-noUnderline a-fontBold "
         
         
@@ -4123,6 +9359,10 @@
   <div id="a-iframeToggle" class="a-iframeToggle collapse">
 
     <!-- Close-button for .a-iframeToggle -->
+    <button type="button" class="a-stickyHelp-close" data-toggle="collapse" data-target="#a-iframeToggle" data-action="close" aria-expanded="true" aria-controls="a-iframeToggle"> <i class="ai ai-exit ai-sm   "   id="close-stickyHelp"   ></i>
+  <span class="sr-only">Minimer hjelpevinduet</span>
+
+ </button>
 
     <iframe class="a-js-stickyHelpFrame" data-src="../../&#x2F;patterns&#x2F;sider-infoportal-hurtighjelp-hurtighjelp\sider-infoportal-hurtighjelp-hurtighjelp.rendered.html"></iframe>
 

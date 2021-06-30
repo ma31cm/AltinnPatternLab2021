@@ -3,6 +3,26 @@
     <div class="container a-p-static">
       <div class="row">
         <div class="col-xl-12">
+            <div class="a-modal-top">
+        
+<img src="..&#x2F;..&#x2F;images&#x2F;a-logo-black.svg" alt="Altinn logo" class="a-logo a-modal-top-logo ">
+
+    <div class="a-modal-top-user">
+  <div class="a-personSwitcher " title="JAN PETTERSEN ">
+  <span
+    class="a-personSwitcher-name">
+    <span class="d-block">JAN PETTERSEN</span>
+    <span class="d-block"></span>
+  </span>
+<i class="ai ai-private-circle-big  a-personSwitcher-icon "    ></i>
+
+
+
+  </div>
+
+    </div>
+</div>
+
         </div>
       </div>
       <div class="row">       
@@ -11,7 +31,7 @@
           <button
   type="button"
   class="a-modal-back a-js-tabable-popover"
-   onclick="location.href&#x3D;&#39;&#x2F;patterns&#x2F;sider-portal-profil-roller-rettigheter-profil-roller-rettigheter&#x2F;sider-portal-profil-roller-rettigheter-profil-roller-rettigheter.rendered.html&#39;" 
+   onclick="location.href&#x3D;&#39;&#x2F;patterns&#x2F;04-sider-portal-60-profil-roller-rettigheter-01-profil-roller-rettigheter&#x2F;04-sider-portal-60-profil-roller-rettigheter-01-profil-roller-rettigheter.html&#39;" 
    aria-label="Tilbake"
 >
   <span class="ai-stack">
@@ -27,7 +47,7 @@
           <button
   type="button"
   class="a-modal-close a-js-tabable-popover"
-   onclick="location.href&#x3D;&#39;&#x2F;patterns&#x2F;sider-portal-profil-roller-rettigheter-profil-roller-rettigheter&#x2F;sider-portal-profil-roller-rettigheter-profil-roller-rettigheter.rendered.html&#39;" 
+   onclick="location.href&#x3D;&#39;&#x2F;patterns&#x2F;04-sider-portal-60-profil-roller-rettigheter-01-profil-roller-rettigheter&#x2F;04-sider-portal-60-profil-roller-rettigheter-01-profil-roller-rettigheter.html&#39;" 
    aria-label="Lukk"
 >
   <span class="ai-stack">
@@ -48,12 +68,12 @@
                 <div class="modal-content">
                     <div class="modal-header a-modal-header">
   <div class="a-iconText a-iconText-background a-iconText-large a-iconText--noMinHeight">
-    <div class="a-iconText-icon ">  <i class="ai ai-client   "    ></i>
+    <div class="a-iconText-icon ">  <i class="ai ai-client  a-icon "    ></i>
   
   </div>
-      <div class="a-iconText-text">
+      <h1 class="a-iconText-text mb-0">
     <span class="a-iconText-text-large">Legge til ny ansatt  </span>
-      </div>
+        </h1>
   </div>
 </div>
 
@@ -78,7 +98,7 @@
           type="text" 
           placeholder="11 siffer"
           
-          name=""
+          name="input-field"
           data-val="true"
           id="text-fnr-brukernavn"
           required
@@ -88,8 +108,8 @@
           
           
           
-          
-          
+          data-search-algorithm="show-and-highlight"
+          data-search-target="employee-table"
           
             data-val-regex="Du har tastet et ugyldig fødsensnummer eller brukernavn. Fødselsnummer må bestå av 11 tegn."
             data-val-regex-pattern="&quot;^([0-9]{11})\s*$|(.*\D+.*)&quot;"
@@ -101,7 +121,7 @@
       </div>
   
   
-        <div class="a-message a-message-error" data-valmsg-for="" data-valmsg-replace="true"></div>
+        <div class="a-message a-message-error" data-valmsg-for="input-field" data-valmsg-replace="true"></div>
   
     </div>
   
@@ -123,7 +143,7 @@
           type="text" 
           
           
-          name=""
+          name="input-field"
           data-val="true"
           id="text-etternavn"
           required
@@ -133,8 +153,8 @@
           
           
           
-          
-          
+          data-search-algorithm="show-and-highlight"
+          data-search-target="employee-table"
           
         >
   
@@ -144,7 +164,7 @@
       </div>
   
   
-        <div class="a-message a-message-error" data-valmsg-for="" data-valmsg-replace="true"></div>
+        <div class="a-message a-message-error" data-valmsg-for="input-field" data-valmsg-replace="true"></div>
   
     </div>
   
@@ -156,7 +176,7 @@
               <div class="mt-3">
                     <button
      type="submit" 
-     onclick="location.href='/patterns/sider-portal-profil-roller-rettigheter-profil-roller-rettigheter/sider-portal-profil-roller-rettigheter-profil-roller-rettigheter.rendered.html'" 
+     onclick="location.href='/patterns/04-sider-portal-60-profil-roller-rettigheter-01-profil-roller-rettigheter/04-sider-portal-60-profil-roller-rettigheter-01-profil-roller-rettigheter.html'" 
     class="a-btn a-btn-success mb-0"
     
     
@@ -212,6 +232,10 @@
   <div id="a-iframeToggle" class="a-iframeToggle collapse">
 
     <!-- Close-button for .a-iframeToggle -->
+    <button type="button" class="a-stickyHelp-close" data-toggle="collapse" data-target="#a-iframeToggle" data-action="close" aria-expanded="true" aria-controls="a-iframeToggle"> <i class="ai ai-exit ai-sm   "   id="close-stickyHelp"   ></i>
+  <span class="sr-only">Minimer hjelpevinduet</span>
+
+ </button>
 
     <iframe class="a-js-stickyHelpFrame" data-src="../../&#x2F;patterns&#x2F;sider-infoportal-hurtighjelp-hurtighjelp\sider-infoportal-hurtighjelp-hurtighjelp.rendered.html"></iframe>
 

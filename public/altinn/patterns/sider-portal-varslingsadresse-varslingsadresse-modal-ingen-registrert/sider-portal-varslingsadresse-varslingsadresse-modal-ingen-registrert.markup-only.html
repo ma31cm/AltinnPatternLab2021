@@ -3,6 +3,26 @@
     <div class="container a-p-static">
       <div class="row">
         <div class="col-xl-12">
+            <div class="a-modal-top">
+        
+<img src="..&#x2F;..&#x2F;images&#x2F;a-logo-black.svg" alt="Altinn logo" class="a-logo a-modal-top-logo ">
+
+    <div class="a-modal-top-user">
+  <div class="a-personSwitcher " title="JAN PETTERSEN ">
+  <span
+    class="a-personSwitcher-name">
+    <span class="d-block">JAN PETTERSEN</span>
+    <span class="d-block"></span>
+  </span>
+<i class="ai ai-private-circle-big  a-personSwitcher-icon "    ></i>
+
+
+
+  </div>
+
+    </div>
+</div>
+
         </div>
       </div>
       <div class="row">       
@@ -21,7 +41,7 @@
         <h2 class="">Vi mangler varslingsadresse for <b>KAJAKK OG SKI AS</b>
 </h2>
 
-      <p class="a-leadText d-inline" >Denne adressen er ikke personlig. Den brukes til å varsle om <b>alle</b> nye meldinger til foretaket.</p>
+      <p class="a-leadText d-inline"  id="leadText" >Denne adressen er ikke personlig. Den brukes til å varsle om <b>alle</b> nye meldinger til foretaket.</p>
 
         <a href="javascript:void(0)"
           tabindex="0"
@@ -86,7 +106,7 @@
     <div class="row">
       <div class="col-12 pr-md-0">        
           <button
-  
+   type="button" 
   
   class="a-btn-link d-none mr-1"
   id="link-email"
@@ -126,7 +146,7 @@
                   type="email" 
                   placeholder="f.eks. post@firma.no"
                   
-                  name=""
+                  name="input-field"
                   data-val="true"
                   id="text-input-notification-epost"
                   
@@ -136,8 +156,8 @@
                   
                   
                   
-                  
-                  
+                  data-search-algorithm="show-and-highlight"
+                  data-search-target="employee-table"
                   
                 >
           
@@ -178,7 +198,7 @@
   <div class="row" id="">
     <div class="col-12 mt-1">
         <button
-  
+   type="button" 
   
   class="a-btn-link mr-1"
   id="link-addmore-email"
@@ -197,7 +217,7 @@
 </button>
 
         <button
-  
+   type="button" 
   
   class="a-btn-link "
   id="link-sms"
@@ -246,7 +266,7 @@
                     type="tel" 
                     
                     
-                    name=""
+                    name="input-field"
                     data-val="true"
                     
                     required
@@ -256,8 +276,8 @@
                     
                     
                     
-                    
-                    
+                    data-search-algorithm="show-and-highlight"
+                    data-search-target="employee-table"
                     
                       data-val-regex="Telefonnummer må bestå av 8 siffer"
                       data-val-regex-pattern="&quot;[0-9]{8}&quot;"
@@ -269,7 +289,7 @@
                 </div>
             
             
-                  <div class="a-message a-message-error" data-valmsg-for="" data-valmsg-replace="true"></div>
+                  <div class="a-message a-message-error" data-valmsg-for="input-field" data-valmsg-replace="true"></div>
             
               </div>
       </div>
@@ -301,7 +321,7 @@
       <div class="row d-none" id ="addmore-sms" >
         <div class="col-12 col-md-7 pr-md-0 mt-1">
             <button
-  
+   type="button" 
   
   class="a-btn-link "
   id="link-sms-addmore"
@@ -377,6 +397,10 @@
   <div id="a-iframeToggle" class="a-iframeToggle collapse">
 
     <!-- Close-button for .a-iframeToggle -->
+    <button type="button" class="a-stickyHelp-close" data-toggle="collapse" data-target="#a-iframeToggle" data-action="close" aria-expanded="true" aria-controls="a-iframeToggle"> <i class="ai ai-exit ai-sm   "   id="close-stickyHelp"   ></i>
+  <span class="sr-only">Minimer hjelpevinduet</span>
+
+ </button>
 
     <iframe class="a-js-stickyHelpFrame" data-src="../../&#x2F;patterns&#x2F;sider-infoportal-hurtighjelp-hurtighjelp\sider-infoportal-hurtighjelp-hurtighjelp.rendered.html"></iframe>
 

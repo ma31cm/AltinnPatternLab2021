@@ -9,7 +9,7 @@
 </nav>
 
 <!-- Begin .header -->
-<header class="a-header  ">
+<header class="a-header   a-js-hideElement ">
 	<!-- Begin .container -->
   <div class="container">
     <div class="row">
@@ -18,7 +18,7 @@
     		<!-- Begin .a-globalNav -->
     		<nav id="primary-nav" class="a-globalNav">
     			<a href="" class="a-globalNav-logo"> 
-<img src="" alt="Altinn logo" class="a-logo  ">
+<img src="..&#x2F;..&#x2F;images&#x2F;a-logo-blue.svg" alt="Altinn logo" class="a-logo a-modal-top-logo ">
  <span class="sr-only">Til forsiden</span>
           </a>
 
@@ -28,11 +28,88 @@
     			  <div class="collapse navbar-toggleable-sm a-globalNav-main" id="exCollapsingNavbar2">
     					<ul class="" id="exCollapsingNavbar">
     						<li class="d-md-none">
+
+  <div class="form-group a-form-group   ">
+
+      <label class="a-form-label  sr-only  " for="dropdown-input-search">Søk etter innhold</label>
+
+    <div class="a-form-group-items input-group   ">
+
+
+      <input class="form-control  
+         a-hasButton  "
+        type="search" 
+        placeholder="Søk etter innhold"
+        
+        name="input-field"
+        data-val="true"
+        id="dropdown-input-search"
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+      >
+
+        <div class="input-group-append">
+          <button onclick="location.href='/patterns/04-sider-infoportal-40-sok-00-sok-forside/04-sider-infoportal-40-sok-00-sok-forside.html';" class="btn btn-secondary" type="button"  >
+<i class="ai ai-search   "    ></i>
+
+
+              <span class="sr-only">Søk</span>
+          </button>
+        </div>
+
+
+
+    </div>
+
+
+
+  </div>
+
     						</li>
                 <li class="d-md-none dropdown">
                   <a lang="en" class="nav-link dropdown-toggle a-languageSwitcher" href="javascript:void(0)" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                     language
                   </a>
+                    <!-- Begin #a-dropdown-languages - -->
+<div class="dropdown-menu a-dropdown-languages a-dropdownTriangle">
+    <a class="dropdown-item" href="#">
+      <img src="../../images/norsk.svg" class="a-iconLeft a-flag" alt="" />
+      <p>
+        <span  class="a-h3">Bokmål</span><br>
+        <span >Alt innhold er tilgjengelig på bokmål.</span>
+      </p>
+    </a>
+    <a class="dropdown-item" href="#">
+      <img src="../../images/english.svg" class="a-iconLeft a-flag" alt="" />
+      <p>
+        <span lang="en" class="a-h3">English</span><br>
+        <span lang="en">All content is available in english.</span>
+      </p>
+    </a>
+    <a class="dropdown-item" href="#">
+      <img src="../../images/norsk.svg" class="a-iconLeft a-flag" alt="" />
+      <p>
+        <span  class="a-h3">Nynorsk</span><br>
+        <span >Det er førebels berre skjema som er tilgjengelig på nynorsk. Andre sider vil vises med bokmål.</span>
+      </p>
+    </a>
+    <a class="dropdown-item" href="#">
+      <img src="../../images/globe.svg" class="a-iconLeft a-flag a-globe" alt="" />
+      <p>
+        <span lang="en" class="a-h3">Other languages</span><br>
+        <span lang="en">Information about other languages.</span>
+      </p>
+    </a>
+</div>
+
                 </li>
     						<li><a class="globalNav-active " href="">
                     <span class="a-hvr-underline a-js-onboardingTarget-2 ">innboks</span></a></li>
@@ -47,6 +124,9 @@
     						<li class="d-md-none"><a class="a-hvr-underline" href="">om altinn</a></li>
     						<li class="d-md-none">
                   <a class="a-hvr-underline" href="&#x2F;patterns&#x2F;sider-infoportal-navigasjonssider-hjelpesenter\sider-infoportal-navigasjonssider-hjelpesenter.rendered.html">
+<i class="ai ai-nw ai-nw-pr ai-phone   "    ></i>
+
+
                     hjelp og kontakt
                   </a>
                 </li>
@@ -63,21 +143,168 @@
               Language
             </a>
 
+              <!-- Begin #a-dropdown-languages - -->
+<div class="dropdown-menu a-dropdown-languages a-dropdownTriangle">
+    <a class="dropdown-item" href="#">
+      <img src="../../images/norsk.svg" class="a-iconLeft a-flag" alt="" />
+      <p>
+        <span  class="a-h3">Bokmål</span><br>
+        <span >Alt innhold er tilgjengelig på bokmål.</span>
+      </p>
+    </a>
+    <a class="dropdown-item" href="#">
+      <img src="../../images/english.svg" class="a-iconLeft a-flag" alt="" />
+      <p>
+        <span lang="en" class="a-h3">English</span><br>
+        <span lang="en">All content is available in english.</span>
+      </p>
+    </a>
+    <a class="dropdown-item" href="#">
+      <img src="../../images/norsk.svg" class="a-iconLeft a-flag" alt="" />
+      <p>
+        <span  class="a-h3">Nynorsk</span><br>
+        <span >Det er førebels berre skjema som er tilgjengelig på nynorsk. Andre sider vil vises med bokmål.</span>
+      </p>
+    </a>
+    <a class="dropdown-item" href="#">
+      <img src="../../images/globe.svg" class="a-iconLeft a-flag a-globe" alt="" />
+      <p>
+        <span lang="en" class="a-h3">Other languages</span><br>
+        <span lang="en">Information about other languages.</span>
+      </p>
+    </a>
+</div>
+
           </li>
 
     			<li class="nav-item">
     				<!-- Dropdown toggle -->
-  <div class="a-personSwitcher " title="JAN PETTERSEN for Johansen Regnskap AS">
+  <button class="nav-link dropdown-toggle a-personSwitcher logged-in  " 
+  type="button" 
+  aria-haspopup="true" 
+  aria-expanded="false"  
+  title="JAN PETTERSEN for Johansen Regnskap AS"
+   
+   data-toggle="dropdown"
+  
+  
+  
+  
+  >
   <span
     class="a-personSwitcher-name">
     <span class="d-block">JAN PETTERSEN</span>
     <span class="d-block">for Johansen Regnskap AS</span>
   </span>
-<i class="ai ai-corp   "    ></i>
+<i class="ai ai-corp  a-personSwitcher-icon a-js-onboardingTarget-1 "    ></i>
+  <span class="sr-only">Min profil</span>
+
+
+
+  </button>
+
+              <!-- Begin #a-dropdown-personswitchList - -->
+<div class="dropdown-menu a-dropdown-personswitchList a-dropdownTriangle">
+
+  <div class="pt-5 pl-3 pr-3">
+
+    <a
+   href="/patterns/04-sider-portal-50-innboks-_20-innboks-ansatte/04-sider-portal-50-innboks-_20-innboks-ansatte.html" 
+  class="a-link-logout "
+  
+  
+  
+  
+  
+  
+  >
+  Vis arkiv
+  
+</a>
+
+      <div class="row">
+        <div class="col-sm-12 px-0 mb-2">
+          <div class="a-personRole">
+          <i class="ai ai-private ai-lg   "    ></i>
+          
+          
+            <div class="a-personRole-text " title="Jan Derek Sørensen Julius Andreas Gimli Arn MacGyver Chewbacka Highlander Elessar-Jankov">
+              <span class="a-personRole-name">Jan Derek Sørensen Julius Andreas Gimli Arn MacGyver Chewbacka Highlander Elessar-Jankov</span>
+              <span class="a-personRole-role"></span>
+                <a
+             href="/patterns/04-sider-portal-60-profil-roller-rettigheter-01-profil-roller-rettigheter/04-sider-portal-60-profil-roller-rettigheter-01-profil-roller-rettigheter.html" 
+            class=" "
+            
+            
+            
+            
+            
+            
+            >
+            Innstillinger
+            
+          </a>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <p class="a-h2">
+        Alle dine profiler: 
+      </p>
+
+
+  <div class="form-group a-form-group   ">
+
+      <label class="a-form-label  sr-only  " for="person-switch-input-field">Søk etter aktør</label>
+
+    <div class="a-form-group-items input-group   ">
+        <span class="input-group-prepend d-none d-md-block"><i class="ai ai-others   "    ></i>
+
+</span>
+
+
+      <input class="form-control   a-hasIcon 
+         "
+        type="search" 
+        placeholder="Søk etter aktør"
+        
+        name="input-field"
+        data-val="true"
+        id="person-switch-input-field"
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+      >
+
+
+
+
+    </div>
 
 
 
   </div>
+
+        <p class="a-fontBold a-fontSizeXS">
+          Ingen treff, prøv et annet søkeord.
+        <p>
+
+
+
+
+  </div>
+
+
+
+</div>
 
     			</li>
     		</ul> <!-- End .a-globalNav-options -->
@@ -97,19 +324,19 @@
 
   <div class="form-group a-form-group  a-form-group-large   ">
 
-      <label class="a-form-label  sr-only  " for="">Søk i meldinger og annet innhold</label>
+      <label class="a-form-label  sr-only  " for="text-input-generic">Søk i meldinger og annet innhold</label>
 
     <div class="a-form-group-items input-group   ">
 
 
       <input class="form-control  
          a-hasButton  "
-        type="" 
+        type="text" 
         placeholder="Søk i meldinger og annet innhold"
         
-        name=""
+        name="input-field"
         data-val="true"
-        
+        id="text-input-generic"
         
         
         
@@ -143,6 +370,190 @@
 			</div>
 
 			<div class="row a-topTasks">
+    <div class="col col-lg-12">
+      <button type="button" 
+  class="a-btn a-active a-btn-icon a-btn-transparentWhite  "
+    onclick="location.href='/patterns/04-sider-portal-50-innboks-_11-innboks-mva-og-skatt-nyoppstartet/04-sider-portal-50-innboks-_11-innboks-mva-og-skatt-nyoppstartet.html';" 
+  
+  
+  
+  
+  
+  
+   title="Altinn" 
+  
+  >
+
+<i class="ai ai-closedmessage  a-btn-icon-symbol "    ></i>
+
+
+
+
+    <br />
+    <span class="a-btn-icon-text ">
+      alle
+    </span>
+
+
+</button>
+
+
+    </div>
+    <div class="col col-lg-12">
+      <button type="button" 
+  class="a-btn a-btn-icon a-btn-transparentWhite  "
+    onclick="location.href='/patterns/04-sider-portal-50-innboks-05-innboks-arkiv/04-sider-portal-50-innboks-05-innboks-arkiv.html';" 
+  
+  
+  
+  
+  
+  
+   title="Altinn" 
+  
+  >
+
+<i class="ai ai-archive  a-btn-icon-symbol "    ></i>
+
+
+
+
+    <br />
+    <span class="a-btn-icon-text ">
+      arkiv
+    </span>
+
+
+</button>
+
+
+    </div>
+    <div class="col col-lg-12">
+      <button type="button" 
+  class="a-btn a-btn-icon a-btn-transparentWhite  "
+    onclick="location.href='/patterns/04-sider-portal-50-innboks-08-innboks-slettede-meldinger/04-sider-portal-50-innboks-08-innboks-slettede-meldinger.html';" 
+  
+  
+  
+  
+  
+  
+   title="Altinn" 
+  
+  >
+
+<i class="ai ai-trash  a-btn-icon-symbol "    ></i>
+
+
+
+
+    <br />
+    <span class="a-btn-icon-text ">
+      slettede
+    </span>
+
+
+</button>
+
+
+    </div>
+    <div class="col col-lg-12 d-lg-none">
+      <button type="button" 
+  class="a-btn a-btn-icon a-btn-transparentWhite  "
+   
+    data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" 
+  
+  
+  
+  
+  
+   title="Altinn" 
+  
+  >
+
+<i class="ai ai-more  a-btn-icon-symbol "    ></i>
+
+
+
+
+    <br />
+    <span class="a-btn-icon-text ">
+      mer
+    </span>
+
+
+</button>
+
+  <div class="dropdown-menu py-0 mx-0 my-0 a-dropdownTriangle 
+     
+    a-dropdown-overflow-menu  
+    " 
+    role="popover"
+    data-boundary="col-lg-auto col-12 mt-3">
+  <div class="a-overflow-dropdown pt-1 pb-1">
+    <span>Lagrede søk</span>
+  </div>
+    <a class="a-overflow-dropdown "  href="#"  >
+<i class="ai ai-letter-r  a-blue "    ></i>
+
+
+
+
+      <span class="a-fontBold">Alt innhold er tilgjengelig på bokmål.</span>
+    </a>
+    <a class="a-overflow-dropdown "  href="#"  >
+<i class="ai ai-letter-r  a-blue "    ></i>
+
+
+
+
+      <span class="a-fontBold">All content is available in english.</span>
+    </a>
+    <a class="a-overflow-dropdown "  href="#"  >
+<i class="ai ai-settings  a-blue "    ></i>
+
+
+
+
+      <span class="a-fontBold">Det er førebels berre skjema som er tilgjengelig på nynorsk. Andre sider vil vises med bokmål.</span>
+    </a>
+    <a class="a-overflow-dropdown "  href="#"  >
+
+
+      <span>Information about other languages.</span>
+    </a>
+</div>
+
+    </div>
+    <div class="col col-lg-12 d-lg-none">
+      <button type="button" 
+  class="a-btn a-btn-icon a-btn-transparentWhite  "
+    onclick="location.href='/patterns/04-sider-portal-50-innboks-_10-innboks-mva-og-skatt/04-sider-portal-50-innboks-_10-innboks-mva-og-skatt.html';" 
+  
+  
+  
+  
+  
+  
+   title="Altinn" 
+  
+  >
+
+<i class="ai ai-plus  a-btn-icon-symbol a-button-icon-symbol--secondary "    ></i>
+
+
+
+
+    <br />
+    <span class="a-btn-icon-text ">
+      nytt
+    </span>
+
+
+</button>
+
+
+    </div>
 </div>
 
 
@@ -196,7 +607,7 @@
 			<div class="row">
 				<div class="col-sm-12 col-lg-12 a-p-x9-xl">
 					 <a
-   href="/patterns/sider-portal-innboks-_20-innboks-ansatte/sider-portal-innboks-_20-innboks-ansatte.rendered.html" 
+   href="/patterns/04-sider-portal-50-innboks-_20-innboks-ansatte/04-sider-portal-50-innboks-_20-innboks-ansatte.html" 
   class=" "
   
   
@@ -236,7 +647,7 @@
           </span>
         </span>
       
-      <i class="    "    ></i>
+      <i class="ai ai-private   "    ></i>
       
       
       
@@ -264,7 +675,7 @@
           </span>
         </span>
       
-      <i class="    "    ></i>
+      <i class="ai ai-private   "    ></i>
       
       
       
@@ -292,7 +703,7 @@
           </span>
         </span>
       
-      <i class="    "    ></i>
+      <i class="ai ai-private   "    ></i>
       
       
       
@@ -311,7 +722,7 @@
 			<div class="row">
 				<div class="col-sm-12 col-lg-12 a-p-x9-xl">
 					<a
-   href="/patterns/sider-portal-innboks-_20-innboks-ansatte/sider-portal-innboks-_20-innboks-ansatte.rendered.html" 
+   href="/patterns/04-sider-portal-50-innboks-_20-innboks-ansatte/04-sider-portal-50-innboks-_20-innboks-ansatte.html" 
   class=" "
   
   
@@ -351,7 +762,7 @@
           </span>
         </span>
       
-      <i class="    "    ></i>
+      <i class="ai ai-private   "    ></i>
       
       
       
@@ -379,7 +790,7 @@
           </span>
         </span>
       
-      <i class="    "    ></i>
+      <i class="ai ai-private   "    ></i>
       
       
       
@@ -407,7 +818,7 @@
           </span>
         </span>
       
-      <i class="    "    ></i>
+      <i class="ai ai-private   "    ></i>
       
       
       
@@ -435,7 +846,7 @@
           </span>
         </span>
       
-      <i class="    "    ></i>
+      <i class="ai ai-private   "    ></i>
       
       
       
@@ -463,7 +874,7 @@
           </span>
         </span>
       
-      <i class="    "    ></i>
+      <i class="ai ai-private   "    ></i>
       
       
       
@@ -491,7 +902,7 @@
           </span>
         </span>
       
-      <i class="    "    ></i>
+      <i class="ai ai-private   "    ></i>
       
       
       
@@ -519,7 +930,7 @@
           </span>
         </span>
       
-      <i class="    "    ></i>
+      <i class="ai ai-private   "    ></i>
       
       
       
@@ -547,7 +958,7 @@
           </span>
         </span>
       
-      <i class="    "    ></i>
+      <i class="ai ai-private   "    ></i>
       
       
       
@@ -575,7 +986,7 @@
           </span>
         </span>
       
-      <i class="    "    ></i>
+      <i class="ai ai-private   "    ></i>
       
       
       
@@ -586,6 +997,17 @@
           
         </span>
       </button>    </div>
+		<div role="listitem" class="d-flex float-left col-6 col-md-4 col-lg-3 col-xl-2">
+			<button type="button" class="a-boxAddBtn"  onclick="location.href='/patterns/04-sider-portal-92-andre-med-rettigheter-00-andre-med-rettigheter-legg-til/04-sider-portal-92-andre-med-rettigheter-00-andre-med-rettigheter-legg-til.html';" >
+			  <span class="a-boxAddBtn-inner">
+			    Tekst over
+			<i class="ai ai-plus ai-lg a-box-button-icon a-blueDarkText "    ></i>
+			
+			
+			    Tekst under
+			  </span>
+			</button>
+		</div>
 </div>
 
 				</div><!-- END .col-... -->
@@ -597,18 +1019,69 @@
 		<div class="row a-footer-firstRow">
 			<div class="col-md-4 d-none d-md-block">
 
+  <div class="form-group a-form-group   ">
+
+      <label class="a-form-label  sr-only  " for="text-input-search-11">Søk etter innhold</label>
+
+    <div class="a-form-group-items input-group   ">
+
+
+      <input class="form-control  
+         a-hasButton  "
+        type="search" 
+        placeholder="Søk etter innhold"
+        
+        name="input-field"
+        data-val="true"
+        id="text-input-search-11"
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+      >
+
+        <div class="input-group-append">
+          <button onclick="location.href='/patterns/04-sider-infoportal-40-sok-00-sok-forside/04-sider-infoportal-40-sok-00-sok-forside.html';" class="btn btn-secondary" type="button"  >
+<i class="ai ai-search   "    ></i>
+
+
+              <span class="sr-only">Søk</span>
+          </button>
+        </div>
+
+
+
+    </div>
+
+
+
+  </div>
+
+
 	    </div>
 	    <div class="col-md-8">
 	      <nav class="a-footerNav">
 					<ul>
 						<li>
               <a class="a-hvr-underline" href="">
+<i class="ai ai-nw ai-corp   "    ></i>
+
+
                 starte og drive bedrift
               </a>
             </li>
 
 						<li>
               <a class="a-hvr-underline" href="&#x2F;patterns&#x2F;sider-infoportal-navigasjonssider-hjelpesenter\sider-infoportal-navigasjonssider-hjelpesenter.rendered.html">
+<i class="ai ai-nw ai-phone   "    ></i>
+
+
                 hjelp og kontakt
               </a>
             </li>

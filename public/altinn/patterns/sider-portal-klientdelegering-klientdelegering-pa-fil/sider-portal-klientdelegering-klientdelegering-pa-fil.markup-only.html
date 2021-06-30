@@ -3,6 +3,26 @@
     <div class="container a-p-static">
       <div class="row">
         <div class="col-xl-12">
+            <div class="a-modal-top">
+        
+<img src="..&#x2F;..&#x2F;images&#x2F;a-logo-black.svg" alt="Altinn logo" class="a-logo a-modal-top-logo ">
+
+    <div class="a-modal-top-user">
+  <div class="a-personSwitcher " title="JAN PETTERSEN ">
+  <span
+    class="a-personSwitcher-name">
+    <span class="d-block">JAN PETTERSEN</span>
+    <span class="d-block"></span>
+  </span>
+<i class="ai ai-private-circle-big  a-personSwitcher-icon "    ></i>
+
+
+
+  </div>
+
+    </div>
+</div>
+
         </div>
       </div>
       <div class="row">       
@@ -11,7 +31,7 @@
           <button
   type="button"
   class="a-modal-back a-js-tabable-popover"
-   onclick="location.href&#x3D;&#39;&#x2F;patterns&#x2F;sider-portal-profil-roller-rettigheter-profil-roller-rettigheter&#x2F;sider-portal-profil-roller-rettigheter-profil-roller-rettigheter.rendered.html&#39;" 
+   onclick="location.href&#x3D;&#39;&#x2F;patterns&#x2F;04-sider-portal-60-profil-roller-rettigheter-01-profil-roller-rettigheter&#x2F;04-sider-portal-60-profil-roller-rettigheter-01-profil-roller-rettigheter.html&#39;" 
    aria-label="Tilbake"
 >
   <span class="ai-stack">
@@ -27,7 +47,7 @@
           <button
   type="button"
   class="a-modal-close a-js-tabable-popover"
-   onclick="location.href&#x3D;&#39;&#x2F;patterns&#x2F;sider-portal-profil-roller-rettigheter-profil-roller-rettigheter&#x2F;sider-portal-profil-roller-rettigheter-profil-roller-rettigheter.rendered.html&#39;" 
+   onclick="location.href&#x3D;&#39;&#x2F;patterns&#x2F;04-sider-portal-60-profil-roller-rettigheter-01-profil-roller-rettigheter&#x2F;04-sider-portal-60-profil-roller-rettigheter-01-profil-roller-rettigheter.html&#39;" 
    aria-label="Lukk"
 >
   <span class="ai-stack">
@@ -48,12 +68,12 @@
                 <div class="modal-content">
                     <div class="modal-header a-modal-header">
   <div class="a-iconText a-iconText-background a-iconText-large a-iconText--noMinHeight">
-    <div class="a-iconText-icon ">  <i class="ai ai-client   "    ></i>
+    <div class="a-iconText-icon ">  <i class="ai ai-client  a-icon "    ></i>
   
   </div>
-      <div class="a-iconText-text">
+      <h1 class="a-iconText-text mb-0">
     <span class="a-iconText-text-large">Klientdelegering på fil  </span>
-      </div>
+        </h1>
   </div>
 </div>
 
@@ -68,7 +88,7 @@
         <div class="mb-3">
           Hvis du skal gi mange rettigheter samtidig, kan du gjøre dette gjennom klientdelegering på fil. Du vil kunne laste ned en excel-fil som du kan redigere og laste opp igjen når du er ferdig med å gjøre endringer. Hvis du synes dette blir for komplisert kan du bruke 
             <a
-     href="/patterns/sider-portal-profil-roller-rettigheter-profil-roller-rettigheter/sider-portal-profil-roller-rettigheter-profil-roller-rettigheter.rendered.html" 
+     href="/patterns/04-sider-portal-60-profil-roller-rettigheter-01-profil-roller-rettigheter/04-sider-portal-60-profil-roller-rettigheter-01-profil-roller-rettigheter.html" 
     class=" "
     
     
@@ -97,7 +117,7 @@
       
       >
   
-  <i class="    "    ></i>
+  <i class="ai    "    ></i>
   
   
       <span>Last ned fil</span>
@@ -116,8 +136,8 @@
     data-target="#file-delegation-ID"
     aria-expanded="true"
     aria-controls="file-delegation-ID"
-    class="a-collapse-title a-collapse-title--flexstart a-fontBold    ">
-    
+    class="a-collapse-title a-collapse-title--flexstart a-fontBold   no-decoration   collapsed">
+     <span class="a-dropdownArrow"></span> 
   
       <span class="primary-collapse-text">
         Dette inneholder filen og slik redigerer du den riktig
@@ -128,7 +148,7 @@
         <div class="mt-1 mb-4">
   
           <div id="file-delegation-ID" class="a-collapseContent collapse" aria-expanded="false" role="group">
-            <img src="../../images/klientdelegeringfil.jpg" class="mb-2" alt=""/>
+            <img src="../../images/klientdelegeringfil.jpg" class="mb-2" alt="Illustrasjon av Excel-fil for filopplastning."/>
             <ol class="a-circle-list a-circle-list-yellow">
       <li><b>Status</b>"A" for aktiv; gjennomfør delegering. "U" for utgått; slett delegering
       </li>
@@ -155,6 +175,35 @@
         </div>
   
         <div class="mb-4">
+            <label class="a-btn a-btn-action a-custom-fileupload mb-0">
+    <input  required  class="a-js-fileInputChangeHandler sr-only" type="file" id="customFileuploadId">
+  <i class="ai ai-upload   "    ></i>
+  
+  
+    Last opp fil
+  </label>
+    <div style="display: none" class="a-js-fileListContainer">
+      <ul class="a-item-list-icon a-list a-list-borderTop">
+      <li class="a-dotted a-selectable" tabindex="0" role="button"
+         onclick="onFileListDeleteClick(this)" 
+        aria-label="Fjern fil:"
+      >
+        <div class="row">
+          <div class="col">
+            <span class="a-js-listItemText">
+              klientrolle_delegeringer_30_05_16.csv
+            </span>
+          </div>
+          <div class="col-auto text-right">
+  <i class="ai ai-circle-exit   "    ></i>
+  
+  
+          </div>
+        </div>
+      </li>
+  </ul>
+    </div>
+  
         </div>
   
         <div class="mb-1">
@@ -162,6 +211,72 @@
   
         </div>
   
+        <div class="row">
+          <div class="col-12 col-md-8 col-xl-6 mb-2">
+  
+    <div class="form-group a-form-group   ">
+  
+        <label class="a-form-label  sr-only  " for="text-input-klientdelegering-fil">Epost</label>
+  
+      <div class="a-form-group-items input-group   ">
+          <span class="input-group-prepend d-none d-md-block">  <i class="ai ai-closedmessage   "    ></i>
+  
+  </span>
+  
+  
+        <input class="form-control   a-hasIcon 
+           "
+          type="email" 
+          placeholder="f.eks post@karinordmann.no"
+          
+          name="input-field"
+          data-val="true"
+          id="text-input-klientdelegering-fil"
+          required
+          
+          
+          
+          
+          
+          
+          data-search-algorithm="show-and-highlight"
+          data-search-target="employee-table"
+          
+            data-val-regex="Feil epost verdier"
+            data-val-regex-pattern="((&#39;[^&#39;]+&#39;)|(([a-zA-Z0-9!#$%&amp;&#39;*+-&#x3D;?^_&#x60;{|}~])+(.([a-zA-Z0-9!#$%&amp;&#39;*+-&#x3D;?^_&#x60;{|}~])+)*))@((((([a-zA-Z0-9æøåÆØÅ]([a-zA-Z0-9-æøåÆØÅ]{0,61})[a-zA-Z0-9æøåÆØÅ].)|[a-zA-Z0-9æøåÆØÅ].){1,9})([a-zA-Z]{2,14}))|((d{1,3}).(d{1,3}).(d{1,3}).(d{1,3})))"
+        >
+  
+  
+  
+  
+      </div>
+  
+  
+        <div class="a-message a-message-error" data-valmsg-for="input-field" data-valmsg-replace="true"></div>
+  
+    </div>
+  
+          </div>
+        </div>
+  
+          <button
+     type="submit" 
+     onclick="location.href='/patterns/04-sider-portal-60-profil-roller-rettigheter-01-profil-roller-rettigheter/04-sider-portal-60-profil-roller-rettigheter-01-profil-roller-rettigheter.html'" 
+    class="a-btn a-btn-success mb-0 a-js-enableWhenValid"
+    
+    
+    
+    
+    
+    
+    
+    
+     
+    >
+    
+      Ferdig
+    
+  </button>
   
   
       </form>
@@ -199,6 +314,10 @@
   <div id="a-iframeToggle" class="a-iframeToggle collapse">
 
     <!-- Close-button for .a-iframeToggle -->
+    <button type="button" class="a-stickyHelp-close" data-toggle="collapse" data-target="#a-iframeToggle" data-action="close" aria-expanded="true" aria-controls="a-iframeToggle"> <i class="ai ai-exit ai-sm   "   id="close-stickyHelp"   ></i>
+  <span class="sr-only">Minimer hjelpevinduet</span>
+
+ </button>
 
     <iframe class="a-js-stickyHelpFrame" data-src="../../&#x2F;patterns&#x2F;sider-infoportal-hurtighjelp-hurtighjelp\sider-infoportal-hurtighjelp-hurtighjelp.rendered.html"></iframe>
 
