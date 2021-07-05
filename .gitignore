@@ -106,3 +106,5 @@ typings/
 # WebStorm file
 .idea/
 
+# JQuery
+/source/js/bundles/jquery.min.js

@@ -13,7 +13,6 @@
 }
 
 #sg-patterns {
-	-webkit-box-sizing: border-box !important;
 	box-sizing: border-box !important;
 	max-width: 100%;
 	padding: 0 0.5em;
@@ -38,8 +37,6 @@
 }
 
 .sg-colors li {
-	-webkit-box-flex: 1;
-	-ms-flex: auto;
 	flex: auto;
 	padding: 0.3em;
 	margin: 0 0.5em 0.5em 0;
@@ -240,3 +237,4 @@
 		max-width: 20rem;
 	}
 }
+/*# sourceMappingURL=pattern-scaffolding.css.map */
