@@ -1,4 +1,16 @@
 {
+  "icon-prefix": "ai",
+  "iconClass": "ai-deadline",
+  "icon-size": "",
+  "iconExtraClass": "",
+  "icon-text": "",
+  "icon-id": false,
+  "sr-only": false,
+  "aria-hidden": false,
+  "stacked-background": false,
+  "icon-post-text": false,
+  "icon-title": false,
+  "icon-sr-only-text": false,
   "dropdown-linkClass": "a-borderBottom",
   "dropdown-top-item": {
     "dropdown-top-item-content": "Lagrede søk",
