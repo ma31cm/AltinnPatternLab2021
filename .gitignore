@@ -108,3 +108,6 @@ public
 
 # JQuery
 /source/js/bundles/jquery.min.js
+
+dependencyGraph.json
+

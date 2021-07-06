@@ -157,7 +157,7 @@
   // VISIBLE (After animation)
   &.show {
     right: $spacer;
-    bottom: $spacer / 2;
+    bottom: $spacer * 0.5;
     display: block;
     visibility: visible;
     transition: all 400ms;
@@ -202,7 +202,7 @@
       z-index: 9999;
       width: 30px;
       height: 30px;
-      padding: 3px 0 $spacer / 2 0;
+      padding: 3px 0 $spacer * 0.5 0;
       margin-bottom: 0;
       pointer-events: auto;
       cursor: pointer;
@@ -276,7 +276,7 @@
       left: $spacer;
       width: 30px;
       height: 30px;
-      padding: 3px 0 $spacer / 2 0;
+      padding: 3px 0 $spacer * 0.5 0;
       margin-bottom: 0;
       cursor: pointer;
       background: $white;

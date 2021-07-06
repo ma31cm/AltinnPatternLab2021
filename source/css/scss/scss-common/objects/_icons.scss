@@ -53,12 +53,12 @@
 
   &.ai-nw-pr,
   &.reg-nw-pr {
-    padding-right: $spacer / 2;
+    padding-right: $spacer * 0.5;
   }
 
   &.ai-nw-pl,
   &.reg-nw-pl {
-    padding-left: $spacer / 2;
+    padding-left: $spacer * 0.5;
   }
 
   &.ai-left,

@@ -66,7 +66,7 @@ $default-font-smoothing: subpixel-antialiased !default;
 
 // Function to convert pixels to rems
 @function px-to-rem($size) {
-  @return ($size / 10);
+  @return ($size * 0.1);
 }
 
 // Mixin

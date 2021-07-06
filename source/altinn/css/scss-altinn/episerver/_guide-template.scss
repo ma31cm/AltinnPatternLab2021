@@ -1,3 +1,5 @@
+@use "sass:math";
+
 @import '../generic/variables'; // Altinn variables
 @import '../generic/bootstrap-custom';
 @import '../../../../common/css/scss-common/generic/mixins';
@@ -39,8 +41,8 @@ iframe {
 
 .ap-content {
   @include add-col-properties {
-    padding-right: $spacer / 2;
-    padding-left: $spacer / 2;
+    padding-right: $spacer * 0.5;
+    padding-left: $spacer * 0.5;
   }
 
   max-width: 900px;
@@ -109,9 +111,9 @@ iframe {
       display: block;
       width: 0;
       height: 0;
-      margin-top: $spacer / -3;
+      margin-top: math.div($spacer, -3);
       content: '';
-      border: inset $spacer / 2;
+      border: inset $spacer * 0.5;
       border-color: $white transparent transparent;
       border-top-style: solid;
       border-bottom-width: 0;
@@ -131,7 +133,7 @@ iframe {
       padding: $spacer $spacer * 2;
 
       i {
-        margin-top: $spacer / -4;
+        margin-top: math.div($spacer, -4);
         margin-right: 7px;
         vertical-align: middle;
       }
@@ -157,7 +159,7 @@ iframe {
     // Active item
     .ap-nav-active {
       background: lighten($grey-light, 4%);
-      border-left: $spacer / 2 solid $blue-dark;
+      border-left: $spacer * 0.5 solid $blue-dark;
 
       .ap-sideNav-link {
         padding: 17px 19px;
@@ -165,7 +167,7 @@ iframe {
 
       &:hover {
         background: lighten($grey-light, 4%);
-        border-left: $spacer / 2 solid $blue-dark;
+        border-left: $spacer * 0.5 solid $blue-dark;
 
         .ap-sideNav-link {
           padding: 17px 19px;

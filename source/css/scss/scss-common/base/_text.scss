@@ -22,14 +22,14 @@ h3,
 .a-h3 {
   @extend .a-fontSizeM; // 20px
   @include a-fontBold;
-  margin-bottom: $spacer / 2;
+  margin-bottom: $spacer * 0.5;
 }
 
 h4,
 .a-h4 {
   @extend .a-fontSizeS; // 16px
   @include a-fontBold;
-  margin-bottom: $spacer / 2;
+  margin-bottom: $spacer * 0.5;
 }
 
 .a-fontLight {
