@@ -5722,7 +5722,7 @@
       }
     },
     "buttonTab-first": {
-      "link-url": "/patterns/04-sider-portal-50-innboks-_10-innboks-mva-og-skatt/04-sider-portal-50-innboks-_10-innboks-mva-og-skatt.html",
+      "link-url": "link.sider-portal-innboks-mva-og-skatt",
       "buttonClass": "a-btn a-btn-icon a-btn-transparentWhite a-js-onboardingTarget-3",
       "button-text": "mva og skatt",
       "button-icon": {
@@ -5733,7 +5733,7 @@
       "button-shadow-label": false
     },
     "buttonTab-second": {
-      "link-url": "/patterns/04-sider-portal-50-innboks-_20-innboks-ansatte/04-sider-portal-50-innboks-_20-innboks-ansatte.html",
+      "link-url": "link.sider-portal-innboks-ansatte",
       "buttonClass": "a-btn a-btn-icon a-btn-transparentWhite a-js-onboardingTarget-4",
       "button-text": "ansatte",
       "button-icon": {
@@ -5744,7 +5744,7 @@
       "button-shadow-label": false
     },
     "buttonTab-third": {
-      "link-url": "/patterns/04-sider-portal-50-innboks-_30-innboks-frister/04-sider-portal-50-innboks-_30-innboks-frister.html",
+      "link-url": "link.sider-portal-innboks-frister",
       "buttonClass": "a-btn a-btn-icon a-btn-transparentWhite a-js-onboardingTarget-5",
       "button-text": "frister",
       "button-icon": {
@@ -5757,7 +5757,7 @@
     "buttonTab-fourth": {
       "buttonClass": "a-btn a-btn-icon a-btn-transparentWhite",
       "button-colorClass": "",
-      "link-url": "/patterns/04-sider-portal-50-innboks-_10-innboks-mva-og-skatt/04-sider-portal-50-innboks-_10-innboks-mva-og-skatt.html",
+      "link-url": "link.sider-portal-innboks-mva-og-skatt",
       "button-text": "egne filtre",
       "button-icon": {
         "icon-prefix": "ai",
@@ -5902,7 +5902,7 @@
                         "button-text": "Videresend i Altinn",
                         "buttonClass": "a-btn-link a-btn-md-block mr-2",
                         "button-colorClass": "",
-                        "link-url": "/patterns/04-sider-portal-10-modaler-30-videresend-i-altinn/04-sider-portal-10-modaler-30-videresend-i-altinn.html",
+                        "link-url": "link.sider-portal-videresend-i-altinn",
                         "button-shadow-label": false,
                         "button-icon": {
                           "icon-prefix": "reg",
@@ -5913,7 +5913,7 @@
                         "button-text": "Videresend på e-post",
                         "buttonClass": "a-btn-link a-btn-md-block",
                         "button-colorClass": "",
-                        "link-url": "/patterns/04-sider-portal-10-modaler-20-videresend-pa-epost/04-sider-portal-10-modaler-20-videresend-pa-epost.html",
+                        "link-url": "link.sider-portal-videresend-pa-epost",
                         "button-shadow-label": false,
                         "button-icon": {
                           "icon-prefix": "reg",
@@ -6048,7 +6048,7 @@
                         "button-text": "Videresend i Altinn",
                         "buttonClass": "a-btn-link a-btn-md-block mr-2",
                         "button-colorClass": "",
-                        "link-url": "/patterns/04-sider-portal-10-modaler-30-videresend-i-altinn/04-sider-portal-10-modaler-30-videresend-i-altinn.html",
+                        "link-url": "link.sider-portal-videresend-i-altinn",
                         "button-shadow-label": false,
                         "button-icon": {
                           "icon-prefix": "reg",
@@ -6059,7 +6059,7 @@
                         "button-text": "Videresend på e-post",
                         "buttonClass": "a-btn-link a-btn-md-block",
                         "button-colorClass": "",
-                        "link-url": "/patterns/04-sider-portal-10-modaler-20-videresend-pa-epost/04-sider-portal-10-modaler-20-videresend-pa-epost.html",
+                        "link-url": "link.sider-portal-videresend-pa-epost",
                         "button-shadow-label": false,
                         "button-icon": {
                           "icon-prefix": "reg",
@@ -6181,7 +6181,7 @@
                         "button-text": "Videresend i Altinn",
                         "buttonClass": "a-btn-link a-btn-md-block mr-2",
                         "button-colorClass": "",
-                        "link-url": "/patterns/04-sider-portal-10-modaler-30-videresend-i-altinn/04-sider-portal-10-modaler-30-videresend-i-altinn.html",
+                        "link-url": "link.sider-portal-videresend-i-altinn",
                         "button-shadow-label": false,
                         "button-icon": {
                           "icon-prefix": "reg",
@@ -6192,7 +6192,7 @@
                         "button-text": "Videresend på e-post",
                         "buttonClass": "a-btn-link a-btn-md-block",
                         "button-colorClass": "",
-                        "link-url": "/patterns/04-sider-portal-10-modaler-20-videresend-pa-epost/04-sider-portal-10-modaler-20-videresend-pa-epost.html",
+                        "link-url": "link.sider-portal-videresend-pa-epost",
                         "button-shadow-label": false,
                         "button-icon": {
                           "icon-prefix": "reg",
@@ -6315,7 +6315,7 @@
                         "button-text": "Videresend i Altinn",
                         "buttonClass": "a-btn-link a-btn-md-block mr-2",
                         "button-colorClass": "",
-                        "link-url": "/patterns/04-sider-portal-10-modaler-30-videresend-i-altinn/04-sider-portal-10-modaler-30-videresend-i-altinn.html",
+                        "link-url": "link.sider-portal-videresend-i-altinn",
                         "button-shadow-label": false,
                         "button-icon": {
                           "icon-prefix": "reg",
@@ -6326,7 +6326,7 @@
                         "button-text": "Videresend på e-post",
                         "buttonClass": "a-btn-link a-btn-md-block",
                         "button-colorClass": "",
-                        "link-url": "/patterns/04-sider-portal-10-modaler-20-videresend-pa-epost/04-sider-portal-10-modaler-20-videresend-pa-epost.html",
+                        "link-url": "link.sider-portal-videresend-pa-epost",
                         "button-shadow-label": false,
                         "button-icon": {
                           "icon-prefix": "reg",
@@ -6474,7 +6474,7 @@
                         "button-text": "Videresend i Altinn",
                         "buttonClass": "a-btn-link a-btn-md-block mr-2",
                         "button-colorClass": "",
-                        "link-url": "/patterns/04-sider-portal-10-modaler-30-videresend-i-altinn/04-sider-portal-10-modaler-30-videresend-i-altinn.html",
+                        "link-url": "link.sider-portal-videresend-i-altinn",
                         "button-shadow-label": false,
                         "button-icon": {
                           "icon-prefix": "reg",
@@ -6485,7 +6485,7 @@
                         "button-text": "Videresend på e-post",
                         "buttonClass": "a-btn-link a-btn-md-block",
                         "button-colorClass": "",
-                        "link-url": "/patterns/04-sider-portal-10-modaler-20-videresend-pa-epost/04-sider-portal-10-modaler-20-videresend-pa-epost.html",
+                        "link-url": "link.sider-portal-videresend-pa-epost",
                         "button-shadow-label": false,
                         "button-icon": {
                           "icon-prefix": "reg",

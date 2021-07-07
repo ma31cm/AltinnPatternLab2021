@@ -76,7 +76,7 @@
   "label-id": false,
   "label-content": "9",
   "button-colorClass": "",
-  "link-url": "/patterns/04-sider-infoportal-01-forside-00-forside/04-sider-infoportal-01-forside-00-forside.html",
+  "link-url": "link.sider-infoportal-forside",
   "button-shadow-label": false,
   "print-form-tag": false,
   "text-input-id": "text-input-generic",
@@ -537,7 +537,7 @@
     "buttonClass": "a-btn mr-1",
     "button-disabled": false,
     "button-type": "button",
-    "onclick": "location.href='/patterns/04-sider-portal-50-innboks-00-innboks/04-sider-portal-50-innboks-00-innboks.html';",
+    "onclick": "location.href='link.sider-portal-innboks';",
     "button-icon": false,
     "display-as-link": false
   },
@@ -1230,7 +1230,7 @@
   "closeBtn": {
     "button-text": "Nei, takk",
     "buttonClass": "a-btn-link",
-    "onclick": "location.href='/patterns/04-sider-portal-50-innboks-00-innboks/04-sider-portal-50-innboks-00-innboks.html';",
+    "onclick": "location.href='link.sider-portal-innboks';",
     "button-icon": false,
     "display-as-link": true
   },
@@ -1356,13 +1356,13 @@
   "links": [
     {
       "link-text": "Ok",
-      "link-url": "/patterns/04-sider-portal-92-andre-med-rettigheter-00-andre-med-rettigheter-roller-oversikt/04-sider-portal-92-andre-med-rettigheter-00-andre-med-rettigheter-roller-oversikt.html",
+      "link-url": "link.sider-portal-andre-med-rettigheter-roller-oversikt",
       "linkClass": "a-btn a-btn-success",
       "link-icon": false
     },
     {
       "link-text": "Tilbake",
-      "link-url": "/patterns/04-sider-portal-92-andre-med-rettigheter-00-andre-med-rettigheter-roller-oversikt/04-sider-portal-92-andre-med-rettigheter-00-andre-med-rettigheter-roller-oversikt.html",
+      "link-url": "link.sider-portal-andre-med-rettigheter-roller-oversikt",
       "linkClass": "",
       "link-icon": false
     }
@@ -2137,7 +2137,7 @@
     "button-text": "Ferdig",
     "buttonClass": "a-btn a-btn-success mb-0",
     "button-type": "submit",
-    "onclick": "location.href='/patterns/04-sider-portal-60-profil-roller-rettigheter-01-profil-roller-rettigheter/04-sider-portal-60-profil-roller-rettigheter-01-profil-roller-rettigheter.html'"
+    "onclick": "location.href='link.sider-portal-profil-roller-rettigheter'"
   },
   "animationClass": "a-scene-element--fadeinright",
   "form-input-hasButton": false,
@@ -3377,7 +3377,7 @@
       "iconClass": "ai-corp",
       "iconExtraClass": "ai-left"
     },
-    "link-url": "/patterns/04-sider-portal-50-innboks-00-innboks/04-sider-portal-50-innboks-00-innboks.html"
+    "link-url": "link.sider-portal-innboks"
   },
   "button-sub": {
     "collapse-header-contentID": "listsublevels2",
@@ -3495,7 +3495,7 @@
           "iconClass": "ai-corp ai-left",
           "iconExtraClass": ""
         },
-        "link-url": "/patterns/04-sider-portal-50-innboks-00-innboks/04-sider-portal-50-innboks-00-innboks.html"
+        "link-url": "link.sider-portal-innboks"
       },
       "button-sub": false
     },
@@ -3516,7 +3516,7 @@
           "iconClass": "ai-corp ai-left",
           "iconExtraClass": ""
         },
-        "link-url": "/patterns/04-sider-portal-50-innboks-00-innboks/04-sider-portal-50-innboks-00-innboks.html"
+        "link-url": "link.sider-portal-innboks"
       },
       "button-sub": {
         "collapse-header-contentID": "listsublevels2",
@@ -3601,7 +3601,7 @@
           "iconClass": "ai-private ai-left",
           "iconExtraClass": ""
         },
-        "link-url": "/patterns/04-sider-portal-50-innboks-00-innboks/04-sider-portal-50-innboks-00-innboks.html"
+        "link-url": "link.sider-portal-innboks"
       },
       "button-sub": false
     },
@@ -3622,7 +3622,7 @@
           "iconExtraClass": ""
         },
         "title": "Jan Derek Sørensen Julius Andreas Gimli Arn MacGyver Chewbacka Highlander Elessar-Jankov",
-        "link-url": "/patterns/04-sider-portal-50-innboks-00-innboks/04-sider-portal-50-innboks-00-innboks.html"
+        "link-url": "link.sider-portal-innboks"
       },
       "button-sub": false
     },
@@ -3642,7 +3642,7 @@
           "iconClass": "ai-corp ai-left",
           "iconExtraClass": ""
         },
-        "link-url": "/patterns/04-sider-portal-50-innboks-00-innboks/04-sider-portal-50-innboks-00-innboks.html"
+        "link-url": "link.sider-portal-innboks"
       },
       "button-sub": false
     },
@@ -3662,7 +3662,7 @@
           "iconClass": "ai-corp ai-left",
           "iconExtraClass": ""
         },
-        "link-url": "/patterns/04-sider-portal-50-innboks-00-innboks/04-sider-portal-50-innboks-00-innboks.html"
+        "link-url": "link.sider-portal-innboks"
       },
       "button-sub": false
     }
@@ -3673,7 +3673,7 @@
     "icon-prefix": "ai",
     "iconClass": "ai-plus",
     "iconExtraClass": "",
-    "onclick": "location.href='/patterns/04-sider-portal-01-aktorvalg-10-aktorvalg/04-sider-portal-01-aktorvalg-10-aktorvalg.html'"
+    "onclick": "location.href='link.sider-portal-aktorvalg'"
   },
   "personswitch-options": {
     "isDiscreet": "a-form-checkboxes--discret",
@@ -3710,7 +3710,7 @@
     "button-dot": false,
     "personrole-link": {
       "link-text": "Innstillinger",
-      "link-url": "/patterns/04-sider-portal-60-profil-roller-rettigheter-01-profil-roller-rettigheter/04-sider-portal-60-profil-roller-rettigheter-01-profil-roller-rettigheter.html"
+      "link-url": "link.sider-portal-profil-roller-rettigheter"
     }
   },
   "profile-text": "Alle dine profiler: ",
@@ -3750,7 +3750,7 @@
     "linkFeatured": {
       "link-text": "Tilbake til innboks",
       "linkClass": "a-linkFeatured a-textBlue a-textBlue-hover ml-1",
-      "link-url": "/patterns/04-sider-portal-50-innboks-00-innboks/04-sider-portal-50-innboks-00-innboks.html",
+      "link-url": "link.sider-portal-innboks",
       "link-icon-left": {
         "icon-prefix": "ai ",
         "iconClass": "ai-back",

@@ -103,6 +103,6 @@
     "data-action": "next",
     "data-toggle":"altinn-modal",
     "data-target":"#modal-addservice",
-    "page-url": "../../patterns/02-organismer-82-Dashboard-modaler-tjenester-11-informasjon-2/02-organismer-82-Dashboard-modaler-tjenester-11-informasjon-2.markup-only.html"
+    "page-url": "../..link.organismer-informasjon-2"
   }
 }

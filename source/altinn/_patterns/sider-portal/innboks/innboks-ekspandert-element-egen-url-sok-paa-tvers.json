@@ -2958,7 +2958,7 @@
       "linkFeatured": {
         "link-text": "Tilbake til søk",
         "linkClass": "a-linkFeatured a-textBlue a-textBlue-hover ml-1",
-        "link-url": "/patterns/04-sider-portal-50-innboks-20-innboks-soketreff-tvers/04-sider-portal-50-innboks-20-innboks-soketreff-tvers.html",
+        "link-url": "link.sider-portal-innboks-soketreff-tvers",
         "link-icon-left": {
           "icon-prefix": "ai ",
           "iconClass": "ai-back",
@@ -3092,7 +3092,7 @@
             "button-text": "Videresend i Altinn",
             "buttonClass": "a-btn-link a-btn-md-block mr-2",
             "button-colorClass": "",
-            "link-url": "/patterns/04-sider-portal-10-modaler-30-videresend-i-altinn/04-sider-portal-10-modaler-30-videresend-i-altinn.html",
+            "link-url": "link.sider-portal-videresend-i-altinn",
             "button-shadow-label": false,
             "button-icon": {
               "icon-prefix": "reg",
@@ -3103,7 +3103,7 @@
             "button-text": "Videresend på e-post",
             "buttonClass": "a-btn-link a-btn-md-block",
             "button-colorClass": "",
-            "link-url": "/patterns/04-sider-portal-10-modaler-20-videresend-pa-epost/04-sider-portal-10-modaler-20-videresend-pa-epost.html",
+            "link-url": "link.sider-portal-videresend-pa-epost",
             "button-shadow-label": false,
             "button-icon": {
               "icon-prefix": "reg",

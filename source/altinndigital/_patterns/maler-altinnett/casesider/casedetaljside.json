@@ -122,7 +122,7 @@
       }
     ]
   },
-  "page-url": "../../patterns/02-organismer-80-Modal-js-innhold-12-altinnett-kontaktskjema/02-organismer-80-Modal-js-innhold-12-altinnett-kontaktskjema.markup-only.html",
+  "page-url": "../..link.organismer-altinnett-kontaktskjema",
   "footerHeading": "Vil du vite mer?",
   "footer-search": {
     "text-input-id": "text-input-search-footer",
@@ -145,7 +145,7 @@
         }
       ],
       "form-input-button-action": "Utfør søk",
-      "onclick": "location.href='/patterns/04-sider-altinnett-60-sok-00-sokeside/04-sider-altinnett-60-sok-00-sokeside.html';"
+      "onclick": "location.href='link.sider-altinnett-sokeside';"
     }
   },
   "contactLinks": [
@@ -209,7 +209,7 @@
       "data-action": "load",
       "data-toggle": "altinn-modal",
       "data-target": "modal-singel",
-      "page-url": "../../patterns/02-organismer-80-Modal-js-innhold-12-altinnett-kontaktskjema/02-organismer-80-Modal-js-innhold-12-altinnett-kontaktskjema.markup-only.html"
+      "page-url": "../..link.organismer-altinnett-kontaktskjema"
     },
     "logo-class": "a-modal-top-logo",
     "login-show": false,
@@ -255,7 +255,7 @@
   "img-class": "w-100",
   "col-info": "col-6 py-1 pt-3 py-md-5 my-auto px-1 px-sm-2",
   "titleClass": "a-h2 a-fontBold a-blueDarkerText ",
-  "url": "/patterns/04-sider-altinnett-10-forside-10-forside/04-sider-altinnett-10-forside-10-forside.html",
+  "url": "link.sider-altinnett-forside",
   "title": "Altinnett",
   "text": "Gjenbruk Altinns tekniske løsninger i egen portal.",
   "header-text": "Forklarende tittel",
@@ -281,7 +281,7 @@
     ]
   },
   "link-text": "En lenke ser slik ut",
-  "link-url": "/patterns/04-sider-infoportal-01-forside-00-forside/04-sider-infoportal-01-forside-00-forside.html",
+  "link-url": "link.sider-infoportal-forside",
   "sr-text": false,
   "rows": [
     {
@@ -768,7 +768,7 @@
           "button-text-class": "sr-only"
         }
       ],
-      "onclick": "location.href='/patterns/04-sider-altinnett-60-sok-00-sokeside/04-sider-altinnett-60-sok-00-sokeside.html';"
+      "onclick": "location.href='link.sider-altinnett-sokeside';"
     }
   },
   "tjenesteutvikling": {
@@ -792,7 +792,7 @@
     "extra-classes": "a-fontBold"
   },
   "produkter": {
-    "link": "/patterns/03-maler-altinnett-80-produktsider-10-produktoversikt/03-maler-altinnett-80-produktsider-10-produktoversikt.html"
+    "link": "link.maler-altinnett-produktoversikt"
   },
   "login-button": {
     "button-text": "Logg inn",
@@ -800,16 +800,16 @@
     "button-disabled": false,
     "button-type": "button",
     "onclick": {
-      "onclick": "location.href='/patterns/03-maler-altinnett-20-profil-30-paalogget/03-maler-altinnett-20-profil-30-paalogget.html'"
+      "onclick": "location.href='link.maler-altinnett-paalogget'"
     },
     "button-icon": false,
     "display-as-link": false
   },
   "header-color": "",
-  "url-logo": "/patterns/04-sider-altinnett-10-forside-10-forside/04-sider-altinnett-10-forside-10-forside.html",
+  "url-logo": "link.sider-altinnett-forside",
   "headerlogo": "../../images/an-logo-blue.svg",
   "hide-header": true,
-  "url-aktuelt": "/patterns/04-sider-altinnett-40-navigasjonssider-10-nyhetsarkiv/04-sider-altinnett-40-navigasjonssider-10-nyhetsarkiv.html",
+  "url-aktuelt": "link.sider-altinnett-nyhetsarkiv",
   "ekstra-menypunkt-1": "Ekstra menypunkt 1",
   "tel-icon": {
     "icon-prefix": "ai ai-nw ai-nw-pr",
@@ -926,7 +926,7 @@
     "img-class": "w-100",
     "col-info": "col-6 py-1 pt-3 py-md-5 my-auto px-1 px-sm-2",
     "titleClass": "a-h2 a-fontBold a-blueDarkerText ",
-    "url": "/patterns/04-sider-altinnett-10-forside-10-forside/04-sider-altinnett-10-forside-10-forside.html",
+    "url": "link.sider-altinnett-forside",
     "img-src": "../../images/stairs.svg",
     "title": "Altinn APIer",
     "text": "Gjenbruk Altinns tekniske løsninger i egen portal."
@@ -966,10 +966,10 @@
           }
         ],
         "form-input-button-action": "Utfør søk",
-        "onclick": "location.href='/patterns/04-sider-altinnett-60-sok-00-sokeside/04-sider-altinnett-60-sok-00-sokeside.html';"
+        "onclick": "location.href='link.sider-altinnett-sokeside';"
       }
     },
     "menuItem1": "innovation@altinn",
-    "urlMenuItem1": "/patterns/04-sider-altinnett-50-seksjonsforsider-10-seksjonsforside/04-sider-altinnett-50-seksjonsforsider-10-seksjonsforside.html"
+    "urlMenuItem1": "link.sider-altinnett-seksjonsforside"
   }
 }

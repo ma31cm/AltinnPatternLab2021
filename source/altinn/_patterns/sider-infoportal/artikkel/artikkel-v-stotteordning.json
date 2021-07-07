@@ -1291,11 +1291,11 @@
     "breadcrumb-item": [
       {
         "breadcrumb-title": "Starte og drive bedrift",
-        "breadcrumb-link": "/patterns/04-sider-infoportal-10-seksjonsforsider-30-seksjonsforside-v-starteogdrive/04-sider-infoportal-10-seksjonsforsider-30-seksjonsforside-v-starteogdrive.html"
+        "breadcrumb-link": "link.sider-infoportal-seksjonsforside-v-starteogdrive"
       },
       {
         "breadcrumb-title": "Støtteordninger",
-        "breadcrumb-link": "/patterns/04-sider-infoportal-20-navigasjonssider-40-temaside-filter-v-stotteordninger/04-sider-infoportal-20-navigasjonssider-40-temaside-filter-v-stotteordninger.html",
+        "breadcrumb-link": "link.sider-infoportal-temaside-filter-v-stotteordninger",
         "breadcrumb-class": "breadcrumb-mobile"
       },
       {
@@ -1347,7 +1347,7 @@
       {
         "additional-classes": "a-dotted a-clickable a-list-hasRowLink",
         "isRowLink": {
-          "rowLink": "/patterns/03-maler-infoportal-30-artikkel-10-artikkel/03-maler-infoportal-30-artikkel-10-artikkel.html"
+          "rowLink": "link.maler-infoportal-artikkel"
         },
         "columns": [
           {
@@ -1365,7 +1365,7 @@
       {
         "additional-classes": "a-dotted a-clickable a-list-hasRowLink",
         "isRowLink": {
-          "rowLink": "/patterns/04-sider-infoportal-30-artikkel-41-artikkel-jumbo-v-enkeltpersonforetak/04-sider-infoportal-30-artikkel-41-artikkel-jumbo-v-enkeltpersonforetak.html"
+          "rowLink": "link.sider-infoportal-artikkel-jumbo-v-enkeltpersonforetak"
         },
         "columns": [
           {
@@ -1383,7 +1383,7 @@
       {
         "additional-classes": "a-dotted a-clickable a-list-hasRowLink",
         "isRowLink": {
-          "rowLink": "/patterns/04-sider-infoportal-30-artikkel-17-artikkel-v-starte-og-registrere-enk/04-sider-infoportal-30-artikkel-17-artikkel-v-starte-og-registrere-enk.html"
+          "rowLink": "link.sider-infoportal-artikkel-v-starte-og-registrere-enk"
         },
         "columns": [
           {
@@ -1401,7 +1401,7 @@
       {
         "additional-classes": "a-dotted a-clickable a-list-hasRowLink",
         "isRowLink": {
-          "rowLink": "/patterns/04-sider-infoportal-30-artikkel-13-artikkel-v-hvordan-finansiere-oppstarten/04-sider-infoportal-30-artikkel-13-artikkel-v-hvordan-finansiere-oppstarten.html"
+          "rowLink": "link.sider-infoportal-artikkel-v-hvordan-finansiere-oppstarten"
         },
         "columns": [
           {
@@ -1419,7 +1419,7 @@
       {
         "additional-classes": "a-dotted a-clickable a-list-hasRowLink",
         "isRowLink": {
-          "rowLink": "/patterns/04-sider-infoportal-30-artikkel-14-artikkel-v-aksjeselskap/04-sider-infoportal-30-artikkel-14-artikkel-v-aksjeselskap.html"
+          "rowLink": "link.sider-infoportal-artikkel-v-aksjeselskap"
         },
         "columns": [
           {

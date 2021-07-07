@@ -2420,7 +2420,7 @@
       "buttonClass": "a-btn py-1 px-3",
       "button-disabled": false,
       "button-type": "button",
-      "onclick": "location='/patterns/04-sider-portal-50-innboks-20-innboks-soketreff-tvers/04-sider-portal-50-innboks-20-innboks-soketreff-tvers.html'",
+      "onclick": "location='link.sider-portal-innboks-soketreff-tvers'",
       "button-icon": false,
       "display-as-link": false
     }
@@ -2486,7 +2486,7 @@
   },
   "bodyClass": "a-bgGreyLight a-login a-hide-menu",
   "lagrede-sok": {
-    "linkIcon-url": "/patterns/04-sider-portal-01-aktorvalg-15-aktorvalg-rediger-lagrede-sok/04-sider-portal-01-aktorvalg-15-aktorvalg-rediger-lagrede-sok.html",
+    "linkIcon-url": "link.sider-portal-aktorvalg-rediger-lagrede-sok",
     "linkIcon-text": "Lagrede søk på flere aktører",
     "icon-prefix": "reg",
     "iconClass": "reg-save",

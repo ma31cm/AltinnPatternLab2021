@@ -5,6 +5,6 @@
     "logo": "../../images/an-logo-blue.svg"
   },
   "login-show": false,
-  "page-url": "../../patterns/03-maler-altinnett-innlogging-skjema-feil/03-maler-altinnett-innlogging-skjema-feil.markup-only.html",
+  "page-url": "../..link.3-maler-altinnett-innlogging-skjema-feil",
   "label": "Modal som kaster en feil"
 }

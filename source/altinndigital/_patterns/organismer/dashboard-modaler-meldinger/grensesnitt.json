@@ -12,7 +12,7 @@
       "data-action": "next",
       "data-toggle":"altinn-modal",
       "data-target":"#modal-message",
-      "page-url": "../../patterns/02-organismer-81-Dashboard-modaler-meldinger-31-grensesnitt-meldingwebservice/02-organismer-81-Dashboard-modaler-meldinger-31-grensesnitt-meldingwebservice.markup-only.html"
+      "page-url": "../..link.organismer-grensesnitt-meldingwebservice"
     }
   },
   "tab2": {
@@ -28,7 +28,7 @@
       "data-action": "next",
       "data-toggle":"altinn-modal",
       "data-target":"#modal-message",
-      "page-url": "../../patterns/02-organismer-81-Dashboard-modaler-meldinger-32-grensesnitt-innsendingwebservice/02-organismer-81-Dashboard-modaler-meldinger-32-grensesnitt-innsendingwebservice.markup-only.html"
+      "page-url": "../..link.organismer-grensesnitt-innsendingwebservice"
     }
   },
   "tab3": {
@@ -44,7 +44,7 @@
       "data-action": "next",
       "data-toggle":"altinn-modal",
       "data-target":"#modal-message",
-      "page-url": "../../patterns/02-organismer-81-Dashboard-modaler-meldinger-33-grensesnitt-innsendinginnboks/02-organismer-81-Dashboard-modaler-meldinger-33-grensesnitt-innsendinginnboks.markup-only.html"
+      "page-url": "../..link.organismer-grensesnitt-innsendinginnboks"
     }
   },
   "tab4": {
@@ -60,7 +60,7 @@
       "data-action": "next",
       "data-toggle":"altinn-modal",
       "data-target":"#modal-message",
-      "page-url": "../../patterns/02-organismer-81-Dashboard-modaler-meldinger-34-grensesnitt-deaktivering/02-organismer-81-Dashboard-modaler-meldinger-34-grensesnitt-deaktivering.markup-only.html"
+      "page-url": "../..link.organismer-grensesnitt-deaktivering"
     }
   }
 }

@@ -341,6 +341,6 @@
     "data-action": "next",
     "data-toggle":"altinn-modal",
     "data-target":"#modal-message",
-    "page-url": "../../patterns/02-organismer-81-Dashboard-modaler-meldinger-03-melding-ferdig/02-organismer-81-Dashboard-modaler-meldinger-03-melding-ferdig.markup-only.html"
+    "page-url": "../..link.organismer-melding-ferdig"
   }
 }

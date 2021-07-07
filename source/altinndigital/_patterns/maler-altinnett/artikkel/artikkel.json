@@ -119,7 +119,7 @@
       }
     ]
   },
-  "page-url": "../../patterns/02-organismer-80-Modal-js-innhold-12-altinnett-kontaktskjema/02-organismer-80-Modal-js-innhold-12-altinnett-kontaktskjema.markup-only.html",
+  "page-url": "../..link.organismer-altinnett-kontaktskjema",
   "footerHeading": "Vil du vite mer?",
   "footer-search": {
     "text-input-id": "text-input-search-footer",
@@ -142,7 +142,7 @@
         }
       ],
       "form-input-button-action": "Utfør søk",
-      "onclick": "location.href='/patterns/04-sider-altinnett-60-sok-00-sokeside/04-sider-altinnett-60-sok-00-sokeside.html';"
+      "onclick": "location.href='link.sider-altinnett-sokeside';"
     }
   },
   "contactLinks": [
@@ -206,7 +206,7 @@
       "data-action": "load",
       "data-toggle": "altinn-modal",
       "data-target": "modal-singel",
-      "page-url": "../../patterns/02-organismer-80-Modal-js-innhold-12-altinnett-kontaktskjema/02-organismer-80-Modal-js-innhold-12-altinnett-kontaktskjema.markup-only.html"
+      "page-url": "../..link.organismer-altinnett-kontaktskjema"
     },
     "logo-class": "a-modal-top-logo",
     "login-show": false,
@@ -379,7 +379,7 @@
   "collapse-header-contentID": "",
   "collapse-header-title": "Dette er en utvidbar tittel med merkelapp <span class='badge badge-primary a-label badge-pill'>1</span> og lang tekst for å teste hvordan det ser ut",
   "link-text": "Lenke som tar deg til en side eller skjema",
-  "link-url": "/patterns/04-sider-infoportal-01-forside-00-forside/04-sider-infoportal-01-forside-00-forside.html",
+  "link-url": "link.sider-infoportal-forside",
   "sr-text": false,
   "card-content": {
     "link-text": "Dette er en overskrift som er en link 2",
@@ -813,7 +813,7 @@
           "button-text-class": "sr-only"
         }
       ],
-      "onclick": "location.href='/patterns/04-sider-altinnett-60-sok-00-sokeside/04-sider-altinnett-60-sok-00-sokeside.html';"
+      "onclick": "location.href='link.sider-altinnett-sokeside';"
     }
   },
   "name": "JAN PETTERSEN",
@@ -838,7 +838,7 @@
     "extra-classes": "a-fontBold"
   },
   "produkter": {
-    "link": "/patterns/03-maler-altinnett-80-produktsider-10-produktoversikt/03-maler-altinnett-80-produktsider-10-produktoversikt.html"
+    "link": "link.maler-altinnett-produktoversikt"
   },
   "login-button": {
     "button-text": "Logg inn",
@@ -846,17 +846,17 @@
     "button-disabled": false,
     "button-type": "button",
     "onclick": {
-      "onclick": "location.href='/patterns/03-maler-altinnett-20-profil-30-paalogget/03-maler-altinnett-20-profil-30-paalogget.html'"
+      "onclick": "location.href='link.maler-altinnett-paalogget'"
     },
     "button-icon": false,
     "display-as-link": false
   },
   "header-color": "",
-  "url-logo": "/patterns/04-sider-altinnett-10-forside-10-forside/04-sider-altinnett-10-forside-10-forside.html",
+  "url-logo": "link.sider-altinnett-forside",
   "headerlogo": "../../images/an-logo-blue.svg",
   "button-colorClass": "",
   "hide-header": true,
-  "url-aktuelt": "/patterns/04-sider-altinnett-40-navigasjonssider-10-nyhetsarkiv/04-sider-altinnett-40-navigasjonssider-10-nyhetsarkiv.html",
+  "url-aktuelt": "link.sider-altinnett-nyhetsarkiv",
   "ekstra-menypunkt-1": "Ekstra menypunkt 1",
   "title": "Altinnett",
   "bodyClass": "project-altinnett a-bgWhite",
@@ -880,7 +880,7 @@
       "textSmall": "Ekstratittel"
     },
     "link-text": "Lenk til et skjema eller noe annet",
-    "link-url": "/patterns/04-sider-altinnett-10-forside-10-forside/04-sider-altinnett-10-forside-10-forside.html",
+    "link-url": "link.sider-altinnett-forside",
     "linkClass": false,
     "link-icon": false
   },
@@ -914,7 +914,7 @@
     },
     "hasTextSmall": false,
     "link-text": "Lenk til et skjema eller noe annet",
-    "link-url": "/patterns/04-sider-altinnett-10-forside-10-forside/04-sider-altinnett-10-forside-10-forside.html",
+    "link-url": "link.sider-altinnett-forside",
     "link-icon": false
   },
   "article-compare-first": {
@@ -928,14 +928,14 @@
         "category-element-description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut <a href=\"#\">labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</a>",
         "ismore": true,
         "link-text": "Mer informasjon om dette",
-        "link-url": "/patterns/04-sider-altinnett-30-artikkel-20-artikkel-jumbo/04-sider-altinnett-30-artikkel-20-artikkel-jumbo.html"
+        "link-url": "link.sider-altinnett-artikkel-jumbo"
       },
       {
         "category-element-title": "<h3>Det andre som skal sammenliknes</h3>",
         "category-element-description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
         "ismore": true,
         "link-text": "Mer informasjon om ...",
-        "link-url": "/patterns/04-sider-altinnett-30-artikkel-20-artikkel-jumbo/04-sider-altinnett-30-artikkel-20-artikkel-jumbo.html"
+        "link-url": "link.sider-altinnett-artikkel-jumbo"
       }
     ]
   },
@@ -950,14 +950,14 @@
         "category-element-description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut <a href=\"#\">labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</a>",
         "ismore": true,
         "link-text": "Mer informasjon om dette",
-        "link-url": "/patterns/04-sider-altinnett-30-artikkel-20-artikkel-jumbo/04-sider-altinnett-30-artikkel-20-artikkel-jumbo.html"
+        "link-url": "link.sider-altinnett-artikkel-jumbo"
       },
       {
         "category-element-title": "<h3>Det andre som skal sammenliknes</h3>",
         "category-element-description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
         "ismore": true,
         "link-text": "Mer informasjon om ...",
-        "link-url": "/patterns/04-sider-altinnett-30-artikkel-20-artikkel-jumbo/04-sider-altinnett-30-artikkel-20-artikkel-jumbo.html"
+        "link-url": "link.sider-altinnett-artikkel-jumbo"
       },
       {
         "istitle": true,
@@ -965,7 +965,7 @@
         "category-element-description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut <a href=\"#\">labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</a>",
         "ismore": true,
         "link-text": "Mer informasjon om dette",
-        "link-url": "/patterns/04-sider-altinnett-30-artikkel-20-artikkel-jumbo/04-sider-altinnett-30-artikkel-20-artikkel-jumbo.html"
+        "link-url": "link.sider-altinnett-artikkel-jumbo"
       },
       {
         "istitle": true,
@@ -973,7 +973,7 @@
         "category-element-description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut <a href=\"#\">labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</a>",
         "ismore": true,
         "link-text": "Mer informasjon om dette",
-        "link-url": "/patterns/04-sider-altinnett-30-artikkel-20-artikkel-jumbo/04-sider-altinnett-30-artikkel-20-artikkel-jumbo.html"
+        "link-url": "link.sider-altinnett-artikkel-jumbo"
       }
     ]
   },
@@ -983,7 +983,7 @@
       {
         "additional-classes": "a-dotted a-clickable a-list-hasRowLink",
         "isRowLink": {
-          "rowLink": "/patterns/04-sider-altinnett-30-artikkel-10-artikkel/04-sider-altinnett-30-artikkel-10-artikkel.html"
+          "rowLink": "link.sider-altinnett-artikkel"
         },
         "columns": [
           {
@@ -1001,7 +1001,7 @@
       {
         "additional-classes": "a-dotted a-clickable a-list-hasRowLink",
         "isRowLink": {
-          "rowLink": "/patterns/04-sider-altinnett-30-artikkel-10-artikkel/04-sider-altinnett-30-artikkel-10-artikkel.html"
+          "rowLink": "link.sider-altinnett-artikkel"
         },
         "columns": [
           {
@@ -1019,7 +1019,7 @@
       {
         "additional-classes": "a-dotted a-clickable a-list-hasRowLink",
         "isRowLink": {
-          "rowLink": "/patterns/04-sider-altinnett-30-artikkel-10-artikkel/04-sider-altinnett-30-artikkel-10-artikkel.html"
+          "rowLink": "link.sider-altinnett-artikkel"
         },
         "columns": [
           {
@@ -1037,7 +1037,7 @@
       {
         "additional-classes": "a-dotted a-clickable a-list-hasRowLink",
         "isRowLink": {
-          "rowLink": "/patterns/04-sider-altinnett-30-artikkel-10-artikkel/04-sider-altinnett-30-artikkel-10-artikkel.html"
+          "rowLink": "link.sider-altinnett-artikkel"
         },
         "columns": [
           {
@@ -1055,7 +1055,7 @@
       {
         "additional-classes": "a-dotted a-clickable a-list-hasRowLink",
         "isRowLink": {
-          "rowLink": "/patterns/04-sider-altinnett-30-artikkel-10-artikkel/04-sider-altinnett-30-artikkel-10-artikkel.html"
+          "rowLink": "link.sider-altinnett-artikkel"
         },
         "columns": [
           {
@@ -1073,7 +1073,7 @@
       {
         "additional-classes": "a-dotted a-clickable a-list-hasRowLink",
         "isRowLink": {
-          "rowLink": "/patterns/04-sider-altinnett-30-artikkel-10-artikkel/04-sider-altinnett-30-artikkel-10-artikkel.html"
+          "rowLink": "link.sider-altinnett-artikkel"
         },
         "columns": [
           {
@@ -1091,7 +1091,7 @@
       {
         "additional-classes": "a-dotted a-clickable a-list-hasRowLink",
         "isRowLink": {
-          "rowLink": "/patterns/04-sider-altinnett-30-artikkel-10-artikkel/04-sider-altinnett-30-artikkel-10-artikkel.html"
+          "rowLink": "link.sider-altinnett-artikkel"
         },
         "columns": [
           {
@@ -1109,7 +1109,7 @@
       {
         "additional-classes": "a-dotted a-clickable a-list-hasRowLink",
         "isRowLink": {
-          "rowLink": "/patterns/04-sider-altinnett-30-artikkel-10-artikkel/04-sider-altinnett-30-artikkel-10-artikkel.html"
+          "rowLink": "link.sider-altinnett-artikkel"
         },
         "columns": [
           {
@@ -1148,10 +1148,10 @@
           }
         ],
         "form-input-button-action": "Utfør søk",
-        "onclick": "location.href='/patterns/04-sider-altinnett-60-sok-00-sokeside/04-sider-altinnett-60-sok-00-sokeside.html';"
+        "onclick": "location.href='link.sider-altinnett-sokeside';"
       }
     },
     "menuItem1": "innovation@altinn",
-    "urlMenuItem1": "/patterns/04-sider-altinnett-50-seksjonsforsider-10-seksjonsforside/04-sider-altinnett-50-seksjonsforsider-10-seksjonsforside.html"
+    "urlMenuItem1": "link.sider-altinnett-seksjonsforside"
   }
 }

@@ -30,7 +30,7 @@
         "data-action": "next",
         "data-toggle":"altinn-modal",
         "data-target":"#modal-addservice",
-        "page-url": "../../patterns/02-organismer-82-Dashboard-modaler-tjenester-20-produksjonssett-tjeneste/02-organismer-82-Dashboard-modaler-tjenester-20-produksjonssett-tjeneste.markup-only.html"
+        "page-url": "../..link.organismer-produksjonssett-tjeneste"
       }
     },
     {
@@ -48,7 +48,7 @@
         "data-action": "next",
         "data-toggle":"altinn-modal",
         "data-target":"#modal-addservice",
-        "page-url": "../../patterns/02-organismer-82-Dashboard-modaler-tjenester-12-roller/02-organismer-82-Dashboard-modaler-tjenester-12-roller.markup-only.html"
+        "page-url": "../..link.organismer-roller"
       }
     },
     {
@@ -66,7 +66,7 @@
         "data-action": "next",
         "data-toggle":"altinn-modal",
         "data-target":"#modal-addservice",
-        "page-url": "../../patterns/02-organismer-82-Dashboard-modaler-tjenester-13-deaktivering/02-organismer-82-Dashboard-modaler-tjenester-13-deaktivering.markup-only.html"
+        "page-url": "../..link.organismer-deaktivering"
       }
     }
   ]

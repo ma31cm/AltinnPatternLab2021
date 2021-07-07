@@ -76,7 +76,7 @@
   "label-id": false,
   "label-content": "9",
   "button-colorClass": "",
-  "link-url": "/patterns/04-sider-infoportal-01-forside-00-forside/04-sider-infoportal-01-forside-00-forside.html",
+  "link-url": "link.sider-infoportal-forside",
   "button-shadow-label": false,
   "print-form-tag": false,
   "text-input-id": "text-input-generic",
@@ -537,7 +537,7 @@
     "buttonClass": "a-btn mr-1",
     "button-disabled": false,
     "button-type": "button",
-    "onclick": "location.href='/patterns/04-sider-portal-50-innboks-00-innboks/04-sider-portal-50-innboks-00-innboks.html';",
+    "onclick": "location.href='link.sider-portal-innboks';",
     "button-icon": false,
     "display-as-link": false
   },
@@ -1230,7 +1230,7 @@
   "closeBtn": {
     "button-text": "Nei, takk",
     "buttonClass": "a-btn-link",
-    "onclick": "location.href='/patterns/04-sider-portal-50-innboks-00-innboks/04-sider-portal-50-innboks-00-innboks.html';",
+    "onclick": "location.href='link.sider-portal-innboks';",
     "button-icon": false,
     "display-as-link": true
   },
@@ -2159,7 +2159,7 @@
     "button-text": "Ferdig",
     "buttonClass": "a-btn a-btn-success mb-0",
     "button-type": "submit",
-    "onclick": "location.href='/patterns/04-sider-portal-60-profil-roller-rettigheter-01-profil-roller-rettigheter/04-sider-portal-60-profil-roller-rettigheter-01-profil-roller-rettigheter.html'"
+    "onclick": "location.href='link.sider-portal-profil-roller-rettigheter'"
   },
   "animationClass": "a-scene-element--fadeinright",
   "form-input-hasButton": false,
@@ -3399,7 +3399,7 @@
       "iconClass": "ai-corp",
       "iconExtraClass": "ai-left"
     },
-    "link-url": "/patterns/04-sider-portal-50-innboks-00-innboks/04-sider-portal-50-innboks-00-innboks.html"
+    "link-url": "link.sider-portal-innboks"
   },
   "button-sub": {
     "collapse-header-contentID": "listsublevels2",
@@ -3517,7 +3517,7 @@
           "iconClass": "ai-corp ai-left",
           "iconExtraClass": ""
         },
-        "link-url": "/patterns/04-sider-portal-50-innboks-00-innboks/04-sider-portal-50-innboks-00-innboks.html"
+        "link-url": "link.sider-portal-innboks"
       },
       "button-sub": false
     },
@@ -3538,7 +3538,7 @@
           "iconClass": "ai-corp ai-left",
           "iconExtraClass": ""
         },
-        "link-url": "/patterns/04-sider-portal-50-innboks-00-innboks/04-sider-portal-50-innboks-00-innboks.html"
+        "link-url": "link.sider-portal-innboks"
       },
       "button-sub": {
         "collapse-header-contentID": "listsublevels2",
@@ -3623,7 +3623,7 @@
           "iconClass": "ai-private ai-left",
           "iconExtraClass": ""
         },
-        "link-url": "/patterns/04-sider-portal-50-innboks-00-innboks/04-sider-portal-50-innboks-00-innboks.html"
+        "link-url": "link.sider-portal-innboks"
       },
       "button-sub": false
     },
@@ -3644,7 +3644,7 @@
           "iconExtraClass": ""
         },
         "title": "Jan Derek Sørensen Julius Andreas Gimli Arn MacGyver Chewbacka Highlander Elessar-Jankov",
-        "link-url": "/patterns/04-sider-portal-50-innboks-00-innboks/04-sider-portal-50-innboks-00-innboks.html"
+        "link-url": "link.sider-portal-innboks"
       },
       "button-sub": false
     },
@@ -3664,7 +3664,7 @@
           "iconClass": "ai-corp ai-left",
           "iconExtraClass": ""
         },
-        "link-url": "/patterns/04-sider-portal-50-innboks-00-innboks/04-sider-portal-50-innboks-00-innboks.html"
+        "link-url": "link.sider-portal-innboks"
       },
       "button-sub": false
     },
@@ -3684,7 +3684,7 @@
           "iconClass": "ai-corp ai-left",
           "iconExtraClass": ""
         },
-        "link-url": "/patterns/04-sider-portal-50-innboks-00-innboks/04-sider-portal-50-innboks-00-innboks.html"
+        "link-url": "link.sider-portal-innboks"
       },
       "button-sub": false
     }
@@ -3695,7 +3695,7 @@
     "icon-prefix": "ai",
     "iconClass": "ai-plus",
     "iconExtraClass": "",
-    "onclick": "location.href='/patterns/04-sider-portal-01-aktorvalg-10-aktorvalg/04-sider-portal-01-aktorvalg-10-aktorvalg.html'"
+    "onclick": "location.href='link.sider-portal-aktorvalg'"
   },
   "personswitch-options": {
     "isDiscreet": "a-form-checkboxes--discret",
@@ -3732,7 +3732,7 @@
     "button-dot": false,
     "personrole-link": {
       "link-text": "Innstillinger",
-      "link-url": "/patterns/04-sider-portal-60-profil-roller-rettigheter-01-profil-roller-rettigheter/04-sider-portal-60-profil-roller-rettigheter-01-profil-roller-rettigheter.html"
+      "link-url": "link.sider-portal-profil-roller-rettigheter"
     }
   },
   "profile-text": "Alle dine profiler: ",
@@ -3772,7 +3772,7 @@
     "linkFeatured": {
       "link-text": "Tilbake til innboks",
       "linkClass": "a-linkFeatured a-textBlue a-textBlue-hover ml-1",
-      "link-url": "/patterns/04-sider-portal-50-innboks-00-innboks/04-sider-portal-50-innboks-00-innboks.html",
+      "link-url": "link.sider-portal-innboks",
       "link-icon-left": {
         "icon-prefix": "ai ",
         "iconClass": "ai-back",
@@ -3813,7 +3813,7 @@
           "icon-prefix": "ai",
           "iconClass": "ai-plain-circle-big"
         },
-        "onclick": "location.href='/patterns/04-sider-portal-60-profil-roller-rettigheter-01-profil-roller-rettigheter/04-sider-portal-60-profil-roller-rettigheter-01-profil-roller-rettigheter.html'",
+        "onclick": "location.href='link.sider-portal-profil-roller-rettigheter'",
         "enable-popover": false
       },
       {
@@ -3826,7 +3826,7 @@
           "icon-prefix": "ai",
           "iconClass": "ai-plain-circle-big"
         },
-        "onclick": "location.href='/patterns/04-sider-portal-60-profil-roller-rettigheter-01-profil-roller-rettigheter/04-sider-portal-60-profil-roller-rettigheter-01-profil-roller-rettigheter.html'",
+        "onclick": "location.href='link.sider-portal-profil-roller-rettigheter'",
         "enable-popover": false
       }
     ]
@@ -3851,6 +3851,6 @@
   "file-delegation-intro-text": "Hvis du skal gi mange rettigheter samtidig, kan du gjøre dette gjennom klientdelegering på fil. Du vil kunne laste ned en excel-fil som du kan redigere og laste opp igjen når du er ferdig med å gjøre endringer. Hvis du synes dette blir for komplisert kan du bruke ",
   "file-delegation-normal-delegation-link": {
     "link-text": "vanlig klientdelegering.",
-    "link-url": "/patterns/04-sider-portal-60-profil-roller-rettigheter-01-profil-roller-rettigheter/04-sider-portal-60-profil-roller-rettigheter-01-profil-roller-rettigheter.html"
+    "link-url": "link.sider-portal-profil-roller-rettigheter"
   }
 }

@@ -4,7 +4,7 @@
     "text": [
       {
         "text-input-id": "email-id",
-        "top-label": "Brukernavn <a class=\"a-btn-link no-decoration float-right\" href=\"#\" data-toggle=\"altinn-modal\" data-action=\"next\" data-url=\"../../patterns/03-maler-altinnett-innlogging-skjema-be-om-tilgang/03-maler-altinnett-innlogging-skjema-be-om-tilgang.markup-only.html\" data-target=\"#modal\">Be om tilgang <i class='ai ai-arrowright ai-nw'></i></a>",
+        "top-label": "Brukernavn <a class=\"a-btn-link no-decoration float-right\" href=\"#\" data-toggle=\"altinn-modal\" data-action=\"next\" data-url=\"../..link.3-maler-altinnett-innlogging-skjema-be-om-tilgang\" data-target=\"#modal\">Be om tilgang <i class='ai ai-arrowright ai-nw'></i></a>",
         "input-type": "email",
         "text-input-placeholder": "e-post",
         "styleModifier": "mb-2",

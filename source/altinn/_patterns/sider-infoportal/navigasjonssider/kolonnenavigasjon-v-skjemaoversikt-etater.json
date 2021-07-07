@@ -531,17 +531,17 @@
         {
           "colnav-second-level-header": "A-melding",
           "colnav-second-level-right-text": "Skatteetaten",
-          "colnav-second-level-link": "/patterns/04-sider-infoportal-35-skjemaartikkel-11-artikkel-skjema-v-amelding/04-sider-infoportal-35-skjemaartikkel-11-artikkel-skjema-v-amelding.html"
+          "colnav-second-level-link": "link.sider-infoportal-artikkel-skjema-v-amelding"
         },
         {
           "colnav-second-level-header": "Egenmeldt sykefravær",
           "colnav-second-level-right-text": "Skatteetaten",
-          "colnav-second-level-link": "/patterns/04-sider-infoportal-35-skjemaartikkel-53-artikkel-skjema-v-egenmeldt-sykefravaer/04-sider-infoportal-35-skjemaartikkel-53-artikkel-skjema-v-egenmeldt-sykefravaer.html"
+          "colnav-second-level-link": "link.sider-infoportal-artikkel-skjema-v-egenmeldt-sykefravaer"
         },
         {
           "colnav-second-level-header": "Selskapsoppgave for deltakerliknet selskap",
           "colnav-second-level-right-text": "Skatteetaten",
-          "colnav-second-level-link": "/patterns/04-sider-infoportal-35-skjemaartikkel-54-artikkel-skjema-v-selskapsoppgave-for-deltakerliknet-selskap/04-sider-infoportal-35-skjemaartikkel-54-artikkel-skjema-v-selskapsoppgave-for-deltakerliknet-selskap.html"
+          "colnav-second-level-link": "link.sider-infoportal-artikkel-skjema-v-selskapsoppgave-for-deltakerliknet-selskap"
         }
       ]
     },
@@ -1373,11 +1373,11 @@
           "button-text-class": "sr-only"
         }
       ],
-      "onclick": "location.href='/patterns/04-sider-infoportal-40-sok-00-sok-forside/04-sider-infoportal-40-sok-00-sok-forside.html';"
+      "onclick": "location.href='link.sider-infoportal-sok-forside';"
     }
   },
-  "switch-url-1": "/patterns/04-sider-infoportal-20-navigasjonssider-50-kolonnenavigasjon-v-skjemaoversikt/04-sider-infoportal-20-navigasjonssider-50-kolonnenavigasjon-v-skjemaoversikt.html",
-  "switch-url-2": "/patterns/04-sider-infoportal-20-navigasjonssider-50-kolonnenavigasjon-v-skjemaoversikt-etater/04-sider-infoportal-20-navigasjonssider-50-kolonnenavigasjon-v-skjemaoversikt-etater.html",
+  "switch-url-1": "link.sider-infoportal-kolonnenavigasjon-v-skjemaoversikt",
+  "switch-url-2": "link.sider-infoportal-kolonnenavigasjon-v-skjemaoversikt-etater",
   "colnav-depth": "2",
   "suggestionList": {
     "additional-classes": "a-list-borderTop a-list-noIcon",
@@ -1385,7 +1385,7 @@
       {
         "additional-classes": "a-dotted a-clickable a-list-hasRowLink",
         "isRowLink": {
-          "rowLink": "/patterns/04-sider-infoportal-20-navigasjonssider-51-omraadeside/04-sider-infoportal-20-navigasjonssider-51-omraadeside.html"
+          "rowLink": "link.sider-infoportal-omraadeside"
         },
         "columns": [
           {
@@ -1403,7 +1403,7 @@
       {
         "additional-classes": "a-dotted a-clickable a-list-hasRowLink",
         "isRowLink": {
-          "rowLink": "/patterns/04-sider-infoportal-35-skjemaartikkel-12-artikkel-skjema-v-amelding-a02/04-sider-infoportal-35-skjemaartikkel-12-artikkel-skjema-v-amelding-a02.html"
+          "rowLink": "link.sider-infoportal-artikkel-skjema-v-amelding-a02"
         },
         "columns": [
           {
@@ -1421,7 +1421,7 @@
       {
         "additional-classes": "a-dotted a-clickable a-list-hasRowLink",
         "isRowLink": {
-          "rowLink": "/patterns/04-sider-infoportal-35-skjemaartikkel-11-artikkel-skjema-v-amelding-varsler/04-sider-infoportal-35-skjemaartikkel-11-artikkel-skjema-v-amelding-varsler.html"
+          "rowLink": "link.sider-infoportal-artikkel-skjema-v-amelding-varsler"
         },
         "columns": [
           {
@@ -1439,7 +1439,7 @@
       {
         "additional-classes": "a-dotted a-clickable a-list-hasRowLink",
         "isRowLink": {
-          "rowLink": "/patterns/04-sider-infoportal-35-skjemaartikkel-53-artikkel-skjema-v-egenmeldt-sykefravaer/04-sider-infoportal-35-skjemaartikkel-53-artikkel-skjema-v-egenmeldt-sykefravaer.html"
+          "rowLink": "link.sider-infoportal-artikkel-skjema-v-egenmeldt-sykefravaer"
         },
         "columns": [
           {
@@ -1457,7 +1457,7 @@
       {
         "additional-classes": "a-dotted a-clickable a-list-hasRowLink",
         "isRowLink": {
-          "rowLink": "/patterns/04-sider-infoportal-35-skjemaartikkel-54-artikkel-skjema-v-selskapsoppgave-for-deltakerliknet-selskap/04-sider-infoportal-35-skjemaartikkel-54-artikkel-skjema-v-selskapsoppgave-for-deltakerliknet-selskap.html"
+          "rowLink": "link.sider-infoportal-artikkel-skjema-v-selskapsoppgave-for-deltakerliknet-selskap"
         },
         "columns": [
           {
@@ -1475,7 +1475,7 @@
       {
         "additional-classes": "a-dotted a-clickable a-list-hasRowLink",
         "isRowLink": {
-          "rowLink": "/patterns/04-sider-infoportal-35-skjemaartikkel-55-artikkel-skjema-v-avskrivning/04-sider-infoportal-35-skjemaartikkel-55-artikkel-skjema-v-avskrivning.html"
+          "rowLink": "link.sider-infoportal-artikkel-skjema-v-avskrivning"
         },
         "columns": [
           {
@@ -1493,7 +1493,7 @@
       {
         "additional-classes": "a-dotted a-clickable a-list-hasRowLink",
         "isRowLink": {
-          "rowLink": "/patterns/04-sider-infoportal-35-skjemaartikkel-56-artikkel-skjema-v-anmodning-om-tildeling-av-D-nummer/04-sider-infoportal-35-skjemaartikkel-56-artikkel-skjema-v-anmodning-om-tildeling-av-D-nummer.html"
+          "rowLink": "link.sider-infoportal-artikkel-skjema-v-anmodning-om-tildeling-av-D-nummer"
         },
         "columns": [
           {
@@ -1511,7 +1511,7 @@
       {
         "additional-classes": "a-dotted a-clickable a-list-hasRowLink",
         "isRowLink": {
-          "rowLink": "/patterns/04-sider-infoportal-35-skjemaartikkel-57-artikkel-skjema-v-godkjenning-av-kursarrangor-for-utrykningskjoretoy/04-sider-infoportal-35-skjemaartikkel-57-artikkel-skjema-v-godkjenning-av-kursarrangor-for-utrykningskjoretoy.html"
+          "rowLink": "link.sider-infoportal-artikkel-skjema-v-godkjenning-av-kursarrangor-for-utrykningskjoretoy"
         },
         "columns": [
           {
@@ -1529,7 +1529,7 @@
       {
         "additional-classes": "a-dotted a-clickable a-list-hasRowLink",
         "isRowLink": {
-          "rowLink": "/patterns/04-sider-infoportal-35-skjemaartikkel-58-artikkel-skjema-v-skjenkebevilling-for-skjenking-av-alkoholholdig-drikke/04-sider-infoportal-35-skjemaartikkel-58-artikkel-skjema-v-skjenkebevilling-for-skjenking-av-alkoholholdig-drikke.html"
+          "rowLink": "link.sider-infoportal-artikkel-skjema-v-skjenkebevilling-for-skjenking-av-alkoholholdig-drikke"
         },
         "columns": [
           {

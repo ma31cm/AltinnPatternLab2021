@@ -12,12 +12,12 @@
   "icon-title": false,
   "icon-sr-only-text": false,
   "link-text": "En lenke ser slik ut",
-  "link-url": "/patterns/04-sider-infoportal-01-forside-00-forside/04-sider-infoportal-01-forside-00-forside.html",
+  "link-url": "link.sider-infoportal-forside",
   "sr-text": false,
   "letters": "ST",
   "col": " col-md-4 col-lg-4 col-xl-4",
   "title": "Digital Dialog",
-  "url": "/patterns/04-sider-altinnett-10-forside-10-forside/04-sider-altinnett-10-forside-10-forside.html",
+  "url": "link.sider-altinnett-forside",
   "extraClass": "a-bgGreyLighter",
   "headerClass": "an-presentationBlock-largeHeader",
   "iconClass": "an-cover",
@@ -33,7 +33,7 @@
   "product1": {
     "col": "col-md-4 col-lg-4 col-xl-4 px-0 px-sm-1",
     "title": "Digital Dialog",
-    "url": "/patterns/04-sider-altinnett-10-forside-10-forside/04-sider-altinnett-10-forside-10-forside.html",
+    "url": "link.sider-altinnett-forside",
     "extraClass": "a-bgGreyLighter",
     "imageurl": "../../images/asset_2.png",
     "abbreviation": {
@@ -44,7 +44,7 @@
   "product2": {
     "col": "col-md-4 col-lg-4 col-xl-4 px-0 px-sm-1",
     "title": "Digital post til virksomheter",
-    "url": "/patterns/04-sider-altinnett-10-forside-10-forside/04-sider-altinnett-10-forside-10-forside.html",
+    "url": "link.sider-altinnett-forside",
     "extraClass": "a-bgBlueLighter",
     "headerClass": "an-presentationBlock-largeHeader",
     "iconClass": "an-cover",
@@ -57,7 +57,7 @@
   "product3": {
     "col": "col-md-4 col-lg-4 col-xl-4 px-0 px-sm-1",
     "title": "Altinn API",
-    "url": "/patterns/04-sider-altinnett-10-forside-10-forside/04-sider-altinnett-10-forside-10-forside.html",
+    "url": "link.sider-altinnett-forside",
     "extraClass": "a-bgRedLight",
     "headerClass": "an-presentationBlock-largeHeader",
     "iconClass": "an-cover",
@@ -69,7 +69,7 @@
   },
   "showAllLink": {
     "link-text": "Vis alle produkter",
-    "link-url": "/patterns/04-sider-altinnett-10-forside-10-forside/04-sider-altinnett-10-forside-10-forside.html",
+    "link-url": "link.sider-altinnett-forside",
     "linkClass": "a-linkFeatured a-linkFeatured--large",
     "link-icon": {
       "icon-prefix": "ai ai-sm ai-nw ai-nw-right",

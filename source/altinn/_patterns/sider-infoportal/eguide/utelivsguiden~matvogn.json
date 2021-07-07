@@ -94,7 +94,7 @@
   "buttonClass": "a-btn a-btn-icon a-btn-shadow",
   "button-disabled": false,
   "button-type": "button",
-  "onclick": "location.href='/patterns/04-sider-infoportal-100-eguide-00-utelivsguiden/04-sider-infoportal-100-eguide-00-utelivsguiden.html'",
+  "onclick": "location.href='link.sider-infoportal-utelivsguiden'",
   "button-icon": {
     "icon-prefix": "ai",
     "iconClass": "ai-deadline"
@@ -215,7 +215,7 @@
       }
     ]
   },
-  "page-url": "/patterns/03-maler-portal-99-modal-js-02-page-one/03-maler-portal-99-modal-js-02-page-one.markup-only.html",
+  "page-url": "link.maler-portal-page-one",
   "processmodal": {
     "modal-id": "modal",
     "logo": {
@@ -1390,9 +1390,9 @@
   },
   "personlogin-isLink": "onclick=\"location.href='../..",
   "personlogin-isLink-end": "'\"",
-  "personlogin-isLink-url": "/patterns/04-sider-infoportal-100-eguide-00-utelivsguiden/04-sider-infoportal-100-eguide-00-utelivsguiden.html",
+  "personlogin-isLink-url": "link.sider-infoportal-utelivsguiden",
   "login-or-switchuser": "Logg inn",
-  "url": "/patterns/04-sider-infoportal-100-eguide-00-utelivsguiden-matvogn/04-sider-infoportal-100-eguide-00-utelivsguiden-matvogn.html",
+  "url": "link.sider-infoportal-utelivsguiden-matvogn",
   "guide": {
     "modal-id": "modal",
     "processmodal": {
@@ -1474,7 +1474,7 @@
         ]
       }
     },
-    "page-url": "../../patterns/04-sider-infoportal-100-eguide-01-sporsmal-matvogn-1/04-sider-infoportal-100-eguide-01-sporsmal-matvogn-1.markup-only.html"
+    "page-url": "../..link.sider-infoportal-sporsmal-matvogn-1"
   },
   "page-title": "DEMO: eGuide for utelivsbransjen (Matvogn)"
 }

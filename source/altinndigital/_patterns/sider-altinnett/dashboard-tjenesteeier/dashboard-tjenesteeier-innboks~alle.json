@@ -861,7 +861,7 @@
       }
     ]
   },
-  "page-url": "/patterns/03-maler-portal-99-modal-js-02-page-one/03-maler-portal-99-modal-js-02-page-one.markup-only.html",
+  "page-url": "link.maler-portal-page-one",
   "switch-radio-btn-name": "atom-switch-cb",
   "switch-legend": "Velg et alternativ",
   "switch-radio-btn-items": [
@@ -1125,7 +1125,7 @@
                 "data-toggle": "altinn-modal",
                 "data-action": "load",
                 "data-url": {
-                  "data-url": "../../patterns/02-organismer-81-Dashboard-modaler-meldinger-02-svarmelding/02-organismer-81-Dashboard-modaler-meldinger-02-svarmelding.markup-only.html"
+                  "data-url": "../..link.organismer-svarmelding"
                 },
                 "data-target": "modal-message"
               }
@@ -1354,7 +1354,7 @@
                 "data-toggle": "altinn-modal",
                 "data-action": "load",
                 "data-url": {
-                  "data-url": "../../patterns/02-organismer-81-Dashboard-modaler-meldinger-02-svarmelding/02-organismer-81-Dashboard-modaler-meldinger-02-svarmelding.markup-only.html"
+                  "data-url": "../..link.organismer-svarmelding"
                 },
                 "data-target": "modal-message"
               }
@@ -3444,7 +3444,7 @@
     "data-toggle": "altinn-modal",
     "data-action": "load",
     "data-url": {
-      "data-url": "../../patterns/02-organismer-81-Dashboard-modaler-meldinger-01-nymelding/02-organismer-81-Dashboard-modaler-meldinger-01-nymelding.markup-only.html"
+      "data-url": "../..link.organismer-nymelding"
     },
     "data-target": "modal-message"
   },
@@ -3453,7 +3453,7 @@
       "dropdown-overflow": false,
       "buttonClass": "a-btn a-active a-btn-icon a-btn-transparentWhite",
       "button-colorClass": "",
-      "link-url": "/patterns/04-sider-altinnett-01-dashboard-tjenesteeier-20-dashboard-tjenesteeier-innboks-alle/04-sider-altinnett-01-dashboard-tjenesteeier-20-dashboard-tjenesteeier-innboks-alle.html",
+      "link-url": "link.sider-altinnett-dashboard-tjenesteeier-innboks-alle",
       "button-text": "alle",
       "responsive-br": true,
       "button-icon": {
@@ -3467,7 +3467,7 @@
       "dropdown-overflow": false,
       "buttonClass": "a-btn a-btn-icon a-btn-transparentWhite",
       "button-colorClass": "",
-      "link-url": "/patterns/04-sider-altinnett-01-dashboard-tjenesteeier-20-dashboard-tjenesteeier-innboks-behandles/04-sider-altinnett-01-dashboard-tjenesteeier-20-dashboard-tjenesteeier-innboks-behandles.html",
+      "link-url": "link.sider-altinnett-dashboard-tjenesteeier-innboks-behandles",
       "button-text": "behandles",
       "responsive-br": true,
       "button-icon": {
@@ -3481,7 +3481,7 @@
       "dropdown-overflow": false,
       "buttonClass": "a-btn a-btn-icon a-btn-transparentWhite",
       "button-colorClass": "",
-      "link-url": "/patterns/04-sider-altinnett-01-dashboard-tjenesteeier-20-dashboard-tjenesteeier-innboks-lost/04-sider-altinnett-01-dashboard-tjenesteeier-20-dashboard-tjenesteeier-innboks-lost.html",
+      "link-url": "link.sider-altinnett-dashboard-tjenesteeier-innboks-lost",
       "button-text": "løst",
       "responsive-br": true,
       "button-icon": {

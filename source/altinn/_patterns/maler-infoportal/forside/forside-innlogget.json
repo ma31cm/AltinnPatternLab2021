@@ -211,7 +211,7 @@
   },
   "button-disabled": false,
   "button-type": "button",
-  "onclick": "location.href='/patterns/04-sider-infoportal-01-forside-02-forside-innlogget/04-sider-infoportal-01-forside-02-forside-innlogget.html'",
+  "onclick": "location.href='link.sider-infoportal-forside-innlogget'",
   "display-as-link": false,
   "ferdigsegment-done": {
     "button-text": "Ferdig",
@@ -1293,7 +1293,7 @@
   "title": "Altinn",
   "bodyClass": "a-bgWhite",
   "login-or-switchuser": "Logg inn",
-  "url": "/patterns/04-sider-infoportal-01-forside-02-forside-innlogget/04-sider-infoportal-01-forside-02-forside-innlogget.html",
+  "url": "link.sider-infoportal-forside-innlogget",
   "article-search": {
     "text-input-id": "search",
     "isLarge": "a-form-group-large",
@@ -1313,7 +1313,7 @@
           "button-text-class": "sr-only"
         }
       ],
-      "onclick": "location.href='/patterns/04-sider-infoportal-40-sok-00-sok-forside/04-sider-infoportal-40-sok-00-sok-forside.html';"
+      "onclick": "location.href='link.sider-infoportal-sok-forside';"
     }
   },
   "list-header": "Tittel på listen",
@@ -1324,7 +1324,7 @@
         "onclick": false,
         "additional-classes": "a-dotted a-clickable a-list-hasRowLink",
         "isRowLink": {
-          "rowLink": "/patterns/04-sider-infoportal-20-navigasjonssider-51-omraadeside/04-sider-infoportal-20-navigasjonssider-51-omraadeside.html"
+          "rowLink": "link.sider-infoportal-omraadeside"
         },
         "columns": [
           {
@@ -1344,7 +1344,7 @@
         "onclick": false,
         "additional-classes": "a-dotted a-clickable a-list-hasRowLink",
         "isRowLink": {
-          "rowLink": "/patterns/04-sider-infoportal-35-skjemaartikkel-53-artikkel-skjema-v-egenmeldt-sykefravaer/04-sider-infoportal-35-skjemaartikkel-53-artikkel-skjema-v-egenmeldt-sykefravaer.html"
+          "rowLink": "link.sider-infoportal-artikkel-skjema-v-egenmeldt-sykefravaer"
         },
         "columns": [
           {
@@ -1364,7 +1364,7 @@
         "onclick": false,
         "additional-classes": "a-dotted a-clickable a-list-hasRowLink",
         "isRowLink": {
-          "rowLink": "/patterns/04-sider-infoportal-35-skjemaartikkel-54-artikkel-skjema-v-selskapsoppgave-for-deltakerliknet-selskap/04-sider-infoportal-35-skjemaartikkel-54-artikkel-skjema-v-selskapsoppgave-for-deltakerliknet-selskap.html"
+          "rowLink": "link.sider-infoportal-artikkel-skjema-v-selskapsoppgave-for-deltakerliknet-selskap"
         },
         "columns": [
           {
@@ -1384,7 +1384,7 @@
         "onclick": false,
         "additional-classes": "a-dotted a-clickable a-list-hasRowLink",
         "isRowLink": {
-          "rowLink": "/patterns/04-sider-infoportal-35-skjemaartikkel-55-artikkel-skjema-v-avskrivning/04-sider-infoportal-35-skjemaartikkel-55-artikkel-skjema-v-avskrivning.html"
+          "rowLink": "link.sider-infoportal-artikkel-skjema-v-avskrivning"
         },
         "columns": [
           {
@@ -1404,7 +1404,7 @@
         "onclick": false,
         "additional-classes": "a-dotted a-clickable a-list-hasRowLink",
         "isRowLink": {
-          "rowLink": "/patterns/04-sider-infoportal-35-skjemaartikkel-56-artikkel-skjema-v-anmodning-om-tildeling-av-D-nummer/04-sider-infoportal-35-skjemaartikkel-56-artikkel-skjema-v-anmodning-om-tildeling-av-D-nummer.html"
+          "rowLink": "link.sider-infoportal-artikkel-skjema-v-anmodning-om-tildeling-av-D-nummer"
         },
         "columns": [
           {
@@ -1424,7 +1424,7 @@
         "onclick": false,
         "additional-classes": "a-dotted a-clickable a-list-hasRowLink",
         "isRowLink": {
-          "rowLink": "/patterns/04-sider-infoportal-35-skjemaartikkel-57-artikkel-skjema-v-godkjenning-av-kursarrangor-for-utrykningskjoretoy/04-sider-infoportal-35-skjemaartikkel-57-artikkel-skjema-v-godkjenning-av-kursarrangor-for-utrykningskjoretoy.html"
+          "rowLink": "link.sider-infoportal-artikkel-skjema-v-godkjenning-av-kursarrangor-for-utrykningskjoretoy"
         },
         "columns": [
           {
@@ -1444,7 +1444,7 @@
         "onclick": false,
         "additional-classes": "a-dotted a-clickable a-list-hasRowLink",
         "isRowLink": {
-          "rowLink": "/patterns/04-sider-infoportal-35-skjemaartikkel-58-artikkel-skjema-v-skjenkebevilling-for-skjenking-av-alkoholholdig-drikke/04-sider-infoportal-35-skjemaartikkel-58-artikkel-skjema-v-skjenkebevilling-for-skjenking-av-alkoholholdig-drikke.html"
+          "rowLink": "link.sider-infoportal-artikkel-skjema-v-skjenkebevilling-for-skjenking-av-alkoholholdig-drikke"
         },
         "columns": [
           {

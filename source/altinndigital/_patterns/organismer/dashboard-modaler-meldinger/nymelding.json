@@ -51,7 +51,7 @@
           "data-action": "next",
           "data-toggle":"altinn-modal",
           "data-target":"#modal-message",
-          "page-url": "../../patterns/02-organismer-81-Dashboard-modaler-meldinger-20-tilganger/02-organismer-81-Dashboard-modaler-meldinger-20-tilganger.markup-only.html"
+          "page-url": "../..link.organismer-tilganger"
         }
       },
       {
@@ -69,7 +69,7 @@
           "data-action": "next",
           "data-toggle":"altinn-modal",
           "data-target":"#modal-message",
-          "page-url": "../../patterns/02-organismer-81-Dashboard-modaler-meldinger-30-grensesnitt/02-organismer-81-Dashboard-modaler-meldinger-30-grensesnitt.markup-only.html"
+          "page-url": "../..link.organismer-grensesnitt"
         }
       },
       {
@@ -87,7 +87,7 @@
           "data-action": "next",
           "data-toggle":"altinn-modal",
           "data-target":"#modal-message",
-          "page-url": "../../patterns/02-organismer-81-Dashboard-modaler-meldinger-40-lenketjeneste-1/02-organismer-81-Dashboard-modaler-meldinger-40-lenketjeneste-1.markup-only.html"
+          "page-url": "../..link.organismer-lenketjeneste-1"
         }
       },
       {
@@ -105,7 +105,7 @@
           "data-action": "next",
           "data-toggle":"altinn-modal",
           "data-target":"#modal-message",
-          "page-url": "../../patterns/02-organismer-81-Dashboard-modaler-meldinger-50-varslingsmal-1/02-organismer-81-Dashboard-modaler-meldinger-50-varslingsmal-1.markup-only.html"
+          "page-url": "../..link.organismer-varslingsmal-1"
         }
       },
       {
@@ -123,7 +123,7 @@
           "data-action": "next",
           "data-toggle":"altinn-modal",
           "data-target":"#modal-message",
-          "page-url": "../../patterns/02-organismer-81-Dashboard-modaler-meldinger-60-produksjonssetting/02-organismer-81-Dashboard-modaler-meldinger-60-produksjonssetting.markup-only.html"
+          "page-url": "../..link.organismer-produksjonssetting"
         }
       },
       {
@@ -141,7 +141,7 @@
           "data-action": "next",
           "data-toggle":"altinn-modal",
           "data-target":"#modal-message",
-          "page-url": "../../patterns/02-organismer-81-Dashboard-modaler-meldinger-70-installasjon/02-organismer-81-Dashboard-modaler-meldinger-70-installasjon.markup-only.html"
+          "page-url": "../..link.organismer-installasjon"
         }
       },
       {
@@ -159,7 +159,7 @@
           "data-action": "next",
           "data-toggle":"altinn-modal",
           "data-target":"#modal-message",
-          "page-url": "../../patterns/02-organismer-81-Dashboard-modaler-meldinger-80-deaktivering/02-organismer-81-Dashboard-modaler-meldinger-80-deaktivering.markup-only.html"
+          "page-url": "../..link.organismer-deaktivering"
         }
       },
       {
@@ -177,7 +177,7 @@
           "data-action": "next",
           "data-toggle":"altinn-modal",
           "data-target":"#modal-message",
-          "page-url": "../../patterns/02-organismer-81-Dashboard-modaler-meldinger-90-informasjon/02-organismer-81-Dashboard-modaler-meldinger-90-informasjon.markup-only.html"
+          "page-url": "../..link.organismer-informasjon"
         }
       }
     ]
@@ -319,7 +319,7 @@
       "data-action": "next",
       "data-toggle":"altinn-modal",
       "data-target":"#modal-message",
-      "page-url": "../../patterns/02-organismer-81-Dashboard-modaler-meldinger-03-melding-ferdig/02-organismer-81-Dashboard-modaler-meldinger-03-melding-ferdig.markup-only.html"
+      "page-url": "../..link.organismer-melding-ferdig"
     }
 
   },
@@ -423,7 +423,7 @@
       "data-action": "next",
       "data-toggle":"altinn-modal",
       "data-target":"#modal-message",
-      "page-url": "../../patterns/02-organismer-81-Dashboard-modaler-meldinger-03-melding-ferdig/02-organismer-81-Dashboard-modaler-meldinger-03-melding-ferdig.markup-only.html"
+      "page-url": "../..link.organismer-melding-ferdig"
     }
   }
 }

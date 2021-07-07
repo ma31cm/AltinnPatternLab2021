@@ -211,7 +211,7 @@
   },
   "button-disabled": false,
   "button-type": "button",
-  "onclick": "location.href='/patterns/04-sider-portal-01-aktorvalg-10-aktorvalg-forste-gang-enkel/04-sider-portal-01-aktorvalg-10-aktorvalg-forste-gang-enkel.html'",
+  "onclick": "location.href='link.sider-portal-aktorvalg-forste-gang-enkel'",
   "display-as-link": false,
   "ferdigsegment-done": {
     "button-text": "Ferdig",
@@ -609,7 +609,7 @@
     "front-main-button": {
       "link-buttonLarge": {
         "link-text": "Knapp",
-        "link-url": "/patterns/04-sider-infoportal-01-forside-02-forside-innlogget/04-sider-infoportal-01-forside-02-forside-innlogget.html",
+        "link-url": "link.sider-infoportal-forside-innlogget",
         "linkClass": "a-btn a-btn-border"
       }
     },
@@ -1303,9 +1303,9 @@
   "header": true,
   "personlogin-isLink": "onclick=\"location.href='../..",
   "personlogin-isLink-end": "'\"",
-  "personlogin-isLink-url": "/patterns/04-sider-portal-01-aktorvalg-10-aktorvalg-forste-gang-enkel/04-sider-portal-01-aktorvalg-10-aktorvalg-forste-gang-enkel.html",
+  "personlogin-isLink-url": "link.sider-portal-aktorvalg-forste-gang-enkel",
   "login-or-switchuser": "Logg inn",
-  "url": "/patterns/04-sider-portal-01-aktorvalg-10-aktorvalg-forste-gang-enkel/04-sider-portal-01-aktorvalg-10-aktorvalg-forste-gang-enkel.html",
+  "url": "link.sider-portal-aktorvalg-forste-gang-enkel",
   "article-search": {
     "isLarge": true,
     "isHidden": true,
@@ -1325,7 +1325,7 @@
           "button-text-class": "sr-only"
         }
       ],
-      "onclick": "location.href='/patterns/04-sider-infoportal-40-sok-00-sok-forside/04-sider-infoportal-40-sok-00-sok-forside.html';"
+      "onclick": "location.href='link.sider-infoportal-sok-forside';"
     }
   },
   "list-header": "Tittel på listen",
@@ -1334,7 +1334,7 @@
       {
         "additional-classes": "a-dotted a-clickable a-list-hasRowLink",
         "isRowLink": {
-          "rowLink": "/patterns/04-sider-infoportal-20-navigasjonssider-51-omraadeside/04-sider-infoportal-20-navigasjonssider-51-omraadeside.html"
+          "rowLink": "link.sider-infoportal-omraadeside"
         },
         "columns": [
           {
@@ -1352,7 +1352,7 @@
       {
         "additional-classes": "a-dotted a-clickable a-list-hasRowLink",
         "isRowLink": {
-          "rowLink": "/patterns/04-sider-infoportal-35-skjemaartikkel-53-artikkel-skjema-v-egenmeldt-sykefravaer/04-sider-infoportal-35-skjemaartikkel-53-artikkel-skjema-v-egenmeldt-sykefravaer.html"
+          "rowLink": "link.sider-infoportal-artikkel-skjema-v-egenmeldt-sykefravaer"
         },
         "columns": [
           {

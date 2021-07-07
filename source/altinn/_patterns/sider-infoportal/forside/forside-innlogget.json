@@ -627,7 +627,7 @@
             "button-text-class": "sr-only"
           }
         ],
-        "onclick": "location.href='/patterns/04-sider-infoportal-40-sok-00-sok-forside/04-sider-infoportal-40-sok-00-sok-forside.html';"
+        "onclick": "location.href='link.sider-infoportal-sok-forside';"
       }
     }
   },
@@ -1327,7 +1327,7 @@
         "onclick": false,
         "additional-classes": "a-dotted a-clickable a-list-hasRowLink",
         "isRowLink": {
-          "rowLink": "/patterns/04-sider-infoportal-20-navigasjonssider-51-omraadeside/04-sider-infoportal-20-navigasjonssider-51-omraadeside.html"
+          "rowLink": "link.sider-infoportal-omraadeside"
         },
         "columns": [
           {
@@ -1347,7 +1347,7 @@
         "onclick": false,
         "additional-classes": "a-dotted a-clickable a-list-hasRowLink",
         "isRowLink": {
-          "rowLink": "/patterns/04-sider-infoportal-35-skjemaartikkel-53-artikkel-skjema-v-egenmeldt-sykefravaer/04-sider-infoportal-35-skjemaartikkel-53-artikkel-skjema-v-egenmeldt-sykefravaer.html"
+          "rowLink": "link.sider-infoportal-artikkel-skjema-v-egenmeldt-sykefravaer"
         },
         "columns": [
           {
@@ -1367,7 +1367,7 @@
         "onclick": false,
         "additional-classes": "a-dotted a-clickable a-list-hasRowLink",
         "isRowLink": {
-          "rowLink": "/patterns/04-sider-infoportal-35-skjemaartikkel-54-artikkel-skjema-v-selskapsoppgave-for-deltakerliknet-selskap/04-sider-infoportal-35-skjemaartikkel-54-artikkel-skjema-v-selskapsoppgave-for-deltakerliknet-selskap.html"
+          "rowLink": "link.sider-infoportal-artikkel-skjema-v-selskapsoppgave-for-deltakerliknet-selskap"
         },
         "columns": [
           {
@@ -1387,7 +1387,7 @@
         "onclick": false,
         "additional-classes": "a-dotted a-clickable a-list-hasRowLink",
         "isRowLink": {
-          "rowLink": "/patterns/04-sider-infoportal-35-skjemaartikkel-55-artikkel-skjema-v-avskrivning/04-sider-infoportal-35-skjemaartikkel-55-artikkel-skjema-v-avskrivning.html"
+          "rowLink": "link.sider-infoportal-artikkel-skjema-v-avskrivning"
         },
         "columns": [
           {
@@ -1407,7 +1407,7 @@
         "onclick": false,
         "additional-classes": "a-dotted a-clickable a-list-hasRowLink",
         "isRowLink": {
-          "rowLink": "/patterns/04-sider-infoportal-35-skjemaartikkel-56-artikkel-skjema-v-anmodning-om-tildeling-av-D-nummer/04-sider-infoportal-35-skjemaartikkel-56-artikkel-skjema-v-anmodning-om-tildeling-av-D-nummer.html"
+          "rowLink": "link.sider-infoportal-artikkel-skjema-v-anmodning-om-tildeling-av-D-nummer"
         },
         "columns": [
           {
@@ -1427,7 +1427,7 @@
         "onclick": false,
         "additional-classes": "a-dotted a-clickable a-list-hasRowLink",
         "isRowLink": {
-          "rowLink": "/patterns/04-sider-infoportal-35-skjemaartikkel-57-artikkel-skjema-v-godkjenning-av-kursarrangor-for-utrykningskjoretoy/04-sider-infoportal-35-skjemaartikkel-57-artikkel-skjema-v-godkjenning-av-kursarrangor-for-utrykningskjoretoy.html"
+          "rowLink": "link.sider-infoportal-artikkel-skjema-v-godkjenning-av-kursarrangor-for-utrykningskjoretoy"
         },
         "columns": [
           {
@@ -1447,7 +1447,7 @@
         "onclick": false,
         "additional-classes": "a-dotted a-clickable a-list-hasRowLink",
         "isRowLink": {
-          "rowLink": "/patterns/04-sider-infoportal-35-skjemaartikkel-58-artikkel-skjema-v-skjenkebevilling-for-skjenking-av-alkoholholdig-drikke/04-sider-infoportal-35-skjemaartikkel-58-artikkel-skjema-v-skjenkebevilling-for-skjenking-av-alkoholholdig-drikke.html"
+          "rowLink": "link.sider-infoportal-artikkel-skjema-v-skjenkebevilling-for-skjenking-av-alkoholholdig-drikke"
         },
         "columns": [
           {
@@ -1475,7 +1475,7 @@
     }
   },
   "mediaBlock1": {
-    "figCaption": "Det du trenger å vite for å etablere og drive næringsvirksomhet, finner du på <a href=\"../../patterns/04-sider-infoportal-10-seksjonsforsider-30-seksjonsforside-v-starteogdrive/04-sider-infoportal-10-seksjonsforsider-30-seksjonsforside-v-starteogdrive.html\" class=\"a-linkArea a-link\">Starte og drive bedrift</a>."
+    "figCaption": "Det du trenger å vite for å etablere og drive næringsvirksomhet, finner du på <a href=\"../..link.sider-infoportal-seksjonsforside-v-starteogdrive\" class=\"a-linkArea a-link\">Starte og drive bedrift</a>."
   },
   "mediaBlock2": {
     "figCaption": "Informasjon om alt det offentlige krever av deg som privatperson finner du på <a href=\"http://norge.no\">norge.no</a>"

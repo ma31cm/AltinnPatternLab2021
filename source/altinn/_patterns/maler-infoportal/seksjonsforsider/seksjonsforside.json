@@ -1087,7 +1087,7 @@
             {
               "additional-classes": "a-dotted a-clickable a-list-hasRowLink",
               "isRowLink": {
-                "rowLink": "/patterns/04-sider-infoportal-30-artikkel-42-artikkel-jumbo-v-velg-foretaksform/04-sider-infoportal-30-artikkel-42-artikkel-jumbo-v-velg-foretaksform.html"
+                "rowLink": "link.sider-infoportal-artikkel-jumbo-v-velg-foretaksform"
               },
               "columns": [
                 {
@@ -1105,7 +1105,7 @@
             {
               "additional-classes": "a-dotted a-clickable a-list-hasRowLink",
               "isRowLink": {
-                "rowLink": "/patterns/04-sider-infoportal-30-artikkel-42-artikkel-jumbo-v-velg-foretaksform/04-sider-infoportal-30-artikkel-42-artikkel-jumbo-v-velg-foretaksform.html"
+                "rowLink": "link.sider-infoportal-artikkel-jumbo-v-velg-foretaksform"
               },
               "columns": [
                 {
@@ -1123,7 +1123,7 @@
             {
               "additional-classes": "a-dotted a-clickable a-list-hasRowLink",
               "isRowLink": {
-                "rowLink": "/patterns/04-sider-infoportal-30-artikkel-42-artikkel-jumbo-v-velg-foretaksform/04-sider-infoportal-30-artikkel-42-artikkel-jumbo-v-velg-foretaksform.html"
+                "rowLink": "link.sider-infoportal-artikkel-jumbo-v-velg-foretaksform"
               },
               "columns": [
                 {
@@ -1143,7 +1143,7 @@
         "collapse-panel-link": {
           "linkClass": "a-linkFeatured",
           "link-text": "Gå til temasiden",
-          "link-url": "/patterns/04-sider-infoportal-20-navigasjonssider-31-temaside-v-arbeidsforhold/04-sider-infoportal-20-navigasjonssider-31-temaside-v-arbeidsforhold.html",
+          "link-url": "link.sider-infoportal-temaside-v-arbeidsforhold",
           "link-icon": {
             "icon-prefix": "ai ai-sm ai-nw ai-nw-right",
             "iconClass": "ai-arrowright"
@@ -1223,7 +1223,7 @@
         "collapse-panel-link": {
           "linkClass": "a-linkFeatured",
           "link-text": "Gå til temasiden",
-          "link-url": "/patterns/04-sider-infoportal-20-navigasjonssider-31-temaside-v-arbeidsforhold/04-sider-infoportal-20-navigasjonssider-31-temaside-v-arbeidsforhold.html",
+          "link-url": "link.sider-infoportal-temaside-v-arbeidsforhold",
           "link-icon": {
             "icon-prefix": "ai ai-sm ai-nw ai-nw-right",
             "iconClass": "ai-arrowright"
@@ -1303,7 +1303,7 @@
         "collapse-panel-link": {
           "linkClass": "a-linkFeatured",
           "link-text": "Gå til temasiden",
-          "link-url": "/patterns/04-sider-infoportal-20-navigasjonssider-31-temaside-v-arbeidsforhold/04-sider-infoportal-20-navigasjonssider-31-temaside-v-arbeidsforhold.html",
+          "link-url": "link.sider-infoportal-temaside-v-arbeidsforhold",
           "link-icon": {
             "icon-prefix": "ai ai-sm ai-nw ai-nw-right",
             "iconClass": "ai-arrowright"
@@ -2025,7 +2025,7 @@
           "button-text-class": "sr-only"
         }
       ],
-      "onclick": "location.href='/patterns/04-sider-infoportal-40-sok-00-sok-forside/04-sider-infoportal-40-sok-00-sok-forside.html';"
+      "onclick": "location.href='link.sider-infoportal-sok-forside';"
     }
   },
   "starteogdrive-jumbo": {
@@ -2047,7 +2047,7 @@
         {
           "additional-classes": "a-dotted a-clickable a-list-hasRowLink",
           "isRowLink": {
-            "rowLink": "/patterns/04-sider-infoportal-30-artikkel-42-artikkel-jumbo-v-velg-foretaksform/04-sider-infoportal-30-artikkel-42-artikkel-jumbo-v-velg-foretaksform.html"
+            "rowLink": "link.sider-infoportal-artikkel-jumbo-v-velg-foretaksform"
           },
           "columns": [
             {
@@ -2065,7 +2065,7 @@
         {
           "additional-classes": "a-dotted a-clickable a-list-hasRowLink",
           "isRowLink": {
-            "rowLink": "/patterns/04-sider-infoportal-30-artikkel-42-artikkel-jumbo-v-velg-foretaksform/04-sider-infoportal-30-artikkel-42-artikkel-jumbo-v-velg-foretaksform.html"
+            "rowLink": "link.sider-infoportal-artikkel-jumbo-v-velg-foretaksform"
           },
           "columns": [
             {
@@ -2083,7 +2083,7 @@
         {
           "additional-classes": "a-dotted a-clickable a-list-hasRowLink",
           "isRowLink": {
-            "rowLink": "/patterns/04-sider-infoportal-20-navigasjonssider-40-temaside-filter-v-stotteordninger/04-sider-infoportal-20-navigasjonssider-40-temaside-filter-v-stotteordninger.html"
+            "rowLink": "link.sider-infoportal-temaside-filter-v-stotteordninger"
           },
           "columns": [
             {
@@ -2127,6 +2127,6 @@
     },
     "hasTextSmall": false,
     "link-text": "Lenk til et skjema eller noe annet",
-    "link-url": "/patterns/04-sider-infoportal-01-forside-00-forside/04-sider-infoportal-01-forside-00-forside.html"
+    "link-url": "link.sider-infoportal-forside"
   }
 }

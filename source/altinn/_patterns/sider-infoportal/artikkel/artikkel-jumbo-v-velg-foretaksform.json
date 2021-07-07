@@ -695,7 +695,7 @@
     ],
     "link-text": "Vis aktuelle foretaksformer for deg",
     "linkClass": "a-btn",
-    "link-url": "/patterns/04-sider-infoportal-20-navigasjonssider-21-sammenlikning-v-velg-foretaksform/04-sider-infoportal-20-navigasjonssider-21-sammenlikning-v-velg-foretaksform.html",
+    "link-url": "link.sider-infoportal-sammenlikning-v-velg-foretaksform",
     "button-text": "Vis aktuelle foretaksformer for deg"
   },
   "alert-id": "alert",
@@ -1442,12 +1442,12 @@
       "breadcrumb-item": [
         {
           "breadcrumb-title": "Starte og drive bedrift",
-          "breadcrumb-link": "/patterns/04-sider-infoportal-10-seksjonsforsider-30-seksjonsforside-v-starteogdrive/04-sider-infoportal-10-seksjonsforsider-30-seksjonsforside-v-starteogdrive.html"
+          "breadcrumb-link": "link.sider-infoportal-seksjonsforside-v-starteogdrive"
         },
         {
           "breadcrumb-title": "Starte bedrift",
           "breadcrumb-class": "breadcrumb-mobile",
-          "breadcrumb-link": "/patterns/04-sider-infoportal-20-navigasjonssider-31-temaside-v-starte/04-sider-infoportal-20-navigasjonssider-31-temaside-v-starte.html"
+          "breadcrumb-link": "link.sider-infoportal-temaside-v-starte"
         },
         {
           "breadcrumb-title": "Velg foretaksform",
@@ -1474,14 +1474,14 @@
         "category-element-description": "Er du alene om å skulle starte foretak? Enkeltpersonforetak er en selvstendig næringsvirksomhet drevet under fullt personlig ansvar av en person. Aktiviteter som ansees som rene engangshendelser eller hobbyvirksomhet defineres ikke som næringsvirksomhet.",
         "ismore": true,
         "link-text": "Mer informasjon om Enkeltpersonforetak",
-        "link-url": "/patterns/04-sider-infoportal-30-artikkel-41-artikkel-jumbo-v-enkeltpersonforetak/04-sider-infoportal-30-artikkel-41-artikkel-jumbo-v-enkeltpersonforetak.html"
+        "link-url": "link.sider-infoportal-artikkel-jumbo-v-enkeltpersonforetak"
       },
       {
         "category-element-title": "<h3>Aksjeselskap - AS</h3>",
         "category-element-description": "Skal du starte foretak sammen med noen andre? I et aksjeselskap har ingen av eierne (aksjonærene) personlig ansvar for selskapets forpliktelser. Et aksjeselskap skal ha en aksjekapital på minimum 30.000 kroner til sammen.",
         "ismore": true,
         "link-text": "Mer informasjon om Aksjeselskap",
-        "link-url": "/patterns/04-sider-infoportal-30-artikkel-14-artikkel-v-aksjeselskap/04-sider-infoportal-30-artikkel-14-artikkel-v-aksjeselskap.html"
+        "link-url": "link.sider-infoportal-artikkel-v-aksjeselskap"
       }
     ]
   },
@@ -1492,7 +1492,7 @@
       {
         "additional-classes": "a-dotted a-clickable a-list-hasRowLink",
         "isRowLink": {
-          "rowLink": "/patterns/04-sider-infoportal-10-seksjonsforsider-30-seksjonsforside-v-starteogdrive/04-sider-infoportal-10-seksjonsforsider-30-seksjonsforside-v-starteogdrive.html"
+          "rowLink": "link.sider-infoportal-seksjonsforside-v-starteogdrive"
         },
         "columns": [
           {
@@ -1510,7 +1510,7 @@
       {
         "additional-classes": "a-dotted a-clickable a-list-hasRowLink",
         "isRowLink": {
-          "rowLink": "/patterns/04-sider-infoportal-10-seksjonsforsider-30-seksjonsforside-v-starteogdrive/04-sider-infoportal-10-seksjonsforsider-30-seksjonsforside-v-starteogdrive.html"
+          "rowLink": "link.sider-infoportal-seksjonsforside-v-starteogdrive"
         },
         "columns": [
           {
@@ -1528,7 +1528,7 @@
       {
         "additional-classes": "a-dotted a-clickable a-list-hasRowLink",
         "isRowLink": {
-          "rowLink": "/patterns/04-sider-infoportal-10-seksjonsforsider-30-seksjonsforside-v-starteogdrive/04-sider-infoportal-10-seksjonsforsider-30-seksjonsforside-v-starteogdrive.html"
+          "rowLink": "link.sider-infoportal-seksjonsforside-v-starteogdrive"
         },
         "columns": [
           {
@@ -1546,7 +1546,7 @@
       {
         "additional-classes": "a-dotted a-clickable a-list-hasRowLink",
         "isRowLink": {
-          "rowLink": "/patterns/04-sider-infoportal-10-seksjonsforsider-30-seksjonsforside-v-starteogdrive/04-sider-infoportal-10-seksjonsforsider-30-seksjonsforside-v-starteogdrive.html"
+          "rowLink": "link.sider-infoportal-seksjonsforside-v-starteogdrive"
         },
         "columns": [
           {
@@ -1564,7 +1564,7 @@
       {
         "additional-classes": "a-dotted a-clickable a-list-hasRowLink",
         "isRowLink": {
-          "rowLink": "/patterns/04-sider-infoportal-10-seksjonsforsider-30-seksjonsforside-v-starteogdrive/04-sider-infoportal-10-seksjonsforsider-30-seksjonsforside-v-starteogdrive.html"
+          "rowLink": "link.sider-infoportal-seksjonsforside-v-starteogdrive"
         },
         "columns": [
           {

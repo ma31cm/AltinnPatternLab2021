@@ -5699,7 +5699,7 @@
       "linkFeatured": {
         "link-text": "Tilbake til innboks",
         "linkClass": "a-linkFeatured a-textBlue a-textBlue-hover ml-1",
-        "link-url": "/patterns/04-sider-portal-50-innboks-00-innboks/04-sider-portal-50-innboks-00-innboks.html",
+        "link-url": "link.sider-portal-innboks",
         "link-icon-left": {
           "icon-prefix": "ai ",
           "iconClass": "ai-back",

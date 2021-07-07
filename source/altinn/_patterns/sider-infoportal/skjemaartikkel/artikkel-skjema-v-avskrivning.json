@@ -581,7 +581,7 @@
       "byline-dato": "",
       "byline-link": {
         "byline-link": "Skatteetaten",
-        "byline-link-url": "/patterns/04-sider-infoportal-20-navigasjonssider-50-kolonnenavigasjon-v-skjemaoversikt/04-sider-infoportal-20-navigasjonssider-50-kolonnenavigasjon-v-skjemaoversikt.html"
+        "byline-link-url": "link.sider-infoportal-kolonnenavigasjon-v-skjemaoversikt"
       }
     },
     "icontext": "Stor tekst",
@@ -591,7 +591,7 @@
     "buttonClass": "a-btn a-btn-success",
     "main-card-title": "Flyttemelding innenlands",
     "main-card-code": "(RF-1400)",
-    "onclick": "location.href='/patterns/04-sider-portal-01-aktorvalg-10-aktorvalg-forste-gang/04-sider-portal-01-aktorvalg-10-aktorvalg-forste-gang.html'"
+    "onclick": "location.href='link.sider-portal-aktorvalg-forste-gang'"
   },
   "alert-id": "alert",
   "alert-class": "a-message-info",
@@ -1320,7 +1320,7 @@
           "button-text-class": "sr-only"
         }
       ],
-      "onclick": "location.href='/patterns/04-sider-infoportal-40-sok-00-sok-forside/04-sider-infoportal-40-sok-00-sok-forside.html';"
+      "onclick": "location.href='link.sider-infoportal-sok-forside';"
     }
   },
   "header-2": "Om dette skjemaet",
@@ -1337,16 +1337,16 @@
     "breadcrumb-item": [
       {
         "breadcrumb-title": "Alle skjema",
-        "breadcrumb-link": "/patterns/04-sider-infoportal-20-navigasjonssider-50-kolonnenavigasjon-v-skjemaoversikt/04-sider-infoportal-20-navigasjonssider-50-kolonnenavigasjon-v-skjemaoversikt.html"
+        "breadcrumb-link": "link.sider-infoportal-kolonnenavigasjon-v-skjemaoversikt"
       },
       {
         "breadcrumb-title": "Arbeid og lønn",
-        "breadcrumb-link": "/patterns/04-sider-infoportal-20-navigasjonssider-50-kolonnenavigasjon-v-skjemaoversikt/04-sider-infoportal-20-navigasjonssider-50-kolonnenavigasjon-v-skjemaoversikt.html",
+        "breadcrumb-link": "link.sider-infoportal-kolonnenavigasjon-v-skjemaoversikt",
         "breadcrumb-link-position": "?position=arbeid-og-lønn"
       },
       {
         "breadcrumb-title": "Arbeidsgiverforhold",
-        "breadcrumb-link": "/patterns/04-sider-infoportal-20-navigasjonssider-50-kolonnenavigasjon-v-skjemaoversikt/04-sider-infoportal-20-navigasjonssider-50-kolonnenavigasjon-v-skjemaoversikt.html",
+        "breadcrumb-link": "link.sider-infoportal-kolonnenavigasjon-v-skjemaoversikt",
         "breadcrumb-link-position": "?position=arbeidsgiverforhold",
         "breadcrumb-class": "breadcrumb-mobile"
       },
@@ -1367,7 +1367,7 @@
     "byline-dato": "",
     "byline-link": {
       "byline-link": "Skatteetaten",
-      "byline-link-url": "/patterns/04-sider-infoportal-20-navigasjonssider-50-kolonnenavigasjon-v-skjemaoversikt/04-sider-infoportal-20-navigasjonssider-50-kolonnenavigasjon-v-skjemaoversikt.html"
+      "byline-link-url": "link.sider-infoportal-kolonnenavigasjon-v-skjemaoversikt"
     },
     "lead-text-content": "Skjemaet skal fylles ut og leveres som vedlegg til selvangivelsen av alle skattytere som ved ligningen krever fradrag for avskrivning på driftsmidler. For driftsmidler som er særskilte for kraftforetak, bruk imidlertid skjemaet RF-1152 - Avskrivningsgrunnlag og beregning av årlige avskrivninger mv kraftverk."
   },
@@ -1423,7 +1423,7 @@
       {
         "additional-classes": "a-dotted a-clickable a-list-hasRowLink",
         "isRowLink": {
-          "rowLink": "/patterns/04-sider-infoportal-35-skjemaartikkel-54-artikkel-skjema-v-selskapsoppgave-for-deltakerliknet-selskap/04-sider-infoportal-35-skjemaartikkel-54-artikkel-skjema-v-selskapsoppgave-for-deltakerliknet-selskap.html"
+          "rowLink": "link.sider-infoportal-artikkel-skjema-v-selskapsoppgave-for-deltakerliknet-selskap"
         },
         "columns": [
           {
@@ -1441,7 +1441,7 @@
       {
         "additional-classes": "a-dotted a-clickable a-list-hasRowLink",
         "isRowLink": {
-          "rowLink": "/patterns/04-sider-infoportal-35-skjemaartikkel-54-artikkel-skjema-v-selskapsoppgave-for-deltakerliknet-selskap/04-sider-infoportal-35-skjemaartikkel-54-artikkel-skjema-v-selskapsoppgave-for-deltakerliknet-selskap.html"
+          "rowLink": "link.sider-infoportal-artikkel-skjema-v-selskapsoppgave-for-deltakerliknet-selskap"
         },
         "columns": [
           {
@@ -1459,7 +1459,7 @@
       {
         "additional-classes": "a-dotted a-clickable a-list-hasRowLink",
         "isRowLink": {
-          "rowLink": "/patterns/04-sider-infoportal-35-skjemaartikkel-54-artikkel-skjema-v-selskapsoppgave-for-deltakerliknet-selskap/04-sider-infoportal-35-skjemaartikkel-54-artikkel-skjema-v-selskapsoppgave-for-deltakerliknet-selskap.html"
+          "rowLink": "link.sider-infoportal-artikkel-skjema-v-selskapsoppgave-for-deltakerliknet-selskap"
         },
         "columns": [
           {
@@ -1477,7 +1477,7 @@
       {
         "additional-classes": "a-dotted a-clickable a-list-hasRowLink",
         "isRowLink": {
-          "rowLink": "/patterns/04-sider-infoportal-35-skjemaartikkel-54-artikkel-skjema-v-selskapsoppgave-for-deltakerliknet-selskap/04-sider-infoportal-35-skjemaartikkel-54-artikkel-skjema-v-selskapsoppgave-for-deltakerliknet-selskap.html"
+          "rowLink": "link.sider-infoportal-artikkel-skjema-v-selskapsoppgave-for-deltakerliknet-selskap"
         },
         "columns": [
           {

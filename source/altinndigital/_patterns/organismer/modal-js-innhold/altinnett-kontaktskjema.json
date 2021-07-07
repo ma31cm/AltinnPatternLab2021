@@ -161,7 +161,7 @@
     "data-action": "load",
     "data-toggle": "altinn-modal",
     "data-target": "modal-singel",
-    "page-url": "../../patterns/02-organismer-80-Modal-js-innhold-12-altinnett-kontaktskjema/02-organismer-80-Modal-js-innhold-12-altinnett-kontaktskjema.markup-only.html"
+    "page-url": "../..link.organismer-altinnett-kontaktskjema"
   },
   "modal-id": "modal-singel",
   "singelmodal": {
@@ -196,5 +196,5 @@
       ]
     }
   },
-  "page-url": "http://localhost:3000/patterns/02-organismer-80-Modal-js-innhold-12-altinnett-kontaktskjema/02-organismer-80-Modal-js-innhold-12-altinnett-kontaktskjema.markup-only.html"
+  "page-url": "http://localhost:3000link.organismer-altinnett-kontaktskjema"
 }

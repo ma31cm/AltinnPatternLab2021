@@ -54,7 +54,7 @@
   "button-text": "En standard knapp",
   "buttonClass": "a-btn",
   "button-colorClass": "",
-  "link-url": "/patterns/04-sider-infoportal-01-forside-00-forside/04-sider-infoportal-01-forside-00-forside.html",
+  "link-url": "link.sider-infoportal-forside",
   "button-shadow-label": false,
   "button-icon": false,
   "info-delete-add": {
@@ -408,18 +408,18 @@
     "button-text": "Klientdelegering på fil",
     "buttonClass": "a-btn-link",
     "display-as-link": true,
-    "onclick": "location.href='/patterns/04-sider-portal-91-klientdelegering-00-klientdelegering-pa-fil/04-sider-portal-91-klientdelegering-00-klientdelegering-pa-fil.html';"
+    "onclick": "location.href='link.sider-portal-klientdelegering-pa-fil';"
   },
   "klientdelegering-file-mobile": {
     "button-text": "Klientdelegering på fil",
     "buttonClass": "a-btn-link",
     "display-as-link": true,
-    "onclick": "location.href='/patterns/04-sider-portal-91-klientdelegering-00-klientdelegering-pa-fil/04-sider-portal-91-klientdelegering-00-klientdelegering-pa-fil.html';"
+    "onclick": "location.href='link.sider-portal-klientdelegering-pa-fil';"
   },
   "klientdelegering-add": {
     "buttonClass": "a-btn a-btn-action a-fullWidthBtn",
     "actionButtonText": "Legg til ny ansatt",
-    "onclick": "location.href='/patterns/04-sider-portal-91-klientdelegering-00-klientdelegering-legg-til-ansatt/04-sider-portal-91-klientdelegering-00-klientdelegering-legg-til-ansatt.html'",
+    "onclick": "location.href='link.sider-portal-klientdelegering-legg-til-ansatt'",
     "icon-prefix": "ai",
     "iconClass": "ai-plus",
     "iconExtraClass": ""

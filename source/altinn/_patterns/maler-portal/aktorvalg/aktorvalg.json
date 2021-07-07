@@ -12,7 +12,7 @@
   "icon-title": false,
   "icon-sr-only-text": false,
   "link-text": "En lenke ser slik ut",
-  "link-url": "/patterns/04-sider-infoportal-01-forside-00-forside/04-sider-infoportal-01-forside-00-forside.html",
+  "link-url": "link.sider-infoportal-forside",
   "sr-text": false,
   "myself-name": "JAN PETTERSEN",
   "myself-represent-number": "9",
@@ -413,7 +413,7 @@
       "iconClass": "ai-corp",
       "iconExtraClass": "ai-left"
     },
-    "link-url": "/patterns/04-sider-portal-50-innboks-00-innboks/04-sider-portal-50-innboks-00-innboks.html"
+    "link-url": "link.sider-portal-innboks"
   },
   "button-sub": {
     "collapse-header-contentID": "listsublevels2",
@@ -567,7 +567,7 @@
           "iconClass": "ai-corp ai-left",
           "iconExtraClass": ""
         },
-        "link-url": "/patterns/04-sider-portal-50-innboks-00-innboks/04-sider-portal-50-innboks-00-innboks.html"
+        "link-url": "link.sider-portal-innboks"
       },
       "button-sub": false
     },
@@ -588,7 +588,7 @@
           "iconClass": "ai-corp ai-left",
           "iconExtraClass": ""
         },
-        "link-url": "/patterns/04-sider-portal-50-innboks-00-innboks/04-sider-portal-50-innboks-00-innboks.html"
+        "link-url": "link.sider-portal-innboks"
       },
       "button-sub": {
         "collapse-header-contentID": "listsublevels2",
@@ -673,7 +673,7 @@
           "iconClass": "ai-private ai-left",
           "iconExtraClass": ""
         },
-        "link-url": "/patterns/04-sider-portal-50-innboks-00-innboks/04-sider-portal-50-innboks-00-innboks.html"
+        "link-url": "link.sider-portal-innboks"
       },
       "button-sub": false
     },
@@ -694,7 +694,7 @@
           "iconExtraClass": ""
         },
         "title": "Jan Derek Sørensen Julius Andreas Gimli Arn MacGyver Chewbacka Highlander Elessar-Jankov",
-        "link-url": "/patterns/04-sider-portal-50-innboks-00-innboks/04-sider-portal-50-innboks-00-innboks.html"
+        "link-url": "link.sider-portal-innboks"
       },
       "button-sub": false
     },
@@ -714,7 +714,7 @@
           "iconClass": "ai-corp ai-left",
           "iconExtraClass": ""
         },
-        "link-url": "/patterns/04-sider-portal-50-innboks-00-innboks/04-sider-portal-50-innboks-00-innboks.html"
+        "link-url": "link.sider-portal-innboks"
       },
       "button-sub": false
     },
@@ -734,7 +734,7 @@
           "iconClass": "ai-corp ai-left",
           "iconExtraClass": ""
         },
-        "link-url": "/patterns/04-sider-portal-50-innboks-00-innboks/04-sider-portal-50-innboks-00-innboks.html"
+        "link-url": "link.sider-portal-innboks"
       },
       "button-sub": false
     }
@@ -745,7 +745,7 @@
     "icon-prefix": "ai",
     "iconClass": "ai-plus",
     "iconExtraClass": "",
-    "onclick": "location.href='/patterns/04-sider-portal-01-aktorvalg-10-aktorvalg/04-sider-portal-01-aktorvalg-10-aktorvalg.html'"
+    "onclick": "location.href='link.sider-portal-aktorvalg'"
   },
   "personswitch-options": {
     "isDiscreet": "a-form-checkboxes--discret",
@@ -1231,7 +1231,7 @@
     "linkFeatured": {
       "link-text": "Tilbake til innboks",
       "linkClass": "a-linkFeatured a-textBlue a-textBlue-hover ml-1",
-      "link-url": "/patterns/04-sider-portal-50-innboks-00-innboks/04-sider-portal-50-innboks-00-innboks.html",
+      "link-url": "link.sider-portal-innboks",
       "link-icon-left": {
         "icon-prefix": "ai ",
         "iconClass": "ai-back",
@@ -1283,7 +1283,7 @@
               "button-text-class": "sr-only"
             }
           ],
-          "onclick": "location.href='/patterns/04-sider-infoportal-40-sok-00-sok-forside/04-sider-infoportal-40-sok-00-sok-forside.html';"
+          "onclick": "location.href='link.sider-infoportal-sok-forside';"
         }
       ]
     },
@@ -1930,7 +1930,7 @@
           "button-text-class": "sr-only"
         }
       ],
-      "onclick": "location.href='/patterns/04-sider-infoportal-40-sok-00-sok-forside/04-sider-infoportal-40-sok-00-sok-forside.html';"
+      "onclick": "location.href='link.sider-infoportal-sok-forside';"
     }
   },
   "tel-icon": {

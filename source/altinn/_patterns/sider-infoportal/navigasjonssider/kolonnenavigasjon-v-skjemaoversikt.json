@@ -641,47 +641,47 @@
             {
               "colnav-third-level-header": "A-melding",
               "colnav-third-level-right-text": "Skatteetaten",
-              "colnav-third-level-link": "/patterns/04-sider-infoportal-35-skjemaartikkel-11-artikkel-skjema-v-amelding/04-sider-infoportal-35-skjemaartikkel-11-artikkel-skjema-v-amelding.html"
+              "colnav-third-level-link": "link.sider-infoportal-artikkel-skjema-v-amelding"
             },
             {
               "colnav-third-level-header": "A-melding *med varsler*",
               "colnav-third-level-right-text": "Skatteetaten",
-              "colnav-third-level-link": "/patterns/04-sider-infoportal-35-skjemaartikkel-11-artikkel-skjema-v-amelding-varsler/04-sider-infoportal-35-skjemaartikkel-11-artikkel-skjema-v-amelding-varsler.html"
+              "colnav-third-level-link": "link.sider-infoportal-artikkel-skjema-v-amelding-varsler"
             },
             {
               "colnav-third-level-header": "Egenmeldt sykefravær",
               "colnav-third-level-right-text": "Skatteetaten",
-              "colnav-third-level-link": "/patterns/04-sider-infoportal-35-skjemaartikkel-53-artikkel-skjema-v-egenmeldt-sykefravaer/04-sider-infoportal-35-skjemaartikkel-53-artikkel-skjema-v-egenmeldt-sykefravaer.html"
+              "colnav-third-level-link": "link.sider-infoportal-artikkel-skjema-v-egenmeldt-sykefravaer"
             },
             {
               "colnav-third-level-header": "Selskapsoppgave for deltakerliknet selskap",
               "colnav-third-level-right-text": "Skatteetaten",
-              "colnav-third-level-link": "/patterns/04-sider-infoportal-35-skjemaartikkel-54-artikkel-skjema-v-selskapsoppgave-for-deltakerliknet-selskap/04-sider-infoportal-35-skjemaartikkel-54-artikkel-skjema-v-selskapsoppgave-for-deltakerliknet-selskap.html"
+              "colnav-third-level-link": "link.sider-infoportal-artikkel-skjema-v-selskapsoppgave-for-deltakerliknet-selskap"
             },
             {
               "colnav-third-level-header": "Avskrivning",
               "colnav-third-level-right-text": "Skatteetaten",
-              "colnav-third-level-link": "/patterns/04-sider-infoportal-35-skjemaartikkel-55-artikkel-skjema-v-avskrivning/04-sider-infoportal-35-skjemaartikkel-55-artikkel-skjema-v-avskrivning.html"
+              "colnav-third-level-link": "link.sider-infoportal-artikkel-skjema-v-avskrivning"
             },
             {
               "colnav-third-level-header": "Anmodning om tildeling av D-nummer",
               "colnav-third-level-right-text": "Skatteetaten",
-              "colnav-third-level-link": "/patterns/04-sider-infoportal-35-skjemaartikkel-56-artikkel-skjema-v-anmodning-om-tildeling-av-D-nummer/04-sider-infoportal-35-skjemaartikkel-56-artikkel-skjema-v-anmodning-om-tildeling-av-D-nummer.html"
+              "colnav-third-level-link": "link.sider-infoportal-artikkel-skjema-v-anmodning-om-tildeling-av-D-nummer"
             },
             {
               "colnav-third-level-header": "Godkjenning av kursarrangør for utrykningskjøretøy",
               "colnav-third-level-right-text": "Skatteetaten",
-              "colnav-third-level-link": "/patterns/04-sider-infoportal-35-skjemaartikkel-57-artikkel-skjema-v-godkjenning-av-kursarrangor-for-utrykningskjoretoy/04-sider-infoportal-35-skjemaartikkel-57-artikkel-skjema-v-godkjenning-av-kursarrangor-for-utrykningskjoretoy.html"
+              "colnav-third-level-link": "link.sider-infoportal-artikkel-skjema-v-godkjenning-av-kursarrangor-for-utrykningskjoretoy"
             },
             {
               "colnav-third-level-header": "Skjenkebevilling for skjenking av alkoholholdig drikke",
               "colnav-third-level-right-text": "Kommunene",
-              "colnav-third-level-link": "/patterns/04-sider-infoportal-35-skjemaartikkel-58-artikkel-skjema-v-skjenkebevilling-for-skjenking-av-alkoholholdig-drikke/04-sider-infoportal-35-skjemaartikkel-58-artikkel-skjema-v-skjenkebevilling-for-skjenking-av-alkoholholdig-drikke.html"
+              "colnav-third-level-link": "link.sider-infoportal-artikkel-skjema-v-skjenkebevilling-for-skjenking-av-alkoholholdig-drikke"
             },
             {
               "colnav-third-level-header": "A-ordningen (Test områdeside)",
               "colnav-third-level-right-text": "?",
-              "colnav-third-level-link": "/patterns/04-sider-infoportal-20-navigasjonssider-51-omraadeside/04-sider-infoportal-20-navigasjonssider-51-omraadeside.html"
+              "colnav-third-level-link": "link.sider-infoportal-omraadeside"
             }
           ]
         },
@@ -1561,18 +1561,18 @@
           "button-text-class": "sr-only"
         }
       ],
-      "onclick": "location.href='/patterns/04-sider-infoportal-40-sok-10-sok-skjema/04-sider-infoportal-40-sok-10-sok-skjema.html';"
+      "onclick": "location.href='link.sider-infoportal-sok-skjema';"
     }
   },
-  "switch-url-1": "/patterns/04-sider-infoportal-20-navigasjonssider-50-kolonnenavigasjon-v-skjemaoversikt/04-sider-infoportal-20-navigasjonssider-50-kolonnenavigasjon-v-skjemaoversikt.html",
-  "switch-url-2": "/patterns/04-sider-infoportal-20-navigasjonssider-50-kolonnenavigasjon-v-skjemaoversikt-etater/04-sider-infoportal-20-navigasjonssider-50-kolonnenavigasjon-v-skjemaoversikt-etater.html",
+  "switch-url-1": "link.sider-infoportal-kolonnenavigasjon-v-skjemaoversikt",
+  "switch-url-2": "link.sider-infoportal-kolonnenavigasjon-v-skjemaoversikt-etater",
   "suggestionList": {
     "additional-classes": "a-list-borderTop a-list-noIcon",
     "rows": [
       {
         "additional-classes": "a-dotted a-clickable a-list-hasRowLink",
         "isRowLink": {
-          "rowLink": "/patterns/04-sider-infoportal-20-navigasjonssider-51-omraadeside/04-sider-infoportal-20-navigasjonssider-51-omraadeside.html"
+          "rowLink": "link.sider-infoportal-omraadeside"
         },
         "columns": [
           {
@@ -1590,7 +1590,7 @@
       {
         "additional-classes": "a-dotted a-clickable a-list-hasRowLink",
         "isRowLink": {
-          "rowLink": "/patterns/04-sider-infoportal-35-skjemaartikkel-12-artikkel-skjema-v-amelding-a02/04-sider-infoportal-35-skjemaartikkel-12-artikkel-skjema-v-amelding-a02.html"
+          "rowLink": "link.sider-infoportal-artikkel-skjema-v-amelding-a02"
         },
         "columns": [
           {
@@ -1608,7 +1608,7 @@
       {
         "additional-classes": "a-dotted a-clickable a-list-hasRowLink",
         "isRowLink": {
-          "rowLink": "/patterns/04-sider-infoportal-35-skjemaartikkel-11-artikkel-skjema-v-amelding-varsler/04-sider-infoportal-35-skjemaartikkel-11-artikkel-skjema-v-amelding-varsler.html"
+          "rowLink": "link.sider-infoportal-artikkel-skjema-v-amelding-varsler"
         },
         "columns": [
           {
@@ -1626,7 +1626,7 @@
       {
         "additional-classes": "a-dotted a-clickable a-list-hasRowLink",
         "isRowLink": {
-          "rowLink": "/patterns/04-sider-infoportal-35-skjemaartikkel-53-artikkel-skjema-v-egenmeldt-sykefravaer/04-sider-infoportal-35-skjemaartikkel-53-artikkel-skjema-v-egenmeldt-sykefravaer.html"
+          "rowLink": "link.sider-infoportal-artikkel-skjema-v-egenmeldt-sykefravaer"
         },
         "columns": [
           {
@@ -1644,7 +1644,7 @@
       {
         "additional-classes": "a-dotted a-clickable a-list-hasRowLink",
         "isRowLink": {
-          "rowLink": "/patterns/04-sider-infoportal-35-skjemaartikkel-54-artikkel-skjema-v-selskapsoppgave-for-deltakerliknet-selskap/04-sider-infoportal-35-skjemaartikkel-54-artikkel-skjema-v-selskapsoppgave-for-deltakerliknet-selskap.html"
+          "rowLink": "link.sider-infoportal-artikkel-skjema-v-selskapsoppgave-for-deltakerliknet-selskap"
         },
         "columns": [
           {
@@ -1662,7 +1662,7 @@
       {
         "additional-classes": "a-dotted a-clickable a-list-hasRowLink",
         "isRowLink": {
-          "rowLink": "/patterns/04-sider-infoportal-35-skjemaartikkel-55-artikkel-skjema-v-avskrivning/04-sider-infoportal-35-skjemaartikkel-55-artikkel-skjema-v-avskrivning.html"
+          "rowLink": "link.sider-infoportal-artikkel-skjema-v-avskrivning"
         },
         "columns": [
           {
@@ -1680,7 +1680,7 @@
       {
         "additional-classes": "a-dotted a-clickable a-list-hasRowLink",
         "isRowLink": {
-          "rowLink": "/patterns/04-sider-infoportal-35-skjemaartikkel-56-artikkel-skjema-v-anmodning-om-tildeling-av-D-nummer/04-sider-infoportal-35-skjemaartikkel-56-artikkel-skjema-v-anmodning-om-tildeling-av-D-nummer.html"
+          "rowLink": "link.sider-infoportal-artikkel-skjema-v-anmodning-om-tildeling-av-D-nummer"
         },
         "columns": [
           {
@@ -1698,7 +1698,7 @@
       {
         "additional-classes": "a-dotted a-clickable a-list-hasRowLink",
         "isRowLink": {
-          "rowLink": "/patterns/04-sider-infoportal-35-skjemaartikkel-57-artikkel-skjema-v-godkjenning-av-kursarrangor-for-utrykningskjoretoy/04-sider-infoportal-35-skjemaartikkel-57-artikkel-skjema-v-godkjenning-av-kursarrangor-for-utrykningskjoretoy.html"
+          "rowLink": "link.sider-infoportal-artikkel-skjema-v-godkjenning-av-kursarrangor-for-utrykningskjoretoy"
         },
         "columns": [
           {
@@ -1716,7 +1716,7 @@
       {
         "additional-classes": "a-dotted a-clickable a-list-hasRowLink",
         "isRowLink": {
-          "rowLink": "/patterns/04-sider-infoportal-35-skjemaartikkel-58-artikkel-skjema-v-skjenkebevilling-for-skjenking-av-alkoholholdig-drikke/04-sider-infoportal-35-skjemaartikkel-58-artikkel-skjema-v-skjenkebevilling-for-skjenking-av-alkoholholdig-drikke.html"
+          "rowLink": "link.sider-infoportal-artikkel-skjema-v-skjenkebevilling-for-skjenking-av-alkoholholdig-drikke"
         },
         "columns": [
           {

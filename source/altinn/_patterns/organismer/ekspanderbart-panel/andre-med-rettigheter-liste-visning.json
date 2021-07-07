@@ -47,7 +47,7 @@
   "box-list-id": "boxList",
   "activity-log": {
     "link-text": "Aktivitetslogg",
-    "link-url": "/patterns/04-sider-portal-92-andre-med-rettigheter-00-andre-med-rettigheter-aktivitetslogg/04-sider-portal-92-andre-med-rettigheter-00-andre-med-rettigheter-aktivitetslogg.html"
+    "link-url": "link.sider-portal-andre-med-rettigheter-aktivitetslogg"
   },
   "andremedrettigheter-add": {
     "buttonClass": "a-btn a-btn-action a-fullWidthBtn",

@@ -119,7 +119,7 @@
       }
     ]
   },
-  "page-url": "../../patterns/02-organismer-80-Modal-js-innhold-12-altinnett-kontaktskjema/02-organismer-80-Modal-js-innhold-12-altinnett-kontaktskjema.markup-only.html",
+  "page-url": "../..link.organismer-altinnett-kontaktskjema",
   "footerHeading": "Vil du vite mer?",
   "footer-search": {
     "text-input-id": "text-input-search-footer",
@@ -142,7 +142,7 @@
         }
       ],
       "form-input-button-action": "Utfør søk",
-      "onclick": "location.href='/patterns/04-sider-altinnett-60-sok-00-sokeside/04-sider-altinnett-60-sok-00-sokeside.html';"
+      "onclick": "location.href='link.sider-altinnett-sokeside';"
     }
   },
   "contactLinks": [
@@ -206,7 +206,7 @@
       "data-action": "load",
       "data-toggle": "altinn-modal",
       "data-target": "modal-singel",
-      "page-url": "../../patterns/02-organismer-80-Modal-js-innhold-12-altinnett-kontaktskjema/02-organismer-80-Modal-js-innhold-12-altinnett-kontaktskjema.markup-only.html"
+      "page-url": "../..link.organismer-altinnett-kontaktskjema"
     },
     "logo-class": "a-modal-top-logo",
     "login-show": false,
@@ -321,7 +321,7 @@
   "label-id": false,
   "label-content": "9",
   "link-text": "En lenke ser slik ut",
-  "link-url": "/patterns/04-sider-infoportal-01-forside-00-forside/04-sider-infoportal-01-forside-00-forside.html",
+  "link-url": "link.sider-infoportal-forside",
   "sr-text": false,
   "heading-start": "<h2>",
   "heading-end": "</h2>",
@@ -367,7 +367,7 @@
           "button-text-class": "sr-only"
         }
       ],
-      "onclick": "location.href='/patterns/04-sider-altinnett-60-sok-00-sokeside/04-sider-altinnett-60-sok-00-sokeside.html';"
+      "onclick": "location.href='link.sider-altinnett-sokeside';"
     }
   },
   "name": "JAN PETTERSEN",
@@ -392,7 +392,7 @@
     "extra-classes": "a-fontBold"
   },
   "produkter": {
-    "link": "/patterns/03-maler-altinnett-80-produktsider-10-produktoversikt/03-maler-altinnett-80-produktsider-10-produktoversikt.html"
+    "link": "link.maler-altinnett-produktoversikt"
   },
   "login-button": {
     "button-text": "Logg inn",
@@ -400,17 +400,17 @@
     "button-disabled": false,
     "button-type": "button",
     "onclick": {
-      "onclick": "location.href='/patterns/03-maler-altinnett-20-profil-30-paalogget/03-maler-altinnett-20-profil-30-paalogget.html'"
+      "onclick": "location.href='link.maler-altinnett-paalogget'"
     },
     "button-icon": false,
     "display-as-link": false
   },
   "header-color": "",
-  "url-logo": "/patterns/04-sider-altinnett-10-forside-10-forside/04-sider-altinnett-10-forside-10-forside.html",
+  "url-logo": "link.sider-altinnett-forside",
   "headerlogo": "../../images/an-logo-blue.svg",
   "button-colorClass": "",
   "hide-header": true,
-  "url-aktuelt": "/patterns/04-sider-altinnett-40-navigasjonssider-10-nyhetsarkiv/04-sider-altinnett-40-navigasjonssider-10-nyhetsarkiv.html",
+  "url-aktuelt": "link.sider-altinnett-nyhetsarkiv",
   "ekstra-menypunkt-1": "Ekstra menypunkt 1",
   "title": "Altinnett",
   "bodyClass": "project-altinnett a-bgWhite",
@@ -436,7 +436,7 @@
           "button-text-class": "sr-only"
         }
       ],
-      "onclick": "location.href='/patterns/04-sider-altinnett-60-sok-00-sokeside/04-sider-altinnett-60-sok-00-sokeside.html';"
+      "onclick": "location.href='link.sider-altinnett-sokeside';"
     }
   },
   "articlesContainerClass": "a-newsArchive",
@@ -460,7 +460,7 @@
       "linkTitle": {
         "link-text": "Hva er nytt i ny versjon av Altinn?",
         "linkClass": "a-link-title",
-        "link-url": "/patterns/04-sider-altinnett-30-artikkel-10-artikkel/04-sider-altinnett-30-artikkel-10-artikkel.html"
+        "link-url": "link.sider-altinnett-artikkel"
       },
       "category-element-description": "I uke 7 kom Altinn i ny versjon. Som vanlig for februar-versjoner, inneholdt den nye versjonen av Altinn endringer for skattemeldingen (tidligere kjent som selvangivelsen). I tillegg er det en rekke endringer på andre områder."
     },
@@ -470,7 +470,7 @@
       "linkTitle": {
         "link-text": "Brønnøysundregistrene har valgt nye leverandører for Altinn",
         "linkClass": "a-link-title",
-        "link-url": "/patterns/04-sider-altinnett-30-artikkel-20-artikkel-jumbo/04-sider-altinnett-30-artikkel-20-artikkel-jumbo.html"
+        "link-url": "link.sider-altinnett-artikkel-jumbo"
       },
       "heading-label": {
         "label-class": "badge-default",
@@ -485,7 +485,7 @@
       "linkTitle": {
         "link-text": "Tilskuddsbrevene for jordbruket kommer 1. februar",
         "linkClass": "a-link-title",
-        "link-url": "/patterns/04-sider-altinnett-30-artikkel-10-artikkel/04-sider-altinnett-30-artikkel-10-artikkel.html"
+        "link-url": "link.sider-altinnett-artikkel"
       },
       "category-element-description": "Onsdag 1. februar, blir tilskuddsbrevene med vedtak om produksjonstilskudd i jordbruket tilgjengelig for 40 000 jordbruksforetak."
     },
@@ -495,7 +495,7 @@
       "linkTitle": {
         "link-text": "Digitalisering av sykepenger: søk om å bli pilot",
         "linkClass": "a-link-title",
-        "link-url": "/patterns/04-sider-altinnett-30-artikkel-10-artikkel/04-sider-altinnett-30-artikkel-10-artikkel.html"
+        "link-url": "link.sider-altinnett-artikkel"
       },
       "category-element-description": "NAV er i gang med å utvikle en digital løsning for å søke om sykepenger. Hittil har det bare vært mulig for den ansatte å levere selve sykmeldingen (del C) digitalt, mens søknaden om sykepenger (del D) fortsatt må leveres på papir."
     },
@@ -505,7 +505,7 @@
       "linkTitle": {
         "link-text": "Nå kommer sykmeldinger i Altinn",
         "linkClass": "a-link-title",
-        "link-url": "/patterns/04-sider-altinnett-30-artikkel-10-artikkel/04-sider-altinnett-30-artikkel-10-artikkel.html"
+        "link-url": "link.sider-altinnett-artikkel"
       },
       "category-element-description": "NAV er i ferd med å digitalisere sykmeldingen. Det skal gjøre det enklere for alle som er involvert i et sykefravær å samhandle. Tjenesten utvikles stegvis."
     },
@@ -515,7 +515,7 @@
       "linkTitle": {
         "link-text": "NAV endrer rapportering av refusjon",
         "linkClass": "a-link-title",
-        "link-url": "/patterns/04-sider-altinnett-30-artikkel-10-artikkel/04-sider-altinnett-30-artikkel-10-artikkel.html"
+        "link-url": "link.sider-altinnett-artikkel"
       },
       "category-element-description": "Endring knyttet til rapportering av refusjon av sykepenger, foreldrepenger og pleie-, omsorgs- og opplæringspenger til arbeidsgivere: Fra 26. november 2016 blir det endringer i den månedlige oppgjørslisten/oppgjørsrapporten (K27) som sendes til arbeidsgiverne via Altinn, og for oppgjørslisten (K37) som benyttes etter hovedberegningen av refusjon av feriepenger i mai. I tillegg blir det endringe..."
     }
@@ -549,10 +549,10 @@
           }
         ],
         "form-input-button-action": "Utfør søk",
-        "onclick": "location.href='/patterns/04-sider-altinnett-60-sok-00-sokeside/04-sider-altinnett-60-sok-00-sokeside.html';"
+        "onclick": "location.href='link.sider-altinnett-sokeside';"
       }
     },
     "menuItem1": "innovation@altinn",
-    "urlMenuItem1": "/patterns/04-sider-altinnett-50-seksjonsforsider-10-seksjonsforside/04-sider-altinnett-50-seksjonsforsider-10-seksjonsforside.html"
+    "urlMenuItem1": "link.sider-altinnett-seksjonsforside"
   }
 }

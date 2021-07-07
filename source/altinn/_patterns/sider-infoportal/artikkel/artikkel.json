@@ -623,7 +623,7 @@
     ],
     "link-text": "Vis svar",
     "linkClass": "a-btn",
-    "link-url": "/patterns/04-sider-infoportal-20-navigasjonssider-21-sammenlikning-v-velg-foretaksform/04-sider-infoportal-20-navigasjonssider-21-sammenlikning-v-velg-foretaksform.html",
+    "link-url": "link.sider-infoportal-sammenlikning-v-velg-foretaksform",
     "button-text": "Vis aktuelle foretaksformer for deg"
   },
   "linkFeatured": {
@@ -1619,7 +1619,7 @@
       "textSmall": "Ekstratittel"
     },
     "link-text": "Lenk til et skjemaLenk til et skjemaLenk til et skjema eller noe annet",
-    "link-url": "/patterns/04-sider-infoportal-01-forside-00-forside/04-sider-infoportal-01-forside-00-forside.html",
+    "link-url": "link.sider-infoportal-forside",
     "linkClass": false,
     "link-icon": false
   },
@@ -1652,7 +1652,7 @@
     },
     "hasTextSmall": false,
     "link-text": "Lenk til et skjema eller noe annet",
-    "link-url": "/patterns/04-sider-infoportal-01-forside-00-forside/04-sider-infoportal-01-forside-00-forside.html",
+    "link-url": "link.sider-infoportal-forside",
     "link-icon": false
   },
   "article-compare-first": {
@@ -1666,14 +1666,14 @@
         "category-element-description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut <a href=\"#\">labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</a>",
         "ismore": true,
         "link-text": "Mer informasjon om dette",
-        "link-url": "/patterns/04-sider-infoportal-30-artikkel-41-artikkel-jumbo-v-enkeltpersonforetak/04-sider-infoportal-30-artikkel-41-artikkel-jumbo-v-enkeltpersonforetak.html"
+        "link-url": "link.sider-infoportal-artikkel-jumbo-v-enkeltpersonforetak"
       },
       {
         "category-element-title": "<h3>Det andre som skal sammenliknes</h3>",
         "category-element-description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
         "ismore": true,
         "link-text": "Mer informasjon om ...",
-        "link-url": "/patterns/04-sider-infoportal-30-artikkel-41-artikkel-jumbo-v-enkeltpersonforetak/04-sider-infoportal-30-artikkel-41-artikkel-jumbo-v-enkeltpersonforetak.html"
+        "link-url": "link.sider-infoportal-artikkel-jumbo-v-enkeltpersonforetak"
       }
     ]
   },
@@ -1688,14 +1688,14 @@
         "category-element-description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut <a href=\"#\">labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</a>",
         "ismore": true,
         "link-text": "Mer informasjon om dette",
-        "link-url": "/patterns/04-sider-infoportal-30-artikkel-41-artikkel-jumbo-v-enkeltpersonforetak/04-sider-infoportal-30-artikkel-41-artikkel-jumbo-v-enkeltpersonforetak.html"
+        "link-url": "link.sider-infoportal-artikkel-jumbo-v-enkeltpersonforetak"
       },
       {
         "category-element-title": "<h3>Det andre som skal sammenliknes</h3>",
         "category-element-description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
         "ismore": true,
         "link-text": "Mer informasjon om ...",
-        "link-url": "/patterns/04-sider-infoportal-30-artikkel-41-artikkel-jumbo-v-enkeltpersonforetak/04-sider-infoportal-30-artikkel-41-artikkel-jumbo-v-enkeltpersonforetak.html"
+        "link-url": "link.sider-infoportal-artikkel-jumbo-v-enkeltpersonforetak"
       },
       {
         "istitle": true,
@@ -1703,7 +1703,7 @@
         "category-element-description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut <a href=\"#\">labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</a>",
         "ismore": true,
         "link-text": "Mer informasjon om dette",
-        "link-url": "/patterns/04-sider-infoportal-30-artikkel-41-artikkel-jumbo-v-enkeltpersonforetak/04-sider-infoportal-30-artikkel-41-artikkel-jumbo-v-enkeltpersonforetak.html"
+        "link-url": "link.sider-infoportal-artikkel-jumbo-v-enkeltpersonforetak"
       },
       {
         "istitle": true,
@@ -1711,7 +1711,7 @@
         "category-element-description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut <a href=\"#\">labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</a>",
         "ismore": true,
         "link-text": "Mer informasjon om dette",
-        "link-url": "/patterns/04-sider-infoportal-30-artikkel-41-artikkel-jumbo-v-enkeltpersonforetak/04-sider-infoportal-30-artikkel-41-artikkel-jumbo-v-enkeltpersonforetak.html"
+        "link-url": "link.sider-infoportal-artikkel-jumbo-v-enkeltpersonforetak"
       }
     ]
   },
@@ -1721,7 +1721,7 @@
       {
         "additional-classes": "a-dotted a-clickable a-list-hasRowLink",
         "isRowLink": {
-          "rowLink": "/patterns/03-maler-infoportal-30-artikkel-10-artikkel/03-maler-infoportal-30-artikkel-10-artikkel.html"
+          "rowLink": "link.maler-infoportal-artikkel"
         },
         "columns": [
           {
@@ -1739,7 +1739,7 @@
       {
         "additional-classes": "a-dotted a-clickable a-list-hasRowLink",
         "isRowLink": {
-          "rowLink": "/patterns/04-sider-infoportal-30-artikkel-41-artikkel-jumbo-v-enkeltpersonforetak/04-sider-infoportal-30-artikkel-41-artikkel-jumbo-v-enkeltpersonforetak.html"
+          "rowLink": "link.sider-infoportal-artikkel-jumbo-v-enkeltpersonforetak"
         },
         "columns": [
           {
@@ -1757,7 +1757,7 @@
       {
         "additional-classes": "a-dotted a-clickable a-list-hasRowLink",
         "isRowLink": {
-          "rowLink": "/patterns/04-sider-infoportal-30-artikkel-17-artikkel-v-starte-og-registrere-enk/04-sider-infoportal-30-artikkel-17-artikkel-v-starte-og-registrere-enk.html"
+          "rowLink": "link.sider-infoportal-artikkel-v-starte-og-registrere-enk"
         },
         "columns": [
           {
@@ -1775,7 +1775,7 @@
       {
         "additional-classes": "a-dotted a-clickable a-list-hasRowLink",
         "isRowLink": {
-          "rowLink": "/patterns/04-sider-infoportal-30-artikkel-13-artikkel-v-hvordan-finansiere-oppstarten/04-sider-infoportal-30-artikkel-13-artikkel-v-hvordan-finansiere-oppstarten.html"
+          "rowLink": "link.sider-infoportal-artikkel-v-hvordan-finansiere-oppstarten"
         },
         "columns": [
           {
@@ -1793,7 +1793,7 @@
       {
         "additional-classes": "a-dotted a-clickable a-list-hasRowLink",
         "isRowLink": {
-          "rowLink": "/patterns/04-sider-infoportal-30-artikkel-14-artikkel-v-aksjeselskap/04-sider-infoportal-30-artikkel-14-artikkel-v-aksjeselskap.html"
+          "rowLink": "link.sider-infoportal-artikkel-v-aksjeselskap"
         },
         "columns": [
           {
@@ -1811,7 +1811,7 @@
       {
         "additional-classes": "a-dotted a-clickable a-list-hasRowLink",
         "isRowLink": {
-          "rowLink": "/patterns/04-sider-infoportal-30-artikkel-15-artikkel-v-faktura/04-sider-infoportal-30-artikkel-15-artikkel-v-faktura.html"
+          "rowLink": "link.sider-infoportal-artikkel-v-faktura"
         },
         "columns": [
           {
@@ -1829,7 +1829,7 @@
       {
         "additional-classes": "a-dotted a-clickable a-list-hasRowLink",
         "isRowLink": {
-          "rowLink": "/patterns/04-sider-infoportal-30-artikkel-16-artikkel-v-regnskap/04-sider-infoportal-30-artikkel-16-artikkel-v-regnskap.html"
+          "rowLink": "link.sider-infoportal-artikkel-v-regnskap"
         },
         "columns": [
           {
@@ -1847,7 +1847,7 @@
       {
         "additional-classes": "a-dotted a-clickable a-list-hasRowLink",
         "isRowLink": {
-          "rowLink": "/patterns/04-sider-infoportal-20-navigasjonssider-31-temaside-v-starte/04-sider-infoportal-20-navigasjonssider-31-temaside-v-starte.html"
+          "rowLink": "link.sider-infoportal-temaside-v-starte"
         },
         "columns": [
           {

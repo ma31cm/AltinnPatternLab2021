@@ -2,7 +2,7 @@
   "letters": "ST",
   "col": " col-md-4 col-lg-4 col-xl-4",
   "title": "Digital Dialog",
-  "url": "/patterns/04-sider-altinnett-10-forside-10-forside/04-sider-altinnett-10-forside-10-forside.html",
+  "url": "link.sider-altinnett-forside",
   "extraClass": "a-bgGreyLighter",
   "headerClass": "an-presentationBlock-largeHeader",
   "iconClass": "an-cover",
@@ -15,7 +15,7 @@
   "tool1": {
     "col": "col-md-6 col-lg-3 col-xl-3",
     "title": "Prototyping",
-    "url": "/patterns/04-sider-altinnett-10-forside-10-forside/04-sider-altinnett-10-forside-10-forside.html",
+    "url": "link.sider-altinnett-forside",
     "extraClass": "a-bgGreyLighter",
     "headerClass": "a-h3",
     "iconClass": "an-centered",
@@ -26,7 +26,7 @@
   "tool2": {
     "col": "col-md-6 col-lg-3 col-xl-3",
     "title": "Tjenesteutvikling",
-    "url": "/patterns/04-sider-altinnett-10-forside-10-forside/04-sider-altinnett-10-forside-10-forside.html",
+    "url": "link.sider-altinnett-forside",
     "extraClass": "a-bgGreyLighter",
     "headerClass": "a-h3",
     "iconClass": "an-centered",
@@ -37,7 +37,7 @@
   "tool3": {
     "col": "col-md-6 col-lg-3 col-xl-3",
     "title": "Dokumentasjon",
-    "url": "/patterns/04-sider-altinnett-10-forside-10-forside/04-sider-altinnett-10-forside-10-forside.html",
+    "url": "link.sider-altinnett-forside",
     "extraClass": "a-bgGreyLighter",
     "headerClass": "a-h3",
     "iconClass": "an-centered",
@@ -48,7 +48,7 @@
   "tool4": {
     "col": "col-md-6 col-lg-3 col-xl-3",
     "title": "Driftsmeldinger",
-    "url": "/patterns/04-sider-altinnett-10-forside-10-forside/04-sider-altinnett-10-forside-10-forside.html",
+    "url": "link.sider-altinnett-forside",
     "extraClass": "a-bgGreyLighter",
     "headerClass": "a-h3",
     "iconClass": "an-centered",
@@ -58,7 +58,7 @@
   },
   "showAllLink": {
     "link-text": "Vis alle produkter",
-    "link-url": "/patterns/04-sider-altinnett-10-forside-10-forside/04-sider-altinnett-10-forside-10-forside.html",
+    "link-url": "link.sider-altinnett-forside",
     "linkClass": "a-linkFeatured",
     "link-icon": {
       "icon-prefix": "ai ai-sm ai-nw ai-nw-right",

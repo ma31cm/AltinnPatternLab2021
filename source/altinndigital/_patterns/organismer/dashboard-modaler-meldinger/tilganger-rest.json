@@ -111,7 +111,7 @@
     "data-action": "next",
     "data-toggle": "altinn-modal",
     "data-target": "#modal-message",
-    "page-url": "../../patterns/02-organismer-81-Dashboard-modaler-meldinger-23-tilganger-rest-tjenesteeier/02-organismer-81-Dashboard-modaler-meldinger-22-tilganger-rest-tjenesteeier.markup-only.html"
+    "page-url": "../..link.organismer-tilganger-rest-tjenesteeier"
   },
   "submit-tjenesteeier": {
     "button-text": "Neste",
@@ -125,7 +125,7 @@
     "data-action": "next",
     "data-toggle": "altinn-modal",
     "data-target": "#modal-message",
-    "page-url": "../../patterns/02-organismer-81-Dashboard-modaler-meldinger-22-tilganger-rest-tjenesteeier/02-organismer-81-Dashboard-modaler-meldinger-22-tilganger-rest-tjenesteeier.markup-only.html"
+    "page-url": "../..link.organismer-tilganger-rest-tjenesteeier"
   },
   "submit-sluttbruker": {
     "button-text": "Neste",
@@ -139,6 +139,6 @@
     "data-action": "next",
     "data-toggle": "altinn-modal",
     "data-target": "#modal-message",
-    "page-url": "../../patterns/02-organismer-81-Dashboard-modaler-meldinger-23-tilganger-rest-sluttbruker-1/02-organismer-81-Dashboard-modaler-meldinger-23-tilganger-rest-sluttbruker-1.markup-only.html"
+    "page-url": "../..link.organismer-tilganger-rest-sluttbruker-1"
   }
 }

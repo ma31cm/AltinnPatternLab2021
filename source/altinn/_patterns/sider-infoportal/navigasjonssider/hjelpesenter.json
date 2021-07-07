@@ -215,7 +215,7 @@
       }
     ]
   },
-  "page-url": "/patterns/03-maler-portal-99-modal-js-02-page-one/03-maler-portal-99-modal-js-02-page-one.markup-only.html",
+  "page-url": "link.maler-portal-page-one",
   "form-abonner": {
     "text-input-id": "text-input-epost",
     "top-label": "Epost: ",
@@ -1179,28 +1179,28 @@
       "h2": "innlogging",
       "text": "ID-porten, <br>aktørvalg, mm.",
       "icon": "ai-keyhole",
-      "url": "/patterns/04-sider-infoportal-20-navigasjonssider-32-temaside-v-hjelp-innlogging/04-sider-infoportal-20-navigasjonssider-32-temaside-v-hjelp-innlogging.html"
+      "url": "link.sider-infoportal-temaside-v-hjelp-innlogging"
     },
     {
       "col": "col-6 col-lg-3",
       "h2": "profil",
       "text": "Meldinger, filter, <br> videresending, mm.",
       "icon": "ai-private",
-      "url": "/patterns/04-sider-infoportal-20-navigasjonssider-32-temaside-v-hjelp-innlogging/04-sider-infoportal-20-navigasjonssider-32-temaside-v-hjelp-innlogging.html"
+      "url": "link.sider-infoportal-temaside-v-hjelp-innlogging"
     },
     {
       "col": "col-6 col-lg-3",
       "h2": "innboks",
       "text": "Signering, etater, <br>vedlegg, mm.",
       "icon": "ai-closedmessage",
-      "url": "/patterns/04-sider-infoportal-20-navigasjonssider-32-temaside-v-hjelp-innlogging/04-sider-infoportal-20-navigasjonssider-32-temaside-v-hjelp-innlogging.html"
+      "url": "link.sider-infoportal-temaside-v-hjelp-innlogging"
     },
     {
       "col": "col-6 col-lg-3",
       "h2": "skjema",
       "text": "Kontaktinformasjon, roller, rettigheter, mm.",
       "icon": "ai-write",
-      "url": "/patterns/04-sider-infoportal-20-navigasjonssider-32-temaside-v-hjelp-innlogging/04-sider-infoportal-20-navigasjonssider-32-temaside-v-hjelp-innlogging.html"
+      "url": "link.sider-infoportal-temaside-v-hjelp-innlogging"
     }
   ],
   "alert-id": "alert",
@@ -1272,7 +1272,7 @@
             "button-text-class": "sr-only"
           }
         ],
-        "onclick": "location.href='/patterns/04-sider-infoportal-40-sok-70-sok-hjelp/04-sider-infoportal-40-sok-70-sok-hjelp.html';"
+        "onclick": "location.href='link.sider-infoportal-sok-hjelp';"
       }
     }
   },
@@ -1937,7 +1937,7 @@
         "data-toggle": "altinn-modal",
         "data-action": "load",
         "data-url": {
-          "data-url": "../../patterns/02-organismer-80-Modal-js-innhold-10-kontaktskjema/02-organismer-80-Modal-js-innhold-10-kontaktskjema.markup-only.html"
+          "data-url": "../..link.organismer-kontaktskjema"
         },
         "data-target": "#modal"
       }
@@ -1997,7 +1997,7 @@
             },
             {
               "link-text": "Trinn for trinn uten å logge inn",
-              "link-url": "/patterns/04-sider-infoportal-30-artikkel-70-artikkel-v-hjelpetrinn/04-sider-infoportal-30-artikkel-70-artikkel-v-hjelpetrinn.html",
+              "link-url": "link.sider-infoportal-artikkel-v-hjelpetrinn",
               "linkClass": ""
             }
           ]

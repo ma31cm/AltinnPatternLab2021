@@ -76,7 +76,7 @@
   "label-id": false,
   "label-content": "9",
   "button-colorClass": "",
-  "link-url": "/patterns/04-sider-infoportal-01-forside-00-forside/04-sider-infoportal-01-forside-00-forside.html",
+  "link-url": "link.sider-infoportal-forside",
   "button-shadow-label": false,
   "print-form-tag": false,
   "text-input-id": "text-input-generic",
@@ -426,7 +426,7 @@
     "data-toggle": "collapse",
     "data-target": "#eksempelID2",
     "aria-expanded": false,
-    "onclick": "if (onConfirmDeletionClick()) { location.href='/patterns/04-sider-portal-91-klientdelegering-00-klientdelegering-kvittering-gyldig/04-sider-portal-91-klientdelegering-00-klientdelegering-kvittering-gyldig.html' }"
+    "onclick": "if (onConfirmDeletionClick()) { location.href='link.sider-portal-klientdelegering-kvittering-gyldig' }"
   },
   "ferdigsegment-cancel": {
     "button-text": "Avbryt",
@@ -541,7 +541,7 @@
     "buttonClass": "a-btn mr-1",
     "button-disabled": false,
     "button-type": "button",
-    "onclick": "location.href='/patterns/04-sider-portal-50-innboks-00-innboks/04-sider-portal-50-innboks-00-innboks.html';",
+    "onclick": "location.href='link.sider-portal-innboks';",
     "button-icon": false,
     "display-as-link": false
   },
@@ -1234,7 +1234,7 @@
   "closeBtn": {
     "button-text": "Nei, takk",
     "buttonClass": "a-btn-link",
-    "onclick": "location.href='/patterns/04-sider-portal-50-innboks-00-innboks/04-sider-portal-50-innboks-00-innboks.html';",
+    "onclick": "location.href='link.sider-portal-innboks';",
     "button-icon": false,
     "display-as-link": true
   },
@@ -2134,7 +2134,7 @@
     "button-text": "Ferdig",
     "buttonClass": "a-btn a-btn-success mb-0",
     "button-type": "submit",
-    "onclick": "location.href='/patterns/04-sider-portal-60-profil-roller-rettigheter-01-profil-roller-rettigheter/04-sider-portal-60-profil-roller-rettigheter-01-profil-roller-rettigheter.html'"
+    "onclick": "location.href='link.sider-portal-profil-roller-rettigheter'"
   },
   "animationClass": "a-scene-element--fadeinright",
   "form-input-hasButton": false,
@@ -2151,7 +2151,7 @@
     "button-text": "Avbryt",
     "buttonClass": "a-btn-link a-linkDanger float-left float-md-right",
     "display-as-link": true,
-    "onclick": "location.href='/patterns/04-sider-portal-91-klientdelegering-00-klientdelegering-gi-rettigheter-til-ansatte/04-sider-portal-91-klientdelegering-00-klientdelegering-gi-rettigheter-til-ansatte.html'"
+    "onclick": "location.href='link.sider-portal-klientdelegering-gi-rettigheter-til-ansatte'"
   },
   "existing-clients-title": {
     "collapse-header-title": "Har disse <span class='badge badge-primary a-label badge-pill'>3</span> klientene",
@@ -4251,7 +4251,7 @@
       "iconClass": "ai-corp",
       "iconExtraClass": "ai-left"
     },
-    "link-url": "/patterns/04-sider-portal-50-innboks-00-innboks/04-sider-portal-50-innboks-00-innboks.html"
+    "link-url": "link.sider-portal-innboks"
   },
   "button-sub": {
     "collapse-header-contentID": "listsublevels2",
@@ -4369,7 +4369,7 @@
           "iconClass": "ai-corp ai-left",
           "iconExtraClass": ""
         },
-        "link-url": "/patterns/04-sider-portal-50-innboks-00-innboks/04-sider-portal-50-innboks-00-innboks.html"
+        "link-url": "link.sider-portal-innboks"
       },
       "button-sub": false
     },
@@ -4390,7 +4390,7 @@
           "iconClass": "ai-corp ai-left",
           "iconExtraClass": ""
         },
-        "link-url": "/patterns/04-sider-portal-50-innboks-00-innboks/04-sider-portal-50-innboks-00-innboks.html"
+        "link-url": "link.sider-portal-innboks"
       },
       "button-sub": {
         "collapse-header-contentID": "listsublevels2",
@@ -4475,7 +4475,7 @@
           "iconClass": "ai-private ai-left",
           "iconExtraClass": ""
         },
-        "link-url": "/patterns/04-sider-portal-50-innboks-00-innboks/04-sider-portal-50-innboks-00-innboks.html"
+        "link-url": "link.sider-portal-innboks"
       },
       "button-sub": false
     },
@@ -4496,7 +4496,7 @@
           "iconExtraClass": ""
         },
         "title": "Jan Derek Sørensen Julius Andreas Gimli Arn MacGyver Chewbacka Highlander Elessar-Jankov",
-        "link-url": "/patterns/04-sider-portal-50-innboks-00-innboks/04-sider-portal-50-innboks-00-innboks.html"
+        "link-url": "link.sider-portal-innboks"
       },
       "button-sub": false
     },
@@ -4516,7 +4516,7 @@
           "iconClass": "ai-corp ai-left",
           "iconExtraClass": ""
         },
-        "link-url": "/patterns/04-sider-portal-50-innboks-00-innboks/04-sider-portal-50-innboks-00-innboks.html"
+        "link-url": "link.sider-portal-innboks"
       },
       "button-sub": false
     },
@@ -4536,7 +4536,7 @@
           "iconClass": "ai-corp ai-left",
           "iconExtraClass": ""
         },
-        "link-url": "/patterns/04-sider-portal-50-innboks-00-innboks/04-sider-portal-50-innboks-00-innboks.html"
+        "link-url": "link.sider-portal-innboks"
       },
       "button-sub": false
     }
@@ -4547,7 +4547,7 @@
     "icon-prefix": "ai",
     "iconClass": "ai-plus",
     "iconExtraClass": "",
-    "onclick": "location.href='/patterns/04-sider-portal-01-aktorvalg-10-aktorvalg/04-sider-portal-01-aktorvalg-10-aktorvalg.html'"
+    "onclick": "location.href='link.sider-portal-aktorvalg'"
   },
   "personswitch-options": {
     "isDiscreet": "a-form-checkboxes--discret",
@@ -4584,7 +4584,7 @@
     "button-dot": false,
     "personrole-link": {
       "link-text": "Innstillinger",
-      "link-url": "/patterns/04-sider-portal-60-profil-roller-rettigheter-01-profil-roller-rettigheter/04-sider-portal-60-profil-roller-rettigheter-01-profil-roller-rettigheter.html"
+      "link-url": "link.sider-portal-profil-roller-rettigheter"
     }
   },
   "profile-text": "Alle dine profiler: ",
@@ -4624,7 +4624,7 @@
     "linkFeatured": {
       "link-text": "Tilbake til innboks",
       "linkClass": "a-linkFeatured a-textBlue a-textBlue-hover ml-1",
-      "link-url": "/patterns/04-sider-portal-50-innboks-00-innboks/04-sider-portal-50-innboks-00-innboks.html",
+      "link-url": "link.sider-portal-innboks",
       "link-icon-left": {
         "icon-prefix": "ai ",
         "iconClass": "ai-back",
@@ -4665,7 +4665,7 @@
           "icon-prefix": "ai",
           "iconClass": "ai-plain-circle-big"
         },
-        "onclick": "handleModalClose(this, '/patterns/04-sider-portal-91-klientdelegering-00-klientdelegering-gi-rettigheter-til-ansatte/04-sider-portal-91-klientdelegering-00-klientdelegering-gi-rettigheter-til-ansatte.html');",
+        "onclick": "handleModalClose(this, 'link.sider-portal-klientdelegering-gi-rettigheter-til-ansatte');",
         "enable-popover": true,
         "popover-placement": "bottom",
         "popover-content-id": "backPopoverContent",
@@ -4675,7 +4675,7 @@
           {
             "button-text": "Ok",
             "buttonClass": "a-btn a-btn-danger",
-            "onclick": "$('button[aria-describedby=' + $(this).parent().parent().attr('id') + ']').click(); location.href='/patterns/04-sider-portal-91-klientdelegering-00-klientdelegering-gi-rettigheter-til-ansatte/04-sider-portal-91-klientdelegering-00-klientdelegering-gi-rettigheter-til-ansatte.html'"
+            "onclick": "$('button[aria-describedby=' + $(this).parent().parent().attr('id') + ']').click(); location.href='link.sider-portal-klientdelegering-gi-rettigheter-til-ansatte'"
           },
           {
             "button-text": "Avbryt",
@@ -4695,7 +4695,7 @@
           "icon-prefix": "ai",
           "iconClass": "ai-plain-circle-big"
         },
-        "onclick": "handleModalClose(this, '/patterns/04-sider-portal-60-profil-roller-rettigheter-01-profil-roller-rettigheter/04-sider-portal-60-profil-roller-rettigheter-01-profil-roller-rettigheter.html');",
+        "onclick": "handleModalClose(this, 'link.sider-portal-profil-roller-rettigheter');",
         "enable-popover": true,
         "popover-placement": "bottom",
         "popover-content-id": "closePopoverContent",
@@ -4705,7 +4705,7 @@
           {
             "button-text": "Ok",
             "buttonClass": "a-btn a-btn-danger",
-            "onclick": "$('button[aria-describedby=' + $(this).parent().parent().attr('id') + ']').click(); location.href='/patterns/04-sider-portal-60-profil-roller-rettigheter-01-profil-roller-rettigheter/04-sider-portal-60-profil-roller-rettigheter-01-profil-roller-rettigheter.html'"
+            "onclick": "$('button[aria-describedby=' + $(this).parent().parent().attr('id') + ']').click(); location.href='link.sider-portal-profil-roller-rettigheter'"
           },
           {
             "button-text": "Avbryt",

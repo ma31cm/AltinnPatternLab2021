@@ -16,14 +16,14 @@
     "buttonClass": "a-btn mr-1",
     "button-disabled": false,
     "button-type": "button",
-    "onclick": "location.href='/patterns/04-sider-portal-50-innboks-00-innboks/04-sider-portal-50-innboks-00-innboks.html';",
+    "onclick": "location.href='link.sider-portal-innboks';",
     "button-icon": false,
     "display-as-link": false
   },
   "closeBtn": {
     "button-text": "Nei, takk",
     "buttonClass": "a-btn-link",
-    "onclick": "location.href='/patterns/04-sider-portal-50-innboks-00-innboks/04-sider-portal-50-innboks-00-innboks.html';",
+    "onclick": "location.href='link.sider-portal-innboks';",
     "button-icon": false,
     "display-as-link": true
   }

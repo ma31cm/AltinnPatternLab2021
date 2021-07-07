@@ -132,7 +132,7 @@
       "data-action": "next",
       "data-toggle":"altinn-modal",
       "data-target":"#modal-addservice",
-      "page-url": "../../patterns/02-organismer-82-Dashboard-modaler-tjenester-21-produksjonssett-tjeneste-ferdig/02-organismer-82-Dashboard-modaler-tjenester-21-produksjonssett-tjeneste-ferdig.markup-only.html"    },
+      "page-url": "../..link.organismer-produksjonssett-tjeneste-ferdig"    },
     "avbryt": {
       "link-text": "Avbryt",
       "link-url": false,

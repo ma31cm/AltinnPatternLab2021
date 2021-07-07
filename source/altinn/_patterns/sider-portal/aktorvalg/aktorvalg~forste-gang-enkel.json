@@ -2444,7 +2444,7 @@
       "buttonClass": "a-btn py-1 px-3",
       "button-disabled": false,
       "button-type": "button",
-      "onclick": "location='/patterns/04-sider-portal-50-innboks-20-innboks-soketreff-tvers/04-sider-portal-50-innboks-20-innboks-soketreff-tvers.html'",
+      "onclick": "location='link.sider-portal-innboks-soketreff-tvers'",
       "button-icon": false,
       "display-as-link": false
     }
@@ -2573,7 +2573,7 @@
             "iconClass": "ai-private ai-left",
             "iconExtraClass": ""
           },
-          "link-url": "/patterns/04-sider-portal-50-innboks-00-innboks/04-sider-portal-50-innboks-00-innboks.html"
+          "link-url": "link.sider-portal-innboks"
         },
         "button-favourite": false,
         "button-sub": false

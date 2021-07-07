@@ -5,6 +5,6 @@
     "logo": "../../images/an-logo-blue.svg"
   },
   "login-show": false,
-  "page-url": "../../patterns/03-maler-altinnett-innlogging-skjema-gi-tilgang/03-maler-altinnett-innlogging-skjema-gi-tilgang.markup-only.html",
+  "page-url": "../..link.3-maler-altinnett-innlogging-skjema-gi-tilgang",
   "label": "Gi tilgang"
 }

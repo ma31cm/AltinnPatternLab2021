@@ -9,7 +9,7 @@
     "data-toggle": "altinn-modal",
     "data-action": "load",
     "data-url": {
-      "data-url": "../../patterns/02-organismer-83-Dashboard-modaler-driftsvarsler-20-abonner-driftsvarsel/02-organismer-83-Dashboard-modaler-driftsvarsler-20-abonner-driftsvarsel.markup-only.html"
+      "data-url": "../..link.organismer-abonner-driftsvarsel"
     },
     "data-target": "modal-subscribe"
   },
@@ -24,7 +24,7 @@
     "data-toggle": "altinn-modal",
     "data-action": "load",
     "data-url": {
-      "data-url": "../../patterns/02-organismer-83-Dashboard-modaler-driftsvarsler-10-driftsvarsel/02-organismer-83-Dashboard-modaler-driftsvarsler-10-driftsvarsel.markup-only.html"
+      "data-url": "../..link.organismer-driftsvarsel"
     },
     "data-target": "modal-addAlert"
   },
@@ -183,7 +183,7 @@
             "data-toggle": "altinn-modal",
             "data-action": "load",
             "data-url": {
-              "data-url": "../../patterns/02-organismer-83-Dashboard-modaler-driftsvarsler-10-driftsvarsel-redigerFeilmelding/02-organismer-83-Dashboard-modaler-driftsvarsler-10-driftsvarsel-redigerFeilmelding.markup-only.html"
+              "data-url": "../..link.organismer-driftsvarsel-redigerFeilmelding"
             },
             "data-target": "modal-addAlert"
           }

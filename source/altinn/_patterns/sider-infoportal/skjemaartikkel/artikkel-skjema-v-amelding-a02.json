@@ -581,7 +581,7 @@
       "byline-dato": "",
       "byline-link": {
         "byline-link": "Skatteetaten",
-        "byline-link-url": "/patterns/04-sider-infoportal-20-navigasjonssider-50-kolonnenavigasjon-v-skjemaoversikt/04-sider-infoportal-20-navigasjonssider-50-kolonnenavigasjon-v-skjemaoversikt.html"
+        "byline-link-url": "link.sider-infoportal-kolonnenavigasjon-v-skjemaoversikt"
       }
     },
     "icontext": "Stor tekst",
@@ -591,7 +591,7 @@
     "buttonClass": "a-btn a-btn-success",
     "main-card-title": "Flyttemelding innenlands",
     "main-card-code": "(RF-1400)",
-    "onclick": "location.href='/patterns/04-sider-portal-01-aktorvalg-10-aktorvalg-forste-gang/04-sider-portal-01-aktorvalg-10-aktorvalg-forste-gang.html'"
+    "onclick": "location.href='link.sider-portal-aktorvalg-forste-gang'"
   },
   "alert-id": "alert",
   "alert-class": "a-message-info",
@@ -1320,7 +1320,7 @@
           "button-text-class": "sr-only"
         }
       ],
-      "onclick": "location.href='/patterns/04-sider-infoportal-40-sok-00-sok-forside/04-sider-infoportal-40-sok-00-sok-forside.html';"
+      "onclick": "location.href='link.sider-infoportal-sok-forside';"
     }
   },
   "header-2": "Om dette skjemaet",
@@ -1332,22 +1332,22 @@
     "link-icon": false,
     "linkClass": "",
     "help-end": "eller ta kontakt med Skatteopplysningen på telefon 800 80 000, <i>tastevalg 4-3-2</i>.",
-    "link-url": "/patterns/04-sider-infoportal-20-navigasjonssider-70-hjelpesenter/04-sider-infoportal-20-navigasjonssider-70-hjelpesenter.html"
+    "link-url": "link.sider-infoportal-hjelpesenter"
   },
   "hasCard": {
     "breadcrumb-item": [
       {
         "breadcrumb-title": "Alle skjema",
-        "breadcrumb-link": "/patterns/04-sider-infoportal-20-navigasjonssider-50-kolonnenavigasjon-v-skjemaoversikt/04-sider-infoportal-20-navigasjonssider-50-kolonnenavigasjon-v-skjemaoversikt.html"
+        "breadcrumb-link": "link.sider-infoportal-kolonnenavigasjon-v-skjemaoversikt"
       },
       {
         "breadcrumb-title": "Arbeid og lønn",
-        "breadcrumb-link": "/patterns/04-sider-infoportal-20-navigasjonssider-50-kolonnenavigasjon-v-skjemaoversikt/04-sider-infoportal-20-navigasjonssider-50-kolonnenavigasjon-v-skjemaoversikt.html",
+        "breadcrumb-link": "link.sider-infoportal-kolonnenavigasjon-v-skjemaoversikt",
         "breadcrumb-link-position": "?position=arbeid-og-lønn"
       },
       {
         "breadcrumb-title": "Arbeidsgiverforhold",
-        "breadcrumb-link": "/patterns/04-sider-infoportal-20-navigasjonssider-50-kolonnenavigasjon-v-skjemaoversikt/04-sider-infoportal-20-navigasjonssider-50-kolonnenavigasjon-v-skjemaoversikt.html",
+        "breadcrumb-link": "link.sider-infoportal-kolonnenavigasjon-v-skjemaoversikt",
         "breadcrumb-link-position": "?position=arbeidsgiverforhold",
         "breadcrumb-class": "breadcrumb-mobile"
       },
@@ -1369,17 +1369,17 @@
         "byline-link": [
           {
             "byline-link": "NAV",
-            "byline-link-url": "/patterns/04-sider-infoportal-20-navigasjonssider-50-kolonnenavigasjon-v-skjemaoversikt/04-sider-infoportal-20-navigasjonssider-50-kolonnenavigasjon-v-skjemaoversikt.html",
+            "byline-link-url": "link.sider-infoportal-kolonnenavigasjon-v-skjemaoversikt",
             "byline-linkSpan": ","
           },
           {
             "byline-link": "SSB",
-            "byline-link-url": "/patterns/04-sider-infoportal-20-navigasjonssider-50-kolonnenavigasjon-v-skjemaoversikt/04-sider-infoportal-20-navigasjonssider-50-kolonnenavigasjon-v-skjemaoversikt.html",
+            "byline-link-url": "link.sider-infoportal-kolonnenavigasjon-v-skjemaoversikt",
             "byline-linkSpan": " og"
           },
           {
             "byline-link": "Skatteetaten",
-            "byline-link-url": "/patterns/04-sider-infoportal-20-navigasjonssider-50-kolonnenavigasjon-v-skjemaoversikt/04-sider-infoportal-20-navigasjonssider-50-kolonnenavigasjon-v-skjemaoversikt.html"
+            "byline-link-url": "link.sider-infoportal-kolonnenavigasjon-v-skjemaoversikt"
           }
         ]
       },
@@ -1391,7 +1391,7 @@
       "main-card-description": "Tjenesten er for virksomheter med lønnssystem eller annet system som er delvis integrert mot Altinn. Har du et system som er fullt integrert, sender du a-melding direkte i systemet.",
       "hasButton": {
         "button-text": "Start utfylling",
-        "onclick": "location.href='/patterns/04-sider-portal-01-aktorvalg-10-aktorvalg-forste-gang/04-sider-portal-01-aktorvalg-10-aktorvalg-forste-gang.html'",
+        "onclick": "location.href='link.sider-portal-aktorvalg-forste-gang'",
         "buttonClass": "a-btn"
       }
     }

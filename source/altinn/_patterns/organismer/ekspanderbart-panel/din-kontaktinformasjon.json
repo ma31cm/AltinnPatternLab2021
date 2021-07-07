@@ -67,7 +67,7 @@
   "input-name": "input-field",
   "form-control-class": "",
   "link-text": "En lenke ser slik ut",
-  "link-url": "/patterns/04-sider-infoportal-01-forside-00-forside/04-sider-infoportal-01-forside-00-forside.html",
+  "link-url": "link.sider-infoportal-forside",
   "sr-text": false,
   "alert-id": "alert",
   "alert-class": "a-message-info",

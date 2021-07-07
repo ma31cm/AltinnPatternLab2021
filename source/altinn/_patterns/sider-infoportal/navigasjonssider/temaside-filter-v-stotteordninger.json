@@ -1254,7 +1254,7 @@
           "button-text-class": "sr-only"
         }
       ],
-      "onclick": "location.href='/patterns/04-sider-infoportal-40-sok-00-sok-forside/04-sider-infoportal-40-sok-00-sok-forside.html';"
+      "onclick": "location.href='link.sider-infoportal-sok-forside';"
     }
   },
   "article-breadcrumb": {},
@@ -1317,7 +1317,7 @@
       "linkTitle": {
         "link-text": "%NAME%",
         "linkClass": "a-link-title",
-        "link-url": "/patterns/04-sider-infoportal-30-artikkel-60-artikkel-v-stotteordning/04-sider-infoportal-30-artikkel-60-artikkel-v-stotteordning.html"
+        "link-url": "link.sider-infoportal-artikkel-v-stotteordning"
       },
       "category-element-description": "%DESC%"
     }
@@ -1329,7 +1329,7 @@
         {
           "breadcrumb-title": "Starte og drive bedrift",
           "breadcrumb-class": "breadcrumb-mobile",
-          "breadcrumb-link": "/patterns/04-sider-infoportal-10-seksjonsforsider-30-seksjonsforside-v-starteogdrive/04-sider-infoportal-10-seksjonsforsider-30-seksjonsforside-v-starteogdrive.html"
+          "breadcrumb-link": "link.sider-infoportal-seksjonsforside-v-starteogdrive"
         },
         {
           "breadcrumb-title": "Støtteordninger",
@@ -1412,7 +1412,7 @@
         "linkTitle": {
           "link-text": "%NAME%",
           "linkClass": "a-link-title",
-          "link-url": "/patterns/04-sider-infoportal-30-artikkel-60-artikkel-v-stotteordning/04-sider-infoportal-30-artikkel-60-artikkel-v-stotteordning.html"
+          "link-url": "link.sider-infoportal-artikkel-v-stotteordning"
         },
         "category-element-description": "%DESC%"
       }

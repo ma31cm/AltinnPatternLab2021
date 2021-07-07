@@ -1397,7 +1397,7 @@
       "textSmall": "Ekstratittel"
     },
     "link-text": "Lenk til et skjema eller noe annet",
-    "link-url": "/patterns/04-sider-infoportal-01-forside-00-forside/04-sider-infoportal-01-forside-00-forside.html"
+    "link-url": "link.sider-infoportal-forside"
   },
   "imageright": {
     "src": "../../images/rf0002.jpg"
@@ -1428,12 +1428,12 @@
     },
     "hasTextSmall": false,
     "link-text": "Lenk til et skjema eller noe annet",
-    "link-url": "/patterns/04-sider-infoportal-01-forside-00-forside/04-sider-infoportal-01-forside-00-forside.html"
+    "link-url": "link.sider-infoportal-forside"
   },
   "questionnaire": {
     "link-text": "Vis svar",
     "linkClass": "a-btn",
-    "link-url": "/patterns/04-sider-infoportal-20-navigasjonssider-21-sammenlikning-v-velg-foretaksform/04-sider-infoportal-20-navigasjonssider-21-sammenlikning-v-velg-foretaksform.html"
+    "link-url": "link.sider-infoportal-sammenlikning-v-velg-foretaksform"
   },
   "article-compare-first": {
     "compare-categories-title": {
@@ -1446,14 +1446,14 @@
         "category-element-description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
         "ismore": true,
         "link-text": "Mer informasjon om ...",
-        "link-url": "/patterns/04-sider-infoportal-30-artikkel-41-artikkel-jumbo-v-enkeltpersonforetak/04-sider-infoportal-30-artikkel-41-artikkel-jumbo-v-enkeltpersonforetak.html"
+        "link-url": "link.sider-infoportal-artikkel-jumbo-v-enkeltpersonforetak"
       },
       {
         "category-element-title": "<h3>Det andre som skal sammenliknes</h3>",
         "category-element-description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
         "ismore": true,
         "link-text": "Mer informasjon om ...",
-        "link-url": "/patterns/04-sider-infoportal-30-artikkel-41-artikkel-jumbo-v-enkeltpersonforetak/04-sider-infoportal-30-artikkel-41-artikkel-jumbo-v-enkeltpersonforetak.html"
+        "link-url": "link.sider-infoportal-artikkel-jumbo-v-enkeltpersonforetak"
       }
     ]
   }

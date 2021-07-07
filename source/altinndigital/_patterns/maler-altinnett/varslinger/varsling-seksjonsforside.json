@@ -29,7 +29,7 @@
     "data-toggle": "altinn-modal",
     "data-action": "load",
     "data-url": {
-      "data-url": "../../patterns/02-organismer-80-Modal-js-innhold-80-altinnett-varsling-pamelding/02-organismer-80-Modal-js-innhold-80-altinnett-varsling-pamelding.markup-only.html"
+      "data-url": "../..link.organismer-altinnett-varsling-pamelding"
     },
     "data-target": "modal"
   },

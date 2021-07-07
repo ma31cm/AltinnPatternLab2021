@@ -1318,7 +1318,7 @@
           "button-text-class": "sr-only"
         }
       ],
-      "onclick": "location.href='/patterns/04-sider-infoportal-40-sok-00-sok-forside/04-sider-infoportal-40-sok-00-sok-forside.html';"
+      "onclick": "location.href='link.sider-infoportal-sok-forside';"
     }
   },
   "article-breadcrumb": {},
@@ -1328,7 +1328,7 @@
       {
         "additional-classes": "a-dotted a-clickable a-list-hasRowLink",
         "isRowLink": {
-          "rowLink": "/patterns/04-sider-infoportal-30-artikkel-16-artikkel-v-regnskap/04-sider-infoportal-30-artikkel-16-artikkel-v-regnskap.html"
+          "rowLink": "link.sider-infoportal-artikkel-v-regnskap"
         },
         "columns": [
           {
@@ -1346,7 +1346,7 @@
       {
         "additional-classes": "a-dotted a-clickable a-list-hasRowLink",
         "isRowLink": {
-          "rowLink": "/patterns/04-sider-infoportal-30-artikkel-16-artikkel-v-regnskap/04-sider-infoportal-30-artikkel-16-artikkel-v-regnskap.html"
+          "rowLink": "link.sider-infoportal-artikkel-v-regnskap"
         },
         "columns": [
           {
@@ -1364,7 +1364,7 @@
       {
         "additional-classes": "a-dotted a-clickable a-list-hasRowLink",
         "isRowLink": {
-          "rowLink": "/patterns/04-sider-infoportal-30-artikkel-16-artikkel-v-regnskap/04-sider-infoportal-30-artikkel-16-artikkel-v-regnskap.html"
+          "rowLink": "link.sider-infoportal-artikkel-v-regnskap"
         },
         "columns": [
           {
@@ -1382,7 +1382,7 @@
       {
         "additional-classes": "a-dotted a-clickable a-list-hasRowLink",
         "isRowLink": {
-          "rowLink": "/patterns/04-sider-infoportal-30-artikkel-16-artikkel-v-regnskap/04-sider-infoportal-30-artikkel-16-artikkel-v-regnskap.html"
+          "rowLink": "link.sider-infoportal-artikkel-v-regnskap"
         },
         "columns": [
           {
@@ -1400,7 +1400,7 @@
       {
         "additional-classes": "a-dotted a-clickable a-list-hasRowLink",
         "isRowLink": {
-          "rowLink": "/patterns/04-sider-infoportal-30-artikkel-16-artikkel-v-regnskap/04-sider-infoportal-30-artikkel-16-artikkel-v-regnskap.html"
+          "rowLink": "link.sider-infoportal-artikkel-v-regnskap"
         },
         "columns": [
           {
@@ -1423,7 +1423,7 @@
       {
         "additional-classes": "a-dotted a-clickable a-list-hasRowLink",
         "isRowLink": {
-          "rowLink": "/patterns/04-sider-infoportal-30-artikkel-16-artikkel-v-regnskap/04-sider-infoportal-30-artikkel-16-artikkel-v-regnskap.html"
+          "rowLink": "link.sider-infoportal-artikkel-v-regnskap"
         },
         "columns": [
           {
@@ -1441,7 +1441,7 @@
       {
         "additional-classes": "a-dotted a-clickable a-list-hasRowLink",
         "isRowLink": {
-          "rowLink": "/patterns/04-sider-infoportal-30-artikkel-16-artikkel-v-regnskap/04-sider-infoportal-30-artikkel-16-artikkel-v-regnskap.html"
+          "rowLink": "link.sider-infoportal-artikkel-v-regnskap"
         },
         "columns": [
           {
@@ -1459,7 +1459,7 @@
       {
         "additional-classes": "a-dotted a-clickable a-list-hasRowLink",
         "isRowLink": {
-          "rowLink": "/patterns/04-sider-infoportal-30-artikkel-16-artikkel-v-regnskap/04-sider-infoportal-30-artikkel-16-artikkel-v-regnskap.html"
+          "rowLink": "link.sider-infoportal-artikkel-v-regnskap"
         },
         "columns": [
           {
@@ -1477,7 +1477,7 @@
       {
         "additional-classes": "a-dotted a-clickable a-list-hasRowLink",
         "isRowLink": {
-          "rowLink": "/patterns/04-sider-infoportal-30-artikkel-16-artikkel-v-regnskap/04-sider-infoportal-30-artikkel-16-artikkel-v-regnskap.html"
+          "rowLink": "link.sider-infoportal-artikkel-v-regnskap"
         },
         "columns": [
           {
@@ -1495,7 +1495,7 @@
       {
         "additional-classes": "a-dotted a-clickable a-list-hasRowLink",
         "isRowLink": {
-          "rowLink": "/patterns/04-sider-infoportal-30-artikkel-16-artikkel-v-regnskap/04-sider-infoportal-30-artikkel-16-artikkel-v-regnskap.html"
+          "rowLink": "link.sider-infoportal-artikkel-v-regnskap"
         },
         "columns": [
           {
@@ -1518,7 +1518,7 @@
       {
         "additional-classes": "a-dotted a-clickable a-list-hasRowLink",
         "isRowLink": {
-          "rowLink": "/patterns/04-sider-infoportal-30-artikkel-16-artikkel-v-regnskap/04-sider-infoportal-30-artikkel-16-artikkel-v-regnskap.html"
+          "rowLink": "link.sider-infoportal-artikkel-v-regnskap"
         },
         "columns": [
           {
@@ -1536,7 +1536,7 @@
       {
         "additional-classes": "a-dotted a-clickable a-list-hasRowLink",
         "isRowLink": {
-          "rowLink": "/patterns/04-sider-infoportal-30-artikkel-16-artikkel-v-regnskap/04-sider-infoportal-30-artikkel-16-artikkel-v-regnskap.html"
+          "rowLink": "link.sider-infoportal-artikkel-v-regnskap"
         },
         "columns": [
           {
@@ -1554,7 +1554,7 @@
       {
         "additional-classes": "a-dotted a-clickable a-list-hasRowLink",
         "isRowLink": {
-          "rowLink": "/patterns/04-sider-infoportal-30-artikkel-16-artikkel-v-regnskap/04-sider-infoportal-30-artikkel-16-artikkel-v-regnskap.html"
+          "rowLink": "link.sider-infoportal-artikkel-v-regnskap"
         },
         "columns": [
           {
@@ -1572,7 +1572,7 @@
       {
         "additional-classes": "a-dotted a-clickable a-list-hasRowLink",
         "isRowLink": {
-          "rowLink": "/patterns/04-sider-infoportal-30-artikkel-16-artikkel-v-regnskap/04-sider-infoportal-30-artikkel-16-artikkel-v-regnskap.html"
+          "rowLink": "link.sider-infoportal-artikkel-v-regnskap"
         },
         "columns": [
           {
@@ -1590,7 +1590,7 @@
       {
         "additional-classes": "a-dotted a-clickable a-list-hasRowLink",
         "isRowLink": {
-          "rowLink": "/patterns/04-sider-infoportal-30-artikkel-16-artikkel-v-regnskap/04-sider-infoportal-30-artikkel-16-artikkel-v-regnskap.html"
+          "rowLink": "link.sider-infoportal-artikkel-v-regnskap"
         },
         "columns": [
           {
@@ -1613,7 +1613,7 @@
       {
         "additional-classes": "a-dotted a-clickable a-list-hasRowLink",
         "isRowLink": {
-          "rowLink": "/patterns/04-sider-infoportal-30-artikkel-16-artikkel-v-regnskap/04-sider-infoportal-30-artikkel-16-artikkel-v-regnskap.html"
+          "rowLink": "link.sider-infoportal-artikkel-v-regnskap"
         },
         "columns": [
           {
@@ -1631,7 +1631,7 @@
       {
         "additional-classes": "a-dotted a-clickable a-list-hasRowLink",
         "isRowLink": {
-          "rowLink": "/patterns/04-sider-infoportal-30-artikkel-16-artikkel-v-regnskap/04-sider-infoportal-30-artikkel-16-artikkel-v-regnskap.html"
+          "rowLink": "link.sider-infoportal-artikkel-v-regnskap"
         },
         "columns": [
           {
@@ -1649,7 +1649,7 @@
       {
         "additional-classes": "a-dotted a-clickable a-list-hasRowLink",
         "isRowLink": {
-          "rowLink": "/patterns/04-sider-infoportal-30-artikkel-16-artikkel-v-regnskap/04-sider-infoportal-30-artikkel-16-artikkel-v-regnskap.html"
+          "rowLink": "link.sider-infoportal-artikkel-v-regnskap"
         },
         "columns": [
           {
@@ -1667,7 +1667,7 @@
       {
         "additional-classes": "a-dotted a-clickable a-list-hasRowLink",
         "isRowLink": {
-          "rowLink": "/patterns/04-sider-infoportal-30-artikkel-16-artikkel-v-regnskap/04-sider-infoportal-30-artikkel-16-artikkel-v-regnskap.html"
+          "rowLink": "link.sider-infoportal-artikkel-v-regnskap"
         },
         "columns": [
           {
@@ -1685,7 +1685,7 @@
       {
         "additional-classes": "a-dotted a-clickable a-list-hasRowLink",
         "isRowLink": {
-          "rowLink": "/patterns/04-sider-infoportal-30-artikkel-16-artikkel-v-regnskap/04-sider-infoportal-30-artikkel-16-artikkel-v-regnskap.html"
+          "rowLink": "link.sider-infoportal-artikkel-v-regnskap"
         },
         "columns": [
           {
@@ -1744,7 +1744,7 @@
           {
             "additional-classes": "a-dotted a-clickable a-list-hasRowLink",
             "isRowLink": {
-              "rowLink": "/patterns/04-sider-infoportal-30-artikkel-20-artikkel-v-hvemhvahvordan/04-sider-infoportal-30-artikkel-20-artikkel-v-hvemhvahvordan.html"
+              "rowLink": "link.sider-infoportal-artikkel-v-hvemhvahvordan"
             },
             "columns": [
               {
@@ -1762,7 +1762,7 @@
           {
             "additional-classes": "a-dotted a-clickable a-list-hasRowLink",
             "isRowLink": {
-              "rowLink": "/patterns/04-sider-infoportal-30-artikkel-16-artikkel-v-regnskap/04-sider-infoportal-30-artikkel-16-artikkel-v-regnskap.html"
+              "rowLink": "link.sider-infoportal-artikkel-v-regnskap"
             },
             "columns": [
               {
@@ -1780,7 +1780,7 @@
           {
             "additional-classes": "a-dotted a-clickable a-list-hasRowLink",
             "isRowLink": {
-              "rowLink": "/patterns/04-sider-infoportal-30-artikkel-16-artikkel-v-regnskap/04-sider-infoportal-30-artikkel-16-artikkel-v-regnskap.html"
+              "rowLink": "link.sider-infoportal-artikkel-v-regnskap"
             },
             "columns": [
               {
@@ -1798,7 +1798,7 @@
           {
             "additional-classes": "a-dotted a-clickable a-list-hasRowLink",
             "isRowLink": {
-              "rowLink": "/patterns/04-sider-infoportal-20-navigasjonssider-60-arkiv-v-nyhetsarkiv/04-sider-infoportal-20-navigasjonssider-60-arkiv-v-nyhetsarkiv.html"
+              "rowLink": "link.sider-infoportal-arkiv-v-nyhetsarkiv"
             },
             "columns": [
               {
@@ -1816,7 +1816,7 @@
           {
             "additional-classes": "a-dotted a-clickable a-list-hasRowLink",
             "isRowLink": {
-              "rowLink": "/patterns/04-sider-infoportal-20-navigasjonssider-61-arkiv-v-driftsarkiv/04-sider-infoportal-20-navigasjonssider-61-arkiv-v-driftsarkiv.html"
+              "rowLink": "link.sider-infoportal-arkiv-v-driftsarkiv"
             },
             "columns": [
               {
@@ -1834,7 +1834,7 @@
           {
             "additional-classes": "a-dotted a-clickable a-list-hasRowLink",
             "isRowLink": {
-              "rowLink": "/patterns/04-sider-infoportal-30-artikkel-16-artikkel-v-regnskap/04-sider-infoportal-30-artikkel-16-artikkel-v-regnskap.html"
+              "rowLink": "link.sider-infoportal-artikkel-v-regnskap"
             },
             "columns": [
               {

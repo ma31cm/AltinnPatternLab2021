@@ -1317,7 +1317,7 @@
           "button-text-class": "sr-only"
         }
       ],
-      "onclick": "location.href='/patterns/04-sider-infoportal-40-sok-00-sok-forside/04-sider-infoportal-40-sok-00-sok-forside.html';"
+      "onclick": "location.href='link.sider-infoportal-sok-forside';"
     }
   },
   "article-breadcrumb": {},
@@ -1327,7 +1327,7 @@
       {
         "additional-classes": "a-dotted a-clickable a-list-hasRowLink",
         "isRowLink": {
-          "rowLink": "/patterns/04-sider-infoportal-30-artikkel-16-artikkel-v-regnskap/04-sider-infoportal-30-artikkel-16-artikkel-v-regnskap.html"
+          "rowLink": "link.sider-infoportal-artikkel-v-regnskap"
         },
         "columns": [
           {
@@ -1345,7 +1345,7 @@
       {
         "additional-classes": "a-dotted a-clickable a-list-hasRowLink",
         "isRowLink": {
-          "rowLink": "/patterns/04-sider-infoportal-30-artikkel-16-artikkel-v-regnskap/04-sider-infoportal-30-artikkel-16-artikkel-v-regnskap.html"
+          "rowLink": "link.sider-infoportal-artikkel-v-regnskap"
         },
         "columns": [
           {
@@ -1363,7 +1363,7 @@
       {
         "additional-classes": "a-dotted a-clickable a-list-hasRowLink",
         "isRowLink": {
-          "rowLink": "/patterns/04-sider-infoportal-30-artikkel-16-artikkel-v-regnskap/04-sider-infoportal-30-artikkel-16-artikkel-v-regnskap.html"
+          "rowLink": "link.sider-infoportal-artikkel-v-regnskap"
         },
         "columns": [
           {
@@ -1381,7 +1381,7 @@
       {
         "additional-classes": "a-dotted a-clickable a-list-hasRowLink",
         "isRowLink": {
-          "rowLink": "/patterns/04-sider-infoportal-30-artikkel-16-artikkel-v-regnskap/04-sider-infoportal-30-artikkel-16-artikkel-v-regnskap.html"
+          "rowLink": "link.sider-infoportal-artikkel-v-regnskap"
         },
         "columns": [
           {
@@ -1399,7 +1399,7 @@
       {
         "additional-classes": "a-dotted a-clickable a-list-hasRowLink",
         "isRowLink": {
-          "rowLink": "/patterns/04-sider-infoportal-30-artikkel-16-artikkel-v-regnskap/04-sider-infoportal-30-artikkel-16-artikkel-v-regnskap.html"
+          "rowLink": "link.sider-infoportal-artikkel-v-regnskap"
         },
         "columns": [
           {
@@ -1422,7 +1422,7 @@
       {
         "additional-classes": "a-dotted a-clickable a-list-hasRowLink",
         "isRowLink": {
-          "rowLink": "/patterns/04-sider-infoportal-30-artikkel-16-artikkel-v-regnskap/04-sider-infoportal-30-artikkel-16-artikkel-v-regnskap.html"
+          "rowLink": "link.sider-infoportal-artikkel-v-regnskap"
         },
         "columns": [
           {
@@ -1440,7 +1440,7 @@
       {
         "additional-classes": "a-dotted a-clickable a-list-hasRowLink",
         "isRowLink": {
-          "rowLink": "/patterns/04-sider-infoportal-30-artikkel-16-artikkel-v-regnskap/04-sider-infoportal-30-artikkel-16-artikkel-v-regnskap.html"
+          "rowLink": "link.sider-infoportal-artikkel-v-regnskap"
         },
         "columns": [
           {
@@ -1458,7 +1458,7 @@
       {
         "additional-classes": "a-dotted a-clickable a-list-hasRowLink",
         "isRowLink": {
-          "rowLink": "/patterns/04-sider-infoportal-30-artikkel-16-artikkel-v-regnskap/04-sider-infoportal-30-artikkel-16-artikkel-v-regnskap.html"
+          "rowLink": "link.sider-infoportal-artikkel-v-regnskap"
         },
         "columns": [
           {
@@ -1476,7 +1476,7 @@
       {
         "additional-classes": "a-dotted a-clickable a-list-hasRowLink",
         "isRowLink": {
-          "rowLink": "/patterns/04-sider-infoportal-30-artikkel-16-artikkel-v-regnskap/04-sider-infoportal-30-artikkel-16-artikkel-v-regnskap.html"
+          "rowLink": "link.sider-infoportal-artikkel-v-regnskap"
         },
         "columns": [
           {
@@ -1494,7 +1494,7 @@
       {
         "additional-classes": "a-dotted a-clickable a-list-hasRowLink",
         "isRowLink": {
-          "rowLink": "/patterns/04-sider-infoportal-30-artikkel-16-artikkel-v-regnskap/04-sider-infoportal-30-artikkel-16-artikkel-v-regnskap.html"
+          "rowLink": "link.sider-infoportal-artikkel-v-regnskap"
         },
         "columns": [
           {
@@ -1517,7 +1517,7 @@
       {
         "additional-classes": "a-dotted a-clickable a-list-hasRowLink",
         "isRowLink": {
-          "rowLink": "/patterns/04-sider-infoportal-30-artikkel-16-artikkel-v-regnskap/04-sider-infoportal-30-artikkel-16-artikkel-v-regnskap.html"
+          "rowLink": "link.sider-infoportal-artikkel-v-regnskap"
         },
         "columns": [
           {
@@ -1535,7 +1535,7 @@
       {
         "additional-classes": "a-dotted a-clickable a-list-hasRowLink",
         "isRowLink": {
-          "rowLink": "/patterns/04-sider-infoportal-30-artikkel-16-artikkel-v-regnskap/04-sider-infoportal-30-artikkel-16-artikkel-v-regnskap.html"
+          "rowLink": "link.sider-infoportal-artikkel-v-regnskap"
         },
         "columns": [
           {
@@ -1553,7 +1553,7 @@
       {
         "additional-classes": "a-dotted a-clickable a-list-hasRowLink",
         "isRowLink": {
-          "rowLink": "/patterns/04-sider-infoportal-30-artikkel-16-artikkel-v-regnskap/04-sider-infoportal-30-artikkel-16-artikkel-v-regnskap.html"
+          "rowLink": "link.sider-infoportal-artikkel-v-regnskap"
         },
         "columns": [
           {
@@ -1571,7 +1571,7 @@
       {
         "additional-classes": "a-dotted a-clickable a-list-hasRowLink",
         "isRowLink": {
-          "rowLink": "/patterns/04-sider-infoportal-30-artikkel-16-artikkel-v-regnskap/04-sider-infoportal-30-artikkel-16-artikkel-v-regnskap.html"
+          "rowLink": "link.sider-infoportal-artikkel-v-regnskap"
         },
         "columns": [
           {
@@ -1589,7 +1589,7 @@
       {
         "additional-classes": "a-dotted a-clickable a-list-hasRowLink",
         "isRowLink": {
-          "rowLink": "/patterns/04-sider-infoportal-30-artikkel-16-artikkel-v-regnskap/04-sider-infoportal-30-artikkel-16-artikkel-v-regnskap.html"
+          "rowLink": "link.sider-infoportal-artikkel-v-regnskap"
         },
         "columns": [
           {
@@ -1612,7 +1612,7 @@
       {
         "additional-classes": "a-dotted a-clickable a-list-hasRowLink",
         "isRowLink": {
-          "rowLink": "/patterns/04-sider-infoportal-30-artikkel-16-artikkel-v-regnskap/04-sider-infoportal-30-artikkel-16-artikkel-v-regnskap.html"
+          "rowLink": "link.sider-infoportal-artikkel-v-regnskap"
         },
         "columns": [
           {
@@ -1630,7 +1630,7 @@
       {
         "additional-classes": "a-dotted a-clickable a-list-hasRowLink",
         "isRowLink": {
-          "rowLink": "/patterns/04-sider-infoportal-30-artikkel-16-artikkel-v-regnskap/04-sider-infoportal-30-artikkel-16-artikkel-v-regnskap.html"
+          "rowLink": "link.sider-infoportal-artikkel-v-regnskap"
         },
         "columns": [
           {
@@ -1648,7 +1648,7 @@
       {
         "additional-classes": "a-dotted a-clickable a-list-hasRowLink",
         "isRowLink": {
-          "rowLink": "/patterns/04-sider-infoportal-30-artikkel-16-artikkel-v-regnskap/04-sider-infoportal-30-artikkel-16-artikkel-v-regnskap.html"
+          "rowLink": "link.sider-infoportal-artikkel-v-regnskap"
         },
         "columns": [
           {
@@ -1666,7 +1666,7 @@
       {
         "additional-classes": "a-dotted a-clickable a-list-hasRowLink",
         "isRowLink": {
-          "rowLink": "/patterns/04-sider-infoportal-30-artikkel-16-artikkel-v-regnskap/04-sider-infoportal-30-artikkel-16-artikkel-v-regnskap.html"
+          "rowLink": "link.sider-infoportal-artikkel-v-regnskap"
         },
         "columns": [
           {
@@ -1684,7 +1684,7 @@
       {
         "additional-classes": "a-dotted a-clickable a-list-hasRowLink",
         "isRowLink": {
-          "rowLink": "/patterns/04-sider-infoportal-30-artikkel-16-artikkel-v-regnskap/04-sider-infoportal-30-artikkel-16-artikkel-v-regnskap.html"
+          "rowLink": "link.sider-infoportal-artikkel-v-regnskap"
         },
         "columns": [
           {
@@ -1717,7 +1717,7 @@
         {
           "breadcrumb-title": "Starte og drive bedrift",
           "breadcrumb-class": "breadcrumb-mobile",
-          "breadcrumb-link": "/patterns/04-sider-infoportal-10-seksjonsforsider-30-seksjonsforside-v-starteogdrive/04-sider-infoportal-10-seksjonsforsider-30-seksjonsforside-v-starteogdrive.html"
+          "breadcrumb-link": "link.sider-infoportal-seksjonsforside-v-starteogdrive"
         },
         {
           "breadcrumb-title": "Starte bedrift",
@@ -1736,7 +1736,7 @@
     "first-linkTitle": {
       "linkTitle": {
         "link-text": "AS, enkeltpersonforetak, eller... hva passer best for deg?",
-        "link-url": "/patterns/04-sider-infoportal-30-artikkel-42-artikkel-jumbo-v-velg-foretaksform/04-sider-infoportal-30-artikkel-42-artikkel-jumbo-v-velg-foretaksform.html",
+        "link-url": "link.sider-infoportal-artikkel-jumbo-v-velg-foretaksform",
         "linkClass": "a-link-title"
       },
       "category-element-description": "Valg av rett organisasjonsform for ditt foretak er en viktig avgjørelse. Vi viser deg forskjellene og hjelper deg å finne aktuelle foretaksformer."
@@ -1744,7 +1744,7 @@
     "second-linkTitle": {
       "linkTitle": {
         "link-text": "Valg av navn – krav og tips",
-        "link-url": "/patterns/04-sider-infoportal-20-navigasjonssider-31-temaside-v-starte/04-sider-infoportal-20-navigasjonssider-31-temaside-v-starte.html",
+        "link-url": "link.sider-infoportal-temaside-v-starte",
         "linkClass": "a-link-title"
       },
       "category-element-description": "Foretaksnavn må tilfredsstille visse krav fra det offentlige. Videre skal må det ikke forveksles med  andre, det bør gi identitet og fungere godt på internett. Vi gir deg noen tips til gode navnevalg."
@@ -1752,7 +1752,7 @@
     "second-linkTitleb": {
       "linkTitle": {
         "link-text": "Hvordan registrere foretaket",
-        "link-url": "/patterns/04-sider-infoportal-30-artikkel-17-artikkel-v-starte-og-registrere-enk/04-sider-infoportal-30-artikkel-17-artikkel-v-starte-og-registrere-enk.html",
+        "link-url": "link.sider-infoportal-artikkel-v-starte-og-registrere-enk",
         "linkClass": "a-link-title"
       },
       "category-element-description": "Her får du vite om formelle krav ved registrering for de ulike foretaksformene, om skjema og vedlegg, hva det koster - og hvor lang tid tar det å registrere foretaket."
@@ -1760,7 +1760,7 @@
     "third-linkTitle": {
       "linkTitle": {
         "link-text": "Merverdiavgiftsregistrering",
-        "link-url": "/patterns/04-sider-infoportal-20-navigasjonssider-31-temaside-v-starte/04-sider-infoportal-20-navigasjonssider-31-temaside-v-starte.html",
+        "link-url": "link.sider-infoportal-temaside-v-starte",
         "linkClass": "a-link-title"
       },
       "category-element-description": "Du må registrere foretaket ditt i merverdiavgiftsregisteret når det er omsatt merverdiavgiftspliktige varer og tjenester for over 50 000 kroner innenfor en periode på 12 måneder."
@@ -1768,7 +1768,7 @@
     "fourth-linkTitle": {
       "linkTitle": {
         "link-text": "Fra utlandet?",
-        "link-url": "/patterns/04-sider-infoportal-20-navigasjonssider-31-temaside-v-starte/04-sider-infoportal-20-navigasjonssider-31-temaside-v-starte.html",
+        "link-url": "link.sider-infoportal-temaside-v-starte",
         "linkClass": "a-link-title"
       },
       "category-element-description": "Er du utenlandsk statsborger? Reglene for etablering er stort sett likt med reglene for norske borgere. Men du må få et D-nummer (fødselsnummer) og så er det blant annet krav til norsk forretningsadresse. "
@@ -1776,7 +1776,7 @@
     "fifth-linkTitle": {
       "linkTitle": {
         "link-text": "Mange registre",
-        "link-url": "/patterns/04-sider-infoportal-20-navigasjonssider-31-temaside-v-starte/04-sider-infoportal-20-navigasjonssider-31-temaside-v-starte.html",
+        "link-url": "link.sider-infoportal-temaside-v-starte",
         "linkClass": "a-link-title"
       },
       "category-element-description": "Som næringsdrivende vil du bli registrert i et eller flere registre, som for eksempel enhetsregisteret, foretaksregisteret og merverdiavgiftsregisteret. Her finner du en oversikt over hvordan disse fungerer og hvilke registerplikter du har."
@@ -1784,7 +1784,7 @@
     "sixth-linkTitle": {
       "linkTitle": {
         "link-text": "Tillatelser",
-        "link-url": "/patterns/04-sider-infoportal-20-navigasjonssider-31-temaside-v-starte/04-sider-infoportal-20-navigasjonssider-31-temaside-v-starte.html",
+        "link-url": "link.sider-infoportal-temaside-v-starte",
         "linkClass": "a-link-title"
       },
       "category-element-description": "Innenfor enkelte bransjer må man ha tillatelse fra det offentlige for å drive egen næringsvirksomhet. Eksempler på dette er serveringsvirksomhet og renholdstjenester. Sjekk her om ditt foretak må ha tillatelse."
@@ -1798,7 +1798,7 @@
       },
       "hasTextSmall": false,
       "link-text": "Registrer nytt foretak",
-      "link-url": "/patterns/04-sider-infoportal-01-forside-00-forside/04-sider-infoportal-01-forside-00-forside.html"
+      "link-url": "link.sider-infoportal-forside"
     }
   }
 }

@@ -1337,7 +1337,7 @@
           "button-text-class": "sr-only"
         }
       ],
-      "onclick": "location.href='/patterns/04-sider-infoportal-40-sok-10-sok-skjema/04-sider-infoportal-40-sok-10-sok-skjema.html';"
+      "onclick": "location.href='link.sider-infoportal-sok-skjema';"
     }
   }
 }

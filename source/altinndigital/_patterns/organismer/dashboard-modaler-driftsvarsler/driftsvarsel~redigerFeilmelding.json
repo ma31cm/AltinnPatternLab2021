@@ -428,7 +428,7 @@
       "data-action": "next",
       "data-toggle": "altinn-modal",
       "data-target": "#modal-addAlert",
-      "page-url": "../../patterns/02-organismer-83-Dashboard-modaler-driftsvarsler-11-driftsvarsel-ferdig/02-organismer-83-Dashboard-modaler-driftsvarsler-11-driftsvarsel-ferdig.markup-only.html"
+      "page-url": "../..link.organismer-driftsvarsel-ferdig"
     }
   }
 }

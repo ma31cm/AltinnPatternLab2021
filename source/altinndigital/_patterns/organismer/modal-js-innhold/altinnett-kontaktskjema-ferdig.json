@@ -19,6 +19,6 @@
     "data-action": "next",
     "data-toggle": "altinn-modal",
     "data-target": "#modal",
-    "page-url": "../../patterns/02-organismer-80-Modal-js-innhold-11-kontaktskjema-ferdig/02-organismer-80-Modal-js-innhold-11-kontaktskjema-ferdig.markup-only.html"
+    "page-url": "../..link.organismer-kontaktskjema-ferdig"
   }
 }

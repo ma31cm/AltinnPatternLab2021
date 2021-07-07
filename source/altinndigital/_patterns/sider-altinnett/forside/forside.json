@@ -119,7 +119,7 @@
       }
     ]
   },
-  "page-url": "../../patterns/02-organismer-80-Modal-js-innhold-12-altinnett-kontaktskjema/02-organismer-80-Modal-js-innhold-12-altinnett-kontaktskjema.markup-only.html",
+  "page-url": "../..link.organismer-altinnett-kontaktskjema",
   "footerHeading": "Vil du vite mer?",
   "footer-search": {
     "text-input-id": "text-input-search-footer",
@@ -142,7 +142,7 @@
         }
       ],
       "form-input-button-action": "Utfør søk",
-      "onclick": "location.href='/patterns/04-sider-altinnett-60-sok-00-sokeside/04-sider-altinnett-60-sok-00-sokeside.html';"
+      "onclick": "location.href='link.sider-altinnett-sokeside';"
     }
   },
   "contactLinks": [
@@ -206,7 +206,7 @@
       "data-action": "load",
       "data-toggle": "altinn-modal",
       "data-target": "modal-singel",
-      "page-url": "../../patterns/02-organismer-80-Modal-js-innhold-12-altinnett-kontaktskjema/02-organismer-80-Modal-js-innhold-12-altinnett-kontaktskjema.markup-only.html"
+      "page-url": "../..link.organismer-altinnett-kontaktskjema"
     },
     "logo-class": "a-modal-top-logo",
     "login-show": false,
@@ -235,7 +235,7 @@
   "letters": "ST",
   "col": " col-md-4 col-lg-4 col-xl-4",
   "extraClass": "a-bgGreyLighter",
-  "url": "/patterns/04-sider-altinnett-10-forside-10-forside/04-sider-altinnett-10-forside-10-forside.html",
+  "url": "link.sider-altinnett-forside",
   "col-image": "col-4",
   "iconClass": "an-cover",
   "imageurl": "../../images/asset_2.png",
@@ -294,7 +294,7 @@
   },
   "showAllLink": {
     "link-text": "Vis alle produkter",
-    "link-url": "/patterns/04-sider-altinnett-10-forside-10-forside/04-sider-altinnett-10-forside-10-forside.html",
+    "link-url": "link.sider-altinnett-forside",
     "linkClass": "a-linkFeatured a-linkFeatured--large",
     "link-icon": {
       "icon-prefix": "ai ai-sm ai-nw ai-nw-right",
@@ -342,7 +342,7 @@
   "label-id": false,
   "label-content": "9",
   "button-colorClass": "",
-  "link-url": "/patterns/04-sider-infoportal-01-forside-00-forside/04-sider-infoportal-01-forside-00-forside.html",
+  "link-url": "link.sider-infoportal-forside",
   "button-shadow-label": false,
   "info-delete-add": {
     "added-content": [
@@ -882,7 +882,7 @@
   "product1": {
     "col": "col-md-4 col-lg-4 col-xl-4 px-0 px-sm-1",
     "title": "Digital Dialog",
-    "url": "/patterns/04-sider-altinnett-10-forside-10-forside/04-sider-altinnett-10-forside-10-forside.html",
+    "url": "link.sider-altinnett-forside",
     "extraClass": "a-bgGreyLighter",
     "imageurl": "../../images/asset_2.png",
     "abbreviation": {
@@ -893,7 +893,7 @@
   "product2": {
     "col": "col-md-4 col-lg-4 col-xl-4 px-0 px-sm-1",
     "title": "Digital post til virksomheter",
-    "url": "/patterns/04-sider-altinnett-10-forside-10-forside/04-sider-altinnett-10-forside-10-forside.html",
+    "url": "link.sider-altinnett-forside",
     "extraClass": "a-bgBlueLighter",
     "headerClass": "an-presentationBlock-largeHeader",
     "iconClass": "an-cover",
@@ -906,7 +906,7 @@
   "product3": {
     "col": "col-md-4 col-lg-4 col-xl-4 px-0 px-sm-1",
     "title": "Altinn API",
-    "url": "/patterns/04-sider-altinnett-10-forside-10-forside/04-sider-altinnett-10-forside-10-forside.html",
+    "url": "link.sider-altinnett-forside",
     "extraClass": "a-bgRedLight",
     "headerClass": "an-presentationBlock-largeHeader",
     "iconClass": "an-cover",
@@ -936,7 +936,7 @@
           "button-text-class": "sr-only"
         }
       ],
-      "onclick": "location.href='/patterns/04-sider-altinnett-60-sok-00-sokeside/04-sider-altinnett-60-sok-00-sokeside.html';"
+      "onclick": "location.href='link.sider-altinnett-sokeside';"
     }
   },
   "name": "JAN PETTERSEN",
@@ -961,7 +961,7 @@
     "extra-classes": "a-fontBold"
   },
   "produkter": {
-    "link": "/patterns/03-maler-altinnett-80-produktsider-10-produktoversikt/03-maler-altinnett-80-produktsider-10-produktoversikt.html"
+    "link": "link.maler-altinnett-produktoversikt"
   },
   "login-button": {
     "button-text": "Logg inn",
@@ -969,16 +969,16 @@
     "button-disabled": false,
     "button-type": "button",
     "onclick": {
-      "onclick": "location.href='/patterns/03-maler-altinnett-20-profil-30-paalogget/03-maler-altinnett-20-profil-30-paalogget.html'"
+      "onclick": "location.href='link.maler-altinnett-paalogget'"
     },
     "button-icon": false,
     "display-as-link": false
   },
   "header-color": "",
-  "url-logo": "/patterns/04-sider-altinnett-10-forside-10-forside/04-sider-altinnett-10-forside-10-forside.html",
+  "url-logo": "link.sider-altinnett-forside",
   "headerlogo": "../../images/an-logo-blue.svg",
   "hide-header": true,
-  "url-aktuelt": "/patterns/04-sider-altinnett-40-navigasjonssider-10-nyhetsarkiv/04-sider-altinnett-40-navigasjonssider-10-nyhetsarkiv.html",
+  "url-aktuelt": "link.sider-altinnett-nyhetsarkiv",
   "ekstra-menypunkt-1": "Ekstra menypunkt 1",
   "tel-icon": {
     "icon-prefix": "ai ai-nw ai-nw-pr",
@@ -1030,7 +1030,7 @@
     },
     "learnMoreLink": {
       "link-text": "Lær mer om veien videre",
-      "link-url": "/patterns/04-sider-altinnett-10-forside-10-forside/04-sider-altinnett-10-forside-10-forside.html",
+      "link-url": "link.sider-altinnett-forside",
       "linkClass": "a-linkFeatured",
       "link-icon": {
         "icon-prefix": "ai ai-sm ai-nw ai-nw-right",
@@ -1124,11 +1124,11 @@
           }
         ],
         "form-input-button-action": "Utfør søk",
-        "onclick": "location.href='/patterns/04-sider-altinnett-60-sok-00-sokeside/04-sider-altinnett-60-sok-00-sokeside.html';"
+        "onclick": "location.href='link.sider-altinnett-sokeside';"
       }
     },
     "menuItem1": "innovation@altinn",
-    "urlMenuItem1": "/patterns/04-sider-altinnett-50-seksjonsforsider-10-seksjonsforside/04-sider-altinnett-50-seksjonsforsider-10-seksjonsforside.html"
+    "urlMenuItem1": "link.sider-altinnett-seksjonsforside"
   },
   "dropdown-personswitch": {
     "dummy-user-login": true
@@ -1525,7 +1525,7 @@
       "data-toggle": "altinn-modal",
       "data-action": "load",
       "data-url": {
-        "data-url": "../../patterns/02-organismer-80-Modal-js-innhold-80-altinnett-varsling-pamelding/02-organismer-80-Modal-js-innhold-80-altinnett-varsling-pamelding.markup-only.html"
+        "data-url": "../..link.organismer-altinnett-varsling-pamelding"
       },
       "data-target": "modal"
     },

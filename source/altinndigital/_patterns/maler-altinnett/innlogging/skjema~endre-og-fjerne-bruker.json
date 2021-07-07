@@ -69,7 +69,7 @@
       }
     ]
   },
-  "page-url": "../../patterns/03-maler-altinnett-innlogging-modal-alle-i-din-organisasjon/03-maler-altinnett-innlogging-modal-alle-i-din-organisasjon.markup-only.html",
+  "page-url": "../..link.3-maler-altinnett-innlogging-modal-alle-i-din-organisasjon",
   "close-modal": true,
   "last-question": true,
   "btn-next": "Lagre endring",
@@ -85,7 +85,7 @@
     "link-url": "",
     "data-toggle": "altinn-modal",
     "data-action": "next",
-    "data-url": "../../patterns/03-maler-altinnett-innlogging-kvittering-bruker-fjernet/03-maler-altinnett-innlogging-kvittering-bruker-fjernet.markup-only.html",
+    "data-url": "../..link.3-maler-altinnett-innlogging-kvittering-bruker-fjernet",
     "data-target": "modal",
     "data-is-success": true,
     "button-shadow-label": false,

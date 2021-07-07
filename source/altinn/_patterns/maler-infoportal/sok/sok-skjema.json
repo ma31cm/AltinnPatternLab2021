@@ -1355,7 +1355,7 @@
           "button-text-class": "sr-only"
         }
       ],
-      "onclick": "location.href='/patterns/04-sider-infoportal-40-sok-10-sok-skjema/04-sider-infoportal-40-sok-10-sok-skjema.html';"
+      "onclick": "location.href='link.sider-infoportal-sok-skjema';"
     }
   },
   "searchWhere": {
@@ -1363,12 +1363,12 @@
       "tab-items": [
         {
           "tab-active": true,
-          "tab-href": "/patterns/04-sider-infoportal-40-sok-00-sok-forside/04-sider-infoportal-40-sok-00-sok-forside.html",
+          "tab-href": "link.sider-infoportal-sok-forside",
           "tab-title": "altinn.no",
           "tab-class": "a-tabs-lg"
         },
         {
-          "tab-href": "/patterns/04-sider-portal-50-innboks-00-innboks/04-sider-portal-50-innboks-00-innboks.html",
+          "tab-href": "link.sider-portal-innboks",
           "tab-title": "innboks",
           "tab-class": "a-tabs-lg mr-0",
           "tab-icon": false,
@@ -1388,7 +1388,7 @@
         "radiobuttons-id": "skjema",
         "radiobuttons-class": "",
         "hasIcon": false,
-        "onclick": "javascript:window.location.href='/patterns/04-sider-infoportal-40-sok-00-sok-forside/04-sider-infoportal-40-sok-00-sok-forside.html'",
+        "onclick": "javascript:window.location.href='link.sider-infoportal-sok-forside'",
         "isChecked": true
       },
       {
@@ -1396,7 +1396,7 @@
         "radiobuttons-id": "starteogdrive",
         "radiobuttons-class": "",
         "hasIcon": false,
-        "onclick": "javascript:window.location.href='/patterns/04-sider-infoportal-40-sok-20-sok-artikkel/04-sider-infoportal-40-sok-20-sok-artikkel.html'"
+        "onclick": "javascript:window.location.href='link.sider-infoportal-sok-artikkel'"
       }
     ]
   },
@@ -1476,7 +1476,7 @@
         {
           "additional-classes": "a-dotted a-clickable a-list-hasRowLink",
           "isRowLink": {
-            "rowLink": "/patterns/04-sider-infoportal-35-skjemaartikkel-11-artikkel-skjema-v-amelding/04-sider-infoportal-35-skjemaartikkel-11-artikkel-skjema-v-amelding.html"
+            "rowLink": "link.sider-infoportal-artikkel-skjema-v-amelding"
           },
           "columns": [
             {
@@ -1494,7 +1494,7 @@
         {
           "additional-classes": "a-dotted a-clickable a-list-hasRowLink",
           "isRowLink": {
-            "rowLink": "/patterns/04-sider-infoportal-35-skjemaartikkel-11-artikkel-skjema-v-amelding-varsler/04-sider-infoportal-35-skjemaartikkel-11-artikkel-skjema-v-amelding-varsler.html"
+            "rowLink": "link.sider-infoportal-artikkel-skjema-v-amelding-varsler"
           },
           "columns": [
             {
@@ -1512,7 +1512,7 @@
         {
           "additional-classes": "a-dotted a-clickable a-list-hasRowLink",
           "isRowLink": {
-            "rowLink": "/patterns/04-sider-infoportal-35-skjemaartikkel-53-artikkel-skjema-v-egenmeldt-sykefravaer/04-sider-infoportal-35-skjemaartikkel-53-artikkel-skjema-v-egenmeldt-sykefravaer.html"
+            "rowLink": "link.sider-infoportal-artikkel-skjema-v-egenmeldt-sykefravaer"
           },
           "columns": [
             {
@@ -1530,7 +1530,7 @@
         {
           "additional-classes": "a-dotted a-clickable a-list-hasRowLink",
           "isRowLink": {
-            "rowLink": "/patterns/04-sider-infoportal-35-skjemaartikkel-54-artikkel-skjema-v-selskapsoppgave-for-deltakerliknet-selskap/04-sider-infoportal-35-skjemaartikkel-54-artikkel-skjema-v-selskapsoppgave-for-deltakerliknet-selskap.html"
+            "rowLink": "link.sider-infoportal-artikkel-skjema-v-selskapsoppgave-for-deltakerliknet-selskap"
           },
           "columns": [
             {
@@ -1548,7 +1548,7 @@
         {
           "additional-classes": "a-dotted a-clickable a-list-hasRowLink",
           "isRowLink": {
-            "rowLink": "/patterns/04-sider-infoportal-35-skjemaartikkel-55-artikkel-skjema-v-avskrivning/04-sider-infoportal-35-skjemaartikkel-55-artikkel-skjema-v-avskrivning.html"
+            "rowLink": "link.sider-infoportal-artikkel-skjema-v-avskrivning"
           },
           "columns": [
             {
@@ -1645,7 +1645,7 @@
   "suggestionList-link": {
     "linkClass": "a-linkFeatured",
     "link-text": "Se alle treff i Starte og drive bedrift",
-    "link-url": "/patterns/04-sider-infoportal-40-sok-00-sok-forside/04-sider-infoportal-40-sok-00-sok-forside.html",
+    "link-url": "link.sider-infoportal-sok-forside",
     "link-icon": {
       "icon-prefix": "ai ai-sm ai-nw ai-nw-right",
       "iconClass": "ai-arrowright"

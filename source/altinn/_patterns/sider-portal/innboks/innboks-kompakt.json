@@ -2810,15 +2810,15 @@
     "isInput-group": "input-group"
   },
   "buttonTab-first": {
-    "link-url": "/patterns/04-sider-portal-50-innboks-_10-innboks-mva-og-skatt/04-sider-portal-50-innboks-_10-innboks-mva-og-skatt.html",
+    "link-url": "link.sider-portal-innboks-mva-og-skatt",
     "buttonClass": "a-btn a-btn-icon a-btn-transparentWhite a-js-onboardingTarget-3"
   },
   "buttonTab-second": {
-    "link-url": "/patterns/04-sider-portal-50-innboks-_20-innboks-ansatte/04-sider-portal-50-innboks-_20-innboks-ansatte.html",
+    "link-url": "link.sider-portal-innboks-ansatte",
     "buttonClass": "a-btn a-btn-icon a-btn-transparentWhite a-js-onboardingTarget-4"
   },
   "buttonTab-third": {
-    "link-url": "/patterns/04-sider-portal-50-innboks-_30-innboks-frister/04-sider-portal-50-innboks-_30-innboks-frister.html",
+    "link-url": "link.sider-portal-innboks-frister",
     "buttonClass": "a-btn a-btn-icon a-btn-transparentWhite a-js-onboardingTarget-5"
   },
   "sidebar": {
@@ -2835,7 +2835,7 @@
         {
           "buttonClass": "a-btn a-active a-btn-icon a-btn-transparentWhite",
           "button-colorClass": "",
-          "link-url": "/patterns/04-sider-portal-50-innboks-00-innboks/04-sider-portal-50-innboks-00-innboks.html",
+          "link-url": "link.sider-portal-innboks",
           "button-text": "innboks",
           "responsive-br": true,
           "button-icon": {
@@ -2848,7 +2848,7 @@
         {
           "buttonClass": "a-btn a-btn-icon a-btn-transparentWhite",
           "button-colorClass": "",
-          "link-url": "/patterns/04-sider-portal-50-innboks-05-innboks-arkiv/04-sider-portal-50-innboks-05-innboks-arkiv.html",
+          "link-url": "link.sider-portal-innboks-arkiv",
           "button-text": "arkiv",
           "responsive-br": true,
           "button-icon": {
@@ -2861,7 +2861,7 @@
         {
           "buttonClass": "a-btn a-btn-icon a-btn-transparentWhite",
           "button-colorClass": "",
-          "link-url": "/patterns/04-sider-portal-50-innboks-08-innboks-slettede-meldinger/04-sider-portal-50-innboks-08-innboks-slettede-meldinger.html",
+          "link-url": "link.sider-portal-innboks-slettede-meldinger",
           "button-text": "slettede",
           "responsive-br": true,
           "button-icon": {
@@ -2925,7 +2925,7 @@
           "wrapper-class": "d-lg-none",
           "buttonClass": "a-btn a-btn-icon a-btn-transparentWhite",
           "button-colorClass": "",
-          "link-url": "/patterns/04-sider-portal-50-innboks-_10-innboks-mva-og-skatt/04-sider-portal-50-innboks-_10-innboks-mva-og-skatt.html",
+          "link-url": "link.sider-portal-innboks-mva-og-skatt",
           "button-text": "nytt",
           "responsive-br": true,
           "button-icon": {
@@ -2943,7 +2943,7 @@
           "buttonClass": "a-btn a-btn-icon a-btn-transparentWhite",
           "button-textClass": "a-btn-icon-text-ellipsis",
           "button-colorClass": "",
-          "link-url": "/patterns/04-sider-portal-50-innboks-_11-innboks-mva-og-skatt-nyoppstartet/04-sider-portal-50-innboks-_11-innboks-mva-og-skatt-nyoppstartet.html",
+          "link-url": "link.sider-portal-innboks-mva-og-skatt-nyoppstartet",
           "button-text": "Mattilsynet + til skatt",
           "title": "Mattilsynet + Til utfylling",
           "responsive-br": true,
@@ -2957,7 +2957,7 @@
         {
           "buttonClass": "a-btn a-btn-icon a-btn-transparentWhite",
           "button-colorClass": "",
-          "link-url": "/patterns/04-sider-portal-50-innboks-_31-innboks-frister-nyoppstartet/04-sider-portal-50-innboks-_31-innboks-frister-nyoppstartet.html",
+          "link-url": "link.sider-portal-innboks-frister-nyoppstartet",
           "button-text": "SSB",
           "responsive-br": true,
           "button-icon": false,
@@ -2970,7 +2970,7 @@
         {
           "buttonClass": "a-btn a-btn-icon a-btn-transparentWhite",
           "button-colorClass": "",
-          "link-url": "/patterns/04-sider-portal-50-innboks-15-innboks-rediger-lagrede-sok/04-sider-portal-50-innboks-15-innboks-rediger-lagrede-sok.html",
+          "link-url": "link.sider-portal-innboks-rediger-lagrede-sok",
           "button-text": "tilpass",
           "responsive-br": true,
           "button-icon": {
@@ -3130,7 +3130,7 @@
                       "button-text": "Del og gi fullmakt",
                       "buttonClass": "a-btn-link a-btn-md-block",
                       "button-colorClass": "",
-                      "link-url": "/patterns/04-sider-portal-10-modaler-30-videresend-i-altinn/04-sider-portal-10-modaler-30-videresend-i-altinn.html",
+                      "link-url": "link.sider-portal-videresend-i-altinn",
                       "button-shadow-label": false,
                       "button-icon": {
                         "icon-prefix": "reg",
@@ -3278,7 +3278,7 @@
                       "button-text": "Videresend på e-post",
                       "buttonClass": "a-btn-link a-btn-md-block",
                       "button-colorClass": "",
-                      "link-url": "/patterns/04-sider-portal-10-modaler-20-videresend-pa-epost/04-sider-portal-10-modaler-20-videresend-pa-epost.html",
+                      "link-url": "link.sider-portal-videresend-pa-epost",
                       "button-shadow-label": false,
                       "button-icon": {
                         "icon-prefix": "reg",
@@ -3460,7 +3460,7 @@
                       "button-text": "Del og gi fullmakt",
                       "buttonClass": "a-btn-link a-btn-md-block mr-2",
                       "button-colorClass": "",
-                      "link-url": "/patterns/04-sider-portal-10-modaler-30-videresend-i-altinn/04-sider-portal-10-modaler-30-videresend-i-altinn.html",
+                      "link-url": "link.sider-portal-videresend-i-altinn",
                       "button-shadow-label": false,
                       "button-icon": {
                         "icon-prefix": "reg",
@@ -3586,7 +3586,7 @@
                       "button-text": "Del og gi fullmakt",
                       "buttonClass": "a-btn-link a-btn-md-block mr-2",
                       "button-colorClass": "",
-                      "link-url": "/patterns/04-sider-portal-10-modaler-30-videresend-i-altinn/04-sider-portal-10-modaler-30-videresend-i-altinn.html",
+                      "link-url": "link.sider-portal-videresend-i-altinn",
                       "button-shadow-label": false,
                       "button-icon": {
                         "icon-prefix": "reg",
@@ -3731,7 +3731,7 @@
                       "button-text": "Del og gi fullmakt",
                       "buttonClass": "a-btn-link a-btn-md-block mr-2",
                       "button-colorClass": "",
-                      "link-url": "/patterns/04-sider-portal-10-modaler-30-videresend-i-altinn/04-sider-portal-10-modaler-30-videresend-i-altinn.html",
+                      "link-url": "link.sider-portal-videresend-i-altinn",
                       "button-shadow-label": false,
                       "button-icon": {
                         "icon-prefix": "reg",
@@ -3901,7 +3901,7 @@
                       "button-text": "Del og gi fullmakt",
                       "buttonClass": "a-btn-link a-btn-md-block",
                       "button-colorClass": "",
-                      "link-url": "/patterns/04-sider-portal-10-modaler-30-videresend-i-altinn/04-sider-portal-10-modaler-30-videresend-i-altinn.html",
+                      "link-url": "link.sider-portal-videresend-i-altinn",
                       "button-shadow-label": false,
                       "button-icon": {
                         "icon-prefix": "reg",
@@ -4048,7 +4048,7 @@
                       "button-text": "Del og gi fullmakt",
                       "buttonClass": "a-btn-link a-btn-md-block",
                       "button-colorClass": "",
-                      "link-url": "/patterns/04-sider-portal-10-modaler-30-videresend-i-altinn/04-sider-portal-10-modaler-30-videresend-i-altinn.html",
+                      "link-url": "link.sider-portal-videresend-i-altinn",
                       "button-shadow-label": false,
                       "button-icon": {
                         "icon-prefix": "reg",
@@ -4166,7 +4166,7 @@
                       "button-text": "Del og gi tilgang",
                       "buttonClass": "a-btn-link a-btn-md-block",
                       "button-colorClass": "",
-                      "link-url": "/patterns/04-sider-portal-10-modaler-30-videresend-i-altinn/04-sider-portal-10-modaler-30-videresend-i-altinn.html",
+                      "link-url": "link.sider-portal-videresend-i-altinn",
                       "button-shadow-label": false,
                       "button-icon": {
                         "icon-prefix": "reg",
@@ -4318,7 +4318,7 @@
                       "button-text": "Del og gi tilgang",
                       "buttonClass": "a-btn-link a-btn-md-block",
                       "button-colorClass": "",
-                      "link-url": "/patterns/04-sider-portal-10-modaler-30-videresend-i-altinn/04-sider-portal-10-modaler-30-videresend-i-altinn.html",
+                      "link-url": "link.sider-portal-videresend-i-altinn",
                       "button-shadow-label": false,
                       "button-icon": {
                         "icon-prefix": "reg",
@@ -4588,7 +4588,7 @@
                       "button-text": "Videresend på e-post",
                       "buttonClass": "a-btn-link a-btn-md-block",
                       "button-colorClass": "",
-                      "link-url": "/patterns/04-sider-portal-10-modaler-20-videresend-pa-epost/04-sider-portal-10-modaler-20-videresend-pa-epost.html",
+                      "link-url": "link.sider-portal-videresend-pa-epost",
                       "button-shadow-label": false,
                       "button-icon": {
                         "icon-prefix": "reg",
@@ -4740,7 +4740,7 @@
                       "button-text": "Del og gi fullmakt",
                       "buttonClass": "a-btn-link a-btn-md-block",
                       "button-colorClass": "",
-                      "link-url": "/patterns/04-sider-portal-10-modaler-30-videresend-i-altinn/04-sider-portal-10-modaler-30-videresend-i-altinn.html",
+                      "link-url": "link.sider-portal-videresend-i-altinn",
                       "button-shadow-label": false,
                       "button-icon": {
                         "icon-prefix": "reg",
@@ -4873,7 +4873,7 @@
                       "button-text": "Videresend på e-post",
                       "buttonClass": "a-btn-link a-btn-md-block",
                       "button-colorClass": "",
-                      "link-url": "/patterns/04-sider-portal-10-modaler-20-videresend-pa-epost/04-sider-portal-10-modaler-20-videresend-pa-epost.html",
+                      "link-url": "link.sider-portal-videresend-pa-epost",
                       "button-shadow-label": false,
                       "button-icon": {
                         "icon-prefix": "reg",
@@ -5031,7 +5031,7 @@
                       "button-text": "Videresend på e-post",
                       "buttonClass": "a-btn-link a-btn-md-block",
                       "button-colorClass": "",
-                      "link-url": "/patterns/04-sider-portal-10-modaler-20-videresend-pa-epost/04-sider-portal-10-modaler-20-videresend-pa-epost.html",
+                      "link-url": "link.sider-portal-videresend-pa-epost",
                       "button-shadow-label": false,
                       "button-icon": {
                         "icon-prefix": "reg",
@@ -5215,7 +5215,7 @@
                       "button-text": "Del og gi fullmakt",
                       "buttonClass": "a-btn-link a-btn-md-block",
                       "button-colorClass": "",
-                      "link-url": "/patterns/04-sider-portal-10-modaler-30-videresend-i-altinn/04-sider-portal-10-modaler-30-videresend-i-altinn.html",
+                      "link-url": "link.sider-portal-videresend-i-altinn",
                       "button-shadow-label": false,
                       "button-icon": {
                         "icon-prefix": "reg",
@@ -5438,7 +5438,7 @@
                       "button-text": "Del og gi fullmakt",
                       "buttonClass": "a-btn-link a-btn-md-block mr-2",
                       "button-colorClass": "",
-                      "link-url": "/patterns/04-sider-portal-10-modaler-30-videresend-i-altinn/04-sider-portal-10-modaler-30-videresend-i-altinn.html",
+                      "link-url": "link.sider-portal-videresend-i-altinn",
                       "button-shadow-label": false,
                       "button-icon": {
                         "icon-prefix": "reg",
@@ -5572,7 +5572,7 @@
                       "button-text": "Del og gi fullmakt",
                       "buttonClass": "a-btn-link a-btn-md-block",
                       "button-colorClass": "",
-                      "link-url": "/patterns/04-sider-portal-10-modaler-30-videresend-i-altinn/04-sider-portal-10-modaler-30-videresend-i-altinn.html",
+                      "link-url": "link.sider-portal-videresend-i-altinn",
                       "button-shadow-label": false,
                       "button-icon": {
                         "icon-prefix": "reg",
@@ -5691,7 +5691,7 @@
                       "button-text": "Del og gi fullmakt",
                       "buttonClass": "a-btn-link a-btn-md-block",
                       "button-colorClass": "",
-                      "link-url": "/patterns/04-sider-portal-10-modaler-30-videresend-i-altinn/04-sider-portal-10-modaler-30-videresend-i-altinn.html",
+                      "link-url": "link.sider-portal-videresend-i-altinn",
                       "button-shadow-label": false,
                       "button-icon": {
                         "icon-prefix": "reg",
@@ -5820,7 +5820,7 @@
                       "button-text": "Del og gi fullmakt",
                       "buttonClass": "a-btn-link a-btn-md-block",
                       "button-colorClass": "",
-                      "link-url": "/patterns/04-sider-portal-10-modaler-30-videresend-i-altinn/04-sider-portal-10-modaler-30-videresend-i-altinn.html",
+                      "link-url": "link.sider-portal-videresend-i-altinn",
                       "button-shadow-label": false,
                       "button-icon": {
                         "icon-prefix": "reg",
@@ -5932,7 +5932,7 @@
                       "button-text": "Videresend på e-post",
                       "buttonClass": "a-btn-link a-btn-md-block",
                       "button-colorClass": "",
-                      "link-url": "/patterns/04-sider-portal-10-modaler-20-videresend-pa-epost/04-sider-portal-10-modaler-20-videresend-pa-epost.html",
+                      "link-url": "link.sider-portal-videresend-pa-epost",
                       "button-shadow-label": false,
                       "button-icon": {
                         "icon-prefix": "reg",
@@ -6069,7 +6069,7 @@
                       "button-text": "Del og gi fullmakt",
                       "buttonClass": "a-btn-link a-btn-md-block mr-2",
                       "button-colorClass": "",
-                      "link-url": "/patterns/04-sider-portal-10-modaler-30-videresend-i-altinn/04-sider-portal-10-modaler-30-videresend-i-altinn.html",
+                      "link-url": "link.sider-portal-videresend-i-altinn",
                       "button-shadow-label": false,
                       "button-icon": {
                         "icon-prefix": "reg",
@@ -6216,7 +6216,7 @@
                       "button-text": "Del og gi fullmakt",
                       "buttonClass": "a-btn-link a-btn-md-block",
                       "button-colorClass": "",
-                      "link-url": "/patterns/04-sider-portal-10-modaler-30-videresend-i-altinn/04-sider-portal-10-modaler-30-videresend-i-altinn.html",
+                      "link-url": "link.sider-portal-videresend-i-altinn",
                       "button-shadow-label": false,
                       "button-icon": {
                         "icon-prefix": "reg",
@@ -6328,7 +6328,7 @@
                       "button-text": "Del og gi fullmakt",
                       "buttonClass": "a-btn-link a-btn-md-block mr-2",
                       "button-colorClass": "",
-                      "link-url": "/patterns/04-sider-portal-10-modaler-30-videresend-i-altinn/04-sider-portal-10-modaler-30-videresend-i-altinn.html",
+                      "link-url": "link.sider-portal-videresend-i-altinn",
                       "button-shadow-label": false,
                       "button-icon": {
                         "icon-prefix": "reg",
@@ -6465,7 +6465,7 @@
                       "button-text": "Del og gi fullmakt",
                       "buttonClass": "a-btn-link a-btn-md-block mr-2",
                       "button-colorClass": "",
-                      "link-url": "/patterns/04-sider-portal-10-modaler-30-videresend-i-altinn/04-sider-portal-10-modaler-30-videresend-i-altinn.html",
+                      "link-url": "link.sider-portal-videresend-i-altinn",
                       "button-shadow-label": false,
                       "button-icon": {
                         "icon-prefix": "reg",

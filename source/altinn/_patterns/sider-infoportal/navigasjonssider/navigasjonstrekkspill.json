@@ -1732,7 +1732,7 @@
             "button-text-class": "sr-only"
           }
         ],
-        "onclick": "location.href='/patterns/04-sider-infoportal-40-sok-00-sok-forside/04-sider-infoportal-40-sok-00-sok-forside.html';"
+        "onclick": "location.href='link.sider-infoportal-sok-forside';"
       }
     },
     "page-title": "Hjelp med aktørvalg",
@@ -1744,12 +1744,12 @@
       "breadcrumb-item": [
         {
           "breadcrumb-title": "Hjelp og kontakt",
-          "breadcrumb-link": "/patterns/04-sider-infoportal-20-navigasjonssider-70-hjelpesenter/04-sider-infoportal-20-navigasjonssider-70-hjelpesenter.html"
+          "breadcrumb-link": "link.sider-infoportal-hjelpesenter"
         },
         {
           "breadcrumb-title": "Hjelp med innlogging",
           "breadcrumb-class": "breadcrumb-mobile",
-          "breadcrumb-link": "/patterns/04-sider-infoportal-20-navigasjonssider-32-temaside-v-hjelp-innlogging/04-sider-infoportal-20-navigasjonssider-32-temaside-v-hjelp-innlogging.html"
+          "breadcrumb-link": "link.sider-infoportal-temaside-v-hjelp-innlogging"
         },
         {
           "breadcrumb-title": "Hjelp med Aktørvalg",
@@ -1773,7 +1773,7 @@
               },
               {
                 "link-text": "Trinn for trinn uten å logge inn",
-                "link-url": "/patterns/04-sider-infoportal-30-artikkel-70-artikkel-v-hjelpetrinn/04-sider-infoportal-30-artikkel-70-artikkel-v-hjelpetrinn.html"
+                "link-url": "link.sider-infoportal-artikkel-v-hjelpetrinn"
               }
             ]
           }

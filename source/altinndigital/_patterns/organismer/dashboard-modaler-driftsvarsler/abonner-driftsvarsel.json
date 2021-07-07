@@ -77,7 +77,7 @@
     "data-action": "next",
     "data-toggle":"altinn-modal",
     "data-target":"#modal-subscribe",
-    "page-url": "../../patterns/02-organismer-83-Dashboard-modaler-driftsvarsler-21-abonner-driftsvarsel-ferdig/02-organismer-83-Dashboard-modaler-driftsvarsler-21-abonner-driftsvarsel-ferdig.markup-only.html"
+    "page-url": "../..link.organismer-abonner-driftsvarsel-ferdig"
   },
   "show-rss": false
 }

@@ -5699,7 +5699,7 @@
       "linkFeatured": {
         "link-text": "Tilbake til innboks",
         "linkClass": "a-linkFeatured a-textBlue a-textBlue-hover ml-1",
-        "link-url": "/patterns/04-sider-portal-50-innboks-00-innboks/04-sider-portal-50-innboks-00-innboks.html",
+        "link-url": "link.sider-portal-innboks",
         "link-icon-left": {
           "icon-prefix": "ai ",
           "iconClass": "ai-back",
@@ -5727,7 +5727,7 @@
           {
             "buttonClass": "a-btn a-btn-icon a-btn-transparentWhite",
             "button-colorClass": "",
-            "link-url": "/patterns/04-sider-portal-50-innboks-00-innboks/04-sider-portal-50-innboks-00-innboks.html",
+            "link-url": "link.sider-portal-innboks",
             "button-text": "innboks",
             "responsive-br": true,
             "button-icon": {
@@ -5740,7 +5740,7 @@
           {
             "buttonClass": "a-btn a-active a-btn-icon a-btn-transparentWhite",
             "button-colorClass": "",
-            "link-url": "/patterns/04-sider-portal-50-innboks-05-innboks-arkiv/04-sider-portal-50-innboks-05-innboks-arkiv.html",
+            "link-url": "link.sider-portal-innboks-arkiv",
             "button-text": "arkiv",
             "responsive-br": true,
             "button-icon": {
@@ -5753,7 +5753,7 @@
           {
             "buttonClass": "a-btn a-btn-icon a-btn-transparentWhite",
             "button-colorClass": "",
-            "link-url": "/patterns/04-sider-portal-50-innboks-08-innboks-slettede-meldinger/04-sider-portal-50-innboks-08-innboks-slettede-meldinger.html",
+            "link-url": "link.sider-portal-innboks-slettede-meldinger",
             "button-text": "slettede",
             "responsive-br": true,
             "button-icon": {
@@ -5816,7 +5816,7 @@
             "wrapper-class": "d-lg-none",
             "buttonClass": "a-btn a-btn-icon a-btn-transparentWhite",
             "button-colorClass": "",
-            "link-url": "/patterns/04-sider-portal-50-innboks-_10-innboks-mva-og-skatt/04-sider-portal-50-innboks-_10-innboks-mva-og-skatt.html",
+            "link-url": "link.sider-portal-innboks-mva-og-skatt",
             "button-text": "nytt",
             "responsive-br": true,
             "button-icon": {
@@ -5833,7 +5833,7 @@
           {
             "buttonClass": "a-btn a-btn-icon a-btn-transparentWhite",
             "button-colorClass": "",
-            "link-url": "/patterns/04-sider-portal-50-innboks-_11-innboks-mva-og-skatt-nyoppstartet/04-sider-portal-50-innboks-_11-innboks-mva-og-skatt-nyoppstartet.html",
+            "link-url": "link.sider-portal-innboks-mva-og-skatt-nyoppstartet",
             "button-icon": false,
             "button-text": "Mattilsynet",
             "responsive-br": true,
@@ -5846,7 +5846,7 @@
           {
             "buttonClass": "a-btn a-btn-icon a-btn-transparentWhite",
             "button-colorClass": "",
-            "link-url": "/patterns/04-sider-portal-50-innboks-_31-innboks-frister-nyoppstartet/04-sider-portal-50-innboks-_31-innboks-frister-nyoppstartet.html",
+            "link-url": "link.sider-portal-innboks-frister-nyoppstartet",
             "button-icon": false,
             "button-text": "SSB",
             "responsive-br": true,
@@ -5859,7 +5859,7 @@
           {
             "buttonClass": "a-btn a-btn-icon a-btn-transparentWhite",
             "button-colorClass": "",
-            "link-url": "/patterns/04-sider-portal-50-innboks-15-innboks-rediger-lagrede-sok/04-sider-portal-50-innboks-15-innboks-rediger-lagrede-sok.html",
+            "link-url": "link.sider-portal-innboks-rediger-lagrede-sok",
             "button-text": "tilpass",
             "responsive-br": true,
             "button-icon": {
@@ -6019,7 +6019,7 @@
                         "button-text": "Videresend på epost",
                         "buttonClass": "a-btn-link a-btn-md-block",
                         "button-colorClass": "",
-                        "link-url": "/patterns/04-sider-portal-10-modaler-30-videresend-i-altinn/04-sider-portal-10-modaler-30-videresend-i-altinn.html",
+                        "link-url": "link.sider-portal-videresend-i-altinn",
                         "button-shadow-label": false,
                         "button-icon": {
                           "icon-prefix": "reg",
@@ -6111,7 +6111,7 @@
                         "button-text": "Videresend på epost",
                         "buttonClass": "a-btn-link a-btn-md-block",
                         "button-colorClass": "",
-                        "link-url": "/patterns/04-sider-portal-10-modaler-30-videresend-i-altinn/04-sider-portal-10-modaler-30-videresend-i-altinn.html",
+                        "link-url": "link.sider-portal-videresend-i-altinn",
                         "button-shadow-label": false,
                         "button-icon": {
                           "icon-prefix": "reg",

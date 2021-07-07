@@ -14,7 +14,7 @@
   "buttonClass": "a-box-button",
   "actionButtonText": "En knapp for å legge til",
   "link-text": "En lenke ser slik ut",
-  "link-url": "/patterns/04-sider-portal-01-forside-00-forside/04-sider-portal-01-forside-00-forside.html",
+  "link-url": "link.sider-portal-forside",
   "sr-text": false,
   "alert-id": "alert",
   "alert-class": "a-message-info",
@@ -53,7 +53,7 @@
           "icon-size": "ai-lg",
           "iconExtraClass": "a-box-button-icon a-blueDarkText",
           "box-button-action": "Gi og fjerne rettigheter",
-          "onclick": "location.href='/patterns/04-sider-portal-92-andre-med-rettigheter-00-andre-med-rettigheter-roller-oversikt/04-sider-portal-92-andre-med-rettigheter-00-andre-med-rettigheter-roller-oversikt.html';"
+          "onclick": "location.href='link.sider-portal-andre-med-rettigheter-roller-oversikt';"
         },
         {
           "data-target": false,
@@ -65,10 +65,10 @@
           "icon-size": "ai-lg",
           "iconExtraClass": "a-box-button-icon a-blueDarkText",
           "box-button-action": "Gi og fjerne rettigheter",
-          "onclick": "location.href='/patterns/04-sider-portal-92-andre-med-rettigheter-00-andre-med-rettigheter-roller-oversikt/04-sider-portal-92-andre-med-rettigheter-00-andre-med-rettigheter-roller-oversikt.html';"
+          "onclick": "location.href='link.sider-portal-andre-med-rettigheter-roller-oversikt';"
         }
       ],
-      "onclick": "location.href='/patterns/04-sider-portal-92-andre-med-rettigheter-00-andre-med-rettigheter-roller-oversikt/04-sider-portal-92-andre-med-rettigheter-00-andre-med-rettigheter-roller-oversikt.html';"
+      "onclick": "location.href='link.sider-portal-andre-med-rettigheter-roller-oversikt';"
     },
     {
       "data-target": false,
@@ -80,7 +80,7 @@
       "icon-size": "ai-lg",
       "iconExtraClass": "a-box-button-icon a-blueDarkText",
       "box-button-action": "Gi og fjerne rettigheter",
-      "onclick": "location.href='/patterns/04-sider-portal-92-andre-med-rettigheter-00-andre-med-rettigheter-roller-oversikt/04-sider-portal-92-andre-med-rettigheter-00-andre-med-rettigheter-roller-oversikt.html';"
+      "onclick": "location.href='link.sider-portal-andre-med-rettigheter-roller-oversikt';"
     },
     {
       "data-target": false,
@@ -92,7 +92,7 @@
       "icon-size": "ai-lg",
       "iconExtraClass": "a-box-button-icon a-blueDarkText",
       "box-button-action": "Gi og fjerne rettigheter",
-      "onclick": "location.href='/patterns/04-sider-portal-92-andre-med-rettigheter-00-andre-med-rettigheter-roller-oversikt/04-sider-portal-92-andre-med-rettigheter-00-andre-med-rettigheter-roller-oversikt.html';"
+      "onclick": "location.href='link.sider-portal-andre-med-rettigheter-roller-oversikt';"
     },
     {
       "data-target": false,
@@ -105,7 +105,7 @@
       "iconClass": "ai-private",
       "icon-size": "ai-lg",
       "iconExtraClass": "a-box-button-icon a-blueDarkText",
-      "onclick": "location.href='/patterns/04-sider-portal-92-andre-med-rettigheter-00-andre-med-rettigheter-roller-oversikt/04-sider-portal-92-andre-med-rettigheter-00-andre-med-rettigheter-roller-oversikt.html';"
+      "onclick": "location.href='link.sider-portal-andre-med-rettigheter-roller-oversikt';"
     },
     {
       "box-button-title": "REVISOR",
@@ -130,7 +130,7 @@
           "iconClass": "ai-corp",
           "icon-size": "ai-lg",
           "iconExtraClass": "a-box-button-icon a-blueDarkText",
-          "onclick": "location.href='/patterns/04-sider-portal-92-andre-med-rettigheter-00-andre-med-rettigheter-roller-oversikt/04-sider-portal-92-andre-med-rettigheter-00-andre-med-rettigheter-roller-oversikt.html';"
+          "onclick": "location.href='link.sider-portal-andre-med-rettigheter-roller-oversikt';"
         },
         {
           "data-target": false,
@@ -142,7 +142,7 @@
           "iconClass": "ai-private",
           "icon-size": "ai-lg",
           "iconExtraClass": "a-box-button-icon a-blueDarkText",
-          "onclick": "location.href='/patterns/04-sider-portal-92-andre-med-rettigheter-00-andre-med-rettigheter-roller-oversikt/04-sider-portal-92-andre-med-rettigheter-00-andre-med-rettigheter-roller-oversikt.html';"
+          "onclick": "location.href='link.sider-portal-andre-med-rettigheter-roller-oversikt';"
         },
         {
           "data-target": false,
@@ -154,7 +154,7 @@
           "iconClass": "ai-private",
           "icon-size": "ai-lg",
           "iconExtraClass": "a-box-button-icon a-blueDarkText",
-          "onclick": "location.href='/patterns/04-sider-portal-92-andre-med-rettigheter-00-andre-med-rettigheter-roller-oversikt/04-sider-portal-92-andre-med-rettigheter-00-andre-med-rettigheter-roller-oversikt.html';"
+          "onclick": "location.href='link.sider-portal-andre-med-rettigheter-roller-oversikt';"
         }
       ]
     }
@@ -166,7 +166,7 @@
     "iconClass": "ai-plus",
     "icon-size": "ai-lg",
     "iconExtraClass": "a-box-button-icon a-blueDarkText",
-    "onclick": "location.href='/patterns/04-sider-portal-92-andre-med-rettigheter-00-andre-med-rettigheter-legg-til/04-sider-portal-92-andre-med-rettigheter-00-andre-med-rettigheter-legg-til.html';"
+    "onclick": "location.href='link.sider-portal-andre-med-rettigheter-legg-til';"
   },
   "dateDay": "20",
   "dateMonth": "feb",
@@ -193,7 +193,7 @@
   },
   "activity-log": {
     "link-text": "Aktivitetslogg",
-    "link-url": "/patterns/04-sider-portal-92-andre-med-rettigheter-00-andre-med-rettigheter-aktivitetslogg/04-sider-portal-92-andre-med-rettigheter-00-andre-med-rettigheter-aktivitetslogg.html"
+    "link-url": "link.sider-portal-andre-med-rettigheter-aktivitetslogg"
   },
   "link-icon": "",
   "empty-rights": {
