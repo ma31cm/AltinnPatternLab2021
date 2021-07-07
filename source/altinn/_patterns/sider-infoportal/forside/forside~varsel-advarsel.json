@@ -1342,7 +1342,7 @@
           "button-text-class": "sr-only"
         }
       ],
-      "onclick": "location.href='link.sider-portal-sok-forside';"
+      "onclick": "location.href='link.sider-infoportal-sok-forside';"
     }
   },
   "list-header": "Aktuelle skjema og tjenester:",

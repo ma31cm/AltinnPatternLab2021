@@ -1507,7 +1507,7 @@
     "button-dot": false,
     "personrole-link": {
       "link-text": "Innstillinger",
-      "link-url": "link.sider-profil-roller-rettigheter"
+      "link-url": "link.sider-portal-profil-roller-rettigheter"
     }
   },
   "profile-text": "Alle dine profiler: ",
@@ -2594,7 +2594,7 @@
             "iconClass": "ai-corp ai-left",
             "iconExtraClass": ""
           },
-          "link-url": "link.sider-kompakt-innboks"
+          "link-url": "link.sider-portal-innboks-kompakt"
         },
         "button-favourite": false,
         "button-sub": false
