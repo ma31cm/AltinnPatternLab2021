@@ -1186,7 +1186,7 @@
     "button-dot": false,
     "personrole-link": {
       "link-text": "Innstillinger",
-      "link-url": "link.sider-profil-roller-rettigheter"
+      "link-url": "link.sider-portal-profil-roller-rettigheter"
     }
   },
   "profile-text": "Alle dine profiler: ",
@@ -1991,7 +1991,7 @@
         "iconClass": "ai-private ai-left",
         "iconExtraClass": ""
       },
-      "link-url": "link.sider-enkel-innboks"
+      "link-url": "link.sider-portal-innboks"
     },
     "button-sub": false
   },
