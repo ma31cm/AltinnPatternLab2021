@@ -1380,7 +1380,7 @@
       "textSmall": "Brønnøysundregistrene"
     },
     "link-text": "Registrer enkeltpersonforetak",
-    "link-url": "http://altinn.github.io/DesignSystem/versjon-altinndagen/patterns/04-sider-90-starte-enk-00-starte-enk-0/04-sider-90-starte-enk-00-starte-enk-0.html"
+    "link-url": "/patterns/04-sider-90-starte-enk-00-starte-enk-0/04-sider-90-starte-enk-00-starte-enk-0.html"
   },
   "second-card-icon": {
     "variation-class": "a-iconText-shadow a-iconText-background a-iconText-background--white",

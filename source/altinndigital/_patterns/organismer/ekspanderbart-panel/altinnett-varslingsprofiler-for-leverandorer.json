@@ -108,7 +108,7 @@
       }
     ]
   },
-  "page-url": "https://altinn.github.io/DesignSystem/public/patterns/03-maler-portal-99-modal-js-02-page-one/03-maler-portal-99-modal-js-02-page-one.markup-only.html",
+  "page-url": "/patterns/03-maler-portal-99-modal-js-02-page-one/03-maler-portal-99-modal-js-02-page-one.markup-only.html",
   "dropdown-linkClass": "a-borderBottom",
   "dropdown-top-item": {
     "dropdown-top-item-content": "Lagrede søk",

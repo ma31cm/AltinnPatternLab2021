@@ -156,7 +156,7 @@
       }
     ]
   },
-  "page-url": "https://altinn.github.io/DesignSystem/public/patterns/03-maler-portal-99-modal-js-02-page-one/03-maler-portal-99-modal-js-02-page-one.markup-only.html",
+  "page-url": "/patterns/03-maler-portal-99-modal-js-02-page-one/03-maler-portal-99-modal-js-02-page-one.markup-only.html",
   "login-represent": "for Patentstyret",
   "print-form-tag": false,
   "text-input-id": "text-input-generic",
