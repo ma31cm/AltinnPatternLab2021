@@ -262,7 +262,7 @@
         li {
           .a-list-rowLink {
             @include a-fontSize16;
-            padding: $spacer $spacer / 2;
+            padding: $spacer $spacer * 0.5;
           }
 
           &.a-list-hasRowLink {

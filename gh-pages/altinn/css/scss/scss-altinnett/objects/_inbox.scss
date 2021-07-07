@@ -60,7 +60,7 @@ a {
 
   .a-postHeaderIcon {
     padding-left: $spacer;
-    margin-top: $spacer / 2;
+    margin-top: $spacer * 0.5;
   }
 
   .a-msgDuedate {
@@ -232,7 +232,7 @@ a {
   &.a-msgForwarded {
     .a-btn-icon {
       &:nth-child(1) {
-        margin-right: $spacer / 2;
+        margin-right: $spacer * 0.5;
         background-color: $yellow-light;
         border-radius: 50%;
 

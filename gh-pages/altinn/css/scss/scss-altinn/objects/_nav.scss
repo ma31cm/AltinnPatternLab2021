@@ -55,10 +55,10 @@
   @include media-breakpoint-down( sm ) {
     .a-btn {
       display: block;
-      padding: $spacer / 2;
+      padding: $spacer * 0.5;
 
       .a-btn-icon-symbol {
-        margin-bottom: $spacer / 2;
+        margin-bottom: $spacer * 0.5;
       }
 
       span {
@@ -105,7 +105,7 @@
 
 .a-page-nav-dest {
   padding-top: $spacer;
-  padding-bottom: $spacer / 2;
+  padding-bottom: $spacer * 0.5;
 
   a {
     border: none;

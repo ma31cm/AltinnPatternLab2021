@@ -7,7 +7,7 @@
   @extend .a-fontSizeXS;
   @include a-fontMedium;
   display: block;
-  margin-bottom: $spacer / 2;
+  margin-bottom: $spacer * 0.5;
 }
 
 .a-custom-select {

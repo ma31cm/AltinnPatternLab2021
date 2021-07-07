@@ -46,7 +46,7 @@
 
   p {
     min-height: 48px;
-    margin-top: $spacer / 2;
+    margin-top: $spacer * 0.5;
     text-align: center;
   }
 
@@ -158,7 +158,7 @@
 
   th {
     @include media-breakpoint-up( sm ) {
-      padding: $spacer / 2 $spacer * 2 0 0;
+      padding: $spacer * 0.5 $spacer * 2 0 0;
     }
   }
 
