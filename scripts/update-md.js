@@ -3,7 +3,7 @@
 const fs = require('fs');
 const path = require('path');
 
-const rootDir = "./source/altinn/_patterns/";
+const rootDir = "./source/common/_patterns/";
 
 const getAllFiles = function(dirPath, arrayOfFiles) {
     files = fs.readdirSync(dirPath);
@@ -29,7 +29,7 @@ allFiles = getAllFiles(rootDir, allFiles);
 
 allFiles.forEach(function (file) {
   const mdfile = path.dirname(file) + '\\' + path.basename(file, '.mustache') + '.md';
-  let newFileContents = '--- \nhidden: true \n---';
+  let newFileContents = '---\nhidden: true \n\n---';
   let needsUpdate = true;
   if (fs.existsSync(mdfile)) {
       const data = fs.readFileSync(mdfile, 'utf8');
