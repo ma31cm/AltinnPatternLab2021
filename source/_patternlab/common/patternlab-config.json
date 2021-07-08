@@ -43,10 +43,10 @@
   "paths": {
     "source": {
       "root": "./source/",
-      "patterns": "./source/altinndigital/_patterns/",
-      "data": "./source/_data/",
-      "meta": "./source/altinndigital/_meta/",
-      "annotations": "./source/_annotations/",
+      "patterns": "./source/_patternlab/common/_patterns/",
+      "data": "./source/_patternlab/common/_data/",
+      "meta": "./source/_patternlab/common/_meta/",
+      "annotations": "./source/_patternlab/_annotations/",
       "styleguide": "dist/",
       "patternlabFiles": {
         "general-header": "views/partials/general-header.mustache",
@@ -58,18 +58,18 @@
       "js": "./source/js",
       "images": "./source/images",
       "fonts": "./source/fonts",
-      "css": "./source/altinndigital/css"
+      "css": "./source/css"
     },
     "public": {
-      "root": "public/altinndigital/",
-      "patterns": "public/altinndigital/patterns/",
-      "data": "public/altinndigital/styleguide/data/",
-      "annotations": "public/altinndigital/annotations/",
-      "styleguide": "public/altinndigital/styleguide/",
-      "js": "public/altinndigital/js",
-      "images": "public/altinndigital/images",
-      "fonts": "public/altinndigital/fonts",
-      "css": "public/altinndigital/css"
+      "root": "public/common/",
+      "patterns": "public/common/patterns/",
+      "data": "public/common/styleguide/data/",
+      "annotations": "public/common/annotations/",
+      "styleguide": "public/common/styleguide/",
+      "js": "public/common/js",
+      "images": "public/common/images",
+      "fonts": "public/common/fonts",
+      "css": "public/common/css"
     }
   },
   "patternExtension": "hbs",
