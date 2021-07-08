@@ -295,8 +295,6 @@
             "source/js/prototyping/modules/clipboard.js",
             "source/js/prototyping/modules/codeLookup.js",
             "source/js/prototyping/modules/fixPatternLinks.js",
-            "source/js/prototyping/modules/hideIntroInSubs.js",
-            "source/js/prototyping/modules/insetVariations.js",
             "source/js/prototyping/modules/modalGoBack.js",
             "source/js/prototyping/modules/nameChecker.js",
             "source/js/prototyping/modules/onboarding.js",
