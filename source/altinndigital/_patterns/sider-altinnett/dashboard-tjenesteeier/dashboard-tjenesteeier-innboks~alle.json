@@ -861,7 +861,7 @@
       }
     ]
   },
-  "page-url": "link.maler-portal-page-one",
+  "page-url": "link.maler-altinnett-page-one",
   "switch-radio-btn-name": "atom-switch-cb",
   "switch-legend": "Velg et alternativ",
   "switch-radio-btn-items": [
@@ -2913,7 +2913,7 @@
                 "button-text-class": "sr-only"
               }
             ],
-            "onclick": "location.href='link.sider-dashboard-tjenesteeier-innboks';"
+            "onclick": "location.href='link.sider-altinnett-dashboard-tjenesteeier-innboks';"
           }
         ]
       },

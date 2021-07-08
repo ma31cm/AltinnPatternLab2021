@@ -281,7 +281,7 @@
     ]
   },
   "link-text": "En lenke ser slik ut",
-  "link-url": "link.sider-infoportal-forside",
+  "link-url": "link.sider-altinnett-forside",
   "sr-text": false,
   "rows": [
     {
@@ -800,7 +800,7 @@
     "button-disabled": false,
     "button-type": "button",
     "onclick": {
-      "onclick": "location.href='link.maler-altinnett-paalogget'"
+      "onclick": "location.href='link.sider-altinnett-forside-innlogget'"
     },
     "button-icon": false,
     "display-as-link": false
@@ -809,7 +809,7 @@
   "url-logo": "link.sider-altinnett-forside",
   "headerlogo": "../../images/an-logo-blue.svg",
   "hide-header": true,
-  "url-aktuelt": "link.sider-altinnett-nyhetsarkiv",
+  "url-aktuelt": "link.sider-altinnett-nyheter-oversikt",
   "ekstra-menypunkt-1": "Ekstra menypunkt 1",
   "tel-icon": {
     "icon-prefix": "ai ai-nw ai-nw-pr",

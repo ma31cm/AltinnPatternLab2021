@@ -240,7 +240,7 @@
   "label-id": false,
   "label-content": "9",
   "link-text": "En lenke ser slik ut",
-  "link-url": "link.sider-infoportal-forside",
+  "link-url": "link.sider-altinnett-forside",
   "sr-text": false,
   "heading-start": "<h2>",
   "heading-end": "</h2>",
@@ -304,7 +304,7 @@
     "button-disabled": false,
     "button-type": "button",
     "onclick": {
-      "onclick": "location.href='link.maler-altinnett-paalogget'"
+      "onclick": "location.href='link.sider-altinnett-forside-innlogget'"
     },
     "button-icon": false,
     "display-as-link": false
@@ -314,7 +314,7 @@
   "headerlogo": "../../images/an-logo-blue.svg",
   "button-colorClass": "",
   "hide-header": true,
-  "url-aktuelt": "link.sider-altinnett-nyhetsarkiv",
+  "url-aktuelt": "link.sider-altinnett-nyheter-oversikt",
   "ekstra-menypunkt-1": "Ekstra menypunkt 1",
   "tel-icon": {
     "icon-prefix": "ai ai-nw ai-nw-pr",
@@ -423,7 +423,7 @@
           }
         ],
         "form-input-button-action": "Utfør søk",
-        "onclick": "location.href='link.sider-altinnett-sok-forside';"
+        "onclick": "location.href='link.sider-altinnett-sokeside';"
       }
     },
     "menuItem1": "innovation@altinn",

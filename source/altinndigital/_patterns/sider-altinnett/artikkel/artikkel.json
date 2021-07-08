@@ -379,7 +379,7 @@
   "collapse-header-contentID": "",
   "collapse-header-title": "Dette er en utvidbar tittel med merkelapp <span class='badge badge-primary a-label badge-pill'>1</span> og lang tekst for å teste hvordan det ser ut",
   "link-text": "Lenke som tar deg til en side eller skjema",
-  "link-url": "link.sider-infoportal-forside",
+  "link-url": "link.sider-altinnett-forside",
   "sr-text": false,
   "card-content": {
     "link-text": "Dette er en overskrift som er en link 2",
@@ -846,7 +846,7 @@
     "button-disabled": false,
     "button-type": "button",
     "onclick": {
-      "onclick": "location.href='link.maler-altinnett-paalogget'"
+      "onclick": "location.href='link.sider-altinnett-forside-innlogget'"
     },
     "button-icon": false,
     "display-as-link": false
@@ -856,7 +856,7 @@
   "headerlogo": "../../images/an-logo-blue.svg",
   "button-colorClass": "",
   "hide-header": true,
-  "url-aktuelt": "link.sider-altinnett-nyhetsarkiv",
+  "url-aktuelt": "link.sider-altinnett-nyheter-oversikt",
   "ekstra-menypunkt-1": "Ekstra menypunkt 1",
   "title": "Altinnett",
   "bodyClass": "project-altinnett a-bgWhite",

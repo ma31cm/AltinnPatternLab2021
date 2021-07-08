@@ -260,7 +260,7 @@
     ]
   },
   "link-text": "Les mer om Helsedirektoratets bruk av digital dialog",
-  "link-url": "link.sider-infoportal-forside",
+  "link-url": "link.sider-altinnett-forside",
   "sr-text": false,
   "paragraphContent": "Altinn er en suksesshistorie i digitaliseringen av norsk offentlighet. Her er noe av det vi er mest stolt av siden oppstarten i 2003.",
   "section-title": "Tittel på seksjon",
@@ -327,7 +327,7 @@
     "button-disabled": false,
     "button-type": "button",
     "onclick": {
-      "onclick": "location.href='link.maler-altinnett-paalogget'"
+      "onclick": "location.href='link.sider-altinnett-forside-innlogget'"
     },
     "button-icon": false,
     "display-as-link": false
@@ -337,7 +337,7 @@
   "headerlogo": "../../images/an-logo-blue.svg",
   "button-colorClass": "",
   "hide-header": true,
-  "url-aktuelt": "link.sider-altinnett-nyhetsarkiv",
+  "url-aktuelt": "link.sider-altinnett-nyheter-oversikt",
   "ekstra-menypunkt-1": "Ekstra menypunkt 1",
   "tel-icon": {
     "icon-prefix": "ai ai-nw ai-nw-pr",

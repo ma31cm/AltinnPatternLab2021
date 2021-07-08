@@ -108,7 +108,7 @@
       }
     ]
   },
-  "page-url": "link.maler-portal-page-one",
+  "page-url": "link.maler-altinnett-page-one",
   "dropdown-linkClass": "a-borderBottom",
   "dropdown-top-item": {
     "dropdown-top-item-content": "Lagrede søk",
@@ -150,7 +150,7 @@
   "label-id": false,
   "label-content": "9",
   "button-colorClass": "",
-  "link-url": "link.sider-infoportal-forside",
+  "link-url": "link.sider-altinnett-forside",
   "button-shadow-label": false,
   "info-delete-add": {
     "added-content": [

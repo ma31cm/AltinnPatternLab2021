@@ -139,7 +139,7 @@
       }
     ]
   },
-  "page-url": "link.maler-portal-page-one",
+  "page-url": "link.maler-altinnett-page-one",
   "footerHeading": "Vil du vite mer?",
   "footer-search": {
     "text-input-id": "text-input-search-footer",
@@ -1315,7 +1315,7 @@
       "front-main-button": {
         "link-buttonLarge": {
           "link-text": "Logg inn",
-          "link-url": "link.sider-infoportal-forside-innlogget",
+          "link-url": "link.sider-altinnett-forside-innlogget",
           "linkClass": "a-btn a-btn-border"
         }
       },
