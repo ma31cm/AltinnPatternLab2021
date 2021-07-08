@@ -4,7 +4,7 @@
 
 .a-breadcrumb {
   @include a-fontSize16;
-  display: block;
+  display: flex;
   padding: 0;
   margin: 0;
   margin-bottom: $spacer;
@@ -47,7 +47,7 @@
 
         @include media-breakpoint-up( md ) {
           padding-right: $spacer * 0.5;
-          padding-left: $spacer;
+          padding-left: $spacer * 0.5;
         }
       }
     }

@@ -339,8 +339,7 @@
       "breadcrumb-title": "Andre nivå"
     },
     {
-      "breadcrumb-title": "Tredje nivå",
-      "breadcrumb-class": "breadcrumb-mobile"
+      "breadcrumb-title": "Tredje nivå"
     },
     {
       "breadcrumb-title": "Fjerde nivå som er siden du står på",
@@ -444,7 +443,6 @@
     "breadcrumb-item": [
       {
         "breadcrumb-title": "Om Altinn",
-        "breadcrumb-class": "breadcrumb-mobile",
         "breadcrumb-link": "#"
       },
       {

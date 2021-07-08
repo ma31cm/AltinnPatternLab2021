@@ -18339,7 +18339,7 @@ body > .loader-container {
   font-size: 1.6rem;
   line-height: 1.5;
   -webkit-font-smoothing: subpixel-antialiased;
-  display: block;
+  display: flex;
   padding: 0;
   margin: 0;
   margin-bottom: 12px;
@@ -18392,7 +18392,7 @@ body > .loader-container {
 @media (min-width: 768px) {
   .a-breadcrumb li.breadcrumb-item + .breadcrumb-item::before {
     padding-right: 6px;
-    padding-left: 12px;
+    padding-left: 6px;
   }
 }
 @media (max-width: 767.98px) {
@@ -23264,7 +23264,7 @@ a.an-link-noIcon[href^=http]::after {
 }
 .a-breadcrumb li.breadcrumb-item + .breadcrumb-item::before {
   padding-right: 6px;
-  padding-left: 12px;
+  padding-left: 6px;
 }
 
 .an-footer {
