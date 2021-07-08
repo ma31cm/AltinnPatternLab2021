@@ -1,4 +1,20 @@
 /*-- ALTINN GUIDE TEMPLATE --*/
+@font-face {
+  font-family: "DIN-light";
+  src: url("../fonts/DINWeb-Light.woff");
+}
+@font-face {
+  font-family: "DIN-reg";
+  src: url("../fonts/DINWeb.woff");
+}
+@font-face {
+  font-family: "DIN-medium";
+  src: url("../fonts/DINWeb-Medium.woff");
+}
+@font-face {
+  font-family: "DIN-bold";
+  src: url("../fonts/DINWeb-Bold.woff");
+}
 button,
 input,
 optgroup,
