@@ -671,12 +671,12 @@
             {
               "colnav-third-level-header": "Godkjenning av kursarrangør for utrykningskjøretøy",
               "colnav-third-level-right-text": "Skatteetaten",
-              "colnav-third-level-link": "link.sider-infoportal-artikkel-skjema-v-godkjenning-av-kursarrangor-for-utrykningskjoretoy"
+              "colnav-third-level-link": "link.sider-infoportal-artikkel-skjema-v-kursarrangor-for-utrykningskjoretoy"
             },
             {
               "colnav-third-level-header": "Skjenkebevilling for skjenking av alkoholholdig drikke",
               "colnav-third-level-right-text": "Kommunene",
-              "colnav-third-level-link": "link.sider-infoportal-artikkel-skjema-v-skjenkebevilling-for-skjenking-av-alkoholholdig-drikke"
+              "colnav-third-level-link": "link.sider-infoportal-artikkel-skjema-v-skjenkebevilling-alkoholholdig-drikke"
             },
             {
               "colnav-third-level-header": "A-ordningen (Test områdeside)",
@@ -1698,7 +1698,7 @@
       {
         "additional-classes": "a-dotted a-clickable a-list-hasRowLink",
         "isRowLink": {
-          "rowLink": "link.sider-infoportal-artikkel-skjema-v-godkjenning-av-kursarrangor-for-utrykningskjoretoy"
+          "rowLink": "link.sider-infoportal-artikkel-skjema-v-kursarrangor-for-utrykningskjoretoy"
         },
         "columns": [
           {
@@ -1716,7 +1716,7 @@
       {
         "additional-classes": "a-dotted a-clickable a-list-hasRowLink",
         "isRowLink": {
-          "rowLink": "link.sider-infoportal-artikkel-skjema-v-skjenkebevilling-for-skjenking-av-alkoholholdig-drikke"
+          "rowLink": "link.sider-infoportal-artikkel-skjema-v-skjenkebevilling-alkoholholdig-drikke"
         },
         "columns": [
           {

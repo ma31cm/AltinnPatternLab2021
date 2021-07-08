@@ -1427,7 +1427,7 @@
         "onclick": false,
         "additional-classes": "a-dotted a-clickable a-list-hasRowLink",
         "isRowLink": {
-          "rowLink": "link.sider-infoportal-artikkel-skjema-v-godkjenning-av-kursarrangor-for-utrykningskjoretoy"
+          "rowLink": "link.sider-infoportal-artikkel-skjema-v-kursarrangor-for-utrykningskjoretoy"
         },
         "columns": [
           {
@@ -1447,7 +1447,7 @@
         "onclick": false,
         "additional-classes": "a-dotted a-clickable a-list-hasRowLink",
         "isRowLink": {
-          "rowLink": "link.sider-infoportal-artikkel-skjema-v-skjenkebevilling-for-skjenking-av-alkoholholdig-drikke"
+          "rowLink": "link.sider-infoportal-artikkel-skjema-v-skjenkebevilling-alkoholholdig-drikke"
         },
         "columns": [
           {

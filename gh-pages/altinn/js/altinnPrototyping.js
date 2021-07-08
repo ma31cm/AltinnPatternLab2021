@@ -324,23 +324,6 @@ var fixPatternLinks = function() {
 };
 
 /* globals $ */
-var hideIntroInSubs = function() {
-  if (JSON.parse($('#sg-pattern-data-footer').text()).patternPartial !== undefined) {
-    $('.sg-top').hide();
-    $('.sg-statesExplanation').hide();
-  }
-};
-
-/* globals $ */
-var insetVariations = function() {
-  $('.sg-pattern').each(function() {
-    if ($(this).attr('id').indexOf('♺') !== -1) {
-      $(this).addClass('a-sg-patternVariations');
-    }
-  });
-};
-
-/* globals $ */
 var goBack = function() {
   var arr = [];
   $('.container').addClass('a-tempAnim');
@@ -7799,10 +7782,8 @@ window.devInit = function() {
   fixPatternLinks();
   formatOrgNr();
   handleFocus();
-  hideIntroInSubs();
   genericSearch();
   initializeDatepicker();
-  insetVariations();
   initSearchWithHighlight();
   iOS11BugWorkAround();
   listenForAttachmentChanges();
