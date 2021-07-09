@@ -107,7 +107,10 @@ public
 .idea/
 
 # JQuery
-/source/js/bundles/jquery.min.js
+/source/js/prototyping/bundles/jquery.min.js
 
+# Designsystem-specific files
 dependencyGraph.json
+/source/_patternlab/altinn/_patterns/felles-komponenter
+/source/_patternlab/altinndigital/_patterns/felles-komponenter
 

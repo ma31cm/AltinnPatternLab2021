@@ -55,7 +55,7 @@
         "patternSectionSubgroup": "views/partials/patternSectionSubgroup.mustache",
         "viewall": "views/viewall.mustache"
       },
-      "js": "./source/js",
+      "js": "./source/js/prototyping/bundles",
       "images": "./source/images",
       "fonts": "./source/fonts",
       "css": "./source/css"
