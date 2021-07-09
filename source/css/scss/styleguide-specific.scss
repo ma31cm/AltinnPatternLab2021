@@ -25,11 +25,43 @@
 	margin-bottom: 0.3em;
 }
 
-.pl-c-category__title {
-	font-size: 2.4rem!important;
-	text-transform: uppercase;
-	background: rgba(255,255,255,.5);
-	border: 2px dotted #1EAEF7;
-	padding: 6px;
-	margin: 24px 0;
+.pl-c-main {
+	.pl-c-category {
+		&__title {
+			background: rgba(255, 255, 255, .5);
+			border: 2px dotted #008FD6;
+			font-size: 2.4rem !important;
+			padding: 6px 6px 4px;
+			margin: 24px 0;
+			text-transform: uppercase;
+		}
+
+		&__title-link {
+			border-bottom-color: transparent;
+
+			&:focus,
+			&:hover {
+				border-bottom-color: #0062BA;
+			}
+		}
+	}
+
+	.pl-c-pattern {
+		&__title {
+			font-family: "DIN-Bold";
+			font-size: 1.4rem!important;
+			line-height: 1.5!important;
+			font-weight: 700!important;
+			text-transform: uppercase!important;
+		}
+
+		&__title-link {
+			border-bottom-color: transparent;
+
+			&:focus,
+			&:hover {
+				border-bottom-color: #0062BA;
+			}
+		}
+	}
 }

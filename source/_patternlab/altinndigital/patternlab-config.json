@@ -72,7 +72,7 @@
       "css": "public/altinndigital/css"
     }
   },
-  "patternExtension": "hbs",
+  "patternExtension": "mustache",
   "patternStateCascade": [
     "inprogress",
     "inreview",
@@ -93,7 +93,14 @@
   "theme": {
     "color": "light",
     "density": "compact",
-    "layout": "vertical"
+    "layout": "vertical",
+    "logo": {
+      "text": "Altinn Designsystem",
+      "altText": "Altinn Designsystem Logo",
+      "url": "/",
+      "srcLight": "/images/designsystem-logo-blue.svg",
+      "srcDark": "/images/designsystem-logo-white.svg"
+    }
   },
   "uikits": [
     {
