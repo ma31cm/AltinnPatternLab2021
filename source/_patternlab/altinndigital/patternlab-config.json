@@ -1,7 +1,7 @@
 {
   "cacheBust": true,
   "cleanPublic": true,
-  "defaultPattern": "all",
+  "defaultPattern": "sider-altinnett-forside",
   "defaultShowPatternInfo": false,
   "ishControlsHide": {
     "s": false,
