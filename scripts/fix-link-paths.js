@@ -4,6 +4,7 @@ const fs = require('fs');
 const path = require('path');
 
 const root = "gh-pages";
+const rootUrl = 'AltinnPatternLab2021/' + root;
 
 const getAllFiles = function(dirPath, arrayOfFiles) {
     files = fs.readdirSync(dirPath);
@@ -28,7 +29,7 @@ function updateLinks(folder, allFiles) {
     allFiles.forEach(function (file) {
         let data = fs.readFileSync(file, 'utf8');
         if (data.includes('/patterns/')) {
-            data = data.replace(/\/patterns\//g, '/' + root + '/' + folder + '/patterns/');
+            data = data.replace(/\/patterns\//g, '/' + rootUrl + '/' + folder + '/patterns/');
             fs.writeFileSync(file, data);
         };
     });
