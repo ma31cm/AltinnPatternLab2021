@@ -9,11 +9,11 @@
     <script src="https://use.fortawesome.com/ed31cded.js"></script>
     <script src="https://use.fortawesome.com/df832575.js"></script>
 
-    <link rel="stylesheet" href="../../css/style.prototype.altinn.css?1625753472317" media="all" />
-    <link rel="stylesheet" href="../../css/pattern-scaffolding.css?1625753472317" media="all" />
+    <link rel="stylesheet" href="../../css/style.prototype.altinn.css?1625842994913" media="all" />
+    <link rel="stylesheet" href="../../css/styleguide-specific.css?1625842994913" media="all" />
 
     <!-- Begin Pattern Lab (Required for Pattern Lab to run properly) -->
-    <link rel="stylesheet" href="../../styleguide/css/pattern-lab.css?1625753472317" media="all">
+    <link rel="stylesheet" href="../../styleguide/css/pattern-lab.css?1625842994913" media="all">
     <!-- End Pattern Lab -->
 
   </head>
@@ -28,7 +28,7 @@
 		<div id="viewall-maler-portal-modal-js" class="pl-c-category">
 				
 			<h2 class="pl-c-category__title">
-				<a href="../../patterns/maler-portal-modal-js\index.html" class="pl-c-category__title-link patternLink" data-patternpartial="viewall-maler-portal-modal-js">Modal Js</a>
+				<a href="../../gh-pages/altinn/patterns/maler-portal-modal-js\index.html" class="pl-c-category__title-link patternLink" data-patternpartial="viewall-maler-portal-modal-js">Modal Js</a>
 			</h2><!--end pl-c-category__title-->
 		
 			<div class="pl-c-category__description pl-c-text-passage">
@@ -42,7 +42,7 @@
 		
 				<h3 class="pl-c-pattern__title">
 		
-					<a href="../../patterns/maler-portal-modal-js-modal-js\maler-portal-modal-js-modal-js.rendered.html" class="pl-c-pattern__title-link patternLink" data-patternpartial="maler-portal-modal-js" title="Link to Pattern">
+					<a href="../../gh-pages/altinn/patterns/maler-portal-modal-js-modal-js\maler-portal-modal-js-modal-js.rendered.html" class="pl-c-pattern__title-link patternLink" data-patternpartial="maler-portal-modal-js" title="Link to Pattern">
 						Modal Js
 		
 						<span class="pl-c-pattern-state pl-c-pattern-state--indesignreview" title="indesignreview"></span>
@@ -74,7 +74,7 @@
 		    </div><!--end pl-c-pattern__extra-->
 		
 			<div class="pl-js-pattern-example">
-			<button class="a-btn" data-toggle="altinn-modal" data-action="load" data-url="/patterns/maler-portal-modal-js-page-one/maler-portal-modal-js-page-one.rendered.html" data-target="#modal">Åpne modal</button>
+			<button class="a-btn" data-toggle="altinn-modal" data-action="load" data-url="/gh-pages/altinn/patterns/maler-portal-modal-js-page-one/maler-portal-modal-js-page-one.rendered.html" data-target="#modal">Åpne modal</button>
 
 <div class="a-modal fade modal" id="modal" role="dialog" tabindex="-1" >
   <div class="modal-dialog modal-lg" role="document">
@@ -254,7 +254,7 @@
 			</div><!--end pl-js-pattern-example-->
 		
 			<script type="text/json" id="pl-pattern-data-maler-portal-modal-js" class="pl-js-pattern-data">
-			{"cssEnabled":false,"patternLineageExists":true,"patternLineages":[{"lineagePattern":"felles-komponenter-modal-header","lineagePath":"../../patterns/felles-komponenter-modaler-modal-header\\felles-komponenter-modaler-modal-header.rendered.html","lineageState":"inprogress altinn altinnett"},{"lineagePattern":"felles-komponenter-modal-navbar","lineagePath":"../../patterns/felles-komponenter-modaler-modal-navbar\\felles-komponenter-modaler-modal-navbar.rendered.html","lineageState":"inprogress altinn altinnett"}],"lineage":[{"lineagePattern":"felles-komponenter-modal-header","lineagePath":"../../patterns/felles-komponenter-modaler-modal-header\\felles-komponenter-modaler-modal-header.rendered.html","lineageState":"inprogress altinn altinnett"},{"lineagePattern":"felles-komponenter-modal-navbar","lineagePath":"../../patterns/felles-komponenter-modaler-modal-navbar\\felles-komponenter-modaler-modal-navbar.rendered.html","lineageState":"inprogress altinn altinnett"}],"patternLineageRExists":true,"patternLineagesR":[{"lineagePattern":"sider-portal-innboks-aktivitetslogg","lineagePath":"../../patterns/sider-portal-innboks-innboks-aktivitetslogg\\sider-portal-innboks-innboks-aktivitetslogg.rendered.html"}],"lineageR":[{"lineagePattern":"sider-portal-innboks-aktivitetslogg","lineagePath":"../../patterns/sider-portal-innboks-innboks-aktivitetslogg\\sider-portal-innboks-innboks-aktivitetslogg.rendered.html"}],"patternLineageEExists":true,"patternDesc":"<p>Modal-komponenten er laget som en utvidelse av Bootstrap modaler, og muliggjør navigering mellom sider i en modal.\nFunksjonaliteten kan brukes enten direkte via metoder, eller ved bruk av data-attributter. Klassen a-modal-content-target brukes for spesifisere hvor innholdet i modalen skal settes inn når ajax-requests er ferdig.</p>\n<p>For å åpne en modal og laste gitt innhold brukes følgende attributter på trigger-elementet:\n<code>data-toggle=&quot;altinn-modal&quot; data-action=&quot;load&quot; data-url=&quot;/minTestSide&quot; data-target=&quot;#minModal&quot;</code></p>\n<p>data-action beskriver hvilken handlings som utføres, i dette tilfellet &quot;load&quot;, data-url sier hvilken url som skal lastes som innhold og data-target er ID til modal-elementet.</p>\n<p>Alternativt kan man kalle <code>AltinnModal.loadModal({ url: '/minTestSide', target: '#minModal' })</code> fra Javascript</p>\n<p>For å gå til en ny side i en modal brukes følgende attributter:\n<code>data-toggle=&quot;altinn-modal&quot; data-action=&quot;next&quot; data-url=&quot;/minTestSideTo&quot; data-target=&quot;#minModal&quot; data-is-error=&quot;true&quot; data-is-success=&quot;true&quot;</code></p>\n<p>Her brukes samme attributter som for &quot;load&quot;, men det forutsettes at modalen allerede er åpnet med &quot;load&quot;</p>\n<p>Denne metoden kan også kalles direkte: <code>AltinnModalnextModalPage({ url: '/minTestSideTo', target: '#minModal', isSuccess: bool, isError: bool })</code> hvor de siste paremetrene er for å styre om styling for grønn side eller rød side skal vises</p>\n<p>For å gå tilbake til en side som er lastet tidligere brukes action &quot;back&quot;:\n<code>data-toggle=&quot;altinn-modal&quot; data-action=&quot;back&quot; data-target=&quot;#minModal&quot;</code></p>\n<p>Her kan man også spesifisere antall sider man ønsker å gå tilbake med attributtet data-pages (default er 1).\nHvis man navigerer forbi første side i stacken vil modalen lukkes.</p>\n<p>Metode for bruk direkte i javascript:\n<code>AltinnModal.previousModalPage({ target: '#minModal' }) eller AltinnModal.previousModalPage({ target: '#minModal', pagesToPop: 1337 })</code></p>\n<p>For å lukke en modal:\n<code>data-toggle=&quot;altinn-modal&quot; data-action=&quot;close&quot; data-target=&quot;#minModal&quot;</code></p>\n<p>Direkte i javascript:\n<code>AltinnModal.closeModal({ target: '#minModal' })</code></p>\n","patternBreadcrumb":{"patternGroup":"maler-portal","patternSubgroup":"modal-js"},"patternExtension":"mustache","patternName":"Modal Js","patternPartial":"maler-portal-modal-js","patternState":"indesignreview","patternEngineName":"mustache","extraOutput":{"version":1,"js":"AltinnModal.js"}}
+			{"cssEnabled":false,"patternLineageExists":true,"patternLineages":[{"lineagePattern":"felles-komponenter-modal-header","lineagePath":"../../gh-pages/altinn/patterns/felles-komponenter-modaler-modal-header\\felles-komponenter-modaler-modal-header.rendered.html","lineageState":"inprogress altinn altinnett"},{"lineagePattern":"felles-komponenter-modal-navbar","lineagePath":"../../gh-pages/altinn/patterns/felles-komponenter-modaler-modal-navbar\\felles-komponenter-modaler-modal-navbar.rendered.html","lineageState":"inprogress altinn altinnett"}],"lineage":[{"lineagePattern":"felles-komponenter-modal-header","lineagePath":"../../gh-pages/altinn/patterns/felles-komponenter-modaler-modal-header\\felles-komponenter-modaler-modal-header.rendered.html","lineageState":"inprogress altinn altinnett"},{"lineagePattern":"felles-komponenter-modal-navbar","lineagePath":"../../gh-pages/altinn/patterns/felles-komponenter-modaler-modal-navbar\\felles-komponenter-modaler-modal-navbar.rendered.html","lineageState":"inprogress altinn altinnett"}],"patternLineageRExists":true,"patternLineagesR":[{"lineagePattern":"sider-portal-innboks-aktivitetslogg","lineagePath":"../../gh-pages/altinn/patterns/sider-portal-innboks-innboks-aktivitetslogg\\sider-portal-innboks-innboks-aktivitetslogg.rendered.html"}],"lineageR":[{"lineagePattern":"sider-portal-innboks-aktivitetslogg","lineagePath":"../../gh-pages/altinn/patterns/sider-portal-innboks-innboks-aktivitetslogg\\sider-portal-innboks-innboks-aktivitetslogg.rendered.html"}],"patternLineageEExists":true,"patternDesc":"<p>Modal-komponenten er laget som en utvidelse av Bootstrap modaler, og muliggjør navigering mellom sider i en modal.\nFunksjonaliteten kan brukes enten direkte via metoder, eller ved bruk av data-attributter. Klassen a-modal-content-target brukes for spesifisere hvor innholdet i modalen skal settes inn når ajax-requests er ferdig.</p>\n<p>For å åpne en modal og laste gitt innhold brukes følgende attributter på trigger-elementet:\n<code>data-toggle=&quot;altinn-modal&quot; data-action=&quot;load&quot; data-url=&quot;/minTestSide&quot; data-target=&quot;#minModal&quot;</code></p>\n<p>data-action beskriver hvilken handlings som utføres, i dette tilfellet &quot;load&quot;, data-url sier hvilken url som skal lastes som innhold og data-target er ID til modal-elementet.</p>\n<p>Alternativt kan man kalle <code>AltinnModal.loadModal({ url: '/minTestSide', target: '#minModal' })</code> fra Javascript</p>\n<p>For å gå til en ny side i en modal brukes følgende attributter:\n<code>data-toggle=&quot;altinn-modal&quot; data-action=&quot;next&quot; data-url=&quot;/minTestSideTo&quot; data-target=&quot;#minModal&quot; data-is-error=&quot;true&quot; data-is-success=&quot;true&quot;</code></p>\n<p>Her brukes samme attributter som for &quot;load&quot;, men det forutsettes at modalen allerede er åpnet med &quot;load&quot;</p>\n<p>Denne metoden kan også kalles direkte: <code>AltinnModalnextModalPage({ url: '/minTestSideTo', target: '#minModal', isSuccess: bool, isError: bool })</code> hvor de siste paremetrene er for å styre om styling for grønn side eller rød side skal vises</p>\n<p>For å gå tilbake til en side som er lastet tidligere brukes action &quot;back&quot;:\n<code>data-toggle=&quot;altinn-modal&quot; data-action=&quot;back&quot; data-target=&quot;#minModal&quot;</code></p>\n<p>Her kan man også spesifisere antall sider man ønsker å gå tilbake med attributtet data-pages (default er 1).\nHvis man navigerer forbi første side i stacken vil modalen lukkes.</p>\n<p>Metode for bruk direkte i javascript:\n<code>AltinnModal.previousModalPage({ target: '#minModal' }) eller AltinnModal.previousModalPage({ target: '#minModal', pagesToPop: 1337 })</code></p>\n<p>For å lukke en modal:\n<code>data-toggle=&quot;altinn-modal&quot; data-action=&quot;close&quot; data-target=&quot;#minModal&quot;</code></p>\n<p>Direkte i javascript:\n<code>AltinnModal.closeModal({ target: '#minModal' })</code></p>\n","patternBreadcrumb":{"patternGroup":"maler-portal","patternSubgroup":"modal-js"},"patternExtension":"mustache","patternName":"Modal Js","patternPartial":"maler-portal-modal-js","patternState":"indesignreview","patternEngineName":"mustache","extraOutput":{"version":1,"js":"AltinnModal.js"}}
 			</script>
 		
 		</div><!--end pl-c-pattern-->		<div id="maler-portal-page-error" class="pl-c-pattern">
@@ -263,7 +263,7 @@
 		
 				<h3 class="pl-c-pattern__title">
 		
-					<a href="../../patterns/maler-portal-modal-js-page-error\maler-portal-modal-js-page-error.rendered.html" class="pl-c-pattern__title-link patternLink" data-patternpartial="maler-portal-page-error" title="Link to Pattern">
+					<a href="../../gh-pages/altinn/patterns/maler-portal-modal-js-page-error\maler-portal-modal-js-page-error.rendered.html" class="pl-c-pattern__title-link patternLink" data-patternpartial="maler-portal-page-error" title="Link to Pattern">
 						Page Error
 		
 						<span class="pl-c-pattern-state pl-c-pattern-state--indesignreview" title="indesignreview"></span>
@@ -311,7 +311,7 @@
         <h2 class="a-h4">Noe gikk galt</h2>
         <p>Dersom prosessen er mislykket, f.eks noe har gått galt vil du se en rød bakgrunn på modalen.</p>
         <div class="a-btn-group">
-          <button class="a-btn" data-toggle="altinn-modal" data-action="next" data-url="/patterns/03-maler-portal-99-modal-js-02-page-one/03-maler-portal-99-modal-js-02-page-one.markup-only.html" data-target="#modal">
+          <button class="a-btn" data-toggle="altinn-modal" data-action="next" data-url="/gh-pages/altinn/patterns/03-maler-portal-99-modal-js-02-page-one/03-maler-portal-99-modal-js-02-page-one.markup-only.html" data-target="#modal">
             Prøv igjen
           </button>
           <button class="a-btn a-btn-danger" data-toggle="altinn-modal" data-action="close" data-target="#modal">
@@ -333,7 +333,7 @@
 		
 				<h3 class="pl-c-pattern__title">
 		
-					<a href="../../patterns/maler-portal-modal-js-page-one\maler-portal-modal-js-page-one.rendered.html" class="pl-c-pattern__title-link patternLink" data-patternpartial="maler-portal-page-one" title="Link to Pattern">
+					<a href="../../gh-pages/altinn/patterns/maler-portal-modal-js-page-one\maler-portal-modal-js-page-one.rendered.html" class="pl-c-pattern__title-link patternLink" data-patternpartial="maler-portal-page-one" title="Link to Pattern">
 						Page One
 		
 						<span class="pl-c-pattern-state pl-c-pattern-state--indesignreview" title="indesignreview"></span>
@@ -380,7 +380,7 @@
     <div class="modal-body a-modal-body">
           <h2 class="a-h4">Innhold i modal</h2>
           <p>Modalen kan inneholde tekst, lister, skjemakomponenter og knapper. </p>
-          <button class="a-btn" data-enable-dirty-popover="true" data-toggle="altinn-modal" data-action="next" data-url="/patterns/maler-portal-modal-js-page-two/maler-portal-modal-js-page-two.rendered.html" data-target="#modal">
+          <button class="a-btn" data-enable-dirty-popover="true" data-toggle="altinn-modal" data-action="next" data-url="/gh-pages/altinn/patterns/maler-portal-modal-js-page-two/maler-portal-modal-js-page-two.rendered.html" data-target="#modal">
             Gå til neste steg
           </button>
     </div>
@@ -398,7 +398,7 @@
 		
 				<h3 class="pl-c-pattern__title">
 		
-					<a href="../../patterns/maler-portal-modal-js-page-singel\maler-portal-modal-js-page-singel.rendered.html" class="pl-c-pattern__title-link patternLink" data-patternpartial="maler-portal-page-singel" title="Link to Pattern">
+					<a href="../../gh-pages/altinn/patterns/maler-portal-modal-js-page-singel\maler-portal-modal-js-page-singel.rendered.html" class="pl-c-pattern__title-link patternLink" data-patternpartial="maler-portal-page-singel" title="Link to Pattern">
 						Page Singel
 		
 						<span class="pl-c-pattern-state pl-c-pattern-state--indesignreview" title="indesignreview"></span>
@@ -459,7 +459,7 @@
 		
 				<h3 class="pl-c-pattern__title">
 		
-					<a href="../../patterns/maler-portal-modal-js-page-success\maler-portal-modal-js-page-success.rendered.html" class="pl-c-pattern__title-link patternLink" data-patternpartial="maler-portal-page-success" title="Link to Pattern">
+					<a href="../../gh-pages/altinn/patterns/maler-portal-modal-js-page-success\maler-portal-modal-js-page-success.rendered.html" class="pl-c-pattern__title-link patternLink" data-patternpartial="maler-portal-page-success" title="Link to Pattern">
 						Page Success
 		
 						<span class="pl-c-pattern-state pl-c-pattern-state--indesignreview" title="indesignreview"></span>
@@ -524,7 +524,7 @@
 		
 				<h3 class="pl-c-pattern__title">
 		
-					<a href="../../patterns/maler-portal-modal-js-page-two\maler-portal-modal-js-page-two.rendered.html" class="pl-c-pattern__title-link patternLink" data-patternpartial="maler-portal-page-two" title="Link to Pattern">
+					<a href="../../gh-pages/altinn/patterns/maler-portal-modal-js-page-two\maler-portal-modal-js-page-two.rendered.html" class="pl-c-pattern__title-link patternLink" data-patternpartial="maler-portal-page-two" title="Link to Pattern">
 						Page Two
 		
 						<span class="pl-c-pattern-state pl-c-pattern-state--indesignreview" title="indesignreview"></span>
@@ -594,10 +594,10 @@
         <h2 class="a-h4">Fullført eller mislykket prosess</h2>
         <p>Dersom det er flere steg i modalen, vil man ved siste steg få en grønn bekreftelse på at prosssen er fullført, eller eventuelt et rødt varsel dersom noe har gått galt.</p>
         <div class="a-btn-group">
-          <button class="a-btn a-btn-success" data-toggle="altinn-modal" data-action="next" data-url="/patterns/maler-portal-modal-js-page-success/maler-portal-modal-js-page-success.rendered.html" data-target="#modal" data-is-success="true">
+          <button class="a-btn a-btn-success" data-toggle="altinn-modal" data-action="next" data-url="/gh-pages/altinn/patterns/maler-portal-modal-js-page-success/maler-portal-modal-js-page-success.rendered.html" data-target="#modal" data-is-success="true">
             Vis fullført prosess
           </button>
-          <button class="a-btn a-btn-danger" data-toggle="altinn-modal" data-action="next" data-url="/patterns/maler-portal-modal-js-page-error/maler-portal-modal-js-page-error.rendered.html" data-target="#modal" data-is-error="true">
+          <button class="a-btn a-btn-danger" data-toggle="altinn-modal" data-action="next" data-url="/gh-pages/altinn/patterns/maler-portal-modal-js-page-error/maler-portal-modal-js-page-error.rendered.html" data-target="#modal" data-is-error="true">
             Vis mislykket prosess
           </button>
         </div>
@@ -658,10 +658,10 @@
   }
 </script>
 
-<script id="pl-js-polyfill-insert-1625753472317">
+<script id="pl-js-polyfill-insert-1625842994913">
   (function() {
     if (self != top) {
-      var cb = '1625753472317';
+      var cb = '1625842994913';
       var js = [];
       scriptLoader.run(js,cb,'pl-js-polyfill-insert');
     }
@@ -674,7 +674,7 @@
   import('../../styleguide/js/patternlab-pattern.modern.js');
 </script>
 
-<script id="pl-js-insert-1625753472317" nomodule>
+<script id="pl-js-insert-1625842994913" nomodule>
   /*! loadJS: load a JS file asynchronously. [c]2014 @scottjehl, Filament Group, Inc. (Based on http://goo.gl/REQGQ by Paul Irish). Licensed MIT */
   !function(e){var t=function(t,n){"use strict";var o=e.document.getElementsByTagName("script")[0],r=e.document.createElement("script");return r.src=t,r.async=!0,o.parentNode.insertBefore(r,o),n&&"function"==typeof n&&(r.onload=n),r};"undefined"!=typeof module?module.exports=t:e.loadJS=t}("undefined"!=typeof global?global:this);
 
